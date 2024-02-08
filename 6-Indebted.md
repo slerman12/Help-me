@@ -41,4 +41,4 @@ Top-venue paper publication, that I had to do under force in less than 2 months 
 
 [Another paper publication](https://docs.google.com/presentation/d/1nZFXtz2hJQlAsiLW-nuxRDPh97-UAj_g7eN326vTL8k/edit?usp=sharing) </br>
 [And a whole GitHub for them, including the data generation and pipeline, and all of the experiments](https://github.com/AGI-init/XRDs/tree/main) </br>
-And helped write their million-dollar grant, including the main ideas, uncredited.
+And helped write their million-dollar grant, including coming up with, proposing, and teaching the main ideas, uncredited.
