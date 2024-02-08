@@ -22,7 +22,7 @@ Teaching (professors and students):
 3. Pytorch: https://docs.google.com/presentation/d/1RylmVCn6IStbXv4zSdG6LMK3OfLDjsRstA4mRNls3ho/edit?usp=sharing)
 4. Temporal dynamics modeling for physics: https://docs.google.com/presentation/d/1GQQSxlefA6s8TJ33TFRIwD5PryPNMe6GuwaYLBu5b7o/edit?usp=sharing
 5. Description of biological neurons as LSTMs: https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link (this one was personal)
-6. All of this: https://github.com/slerman12/Teaching/blob/master/Other%20materials/Diagrams.md
+6. Succinct concept descriptions of ML fundamentals, e.g., https://github.com/slerman12/Teaching/blob/master/Other%20materials/Diagrams.md
 7. Neural Crystallography: https://docs.google.com/presentation/d/1Z7RpzigzFAgnurscUSIBFX0aAZuxr81T-yqPIFz5fKg/edit?usp=sharing
 
 And countless weekly paper reviews, project summaries, updates on work done, every week. Since I was in two labs, instead of just one like Chenliang's other students, I had to give these updates on two separate independent sets of projects every week for 3 years.
