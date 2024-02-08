@@ -26,4 +26,4 @@ The nice thing about the above though, it negates the need for patch embeddings.
 
 Convolution is all you need :ballot_box_with_check:
 
-> I sent this to my advisor and our XRD group, and he never replied or mentioned it again. His students were always thrilled with my ideas (and I gave many, many — like many — as they can all agree).
+> I sent this to my advisor and our XRD group, and he never replied or mentioned it again. His students were always thrilled with my ideas (and I gave many, many — like many — as they can all agree, and I appreciate their appreciation and their consistent support).
