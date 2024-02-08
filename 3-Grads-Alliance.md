@@ -130,4 +130,4 @@ I can and/or can't run this, and will largely leave it as a platform for democra
 
 If enough people (especially faculty, grads, and students) give a shit, universities have no choice.
 
-[This](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's budget (I didn't go to Harvard). They're a city-wide monopoly.
+[This](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget (I didn't go to Harvard). They're a city-wide monopoly.
