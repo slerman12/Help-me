@@ -2,7 +2,7 @@
 
 The opposing view in defense of my university-hospital doctor is, she might have had something else going on, or was too busy. Later, she took pictures of the hair loss with her nurse and diagnosed it honestly as alopecia universalis due to the sudden cessation of Dupilumab. The opposing view in defense of my university-provided health insurance company Aetna is, they maybe didn’t notice that I had already been on the drug for a long time (I don’t remember the exact duration but between 6 months and 1 year) and wanted to save money. In defense of the university intermediaries who were in charge of providing and delivering the drug on a recurring schedule, they couldn’t contact the doctor and the doctor might have been on vacation or any other reason she might not have been reachable at the time; and, as mentioned, she was honest in directly diagnosing the rapid loss of my hair to the sudden cessation of Dupilumab. 
 
-I should add one for the doctors who mishandled the benzodiazepine prescriptions and brain damaged me.
+I should add one for the doctors who coerced the benzodiazepine prescriptions and brain damaged me.
 
 In defense of Chenliang: he eventually accepted me into his lab after Henry left, pressured me into writing a paper sooner, and stayed generally nice throughout the time, while not expressing judgement towards my social anxiety. He sometimes had a good understanding of AI. His spirit, in my confusion-views, promised me many things. He contradictorily seemed to respect my slower publication pace while I built UnifiedML, and I believed he "knew" that I was intelligent enough to warrant his investment. Also, 2 publications in 3 years is (I think) less than his average student.
 
