@@ -108,7 +108,7 @@ The 6 month review happened on May 5 from 1-2pm. It is possible I'm misrememberi
 
 It was.
 
-> It was probably 30 minutes, but the last 5-10 minutes were reserved for their independent-room discussion and final remarks. Also note: That this is the meeting that the decision to terminate me was later temporarily based on. See [here](https://github.com/slerman12/Writing-stuff/blob/main/Stuff70-Opposing-view.md) and in more depth, [here](https://github.com/slerman12/Writing-stuff/blob/main/Stuff42-GradsAlliance-draft.md).
+> It was probably 30 minutes, but the last 5-10 minutes were reserved for their independent-room discussion and final remarks. Also note: That this is the meeting that the decision to terminate me was later temporarily based on. See [here](https://github.com/slerman12/Help-me/blob/main/1-Opposing-views.md) and in more depth, [here](https://github.com/slerman12/Help-me/blob/main/2-GradsAlliance.md).
 
 #
 
