@@ -130,4 +130,4 @@ But even if they can reduce education costs or cancel debt, they won't without s
 
 If enough people (especially faculty, grads, and students) give a shit, they have no choice. Join.
 
-I can run this, but will largely leave it as a platform for discussion and planning. 
+I can run this, but will largely leave it as a platform for democratized, loosely-moderated discussion and planning. 
