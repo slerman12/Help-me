@@ -4,7 +4,7 @@
 
 > Date: August, 6th.</br>
 > 
-> To: Friend
+> To: Really close friend
 
 These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first
 
