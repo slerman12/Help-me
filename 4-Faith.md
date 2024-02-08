@@ -16,7 +16,7 @@ These words better than any others that I presently have on hand to my knowledge
 
 > My goal was to restore the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) in humanity/goodness that the institution of the University of Rochester shattered in me.
 >
-> I'm probably embaressed by this email due to the altered state of consciousness from revisitting the trauma with the benzodiazepines.
+> I'm probably embaressed by this email due to the altered state of consciousness from revisiting the trauma with the benzodiazepines.
 
 #
 
