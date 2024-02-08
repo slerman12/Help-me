@@ -26,7 +26,7 @@ Note: the decision to cut off my funding occurred arbitrarily, before the formal
 
 When the University terminated me, I reached out on two fronts. First, I tried my damned best to relay all of my perspective as fast as I could in a short time span before that paycheck ceased. After seeing that go nowhere, namely the professors replying with usual formal platitudes and stubbornness, and having my consciousness warped in that moment — either by panic or circumstance beyond understanding — I turned to the public. First, I messaged the administrators and gave them a proper, mostly-sincere heads up that I was going to message the entire graduate community. And I showed them the email I was going to send. Then, several days later, I sent. And they (university administrator) replied with the usual trite blockade of formalities about the university’s virtues and principles, and dismissed my description, again not believing me, and again missing the point badly.
 
-The second time, I replied to their reply and that time I outlined the chronology of events and made a pretty inscrutable argument, that put their actions in a bitesize nutshell for them, as well as hopefully for the student body, to get perspective on. And they did. Their (the administrator’s) next reply mentioned reinstatement, once again changed their reason for firing (this time to the most ridiculous reason yet, as described in the "Aftermath" subsection [here](https://github.com/slerman12/Help-me/blob/main/Stuff42-GradsAlliance-draft.md)), and terminated me conclusively once and for all.
+The second time, I replied to their reply and that time I outlined the chronology of events and made a pretty inscrutable argument, that put their actions in a bitesize nutshell for them, as well as hopefully for the student body, to get perspective on. And they did. Their (the administrator’s) next reply mentioned reinstatement, once again changed their reason for firing (this time to the most ridiculous reason yet, as described in the "Aftermath" subsection [here](https://github.com/slerman12/Help-me/blob/main/2-GradsAlliance.md), and terminated me conclusively once and for all.
 
 However, I wasn’t surprised by their termination. Last-minute morality judgements are hard on computer science experts and graduate administrators and deans who can’t possibly comprehend the responsibility that they’re neglecting. That’s true. They’re a small group of incompetent administrators, not the collective itself. The collective is my worry, even though it’s these administrators whose abuses and negligences should be reprimanded and prevented in the future. Because this is a time when farcical reactions from the public, in response to mediocre crimes are more common than actual actions in actual incidents of injustice, or, as in the case of my University, a disproportionate focus on one type of injustice over another.
 
@@ -35,20 +35,6 @@ My University had recovered recently from a cancel-culture scandal, where one of
 My termination however was ignored. I also want to mention that another student reported the same urgent paper production environment and this is a worker’s rights issue in my opinion. In my opinion, much more in addition to that in the ultimate decision to terminate me was a worker’s rights issue, especially the untrue, un-evidenced, and inconsistency-of reasons culminating in an altogether ridiculous one that formalized the finalized decision. Not to mention concurrent huge medical tragedies, my own funding-grants, doing the work that was required of me, and being literally indentured by student debt to that universty.
 
 I relayed all of this and no student, no graduate organization stood up for me. I got a LinkedIn request from somebody.
-
-### Placeholder
-
-Most of the people except my advisor, including most of my newly instituted 6-month review committee who made the decision, were people I never met in person nor got invitation to meet in person outside of Zoom prior to or after the termination, though consciousness changes were the most suspicious element of these non-local interactions and would have made those meetings bizarre anyway and did make those discussions bizarre.
-
-As for the consciousness changes, non-local interactions, and weaponizable AI, that deserves its own discussion…
-
-//insert spiritual theory//<br>
-//including about Chenliang and others//<br>
-//optimistic interpretation [pending](https://github.com/slerman12/Help-me/blob/main/God/3.md)// 
-
-### Evidence of theory
-
-Depends on the theory, but thus far, I've described *some* of the evidence [here](https://github.com/slerman12/Help-me/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md). More evidence pending.
 
 ### Extra context
 
