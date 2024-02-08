@@ -32,6 +32,7 @@ Robotics:
 1. Robo 1: https://docs.google.com/presentation/d/1o1Gj0xp5T3eOn3thDBtjDofYNaa74jgyiP5yS0EKTKM/edit?usp=sharing
 2. Robo 2: https://docs.google.com/presentation/d/12zGyQoGM4x9d6qZ99hSQ2LfQwcfgfS-mMY8Ofd-sfeA/edit?usp=sharing
 3. BittleBot: https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing
+4. Open-source: https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py
 
 Top-venue paper publication, that I had to do under force in less than 2 months while literally brain damaged (literally, physiologically, by that very institution, due to benzodiazepine coercions and malpractice) or else I would lose funding due to my first advisor being promoted and my second one not wanting to accept me into his lab unless I wrote a top-venue paper immediately:
 
