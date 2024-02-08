@@ -1,5 +1,3 @@
-> This is humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
-
 ## Archetypal Madness
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
@@ -139,3 +137,5 @@ $\lim_{n\rightarrow\infty} \emptyset_{\tau,i} \rightarrow_n \emptyset$. $\square
 **Proof.**
 
 By Theorem 4. $\square$
+
+> Huge disclaimer: this is humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
