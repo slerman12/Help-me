@@ -129,3 +129,5 @@ This hasn't been suggested elsewhere: a worker and public led pressure campaign,
 I can and/or can't run this, and will largely leave it as a platform for democratized discussion and planning. And am happy to give it to, say, Bernie Sanders and Our Revolution, if it amasses any success. Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru. If that doesn't bother you, then consider [joining](https://www.facebook.com/groups/1600564167019335/), non-paranoicly, and comfortably planning the end of student debt.
 
 If enough people (especially faculty, grads, and students) give a shit, universities have no choice.
+
+Note: I didn't go to Harvard. [This](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's budget. They're a city-wide monopoly.
