@@ -20,4 +20,4 @@ Anytime I say "I", I also hear "You". Anytime I say "You", I also hear "I". This
 
 If a meaning doesn't make sense, consider the best-faith judgement you can. There always feels like more context than is known.
 
-Oh, and what is perceived as subterfuge might be/is probably extremely sincere
+Oh, and what is perceived as subterfuge might be/is probably **extremely sincere**
