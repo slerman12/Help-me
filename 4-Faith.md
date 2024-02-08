@@ -1,7 +1,3 @@
-> I am really embarrassed by this first email I sent, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.
->
-> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it:
->
 > Date: August, 6th.</br>
 > 
 > To: Friend
@@ -15,6 +11,10 @@ These words better than any others that I presently have on hand to my knowledge
 > (due to the typo)
 
 #
+
+> I am really embarrassed by this first email I sent, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.
+>
+> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it.
 
 > Date: August, 10th.
 >
