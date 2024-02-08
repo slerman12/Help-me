@@ -1,3 +1,5 @@
+> I also don't like this first email, because it doesn't do me justice. Keep reading throughout this GitHub. These sections get better as you proceed.
+
 ## 10/27/2023 - 10/30/2023 emails
 
 > <Subject: Optimizing qualia (grads alliance)></br>
