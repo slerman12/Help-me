@@ -2,7 +2,7 @@ I can't be indebted. that's insane. the university of rochester took my life fro
 
 I can hear your inner voice, dear reader, just asking why I don't sue. You don't understand what happened to me. I am not Sam leaving the Shire. I'm Frodo after Mordor. And I would rather sail to the gray havens, literally, my dear friend, than fight another day for money. I have the hair of Gollum however due to the full-body hair loss that they caused.
 
-For some reason my trauma memory will literally not let me discuss the benzodiazepine coercions and lies that induced brain damage on me after as well.
+Not to mention, the later benzodiazepine coercions and lies that induced brain damage on me after as well, that my trauma memory hasn't let me elaborate on again since a public post I made in a prescription-pill recovery forum that was banned and deleted 5 months ago.
 
 "What is it you want?" - I ask on your behalf, talking to myself, a bit too much like Gollum.
 
