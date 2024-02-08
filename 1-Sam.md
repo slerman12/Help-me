@@ -15,3 +15,5 @@ There’s no answer because the person writing this doesn’t know. The observer
 ---
 
 Anytime I say "I", I also hear "You". Anytime I say "You", I also hear "I". This means any accusation I make has an internal recrimination, and I consider every angle of hypocricy, even completely ridiculous, to the extent that my limited awareness affords, and the harshest judgements are always on myself. This isn't good, but it means that my judgement/perception processes can't be hypocritical.
+
+If a meaning doesn't make sense, consider the best-faith judgement you can.
