@@ -108,7 +108,7 @@ I hope this is understood. 1 malpractice, followed by many more. I am now bald.
 
 #
 
-Note: finding [this note from myself](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) (in 2017, condemning the university's actions around Florian Jaeger) actually saved my life while I was suicidal after my termination since, after sending out all of these emails, nobody except my mom and a small handful of friends who mostly lived far away supported me.
+Note: finding [this note from myself](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) (in 2017, condemning the university's actions around Florian Jaeger) actually saved my life while I was suicidal after my termination since, after sending out all of these emails, nobody except my mom and a small handful of friends (who mostly lived far away) supported me.
 
 The only person in the CS department outside of one from Chenliang's lab (the one who — honestly, quite bravely — asked me to convey to the CS chair that he was going through something similar), and aside from two of my already-graduated friends (including a former student in Chenliang's lab), who replied directly, wrote: "Sam - I am really sorry this happened to you" which I genuinely sincerely appreciate, but he added: "It doesn’t seem fair. Especially because we all had to deal with the BS of COVID. My advice would be to try to get out of here with minimal effort and get the PhD. Just modify the thesis in line with Chenliang’s wishes and get out of dodge man."
 
