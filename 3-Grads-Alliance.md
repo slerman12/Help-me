@@ -122,12 +122,12 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 
 ### ...and expanding scope... for those who care about more than one issue at a time
 
-If you investigate the budgets and surpluses at universities, you'll find them to be extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. No taxpayer money. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
+[This](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly.
+
+The budgets and surpluses at universities are also extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. No taxpayer money. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
 
 This hasn't been suggested elsewhere: a worker and public led pressure campaign, like the kind led against the University of Rochester 7 years ago, but on university financial policy. Orchestrated with grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt.
 
 I can and/or can't run this, and will largely leave it as a platform for democratized discussion and planning. And am happy to give it to, say, Bernie Sanders and Our Revolution, if it amasses any success. Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru. If that doesn't bother you, then consider [joining](https://www.facebook.com/groups/1600564167019335/), non-paranoicly, and comfortably planning the end of student debt.
 
 If enough people (especially faculty, grads, and students) give a shit, universities have no choice.
-
-[This](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly.
