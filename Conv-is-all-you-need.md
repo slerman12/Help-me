@@ -1,4 +1,6 @@
 > This is a Slack message I sent to my advisor, one of his students, and the XRD group.
+>
+> I sent this to my advisor and our XRD group, and he never replied or mentioned it again. His students were always thrilled with my ideas (and I gave many, many — like many — as they can all agree, and I appreciate their appreciation and their consistent support).
 
 <img width="513" alt="SingleHeadAttention" src="https://github.com/slerman12/Template/assets/9126603/452f266d-d1dc-44d5-89e3-86f2734bf531">
 
@@ -25,5 +27,3 @@ It’s strange that attention isn’t more widely thought of as convolutions bec
 The nice thing about the above though, it negates the need for patch embeddings. Just apply attention directly as a trio of convolutional kernels. Has anyone realized that in the newer ViTs? Can also make long text sequences much more efficient. (1D ViTs I’m referring to as Harmonic Transformers in UnifiedML).
 
 Convolution is all you need :ballot_box_with_check:
-
-> I sent this to my advisor and our XRD group, and he never replied or mentioned it again. His students were always thrilled with my ideas (and I gave many, many — like many — as they can all agree, and I appreciate their appreciation and their consistent support).
