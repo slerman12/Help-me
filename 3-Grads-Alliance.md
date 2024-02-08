@@ -130,4 +130,4 @@ But even if they can reduce education costs or cancel debt, they won't without s
 
 If enough people (especially faculty, grads, and students) give a shit, they have no choice. Join.
 
-I can run this, but will largely leave it as a platform for democratized, loosely-moderated discussion and planning. 
+I can't run this, and will largely leave it as a platform for democratized discussion and planning. And am happy to give it to, say, Bernie Sanders and Our Revolution, if it amasses any success. Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru.
