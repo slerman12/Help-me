@@ -20,7 +20,7 @@ What is the advantage of weighted averaging vectors? Well, like MLP it’s a glo
 
 It’s strange that attention isn’t more widely thought of as convolutions because that simultaneously makes it simpler and more general.
 
-@Zeliang Zhang if you ever want to make ViTs in UnifiedML, all of the above is implemented. I could use help with scaling to ImageNet or running smaller baseline experiments when UnifiedML is released if interested! The ViT space is really large.
+@[name anonymized] if you ever want to make ViTs in UnifiedML, all of the above is implemented. I could use help with scaling to ImageNet or running smaller baseline experiments when UnifiedML is released if interested! The ViT space is really large.
 
 The nice thing about the above though, it negates the need for patch embeddings. Just apply attention directly as a trio of convolutional kernels. Has anyone realized that in the newer ViTs? Can also make long text sequences much more efficient. (1D ViTs I’m referring to as Harmonic Transformers in UnifiedML).
 
