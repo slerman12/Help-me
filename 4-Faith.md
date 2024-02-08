@@ -18,7 +18,7 @@ These words better than any others that I presently have on hand to my knowledge
 
 #
 
-> I'm probably embaressed by this email due to the altered state of consciousness from revisiting the trauma with the benzodiazepines.
+> I'm probably embaressed by this email due to the altered state of consciousness from revisiting the trauma with the benzodiazepines, leading me to go down a cliche lawsuit-well.
 
 > Date: August, 10th.
 >
