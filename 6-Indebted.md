@@ -8,7 +8,7 @@ Not to mention, the later benzodiazepine coercions and lies that induced brain d
 
 I want the university to apologize for its actions, take accountability, and remediate the damages. More generally, I have had my faith in humanity destroyed and I want my faith in humanity, and a reason to want to live, [restored](https://github.com/slerman12/Help-me/blob/main/4-Faith.md).
 
-Here is some of the work I did and had to do for them at less than minimum wage, as of course many witnesses can confirm:
+Here is some of the work I did and had to do for them at less than minimum wage:
 
 (neural) Architecture Systems:
 
