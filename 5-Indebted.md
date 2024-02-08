@@ -6,4 +6,4 @@ For some reason my trauma memory will literally not let me discuss the benzodiaz
 
 "What is it you want?" - I ask on your behalf, talking to myself, a bit too much like Gollum.
 
-I want the university to apologize for its actions, take accountability, and remediate the damages. More generally, I have had my faith in humanity destroyed and I want my faith in humanity restored.
+I want the university to apologize for its actions, take accountability, and remediate the damages. More generally, I have had my faith in humanity destroyed and I want my faith in humanity, and a reason to want to live, [restored](https://github.com/slerman12/Help-me/blob/main/3-Faith.md).
