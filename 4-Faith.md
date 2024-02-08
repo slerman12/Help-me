@@ -13,6 +13,8 @@ These words better than any others that I presently have on hand to my knowledge
 /dis-truth 
 
 > (due to the typo)
+>
+> My goal was restoring the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) that they shattered in me.
 
 #
 
