@@ -54,8 +54,8 @@ This was the question:
 
 > Was this six-month review mentioned at/between the time of my termination and October 31st?
 
+Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” (Page 15)
+
 Since you bring up deadlines, I just want to add that I was notified of my stipend being cut prior to the six-month review deadline, as Chenliang, the entire committee, and you yourself can confirm.
 
-#
-
-It might also be a good idea to ask: Also, Michael, why does a six-month review have so much weight when I had to report to two labs every action I took every week for the last 3 years?
+Also, Michael, why does a six-month review have so much weight when I had to report to two labs every action I took every week for the last 3 years?
