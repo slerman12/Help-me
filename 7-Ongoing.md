@@ -33,18 +33,20 @@ Draft that I'm preparing now in response:
 
 Hi Michael,
 
-I was excused from the one I missed in Fall, 2022, as is detailed below, and remediated it in Spring, 2023, on May, 5th. The one on May, 5th, I passed, with the condition of remediating their uncertainty, given their being a brand new committee, with a one-page chapter-list. Specifically, after my 20-minute presentation, and the 5-10 minute independent-room discussion that followed, and after they laid out completely their intended requirement for what I had to do next, a one-page chapter-list, I was informed of the following requirements not originally decided by the committee:
+I was excused from the one I missed in Fall, 2022, as is detailed below, and remediated it in Spring, 2023, on May, 5th. The one on May, 5th, I passed, with this condition from the committee members: "one-page chapter-list." Specifically, after my 20-minute presentation, and the 5-10 minute independent-room discussion that followed, and after they laid out completely their intended requirement for what I had to do next, a one-page chapter-list, I was informed of the following requirements not originally decided by the committee:
 
 (1) before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters, </br>
 (2) before August 30, 2023, re-do and pass a six-month review.
 
 I sent them the chapter-list as well as a 6-page write-up containing the problem statement, hypothesis, and approaches (and made sure to cleanly summarize those parts on approximately a single page in that write-up), as documented on email also. In total, I sent a 6-page write-up instead of a 1-page write-up as well as the originally required chapter-list.
 
+I did not know I left the meeting early, as I told Chenliang, and the evidence for that is slim given that I was sleep-deprived, Tom Howard had just said "I just want to add, I think it's important," and thinking he meant my work, I did a sincere and prolonged "bless you" sign with my hands in the silence, before dropping the line. The meeting was scheduled for 30 minutes, on email-provable record, and this was both after the independent-room discussion and after the committee had laid out what I had to do next. 
+
 A six-month review, to remind you, is an informal meeting meant to help the student. The grad school, not me, should be accountable for committee members and an advisor, and then a second advisor, leaving (especially with short, no, or again short notice).
 
-My question is, since I felt your answer was disingenuous: whether the second requirement ("before August 30, 2023, re-do and pass a six-month review.") was mentioned at any point at/between the time of termination and October 31st, by anyone other than me (since I conveniently mentioned it for you in my grad department email of October 30th).
+My question is, since I felt your answer was disingenuous: whether the second requirement ("before August 30, 2023, re-do and pass a six-month review.") was mentioned at any point at/between the time of termination and October 31st, by anyone other than me, since, suspiciously: I conveniently mentioned it for you in my grad department email of October 30th.
 
-Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination can be suspiciously, ambiguously, and retroactively justified long after notice of termination — specifically, October 31st, my last day, following my grad department email on October 30th in which I reminded you that this make-up requirement existed, that chronologically followed after Chenliang's notice of stipend cut, and (2) Henry couldn't attend, which I was not notified of until last-minute — Chenliang, not Henry, notified me, last-minute, just at that six-month review time point, that my former advisor and active committee member was retiring and wouldn't be available. After I was excused — by my advisor, and as far as I could know department — I was not notified again until the Spring one with a new committee, *since one other committee member had left* (Robbie Jacobs). 
+Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination can be suspiciously, ambiguously, and retroactively justified long after notice of termination — specifically, October 31st, my last day, following my grad department email on October 30th in which I reminded you that this make-up requirement existed, that chronologically followed after Chenliang's notice of stipend cut, and (2) Henry couldn't attend, which I was not notified of until last-minute — Chenliang, not Henry, notified me, last-minute, just at that six-month review time point, that my former advisor and active committee member was retiring and wouldn't be available. After I was excused — by my advisor, and as far as I could know department — I was not notified again until the Spring one with a new committee, *when, and in advance of, one other committee member had left* (Robbie Jacobs). 
 
 Now, to remind you, I also suffered many induced and excruciatingly severe tragedies while I was employed and working as a student that the university did not yet address. 
 
@@ -52,13 +54,13 @@ However, for now, it would mean a lot to me if you could answer my question [yes
 
 This was the question:
 
-> Was this six-month review [make-up, though also the review itself — I did both do and "remember" (see below) the second six-month review —] mentioned at/between the time of my termination and October 31st?
+> Was this six-month review mentioned at/between the time of my termination and October 31st?
 
 **Since you bring up the PhD student handbook**, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support” (Page 15). You must provide in writing that the make-up review was mentioned.
 
-Here is what I was able to find: 
+Here is what I was able to find, dated October, 12th: 
 
-> "I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October." - October, 12th
+> "I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October." 
 
 These judgements ("the [research] plan you outline is [not] consistent [...] nor a viable path") had no grounds, with no writing specifying how those assertions were true, as was needed, presumably, for reinstatement — therefore, not satisfying the "what is necessary" requirement written in the PhD handbook. Does "innocent until proven guilty," in determining an employee's termination, hold at the University of Rochester, noting that for much of my first 3 years my PhD funding was provided from clocking in through HRMS at the University of Rochester Medical Center, even serving under Chenliang for free?
 
