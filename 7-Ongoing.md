@@ -44,7 +44,7 @@ A six-month review, to remind you, is an informal meeting meant to help the stud
 
 My question is, since I felt your answer was disingenuous: whether the second requirement ("before August 30, 2023, re-do and pass a six-month review.") was mentioned at any point at/between the time of termination and October 31st, by anyone other than me (since I conveniently mentioned it for you in my grad department email of October 30th).
 
-Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination can be suspiciously, ambiguously, and retroactively justified, and (2) Henry couldn't attend, which I was not notified of until last-minute (Chenliang, not Henry, notified me, last-minute just at that six-month review time point, that my former advisor and active committee member was retiring and wouldn't be available). After I was excused (by my advisor, and as far as I could know department), I was not notified again until the Spring one with a new committee, since one other committee member had left. 
+Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination can be suspiciously, ambiguously, and retroactively justified long after notice of termination — specifically, October 31st, my last day, following my grad department email on October 30th in which I reminded you that this make-up requirement existed, that chronologically followed after Chenliang's notice of stipend cut, and (2) Henry couldn't attend, which I was not notified of until last-minute — Chenliang, not Henry, notified me, last-minute, just at that six-month review time point, that my former advisor and active committee member was retiring and wouldn't be available. After I was excused — by my advisor, and as far as I could know department — I was not notified again until the Spring one with a new committee, since one other committee member had left. 
 
 Now, to remind you, I also suffered many induced and excruciatingly severe tragedies while I was employed and working as a student that the university did not yet address. 
 
@@ -52,7 +52,7 @@ However, for now, it would mean a lot to me if you could answer my question [yes
 
 This was the question:
 
-> Was this six-month review mentioned at/between the time of my termination and October 31st?
+> Was this six-month review [make-up] mentioned at/between the time of my termination and October 31st?
 
 Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” (Page 15)
 
