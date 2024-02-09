@@ -52,7 +52,7 @@ However, for now, it would mean a lot to me if you could answer my question [yes
 
 This was the question:
 
-> Was this six-month review [make-up] mentioned at/between the time of my termination and October 31st?
+> Was this six-month review [make-up, though also the review itself — since as it turns out, I attended the second six-month review —] mentioned at/between the time of my termination and October 31st?
 
 Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” (Page 15)
 
