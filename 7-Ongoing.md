@@ -22,8 +22,6 @@
 >
 > — Michael
 
-Draft that I'm preparing now in response:
-
 ---
 
 > Re: Supporting students</br>
