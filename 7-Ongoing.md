@@ -46,7 +46,7 @@ My question is, since I felt your answer disingenuous: whether the second requir
 
 Regarding Henry's absence, Chenliang was aware from Fall semester into Spring semester that I had missed that six-month review, most likely understanding that: (1) six-month reviews are informal assessments meant to help the student, not live-or-die assessments on which termination can be suspiciously, ambiguously, and retroactively justified long after notice of termination — specifically, October 31st, my last day, following my grad department email on October 30th in which I reminded you that this make-up requirement existed, that chronologically followed after Chenliang's notice of stipend cut, and (2) Henry couldn't attend, which I was not notified of until last-minute — Chenliang, not Henry, notified me, last-minute, just at that six-month review time point, that my former advisor and active committee member was retiring and wouldn't be available. After I was excused — by my advisor, and as far as I could know department — I was not notified again until the Spring one with a new committee, *when, and **in advance of**, one other committee member had left* (Robbie Jacobs). 
 
-Now, to remind you, I also suffered many induced and excruciatingly severe tragedies while I was employed and working as a student that the university did not yet address. 
+Now, to remind you, I also suffered many induced and excruciatingly severe tragedies while I was employed and working as a student that the university has not yet addressed. 
 
 However, for now, it would mean a lot to me if you could answer my question [yes/no, specify when, and provide a quotation as proof].
 
