@@ -69,8 +69,11 @@ As for the question as to whether I was an employee, note that, by the way, for 
 (1) "For tax purposes, the Internal Revenue Service considers the compensation of graduate student employees to be wages. When graduate students receive payment for teaching, it is not taxed on a 1042-S form (for scholarships), but on a W-2 (which is the form for employment income)." (Wikipedia, ["Graduate student employee unionization"](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization#:~:text=For%20tax%20purposes%2C%20the%20Internal,the%20form%20for%20employment%20income)). </br>
 (2) "Graduate Employee means a graduate student appointed at .20 FTE or greater to provide teaching-related duties, research, or administrative duties." (Law Insider, ["Graduate Employee definition"](https://www.lawinsider.com/dictionary/graduate-employee)).
 
-Furthermore, one of the committee members, on formal, written record, misremembered provable details about that meeting, such as how many times we met (he claimed twice rather than once) and the duration (he claimed 1.5 hours rather than 30 minutes). 
+Furthermore, one of the three, excluding my advisor, committee members, on formal, written record, misremembered provable details about that meeting, such as 
 
-**Since you bring up deadlines**, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang, the entire committee, and you yourself can confirm, by Chenliang's reply email.
+(1) how many times we met (he claimed twice rather than once), </br>
+(2) and the duration (he claimed 1.5 hours rather than 30 minutes). 
+
+**Since you bring up deadlines**, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang my advisor, the entire committee, and you yourself can confirm, by Chenliang's reply email.
 
 Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?
