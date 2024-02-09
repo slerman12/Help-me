@@ -64,6 +64,6 @@ These judgements ("the [research] plan you outline is [not] consistent [...] nor
 
 Furthermore, one of the committee members, on formal, written record, misremembered provable details about that meeting, such as how many times we met (he claimed twice rather than once) and the duration (he claimed 1.5 hours rather than 30 minutes). 
 
-**Since you bring up deadlines**, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang, the entire committee, and you yourself have seen.
+**Since you bring up deadlines**, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang, the entire committee, and you yourself can confirm, by Chenliang's reply email.
 
 Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?
