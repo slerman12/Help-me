@@ -54,7 +54,7 @@ This was the question:
 
 > Was this six-month review [make-up, though also the review itself — since as it turns out, I attended the second six-month review —] mentioned at/between the time of my termination and October 31st?
 
-Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” (Page 15)
+Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” (Page 15) You must provide in writing that the make-up review was mentioned.
 
 Since you bring up deadlines, I just want to add that I was notified of my stipend being cut prior to the six-month review deadline, as Chenliang, the entire committee, and you yourself can confirm.
 
