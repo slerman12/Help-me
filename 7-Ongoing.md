@@ -33,7 +33,7 @@ Draft that I'm preparing now in response:
 
 Hi Michael,
 
-I was excused from the one I missed in Fall, 2022, as detailed below (due to Henry's absence), and remediated it in Spring, 2023, on May, 5th. The one in Spring, 2023, I passed, under the condition that I provide the committee with a one-page chapter-list (or at least that was what was said during the meeting). I will remind you that this was a brand new committee and that one of the committee members didn't remember that meeting. Chris Kanan's pretty extraordinary memory lapse, as you'll recall, is documented on email. 30-minute Zoom meeting that the four of us had as being 1.5 hours and not once, but twice! My goodness. It was scheduled for 30 minutes, as the other committee members can hopefully recall: 20 minutes reserved for my presentation and the last 10 minutes for their independent-room discussion and final remarks. After that six-month review, and the independent-room discussion that followed and after they laid out what I had to do next (a one-page chapter-list), I was informed of the following requirements not originally decided by the committee:
+I was excused from the one I missed in Fall, 2022, as is detailed below, and remediated it in Spring, 2023, on May, 5th. The one on May, 5th, I passed, with the condition of remediating their uncertainty, given their being a brand new committee, with a one-page chapter-list. Specifically, after my 20-minute presentation, and the 5-10 minute independent-room discussion that followed, and after they laid out completely their intended requirement for what I had to do next, a one-page chapter-list, I was informed of the following requirements not originally decided by the committee:
 
 (1) before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters, </br>
 (2) before August 30, 2023, re-do and pass a six-month review.
@@ -61,6 +61,8 @@ Here is what I was able to find:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October." - October, 12th
 
 These judgements had no grounds, with no writing specifying how my research plan was inconsistent. Does "innocent until proven guilty," in determining an employee's termination, hold at the University of Rochester, noting that for much of my first 3 years my PhD funding was provided from clocking in through HRMS at the University of Rochester Medical Center, even serving under Chenliang for free?
+
+Furthermore, one of the committee members, on formal, written record, misremembered provable details about that meeting, such as how many times we met (he claimed twice rather than once) and the duration (he claimed 1.5 hours rather than 30 minutes). 
 
 **Since you bring up deadlines**, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang, the entire committee, and you yourself have seen.
 
