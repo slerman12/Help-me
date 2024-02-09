@@ -40,7 +40,7 @@ I sent them the chapter-list as well as a 6-page write-up containing the problem
 
 Chenliang told me I left the meeting early. I did not know I left the meeting early, as I told Chenliang, and I'm still not convinced I did, though the evidence for that is hard to argue given that I was sleep-deprived and Chenliang seems to think so. But, Tom Howard had just said "I just want to add, I think it's important," and thinking he meant my work, I did a sincere and prolonged "bless you" sign with my hands in the silence, before dropping the line. The meeting was scheduled for 30 minutes, on email-provable record, and this was both after the independent-room discussion and after the committee had laid out what I had to do next. And yes, I sincerely meant it. Chenliang's students can confirm I've done this in sincerity before, such as after having proposed the BittleBot project.
 
-A six-month review, to remind you, is an informal meeting meant to help the student. The grad school, not me, should be accountable for committee members and an advisor, and then a second advisor, leaving (especially with short, no, or again short notice).
+A six-month review, to remind you, is "an informal meeting meant to help the student." The grad school, not me, should be accountable for committee members and an advisor, and then a second advisor, leaving (especially with short, no, or again short notice).
 
 My question is, since I felt your answer was disingenuous: whether the second requirement ("before August 30, 2023, re-do and pass a six-month review.") was mentioned at any point at/between the time of termination and October 31st, by anyone other than me, since, suspiciously: I conveniently mentioned it for you in my grad department email of October 30th.
 
