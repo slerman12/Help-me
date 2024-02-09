@@ -58,7 +58,7 @@ This was the question:
 
 Here is what I was able to find: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October." - October, 12th
+> "I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October." - October, 12th
 
 These judgements ("the [research] plan you outline is [not] consistent [...] nor a viable path") had no grounds, with no writing specifying how those assertions were true, as was needed, presumably, for reinstatement — therefore, not satisfying the "what is necessary" requirement written in the PhD handbook. Does "innocent until proven guilty," in determining an employee's termination, hold at the University of Rochester, noting that for much of my first 3 years my PhD funding was provided from clocking in through HRMS at the University of Rochester Medical Center, even serving under Chenliang for free?
 
