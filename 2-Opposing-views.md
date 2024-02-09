@@ -12,4 +12,4 @@ Michael, bumped my grade up in undergrad. Wasn't judgmental, sent a "talk?" emai
 
 For all of the aforementioned [reasons](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md), I was terminated without degree.
 
-> They might have more points to add in defense of them, but I suspect those points would deviate from the facts.
+> They might have more points to add in defense of them, but I suspect those points would deviate from the only facts.
