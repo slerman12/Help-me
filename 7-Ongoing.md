@@ -54,8 +54,14 @@ This was the question:
 
 > Was this six-month review [make-up, though also the review itself — but as it turns out, I attended the second six-month review —] mentioned at/between the time of my termination and October 31st?
 
-Since you bring up the PhD student handbook, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support” (Page 15). You must provide in writing that the make-up review was mentioned.
+**Since you bring up the PhD student handbook**, here is a direct quote: "When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support” (Page 15). You must provide in writing that the make-up review was mentioned.
 
-Since you bring up deadlines, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang, the entire committee, and you yourself can confirm.
+Here is what I was able to find: 
 
-Also, Michael, why does a six-month review have so much weight when I had to report to two labs every action I took every week for the last 3 years?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October." - October, 12th
+
+These judgements had no grounds, with no writing specifying how my research plan was inconsistent. Does "innocent until proven guilty," in determining an employee's termination, hold at the University of Rochester, noting that for much of my first 3 years my PhD funding was provided from clocking in through HRMS at the University of Rochester Medical Center, even serving under Chenliang for free?
+
+**Since you bring up deadlines**, I was notified of my stipend being cut prior to the six-month review make-up deadline on August 30th, as Chenliang, the entire committee, and you yourself have seen.
+
+Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?
