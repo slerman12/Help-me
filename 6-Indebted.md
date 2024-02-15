@@ -1,6 +1,6 @@
-I can't be indebted. that's insane. the university of rochester took my life from me and left me with nothing except my mom. now i have to pay my student debts to them, after doctors working for them put me through medical malpractice. The university terminated me for only publishing 2 papers in 3 years under Chenliang, while advisors and committee members abandoned their responsibilities to pursue promotions and more-efficient publication rates.
+I can't be indebted. that's insane. the university of rochester took my life from me and left me with nothing except my mom. now i have to pay my student debts to them, after doctors working for them put me through medical malpractice. The university terminated me for only publishing 2 papers in 3 years under Chenliang, while advisors and committee members abandoned their responsibilities to pursue promotions and more-efficient publication rates. I have the hair of Gollum due to the full-body hair loss that they caused.
 
-I can hear your inner voice, dear reader, just asking why I don't sue. You don't understand what happened to me. I am not Sam leaving the Shire. I'm Frodo after Mordor. And I would rather sail to the Gray Havens, literally, my dear friend, than fight another day for money. I have the hair of Gollum however due to the full-body hair loss that they caused.
+I can hear your inner voice, dear reader, just asking why I don't sue. You don't understand what happened to me. I am not Sam leaving the Shire. I'm Frodo after Mordor. And I would rather sail to the Gray Havens, literally, my dear friend, than fight another day for money. 
 
 Not to mention, the later benzodiazepine coercions and lies that induced brain damage on me after as well, that my trauma memory hasn't let me elaborate on.
 
