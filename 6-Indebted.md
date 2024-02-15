@@ -2,7 +2,7 @@ I can't be indebted. that's insane. the university of rochester took my life fro
 
 I can hear your inner voice, dear reader, just asking why I don't sue. You don't understand what happened to me. I am not Sam leaving the Shire. I'm Frodo after Mordor. And I would rather sail to the Gray Havens, literally, my dear friend, than fight another day for money. 
 
-Not to mention, the later benzodiazepine coercions and lies that induced brain damage on me after as well, that my trauma memory hasn't let me elaborate on.
+Not to mention, the later benzodiazepine coercions and lies that induced brain damage on me after as well, that my trauma memory doesn't easily let me elaborate on.
 
 "What is it you want?" - I ask on your behalf, talking to myself, a bit too much like Gollum.
 
