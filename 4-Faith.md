@@ -146,4 +146,4 @@ Computer Science
 
 #
 
-<img width="300" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d7591503-654f-4f69-be55-a8050a28877b">
+<img width="300" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d59745f2-cf66-44c3-8cd0-b8faa2ae1cda">
