@@ -122,7 +122,7 @@ If you’re an undergrad, master’s, or PhD student, or university faculty inte
 
 ### ...and expanding scope... for those who care about more than one issue at a time
 
-[This](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly.
+[Around $3 billion](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly.
 
 The budgets and surpluses at other universities are also extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. No taxpayer money. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
 
