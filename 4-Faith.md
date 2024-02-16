@@ -13,7 +13,7 @@ These words better than any others that I presently have on hand to my knowledge
 
 *(due to the typo)*
 
-*My goal was to restore the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) in humanity/goodness that the institution of the University of Rochester [shattered in me](https://github.com/slerman12/Detective-Sam/blob/main/2-Opposing-views.md).*
+> *My goal was to restore the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) in humanity/goodness that the institution of the University of Rochester [shattered in me](https://github.com/slerman12/Detective-Sam/blob/main/2-Opposing-views.md).*
 
 #
 
