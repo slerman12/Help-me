@@ -7,11 +7,9 @@
 
 These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first
 
-*And then I added:*
+*And then I added (due to the typo):*
 
 /dis-truth 
-
-*(due to the typo)*
 
 *My goal was to restore the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) in humanity/goodness that the institution of the University of Rochester [shattered in me](https://github.com/slerman12/Detective-Sam/blob/main/2-Opposing-views.md).*
 
