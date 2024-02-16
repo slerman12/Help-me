@@ -1,4 +1,4 @@
-> I don't like this first email. Keep reading. These sections get better as you proceed.
+> I don't like this first email. Keep reading. These sections get better as you proceed reading.
 
 ## 10/27/2023 - 10/30/2023 emails
 
