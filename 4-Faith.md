@@ -93,6 +93,8 @@ Some additional points:
 
 *Chenliang replied (with a factual lie) and CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu>: "Dr. Niaz Abdolrahim delivered my message to you a while ago and I want to reiterate here. I can continue to provide funding support (Sep, Oct, Nov) for you to wrap up your thesis [provided that you format it in the way I recommended]." Either way, I needed more time. I replied and CC'd Dr. Niaz Abdolrahim: "All Niaz said was that she would talk to you and that she thought it would be okay, but nothing secure and concrete [...] my current committee, interim substitutes for 3 of my committee members, has only had one 20 minute zoom meeting with me." One of the committee members Chris Kanan replied:*
 
+#
+
 Sam,
 
 Your PhD committee met with you twice, and not for only 20 minutes as claimed. The first time was for your 6 month review, which lasted an hour, and it was the first time Prof. Howard and I had met you. You were unable or unwilling to answer many of our questions and your presentation did not follow the guidelines or instructions for 6 month reviews. I then endeavored to give you a lot of constructive advice via email with how you could address our concerns, which was not followed. We then met with you to discuss the next steps following your 6 month review, and upon hearing our feedback, you abruptly disconnected from Zoom after 20 minutes. Subsequently, the committee put together a set of requirements for retaking the 6 month review and to graduate, which seems to have been rejected by you. Committee members typically meet with students only on an as-needed basis which is initiated by the student.
