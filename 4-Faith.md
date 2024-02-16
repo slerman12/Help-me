@@ -1,23 +1,21 @@
-> I am really embarrassed by the first email I sent, on August 10th, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.
->
-> The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it:
+*I am really embarrassed by the first email I sent, on August 10th, but it's maybe the last formal summary I have of the second of the series of medical malpractices revolving around the benzodiazepines.*
+
+*The reason I'm embaressed is because I never wanted to sue. I wrote this while undergoing a severe and sudden consciousness change that coincided with me getting terminated. It's not really in my nature to take legal action. As I texted to my friend who saw this email before I sent it:*
  
-> To: Really close friend
-> Date: August, 6th.</br>
+> To: Really close friend </br>
+> Date: August, 6th.
 
 These words better than any others that I presently have on hand to my knowledge convey some of what happened to me and so I leave it up to them to determine their own ethics in dealing with the matter. If it comes to court or “suing” isn’t my concern or consideration because there’s a deeper truth or dos-truth about humanity that needs to be proven first
 
-> And then I added:
+*And then I added:*
 
 /dis-truth 
 
-> (due to the typo)
+*(due to the typo)*
 
-> My goal was to restore the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) in humanity/goodness that the institution of the University of Rochester shattered in me.
+*My goal was to restore the [faith](https://github.com/slerman12/Help-me/blob/main/6-Indebted.md) in humanity/goodness that the institution of the University of Rochester [shattered in me](https://github.com/slerman12/Detective-Sam/blob/main/2-Opposing-views.md).*
 
 #
-
-> I'm probably embaressed by this email due to the altered state of consciousness from revisiting the trauma with the benzodiazepines, leading me to go down a cliche lawsuit-well.
 
 > Date: August, 10th.
 >
@@ -93,7 +91,7 @@ Some additional points:
 
 #
 
-> Chenliang replied (with a factual lie) and CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu>: "Dr. Niaz Abdolrahim delivered my message to you a while ago and I want to reiterate here. I can continue to provide funding support (Sep, Oct, Nov) for you to wrap up your thesis [provided that you format it in the way I recommended]." Either way, I needed more time. I replied and CC'd Dr. Niaz Abdolrahim: "All Niaz said was that she would talk to you and that she thought it would be okay, but nothing secure and concrete [...] Niaz as witness.” And then "my current committee, interim substitutes for 3 of my committee members, has only had one 20 minute zoom meeting with me." One of the committee members Chris Kanan replied:
+*Chenliang replied (with a factual lie) and CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu>: "Dr. Niaz Abdolrahim delivered my message to you a while ago and I want to reiterate here. I can continue to provide funding support (Sep, Oct, Nov) for you to wrap up your thesis [provided that you format it in the way I recommended]." Either way, I needed more time. I replied and CC'd Dr. Niaz Abdolrahim: "All Niaz said was that she would talk to you and that she thought it would be okay, but nothing secure and concrete [...] my current committee, interim substitutes for 3 of my committee members, has only had one 20 minute zoom meeting with me." One of the committee members Chris Kanan replied:*
 
 Sam,
 
@@ -121,11 +119,11 @@ The 6 month review happened on May 5 from 1-2pm. It is possible I'm misrememberi
 
 It was.
 
-> It was probably 30 minutes, but the last 5-10 minutes were reserved for their independent-room discussion and final remarks. Also note: That this is the meeting that the decision to terminate me was later temporarily based on. See [here](https://github.com/slerman12/Help-me/blob/main/2-Opposing-views.md). In more depth, [here](https://github.com/slerman12/Help-me/blob/main/3-GradsAlliance.md).
-
 #
 
-> In the email after Chenliang's reply in which he CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu> (without my permission) and I explicitly wrote in my email "am preferring to keep this private.", the PhD program coordinator replied:
+*In the email after Chenliang's reply in which he CC'd: "Scott, Michael" <scott@cs.rochester.edu>, "Clark, Robin" <robin.clark@rochester.edu> (without my permission) and I explicitly wrote in my email "am preferring to keep this private.", the PhD program coordinator replied:*
+
+#
 
 Hello everyone, 
 
@@ -141,7 +139,9 @@ PhD Program Coordinator</br>
 University of Rochester</br>
 Computer Science
 
-> I obeyed, but still forwarded the emails as they came to me.
+#
+
+*I obeyed, but still forwarded the emails as they came to me.*
 
 #
 
