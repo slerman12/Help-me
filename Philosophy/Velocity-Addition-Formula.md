@@ -26,7 +26,20 @@ $\partial t = \frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2
 
 $\frac{\partial x}{\partial t} = \frac{\frac{\partial x' + v \partial t'}{\sqrt{1 - \frac{v^2}{c^2}}}}{\frac{\partial t' + \frac{v \partial x'}{c^2}}{\sqrt{1 - \frac{v^2}{c^2}}}} = \frac{\partial x' + v \partial t'}{\partial t' + \frac{v \partial x'}{c^2}} = \frac{\frac{1}{\partial t'}(\partial x' + v \partial t')}{\frac{1}{\partial t'}(\partial t' + \frac{v \partial x'}{c^2})} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}}$
 
-This commonly used formula therefore is meaningless in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always.
+This commonly used formula therefore cannot in principle be usable in combination with Einstein's first postulate since the latter requires $\frac{\partial x}{\partial t}  = \frac{\partial x'}{\partial t'} = c$ always. Substituting as such the above gives us:
+
+$$
+\begin{align}
+&\frac{\partial x}{\partial t} = \frac{\frac{\partial x'}{\partial t'} + v}{1 + \frac{v}{c^2}\frac{\partial x'}{\partial t'}} \\
+&\rightarrow c = \frac{c + v}{1 + \frac{v}{c^2}c} \\
+&\rightarrow c = \frac{c + v}{1 + \frac{v}{c}} \\
+&\rightarrow c(1 + \frac{v}{c}) = c + v \\
+&\rightarrow c + v = c + v \\
+&\rightarrow 1 = 1, \\
+\end{align}
+$$
+
+rendering the formula useless.
 
 # Deriving the velocity addition formula - Most rigorously
 
