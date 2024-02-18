@@ -167,4 +167,4 @@ x_{t^{(i)}}^{(i)} &= ct^{(i)} \\
 \end{align}
 $$
 
-rendering the velocity-addition formula useless.
+rendering this formula useless.
