@@ -164,7 +164,7 @@ $$
 \begin{align}
 x_{t^{(i)}}^{(i)} &= ct^{(i)} \\
 \rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} &= c \\
-c &= \mathcal{V}(v^{(i, j)}, c), \\
+\rightarrow c &= \mathcal{V}(v^{(i, j)}, c), \\
 \end{align}
 $$
 
