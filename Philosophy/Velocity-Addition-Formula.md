@@ -167,4 +167,4 @@ x_{t^{(i)}}^{(i)} &= ct^{(i)} \\
 \end{align}
 $$
 
-rendering this formula useless.
+rendering the formula useless.
