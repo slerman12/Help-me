@@ -12,9 +12,9 @@ $x' = ct'$
 
 $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
-However, for pretty much all experimentally tested and applied bodies representing $x$, *e.g.*, an electron or light propagating through a medium, the body's velocity is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$.
+However, for pretty much all bodies described by $x$ in experiment and application, *e.g.*, an electron or light propagating through a medium, the body's velocity $\frac{\partial x}{\partial t}$ is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$. These use cases cannot be valid at the same time as $x = ct \rightarrow \frac{\partial x}{\partial t} = c$ is necessitated by Einstein's first postulate; but without which, the Lorentz transformation and subsequently velocity-addition formula can't be derived via Einstein's theory.
 
-The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
+The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity-addition formula on light's position, having light's position act as $x$ and $x'$ in the respective reference frames of the tube and the contained flowing water, traveling through the medium of the contained flowing water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
 > Einstein assumed $x$ and $x'$ to be the spatial coordinate points (for reference frames $K$ and $K'$ respectively) of a single light beam, *in vacuo* —  or otherwise of some object traveling at speed $c$, independent to reference frame — in the first postulate. There is no circumventing that, despite the ubiquitous misunderstanding. Below, the misunderstanding is emphasized via this postulate's implication to the velocity-addition formula.
 
@@ -57,7 +57,9 @@ In case the above derivation of the velocity-addition formula doesn't satisfy on
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-Any observer stationary in reference frame $K^{(i)}$, for some $i \in \mathbb{N}$, measures the corresponding time and space coordinates of a body, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
+
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of a body, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
