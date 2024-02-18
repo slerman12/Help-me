@@ -14,7 +14,7 @@ $\rightarrow \frac{\partial x'}{\partial t'} = c$.
 
 However, for pretty much all experimentally tested and applied bodies representing $x$, *e.g.*, an electron or light propagating through a medium, the body's velocity is measurably below the speed of light *in vacuo* constant: $\frac{\partial x}{\partial t} < c$.
 
-The Fizeau experiment, for example, one of the main corroborations of the theory, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
+The Fizeau experiment, for example, one of the main corroborations of the special theory of relativity, used the velocity addition formula on light traveling through the medium of water, where it was assumed and computed both: $\frac{\partial x}{\partial t} \neq c$ and $\frac{\partial x'}{\partial t'} \neq c$.
 
 ### Deriving the velocity addition formula 
 
