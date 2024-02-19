@@ -29,7 +29,7 @@ And countless weekly paper reviews, project summaries, updates on work done, eve
 
 Robotics:
 
-1. Robo 1: https://docs.google.com/presentation/d/1o1Gj0xp5T3eOn3thDBtjDofYNaa74jgyiP5yS0EKTKM/edit?usp=sharing
+1. Robo 1: https://docs.google.com/presentation/d/18SbDI_gDK3ashBhhZuG0pbKU91bwCkTpyR3LKjj5_Vo/edit?usp=sharing
 2. Robo 2: https://docs.google.com/presentation/d/12zGyQoGM4x9d6qZ99hSQ2LfQwcfgfS-mMY8Ofd-sfeA/edit?usp=sharing
 3. BittleBot: https://docs.google.com/presentation/d/13tAT_JixcAt1-ym_0Gcw4yZ93siCoKRCwuTxYoEFWUA/edit?usp=sharing
 4. Open-source: https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py
