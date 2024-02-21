@@ -1,6 +1,6 @@
 > This is a Slack message I sent to my advisor, one of his students, and the XRD group.
 >
-> No reply from advisor or future mention. His students were always supportive and thrilled with my ideas.
+> Advisor never replied. His students were generally thrilled with my ideas.
 
 <img width="513" alt="SingleHeadAttention" src="https://github.com/slerman12/Template/assets/9126603/452f266d-d1dc-44d5-89e3-86f2734bf531">
 
