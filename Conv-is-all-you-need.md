@@ -5,6 +5,8 @@
 > Today, some of my ideas, such as the ones below, are a mix of commonplace and still novel. Back then, they were extremely generous for me to share like this. His group appreciated me, but many of my ideas went unnoticed until years later.
 >
 > Meanwhile I was made to work across multiple lab groups throughout, writing different papers, contributing to two major grants, dealing with hospitalizations, and trying to build something more principled and long-standing that only I could do, while teaching concepts like this.
+>
+> This is a complete summary of the attention mechanism and its advantages, made more simple and general.
 
 <img width="513" alt="SingleHeadAttention" src="https://github.com/slerman12/Template/assets/9126603/452f266d-d1dc-44d5-89e3-86f2734bf531">
 
