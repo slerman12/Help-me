@@ -1,6 +1,8 @@
 > This is a Slack message I sent to my advisor, one of his students, and the XRD group.
 >
 > Advisor never replied. My ideas went unappreciated.
+>
+> Today they're a mix of commonplace and still novel. Back then, they were extremely generous for me to share like this. His group appreciated me, but many of my ideas went unnoticed until years later.
 
 <img width="513" alt="SingleHeadAttention" src="https://github.com/slerman12/Template/assets/9126603/452f266d-d1dc-44d5-89e3-86f2734bf531">
 
