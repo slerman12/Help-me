@@ -40,7 +40,7 @@ Assuming nothing but math, I'll derive "something from nothing".
 
 ## Deduction
 
-This definition of deduction (math) generalises to all others.
+> Since this definition of deduction (math) generalises to all others, without changing any of its previously established consequences, or assumed restrictions, this is a valid definition, but permits the derivation of something from nothing without additional axiom.
 
 ### Proofs
 
