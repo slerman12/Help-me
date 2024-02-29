@@ -212,7 +212,9 @@ Note: no matter what, as long as there is a definition or an axiom, there is *so
 
 $\text{\color{blue}[1.]:}$ Just spitballing at this time.
 
-# Alternative Set of Definitions (of Math and/or Philosophy)
+# Alternative Set of Definitions
+
+## of Math and Philosophy
 
 **Physics:**
 
