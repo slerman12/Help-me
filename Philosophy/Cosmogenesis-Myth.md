@@ -176,7 +176,7 @@ We thus obtain a strongly connected directed graph (potentially expanding in rea
 
 > Huge disclaimer: this is humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
 >
-> I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a .E.D. symbol: $\square$
+> I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$
 
 # Afterward
 
