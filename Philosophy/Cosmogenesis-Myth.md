@@ -40,7 +40,7 @@ Assuming nothing but math, I'll derive "something from nothing".
 
 ## Deduction
 
-> This is a succinct definition of deduction A.K.A. math. It's consistent with historical uses, and permits the derivation of arbitrary representation from nothing without additional axiom.
+> This is a succinct definition of deduction, A.K.A. math. It's consistent with historical uses, and permits the derivation of arbitrary representation from nothing without additional axiom.
 
 ### Proofs
 
