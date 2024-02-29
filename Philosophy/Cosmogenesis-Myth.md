@@ -160,7 +160,7 @@ or "stay":
 
 $\emptyset_{\tau,j,t} \rightarrow_1 \emptyset_{\tau,j,t+1}$.
 
-Now, complete the equivalence cycle of Definition 9 by the following limit:
+Now, complete the equivalence cycle required by Theorem 2 and Definitions 3 and 9 by the following limit:
 
 $\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$. 
 
