@@ -1,6 +1,6 @@
-# Archetypal Madness
+> Huge disclaimer: this is humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
 
-> Disclaimer: humor.
+# Archetypal Madness
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
@@ -174,9 +174,7 @@ By Theorem 4. $\square$
 
 We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
 
-> Huge disclaimer: this is humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
->
-> I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$
+> I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$.
 
 # Afterward
 
