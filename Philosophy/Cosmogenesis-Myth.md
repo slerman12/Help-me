@@ -40,8 +40,6 @@ Assuming nothing but math, I'll derive "something from nothing".
 
 ## Deduction
 
-> Since this definition of deduction (math) generalises to all others, without changing any of its previously established consequences, or assumed restrictions, this is a valid definition, but permits the derivation of something from nothing without additional axiom.
-
 ### Proofs
 
 **Definition 1.** Axiom.
@@ -87,6 +85,8 @@ hypotheticals whose elements exist.
 **Axiom 1.** Existence exists. $\langle X_1, X_2, ... \rangle \coloneqq \langle\langle X_1, X_2, ... \rangle\rangle$.
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
+
+> Since this definition of deduction (math) generalises to all others, without changing any of its previously established consequences, or assumed restrictions, this is a valid definition, but permits the derivation of something from nothing without additional axiom.
 
 ## Nothing and The Universe
 
