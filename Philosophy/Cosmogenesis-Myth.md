@@ -42,7 +42,7 @@ Assuming nothing but math, I'll derive "something from nothing".
 
 ### Proofs
 
-> This definition of deduction (math), which generalises to any other historically used implicitly or explicitly, permits the derivation of something from nothing without additional axiom.
+> This definition of deduction (math), which generalises to any other historically used implicitly or explicitly, permits the derivation of arbitrary representation from nothing without additional axiom.
 
 **Definition 1.** Axiom.
 
