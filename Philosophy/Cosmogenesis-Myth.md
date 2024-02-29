@@ -40,6 +40,8 @@ Assuming nothing but math, I'll derive "something from nothing".
 
 ## Deduction
 
+This definition of deduction (math) generalises to all others.
+
 ### Proofs
 
 **Definition 1.** Axiom.
