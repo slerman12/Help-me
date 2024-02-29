@@ -32,7 +32,7 @@ How about a tape of $\emptyset_{0,i}$ and $\emptyset_{1,i}$ (zeros and ones, or 
 
 The "halt" can be cosmo-genocide, which we are not interested in solving. $\square$
 
-# Proofs
+# Math
 
 Okay, we've gotten a construct for time and an unhalting Turing machine that presumably eventually (or somehow) cycles back to its origin starting state. We got this from hacking the definition of equivalence. We will take a step back now and derive it a little more formally. It is stupid, but perhaps there's nothing stopping us from doing this re-defining and obtaining a deductive logic from which cosmogenesis could theoretically make sense, noting: the Big Bang Theory is not a cosmogenesis theory but chronicles the early moments and evolution of the observable beginning of the universe. An un-mythological cosmogenesis theory has, perhaps, yet to be proposed in the scope of deduction. Myths, such as my favorite being Tolkien's cosmogenesis allegory (yes it is an allegory) of the universe arising from a musical theme, do exist.
 
@@ -212,7 +212,7 @@ Note: no matter what, as long as there is a definition or an axiom, there is *so
 
 $\text{\color{blue}[1.]:}$ Just spitballing at this time.
 
-# Alternative Set of Definitions (of Math)
+# Alternative Set of Definitions (of Math and/or Philosophy)
 
 **Physics:**
 
