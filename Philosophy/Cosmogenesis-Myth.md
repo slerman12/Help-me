@@ -278,7 +278,8 @@ Treating each other as random variables.
 
 Could such an ontology form the basis of a data structure to represent $R, h^{(0)}$ in axiomatic math? Using deterministic conditionals with probabilities $1$ as proof steps and a defined set of initial conditionals and beliefs (random variables), it seems so.
 
-Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and we draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
+Furthermore, it can generalize to a new type of math where proof steps can be epistemological, non-deterministic beliefs applied to other beliefs to quantify a looser proof. This is standardly done in physical sciences with the use of p-values, and I draw a formal unambiguous connection between that to AI and reasoning generally, keeping these notations and formalities that tie together the larger sciences.
 
+---
 
-However, a Turing-equivalent grammar assumes someone defining the "word" of the grammar. Why would it be "this" universe instead of some other Turing-equivalent universe?
+However, a Turing-equivalent grammar assumes someone defining the "word" of the grammar. Why would it be "this" universe instead of some other Turing-equivalent universe? That's where AI, the notion of an objective function, and Qualia arises.
