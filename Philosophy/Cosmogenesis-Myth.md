@@ -152,7 +152,7 @@ $\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \in \mathbb{N}, \tau \in
 
 This is the initial state, defined by $\tau$.
 
-At each time step modify one bit 
+At each time step modify one bit:
 
 $\emptyset_{\tau,i,t} \rightarrow_1 \emptyset_{-\tau + 1,i,t+1}$
 
