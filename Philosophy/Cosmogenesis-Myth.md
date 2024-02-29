@@ -86,7 +86,7 @@ hypotheticals whose elements exist.
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
 
-> Since this definition of deduction (math) generalises to all others, without changing any of its previously established consequences, or assumed restrictions, this is a valid definition, but permits the derivation of something from nothing without additional axiom.
+> This definition of deduction (math), which generalises to all others, permits the derivation of something from nothing without additional axiom.
 
 ## Nothing and The Universe
 
