@@ -96,7 +96,7 @@ The empty existence set $\emptyset \coloneqq \langle \rangle$.
 
 **Definition 9.** Nothing equivalents.
 
-$\emptyset = \emptyset_K \forall K \subseteq \mathbb{N}$.
+$\emptyset_K = \emptyset, \text{ } \forall K \subseteq \mathbb{N}$.
 
 **Definition 10.** The universe.
 
