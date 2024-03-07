@@ -8,7 +8,7 @@
  
 Back then I had to use Tensorflow 1.0 and there wasn’t an existing infrastructure. I ran the experiments I could in the hospital and got successful results. The reviewers of the paper who rejected it didn’t know what MHDPA was. And they were unsatisfied with the number of experiments, and the jargon about relational reasoning (today, "relational reasoning" is convention). That work and foresight, much like muuuch and maaany of the disciplines and work of my doctoral-program years (and this really can’t be understated), got wasted, often by ill-timed sudden and improbable circumstances, including foolish advisors and environment. 
 
-Then both the induced brain damage happened and I had to find a new advisor, while clocking in simultaneously at the Medical Center for funding where I built a prognostication web app and a pipeline for disease prognostication. Then Covid, just as I was starting to recover from the emotional impact of induced hair loss and >year induced benzodiazepine brain damage.
+Then both the induced brain damage happened and I had to find a new advisor, while clocking in simultaneously at the Medical Center for funding where I built a prognostication web app and a pipeline for disease prognostication. Then Covid, just as I was starting to recover from the emotional impact of induced hair loss and >year induced benzodiazepine hellish torment (and actual brain damage).
 
 #
 
