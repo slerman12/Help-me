@@ -12,7 +12,7 @@ Then both the brain damage happened and I had to find a new advisor, while clock
 
 #
 
-> **Most recently**, my second advisor deciding last-minute out of nowhere in the middle of a paper review (of a paper that had positive reviews and got accepted) that I didn’t have enough papers. And I was terminated before being able to run my robotics / foundation model experiments on the A6000s, literally a week after having finished the core programming for them. [I released that code open source](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py), but have no funding and barely the morale left to finalize, as this passion, work, and open-source generosity, is again wasted.
+> **Most recently**, my second advisor decided last-minute out of nowhere in the middle of a paper review (of a paper that had positive reviews and got accepted) that I didn’t have enough papers. And I was terminated before being able to run my robotics / foundation model experiments on the A6000s, literally a week after having finished the core programming for them. [I released that code open source](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py), but have no funding and barely the morale left to finalize, as this passion, work, and open-source generosity, is again wasted.
 
 #
 
