@@ -78,7 +78,7 @@ Here is an excerpt from how I replied, immediately after their email, on that la
 
 > Please provide evidence of research (not thesis-formatting) advice that was provided and not followed.
 
-None of them replied.
+None of them replied, since I guess it was my final day.
 
 ### Additional context
 
