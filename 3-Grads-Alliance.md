@@ -1,4 +1,4 @@
-> I don't like this first email. Keep reading. These sections get better.
+> I don't like this first email. Keep reading. These sections need context and can't be summarized in a blurb, despite my best attempt.
 
 ## 10/27/2023 - 10/30/2023 emails
 
