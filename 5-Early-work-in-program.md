@@ -8,6 +8,8 @@
  
 Back then I had to use Tensorflow 1.0 and there wasn’t an existing infrastructure. I ran the experiments I could in the hospital and got successful results. The reviewers of the paper who rejected it didn’t know what MHDPA was. And they were unsatisfied with the number of experiments, and the jargon about relational reasoning (today, that jargon would not have been controversial). That work and foresight, much like muuuch and maaany of the disciplines and work of my doctoral-program years (and this really can’t be understated), got wasted, often by ill-timed sudden and improbable circumstances, or foolish advisors and environment. 
 
+Then both the brain damage happened and I had to find a new advisor, while clocking in simultaneously at the Medical Center for funding where I built a prognostication web app and a pipeline for disease prognostication.
+
 #
 
 > **Most recently**, my second advisor deciding last-minute out of nowhere in the middle of a paper review (of a paper that had positive reviews and got accepted) that I didn’t have enough papers. And I was terminated before being able to run my robotics / foundation model experiments on the A6000s, literally a week after having finished the core programming for them. [I released that code open source](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py), but have no funding and barely the morale left to finalize, as this passion, work, and open-source generosity, is again wasted.
