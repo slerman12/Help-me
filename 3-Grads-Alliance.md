@@ -90,7 +90,7 @@ I was assigned to a lab that my advisor didn't know was related to my research, 
 
 ### Extreme suffering
 
-> Elaborating on "blood oozing / flesh-ripping", and this is only 2/5 of what I listed in the first email and probably the least of the trauma involving the University of Rochester Medical Center, where I also (independent from treatment) had to work and for a time, literally clock-in since they were my only source of funding.
+> Elaborating on "blood oozing / flesh-ripping", and this is only 2/5 of what I listed in the first email and probably the least of the trauma involving the University of Rochester Medical Center, where I also (independent from treatment) had to work and for a time, literally clock-in.
 
 Some phenomena of experience are so radically different in their experience than the common portrayal. The best example I can think of is full body head-to-toe eczema. 
 
