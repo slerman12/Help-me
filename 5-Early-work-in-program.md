@@ -1,6 +1,6 @@
 > This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
 >
-> It mainly shows how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. See [here](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md) for work I did throghout my PhD.
+> It mainly shows how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. See [here](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md) for work I did throughout my PhD.
 > 
 > I under-stress how much they argued, pre-emptively judged, and disagreed.
 
