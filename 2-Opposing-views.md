@@ -2,9 +2,52 @@
 
 # Opposing views
 
-The opposing view in defense of my university-hospital doctor is, she might have had something else going on. Or, equivalently, I can only guess she was too busy. But when she took pictures of the hair loss with her nurse there present and diagnosed it honestly as alopecia universalis due to the sudden cessation of Dupilumab, she was kind and genuinely well-intentioned. The opposing view in defense of Aetna, the university-provided health insurance company, is: they, uh, maybe didn’t notice that I had already been on the drug for a long time (I don’t remember the exact duration but between 6 months and 1 year) and, wanted to save money. The insurance decided to cut me off spontaneously and without warning, from a potent biologic agent that I had to inject periodically into my stomach, that laser-targeted a specific antibody to fight eczema. In defense of the university intermediaries who were in charge of providing and delivering the drug on the prescribed recurring schedule, they couldn’t contact the doctor and the doctor might have had other things going on, because she was nowhere to be seen or reached, nor the health insurance in complying with the intermediating deliverer owned by the university. As mentioned, the doctor, Lisa Beck, directly diagnosed the rapid loss of my hair to the sudden cessation of Dupilumab. All of my hair, including eyebrows and eyelashes, was/is gone.
+## Part 1 
+
+- **University-provided health insurance (Aetna)**
+- **University-hospital doctor**
+- **University-owned drug deliverer**
+
+In the summer prior to my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that you inject into your stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital that would otherwise bill me, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
+
+Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring, a long time after, when I think much of the side and top of my head were patchy. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. She and her nurse took pictures and stored them in the university-hospital computers. 
+
+Eventually, she sorted out things with the university-provided health insurance, but by then I think it was too late.
+
+We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
+
+Here's a personal story, since I was fixated with Taoism at the time:
+
+To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
+
+The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness", as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: “Difficulty at the beginning” (as Richard Wilhelm described: “The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.”) $\rightarrow$ (changes to) “Fellowship with man” (e.g., baldness). That answer about whether my hair’d grow back came true with the all-steak diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could “sprout” out of the earth, my head, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
+
+Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
+
+Another time I did the all-steak diet, my pubic hair grew back — temporarily.
+
+Another time I did the all-steak diet, a few eyelashes grew back for the first time. 
+
+That can’t be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+
+> By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
+
+## Part 2. 
+
+- **University chemical waterboarders**
+- **University coercers**
+- **University-mandated assaulters**
+- **University-commissioned clinical monsters**
+
+(In progress)
 
 I should add one for the doctors who coerced the benzodiazepine prescriptions and brain damaged me. I was going to leave it out because it was excruciatingly traumatic and is hard to revisit. In the hospital they forced me to take many orders higher a dosage than I had ever taken, at many orders higher the frequency, and promised to wean me off before I left the hospital. Last-minute, they changed their minds and said the outpatient doctor would wean me off. He didn't, and I was on them for 6 months at an extreme dosage. When I told him of the severely worsening cognitive impairments, he wanted to increase the dosage. Prior to this, I used to take the medication on an as-needed basis, at most once every 2 weeks, prescribed to help eczema-related stress and social anxiety, about a quarter of a milligram, and that much gave me hangovers. They coerced me in the hospital to take many orders more than that 3x per day, every day. At first, it was like being drunk every day and pleasant. After a month, the experience was like burning in Hell. Excruciating agony, on top of inability to think or remember. All the while I begged my doctors to wean me off and argued *to them* the dangers of benzodiazepines, since they first forced me onto them at that dosage at the hospital, coercively, *against* my will. I have no defense for their actions. Even "they were just doing their jobs" doesn't cut it. I was in severe withdrawal and agony halfway in and the enormous pain didn't go away for another year or more. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
+
+## Part 3
+
+- **University PhD advisors**
+- **University PhD committee members**
+- **University graduate administrator and Deans**
 
 <p align="center">
 <img width="600" alt="Screenshot 2024-03-12 at 8 08 29 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/db64b8d0-47e5-46e8-9cc5-8d7fad73165b">
