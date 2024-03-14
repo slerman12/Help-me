@@ -51,7 +51,7 @@ Benzodiazepines are GABA agonists. That means they activate GABA receptors in th
 
 > By the way, I made these arguments to my outpatient doctor, and without any specific retort, he insisted on increasing the dosage. There is an authority/power play dynamic between psychiatrists and the patients they oversee, where literal healing is secondary to something else.
 
-To recap, I've described everything my doctors did for me in my first 3 years in the PhD program, good and bad. In total, the net effect was not just extremely negative, but there was no positive effect. I lost all of my hair, including eyebrows and eyelashes — as a 5'5" 110lb guy, that's not flattering; at best I look like Aang — and was benzo-brain damaged, severe cognitive decline, seizure-like shaking, and burning alive, in literal hellfire, in literal warzone, every day, for more than a year, independent of any prior issues I had before coming to my doctors, my so-called "healers."
+To recap, I've described everything my doctors did for me in my first 3 years in the PhD program, good and bad. In total, the net effect was not just extremely negative, but there was no positive effect. I lost all of my hair, including eyebrows and eyelashes — as a 5'5" 110lb guy, that's not flattering; at best I look like Aang — and was benzo-brain damaged, coerced terrifying to suffer severe cognitive decline, seizure-like shaking, and burning alive, in literal hellfire, in literal warzone, every day, for more than a year, independent of any prior issues I had before coming to my doctors, my so-called "healers."
 
 ## Part 3
 
