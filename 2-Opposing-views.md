@@ -53,7 +53,7 @@ Benzodiazepines are GABA agonists. That means they activate GABA receptors in th
 
 To recap, the net effect of the University of Rochester healing system was not just extremely negative, but there was no positive effect. I lost all of my hair, including eyebrows and eyelashes — as a 5'5" 110lb guy with social anxiety, at best I look like the kid Aang from Avatar the Last Airbender (speaking of, the University of Rochester healing system realistically can do all of this to kids too) — and was benzo-brain damaged, coerced terrifyingly to suffer severe cognitive decline, seizure-like shaking, and enormous pain comparable to perpetual burning alive (in literal hellfire, in literal warzone), every day, for more than a year, independent of any prior issues I had before coming to my doctors, my so-called "healers."
 
-> TODO: Oh shit, I just remembered. Describe [name-redacted], a 15 year old who they made take benzos for probably longer than I did, [name-redacted] who they electroshocked, [name-redacted] a nice guy who was neevr even the slightest violent who they tackled and pinned down on the floor, and [name-redacted], a 23 year old who had sex with a 50-something janitor in the university psychiatric ward. 
+> TODO: Oh shit, I just remembered. Describe [name-redacted], a 15 year old who they made take benzos for probably longer than I did, [name-redacted] who they electroshocked, [name-redacted] a nice guy who was never even the slightest violent who they tackled and pinned down on the floor, and [name-redacted], a 23 year old who had sex with a 50-something janitor in the university psychiatric ward. 
 
 ## Part 3
 
