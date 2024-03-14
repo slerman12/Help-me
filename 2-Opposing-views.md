@@ -34,10 +34,11 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 ## Part 2
 
-- **University chemical waterboarders**
-- **University coercers**
-- **University-mandated assaulters**
-- **University-commissioned clinical monsters**
+- **University-hospital**
+- **University-employed psychiatrists**
+- **University-employed outpatient doctor**
+- **University-hospital police officers**
+- **University janitor**
 
 (In progress)
 
