@@ -49,8 +49,8 @@ To be clear, university-hospital, university-employed psychiatrists, and univers
 
 <p align="center">
 <picture>
-  <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/ccf5be0a-52db-45a2-aafa-bdd3d9ef16cc">
-  <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/ccf5be0a-52db-45a2-aafa-bdd3d9ef16cc">
+  <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/2026617b-268a-4de3-926b-f6ae49d88fc7">
+  <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/2026617b-268a-4de3-926b-f6ae49d88fc7">
 </picture><br><i>This diagram is an original understanding of the  computational neuron with a differentiable analog programmed <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>.</i>
 </p>
 
