@@ -39,7 +39,7 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 - **University-hospital police officers**
 - **University psychiatric ward janitor**
 
-### Benzodiazepines
+### Psychiatrists
 
 At first, it was like being drunk every day and pleasant. After a month, I was in cognitive decline. After a few months, the experience was like burning in Hell. Excruciating agony, inability to think or remember, torture from every depth of mind, cognition, and consciousness.  
 
@@ -76,7 +76,7 @@ To be clear, university-hospital, university-employed psychiatrists, and univers
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
-### Mechanism of benzodiazepines
+### Benzodiazepine mechanism of action
 
 <p align="center">
 <picture>
