@@ -67,6 +67,15 @@ To be clear, university-hospital, university-employed psychiatrists, and univers
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
+<p align="center">
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+</picture><br><i>Modified AI-generated image via Adobe Express. 
+  <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
+<br>To do: Find a better image that does me more justice.</i>
+</p>
+
 ### Mechanism of benzodiazepines
 
 <p align="center">
