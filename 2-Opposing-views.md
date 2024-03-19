@@ -72,7 +72,7 @@ All the while I begged my doctors, from the psychiatrists in the hospital the fi
 <br>To do: Find a better image that does me more justice.</i>
 </p>
 
-The agony heightened with the withdrawal, as I expected it would, and persisted for more than a year after, indescribable, severe and debilitating.
+The agony heightened with the withdrawal, as would be expected in a doctor-guided taper, and persisted for more than a year after, indescribable, severe and debilitating.
 
 I was unable to leave the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely gray and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain.
 
