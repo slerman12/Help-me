@@ -119,9 +119,21 @@ The demand put on me was more excessive than this summarizes since I was expecte
 4. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
 5. According to the six-month reviewers, effectively restart my entire thesis
 6. Send them my research plan, now an added independent requirement to the previously specified six-motnh review requirements
-   - Which I did, and when I sent it, the only reply I got was the formal notice of termination 6 days later
-8. Develop a brand new research plan
-9. All of this on behalf of a brand new committee, people I don't know who never knew my research
+   - Which I did, and when I sent it on **10/06/2023**, this was the only reply, of **10/12/2023**:
+
+> Dear Sam:
+>
+> Thank you for your note of 6 Oct.  I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October.
+>
+> Yours,
+> 
+> Michael L. Scott (he/him) </br>
+> Arthur Gould Yates Professor and Chair</br>
+> Computer Science Department, University of Rochester</br>
+> <provided contact info>
+
+7. Develop a brand new research plan
+8. All of this on behalf of a brand new committee, people I don't know who never knew my research
 10. All of this amid induced health issues and in my sixth year
 11. For less than New York State's legal living wage
 12. Within a one to few month timeframe
