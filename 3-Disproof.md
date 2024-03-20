@@ -47,7 +47,7 @@ I was notified by Chenliang of the termination on July 24th, specifically that h
 
 #
 
-### Initial aftermath 10/30/2023 - 10/31/2023
+### 10/30/2023 - 10/31/2023, and 7 years ago - now
 
 Following this, one person in Chenliang's lab replied directly to me describing a similar experience, and asked me to convey it to the CS department chair, but didn't feel comfortable talking to the CS department chair directly about it. Despite the amorality of advisor-pressure on students to publish faster, the power structure of a grad student's employers unionizes them against the student and any public protest against that hierarchy's presumed ranges of authority is a danger to the student's status in the program, which sometimes determines many other facets of their life such as immigration status and finance situations, not to mention the PhD degree to which one's most precious years in life were invested with hard work for little pay.
 
