@@ -77,7 +77,7 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 
 **"You did not schedule a make-up review."**
 
-The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th.
+The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th. See [here](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md).
 
 **"Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so."**
 
