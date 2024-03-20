@@ -89,6 +89,8 @@ In one of my emails, replying to "declining to follow research advice", I said:
 
 None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what was told.
 
+Another point of their hypocrisy is that, every single one of my advisors and most of my committee members skipped or altogether left without notice or warning, and their concluding termination reason was, as they falsely accused, that I "skipped" a six-month review and didn't schedule a make-up.
+
 ### You should probably protest
 
 Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
