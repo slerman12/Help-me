@@ -135,11 +135,11 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 
 2. **"You did not schedule a make-up review."**
 
-The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th. 
-
 [This was added post-hoc](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md) as a termination reason on 10/31/2023 (the official termination was on 10/12/2023, with my research plan as the reason).
 
 Throughout, the department made multiple false statements about my research and my advisor's intentions.
+
+The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th. 
 
 3. **"Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so."**
 
