@@ -89,7 +89,7 @@ In one of my emails, replying to "declining to follow research advice", I said:
 
 None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what was told.
 
-### You should protest
+### You should probably protest
 
 Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
 
