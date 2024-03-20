@@ -118,11 +118,12 @@ Generally speaking these are some of the political/social figures I like: Bernie
 The demand put on me was more excessive than this summarizes since I was expected to:
 
 1. Find yet another advisor
-2. Find new source of funding
-3. Re-take a six-month review
-4. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
-5. According to the six-month reviewers, effectively restart my entire thesis
-6. Send them my research plan, now an added independent requirement to the previously specified six-month review requirements
+   - Once again, for an arbitrary reason. First 3 years, advisor leaves for directorship at NSF. Next 3 years, apparently, "not enough papers"
+3. Find new source of funding
+4. Re-take a six-month review
+5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
+6. According to the six-month reviewers, effectively restart my entire thesis
+7. Send them my research plan, now an added independent requirement to the previously specified six-month review requirements
    - Which I did, and when I sent it on **10/06/2023**, this was the only reply I got, of **10/12/2023**:
 
 > Dear Sam:
