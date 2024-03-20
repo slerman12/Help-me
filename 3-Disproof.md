@@ -85,6 +85,16 @@ In one of my emails, replying to "declining to follow research advice", I said:
 
 None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what was told.
 
+### You should protest
+
+Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
+
+[Around $3 billion](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly. The budgets and surpluses at other universities are also extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
+
+This hasn't been suggested elsewhere: a worker and public led pressure campaign, like the kind led against the University of Rochester 7 years ago, but on university financial policy. Orchestrated with grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt.
+
+Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru.
+
 ### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
@@ -136,16 +146,6 @@ Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d
 The decision to cut my stipend (salary) occurred arbitrarily, long before the formality they ultimately used to justify the termination. This decision also followed two of my advisors and most of my committee members leaving, arbitrarily and in no way caused by me, and almost all of the deliberations were made entirely by people who literally had never met me during my 10 years there. I had to switch advisors in my 3rd year (of my PhD program) because my original advisor Henry Kautz was promoted to lead the AI division at the NSF. I switched to Chenliang Xu, who also decided to leave after 3 years due to me not having as many papers as he considered standard, despite my publication rate being about the same as or better than my original advisor’s average doctoral student (I published 2 papers in those 3 years under Chenliang, one in a top venue). Besides what should be considered a perfectly reasonable publication rate, they had extreme evidence of my research [talent](https://github.com/slerman12/Help-me/blob/main/5-Early-work-in-program.md) and [skill](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md). From successfully innovating on the methods behind ChatGPT 5 years ago before anyone outside of a small niche handful of researchers heard of MHDPA to predicting and painstakingly teaching the professors at my university about every recent and impending research innovation, with my predictions always proving true even when they argued or doubted. All of this got forgotten and discarded ultimately in the decision made by total strangers in my final year.
 
 I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
-
-Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
-
-[Around $3 billion](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly.
-
-The budgets and surpluses at other universities are also extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
-
-This hasn't been suggested elsewhere: a worker and public led pressure campaign, like the kind led against the University of Rochester 7 years ago, but on university financial policy. Orchestrated with grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt.
-
-Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru.
 
 ## Aftermath (October 30th - October 31st)
 
