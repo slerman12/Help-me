@@ -71,7 +71,7 @@ Aside from fasting, I did all of the following listed disciplines for at least a
 
 As a 5'5" nerdy guy who weighs 110lb for whom those disciplines don't come naturally or gracefully.
 
-Also, if you need evidence of my hard work, just look at my GitHubs and GitHub repositories and commit counts.
+Also, if you need evidence of my hard work, just look at my GitHubs and GitHub repositories and commit counts and even chronologies and time stamps if you really want to investigate the extent of it.
 
 ### Hypocrisy
 
