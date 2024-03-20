@@ -89,7 +89,7 @@ In one of my emails, replying to "declining to follow research advice", I said:
 
 None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what was told.
 
-Another point of their hypocrisy is that, every single one of my advisors and most of my committee members skipped or altogether left without notice or warning, and their concluding termination reason was, as they falsely accused, that I "skipped" a six-month review and didn't schedule a make-up.
+Another point of their hypocrisy is that, every single one of my advisors and most of my committee members skipped or altogether left without notice or warning, and their concluding termination reason was, as they falsely accused after this email as their last recourse of justification, that I "skipped" a six-month review and didn't schedule a make-up.
 
 ### You should probably protest
 
