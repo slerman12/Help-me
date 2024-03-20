@@ -154,6 +154,6 @@ Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d
 1. PhD students are employees
 2. Employees are not slaves
 3. Slaves are involuntary workers whose work has not yet been paid for - it can be paid for later via reparations
-4. To pay for work requires a living wage
+4. To pay for full-time work requires a living wage
 5. University of Rochester’s PhD student stipend is below New York state’s official living wage
 6. Voluntary vs. involuntary is evidenced by what people would choose to do without guarantee of pay
