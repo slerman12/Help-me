@@ -71,7 +71,9 @@ Aside from fasting, I did all of the following listed disciplines for at least a
 
 As a 5'5" nerdy guy who weighs 110lb for whom those disciplines don't come naturally or gracefully.
 
-### Hypocracy
+Also, if you need evidence of my hard work, just look at my GitHubs and GitHub repositories and commit counts.
+
+### Hypocrisy
 
 The University had no evidence for any of its changing set of reasons for terminating me.
 
