@@ -83,7 +83,7 @@ In one of my emails I said:
 
 > "Please provide evidence of research (not thesis-formatting) advice that was provided and not followed."
 
-None of them replied.
+None of them provided any evidence of anything.
 
 ### Email: 10/31/2023
 
