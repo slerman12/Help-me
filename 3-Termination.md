@@ -69,17 +69,17 @@ Propositions:
 
 #
 
-**"Your Spring 2023 review was unsuccessful  The follow-up document you wrote did not allay your committee’s concerns."**
+1. **"Your Spring 2023 review was unsuccessful  The follow-up document you wrote did not allay your committee’s concerns."**
 
 Chris Kanan is the only committee member who specified concerns. 
 
 Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
-**"You did not schedule a make-up review."**
+2. **"You did not schedule a make-up review."**
 
 The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th. See [here](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md).
 
-**"Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so."**
+3. **"Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so."**
 
 Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. Other than that, no other concrete research plan advice was provided. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
