@@ -2,10 +2,12 @@
 
 # Opposing views
 
+
+
 <p align="center">
 <picture>
-  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/6bc11a77-efd2-44ef-90af-38c929f23a4f">
-  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/6bc11a77-efd2-44ef-90af-38c929f23a4f">
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/fa7ff4a1-d641-4241-afa1-1cf431247290">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/fa7ff4a1-d641-4241-afa1-1cf431247290">
 </picture>
 </p>
 
