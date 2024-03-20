@@ -69,6 +69,8 @@ Aside from fasting, I did all of the following listed disciplines for at least a
 - 70-hour work weeks on average, always across two labs, including usually one where I did essentially the job of a software engineer
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days once and ~15 days, respectively) and intermittent fasting (for some months consecutively) as trials (got rid of my eczema more than any treatment, but bad effect in terms of cognition/perception)
 
+As a 5'5" nerdy guy who weighs 110lb for whom those disciplines don't come naturally or gracefully.
+
 ### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
