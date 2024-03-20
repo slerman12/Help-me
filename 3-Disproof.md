@@ -103,8 +103,6 @@ Generally speaking these are some of the political/social figures I like: Bernie
 
 ### Slavery or Impossible
 
-This argument applies to many PhD students:
-
 1. PhD students are employees
 2. Employees are not slaves
 3. Slaves are involuntary workers whose work has not yet been paid for - it can be paid for later via reparations
