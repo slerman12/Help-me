@@ -117,12 +117,14 @@ The demand put on me was more excessive than this summarizes since I was expecte
 2. Find new source of funding
 3. Re-take a six-month review
 4. Do my thesis, or:
-5. According to the six-month reviewers, effectively restart my entire thesis and develop a brand new research plan
-6. On behalf of a brand new committee
-7. All of this amid induced health issues and in my sixth year
-8. For less than New York State's legal living wage
-9. Within a one to few month timeframe
-10. No extensions unless all of this first
+5. According to the six-month reviewers, effectively restart my entire thesis 
+6. Develop a brand new research plan
+   - Which I did, and when I sent it, the only reply I got was the formal notice of termination.
+7. On behalf of a brand new committee
+8. All of this amid induced health issues and in my sixth year
+9. For less than New York State's legal living wage
+10. Within a one to few month timeframe
+11. No extensions unless all of this first
 
 That's not even slavery, it's humanly impossible.
 
