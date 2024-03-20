@@ -10,7 +10,7 @@ From: **CS department chair**
 
 Dear colleagues,
 
-As members of the department’s many email lists, you may have received a note this afternoon raising questions about the experience of a graduate student.  While I cannot comment on any specific case, the faculty, staff, and administrators of the CS Department and the Hajim School remain (and have been) committed to fostering a just and supportive environment, and to following our stated policies, as outlined in the URCS PhD handbook, the UR Graduate Handbook, and our broader Vision and Values.
+As members of the department’s many email lists, you may have received a note this afternoon raising questions about the experience of a graduate student.  While I cannot comment on any specific case, the faculty, staff, and administrators of the CS Department and the Hajim School remain (and have been) committed to fostering a just and supportive environment, and to following our stated policies, as outlined in the [URCS PhD handbook](https://www.cs.rochester.edu/assets/pdf/phd-handbooks/2023-v2_4-25-23_phd-handbook.pdf), the [UR Graduate Handbook](https://www.rochester.edu/college/gradstudies/graduate-handbook//index.html), and our broader [Vision and Values](https://www.rochester.edu/college/odos/meliora-vision-values/index.html).
 
 If you have any concerns, please feel free to reach out.
  
