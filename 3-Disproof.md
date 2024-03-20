@@ -111,6 +111,18 @@ Generally speaking these are some of the political/social figures I like: Bernie
 6. Voluntary vs. involuntary is evidenced by what people would choose to do without guarantee of pay
 7. Terminating somebody for avoiding slavery is illegal, since slavery is illegal
 
+This argument applies to many PhD students. The demand put on me was more excessive than this does justice to since I was expected to:
+
+1. Find yet another advisor
+2. Find new source of funding
+3. Re-take a six-month review
+4. Do my thesis
+5. All of this amid induced health issues and in my sixth year
+6. For less than New York State's legal living wage
+7. Within a one to few month timeframe
+
+That's not even slavery. It's impossible.
+
 ### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
