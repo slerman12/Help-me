@@ -57,8 +57,8 @@ That's well-intentioned! I replied thankfully, but to clarify: I hadn't written 
 
 I did everything advised and required, amid hospitalizations and medical trauma. I exerted unthinkable discipline to stay functional during those times, including 
 
-- Daily transcendental meditation
-- Daily yoga
+- Daily yoga, pranayama, and transcendental meditation
+- Daily jogs and calisthenics
 - Daily freezing cold ice baths
 - No movies, tv shows, social media... or even music (due to a Sadghuru and friend recommendation)
 - Strict diets. Paleo, Paleo-Keto, and grassfed-pasture-raised-steak-and-wildcaught-salmon-only (allowing my hair to grow back)
