@@ -79,7 +79,7 @@ There’s a difficult-to-state hypocrisy about the University of Rochester being
 
 In one of my emails I said:
 
-> Please provide evidence of research (not thesis-formatting) advice that was provided and not followed.
+> "Please provide evidence of research (not thesis-formatting) advice that was provided and not followed."
 
 None of them replied.
 
