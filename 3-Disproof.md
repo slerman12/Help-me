@@ -83,7 +83,7 @@ In one of my emails, replying to "declining to follow research advice", I said:
 
 > "Please provide evidence of research (not thesis-formatting) advice that was provided and not followed."
 
-None of them provided any evidence of anything, or replied for that matter. 
+None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what was told.
 
 ### Email: 10/31/2023
 
