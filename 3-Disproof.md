@@ -101,7 +101,9 @@ This hasn't been suggested elsewhere: a worker and public led pressure campaign,
 
 Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru.
 
-### Morality argument
+### Slavery or Impossible
+
+This argument applies to many PhD students:
 
 1. PhD students are employees
 2. Employees are not slaves
@@ -111,7 +113,7 @@ Generally speaking these are some of the political/social figures I like: Bernie
 6. Voluntary vs. involuntary is evidenced by what people would choose to do without guarantee of pay
 7. Terminating somebody for avoiding slavery is illegal, since slavery is illegal
 
-This argument applies to many PhD students. The demand put on me was more excessive than this does justice to since I was expected to:
+The demand put on me was more excessive than this summarizes since I was expected to:
 
 1. Find yet another advisor
 2. Find new source of funding
