@@ -83,7 +83,7 @@ The University had no evidence for any of its changing set of reasons for termin
 
 There’s a difficult-to-state hypocrisy about the University of Rochester being the ones to terminate me. Florian Jaeger’s termination was called for by the entire student body, and me ([in public view](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl)) and soon the entire media and nation. The scandal sensationalized to national prominence, the University spent millions of dollars in defense of, well, evidence-based termination I guess, and then ultimately fired a dean and not that professor.
 
-In one of my emails, replying to "declining to follow research advice", I said:
+After this 10/30/2023 email, replying to the false accusation of "declining to follow research advice", I said:
 
 > "Please provide evidence of research (not thesis-formatting) advice that was provided and not followed."
 
