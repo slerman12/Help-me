@@ -65,9 +65,9 @@ Aside from fasting, I did all of the following things for at least a year consec
 - No movies, tv shows, social media... or even music (due to a Sadghuru and friend recommendation)
 - Strict diets. Paleo, Paleo-Keto, and grassfed-pasture-raised-steak-and-wildcaught-salmon-only (allowing my hair to grow back)
 - Daily walks in nature
-- After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days once and ~15 days, respectively) and intermittent fasting (for some months consecutively) as trials (got rid of my eczema more than any treatment, but bad effect in terms of cognition/perception)
 - Desperate attempts to still socialize every week
 - 70-hour work weeks on average, always across two labs, including usually one where I did essentially the job of a software engineer
+- After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days once and ~15 days, respectively) and intermittent fasting (for some months consecutively) as trials (got rid of my eczema more than any treatment, but bad effect in terms of cognition/perception)
 
 ### Email: 10/31/2023
 
