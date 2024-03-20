@@ -21,7 +21,7 @@ Arthur Gould Yates Professor and Chair</br>
 Computer Science Department, University of Rochester</br>
 \<provided contact info\>
 
-# 10/30/2023
+### 10/30/2023
 
 Subject line: **Re: [Grads] Supporting students**</br>
 To: **CS grad department students**</br>
