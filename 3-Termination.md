@@ -85,7 +85,7 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 
 ## Aftermath (October 30th - October 31st)
 
-(everything below this line is in progress)
+(editing)
 
 It turned out they weren't aware of that last point (point number 2, technically missing the 6-month review make-up by this point) until I brought it up. They ended up using it as their sole justifying reason on October 31st at 12:36 PM, the day that my worker/student status was formally cut, without prior mention of that six-month review make-up, at/between the time of my termination and this point. This email gave them their *ultimate reason for terminating me, and it chronologically followed after I was fired.* Six-month reviews are informal and meant to help students.
 
