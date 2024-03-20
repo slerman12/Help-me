@@ -73,7 +73,7 @@ Propositions:
 
 Chris Kanan is the only committee member who specified concerns. 
 
-Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. Other than that, no other concrete research plan advice was provided. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
+Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
 **"You did not schedule a make-up review."**
 
