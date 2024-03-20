@@ -109,7 +109,7 @@ Generally speaking these are some of the political/social figures I like: Bernie
 4. To pay for full-time work requires a living wage
 5. University of Rochester’s PhD student stipend is below New York State’s official living wage
 6. Voluntary vs. involuntary is evidenced by what people would choose to do without guarantee of pay
-7. Terminating a slave is illegal, since slavery is illegal
+7. Terminating somebody for avoiding slavery is illegal, since slavery is illegal
 
 ### Email: 10/31/2023
 
