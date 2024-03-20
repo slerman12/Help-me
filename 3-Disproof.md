@@ -116,12 +116,13 @@ The demand put on me was more excessive than this summarizes since I was expecte
 1. Find yet another advisor
 2. Find new source of funding
 3. Re-take a six-month review
-4. Do my thesis
+4. Do my thesis, or:
 5. According to the six-month reviewers, effectively restart my entire thesis and develop a brand new research plan
 6. On behalf of a brand new committee
 7. All of this amid induced health issues and in my sixth year
 8. For less than New York State's legal living wage
 9. Within a one to few month timeframe
+10. No extensions unless all of this first
 
 That's not even slavery, it's humanly impossible.
 
