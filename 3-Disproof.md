@@ -151,7 +151,7 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 
 Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) is the accelerated and parallelized sampling without replacement for RL algorithm with adaptive, truly-shared RAM memory, memory-mapping, and dynamically growing Replay storage, and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is one of the commits as I finished implementing it, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
-Whichever of New York State's laws, if any, disagrees with one of the following propositions, is disproven:
+Whichever of New York State's laws, if any, disagrees with one of the following propositions, is disproven by the other 6:
 
 1. PhD students are employees
 2. Employees are not slaves
