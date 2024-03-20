@@ -55,7 +55,9 @@ That's well-intentioned! I replied thankfully, but to clarify: I hadn't written 
 
 ### Hardest worker?
 
-I did everything advised and required, amid hospitalizations and medical trauma. I exerted unthinkable discipline to stay functional during those times, including 
+I did everything advised and required, amid hospitalizations and medical trauma. I exerted unthinkable discipline to stay functional during those times.
+
+Aside from fasting, I did all of the following things for at least a year consecutively without interuption, some of these things for many years. That might sound voluntary, or unreasonable. No, I had to both to do PhD work and recover from the Medical Center's severe damages. I'm a 5'5" nerdy guy who weighs 110lb and these kinds of disciplines aren't natural to me. Medical leaves aren't paid and I could've lost the subsidization for my student loans and, I believe, health insurance. Those disciplines are the only thing that made it possible to meet the requirements of the program, while literally mutilated, brain damaged, and burning alive. Those damages were induced by the University of Rochester Medical Center's malpractices, while they profited from that med center's research (where I also worked concurrently), big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the thinking, consciousness, and sometimes physiology of its students and workers, with no accountability.
 
 - Daily yoga, pranayama, and transcendental meditation
 - Daily jogs and calisthenics
@@ -65,9 +67,7 @@ I did everything advised and required, amid hospitalizations and medical trauma.
 - Daily walks in nature
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days once and ~15 days, respectively) and intermittent fasting (for some months consecutively) as trials (got rid of my eczema more than any treatment, but bad effect in terms of cognition/perception)
 - Desperate attempts to still socialize every week
-- 70-hour work weeks; at different points
-
-Aside from fasting, I did all of these things for at least a year consecutively without interuption, some of these things for many years. That might sound voluntary, or unreasonable. No, I had to both to do PhD work and recover from the Medical Center's severe damages. I'm a 5'5" nerdy guy who weighs 110lb and these kinds of disciplines aren't natural to me. Medical leaves aren't paid and I could've lost the subsidization for my student loans and, I believe, health insurance. Those disciplines are the only thing that made it possible to meet the requirements of the program, while literally mutilated, brain damaged, and burning alive. Those damages were induced by the University of Rochester Medical Center's malpractices, while they profited from that med center's research (where I also worked concurrently), big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the thinking, consciousness, and sometimes physiology of its students and workers, with no accountability.
+- 70-hour work weeks on average
 
 ### Email: 10/31/2023
 
