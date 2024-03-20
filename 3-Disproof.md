@@ -71,6 +71,18 @@ Aside from fasting, I did all of the following listed disciplines for at least a
 
 As a 5'5" nerdy guy who weighs 110lb for whom those disciplines don't come naturally or gracefully.
 
+### Hypocracy
+
+The University had no evidence for any of its changing set of reasons for terminating me.
+
+There’s a difficult-to-state hypocrisy about the University of Rochester being the ones to terminate me. Florian Jaeger’s termination was called for by the entire student body (and me, still [in public view](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl)) and soon the entire media and nation. The scandal sensationalized to national prominence, the University spent millions of dollars in defense of, well, evidence-based termination I guess, and then ultimately fired a dean and not that professor.
+
+Here is how I replied, immediately after their email, on that last and final day:
+
+> Please provide evidence of research (not thesis-formatting) advice that was provided and not followed.
+
+None of them replied.
+
 ### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
@@ -108,6 +120,8 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th. See [here](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md).
 
 3. **"Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so."**
+
+I didn't decline their research plan and they didn’t provide one. Chenliang only vaguely and last-minute suggested I adhere to his formatting instructions. 
 
 Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. Other than that, no other concrete research plan advice was provided. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
