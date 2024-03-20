@@ -1,8 +1,8 @@
-# Part 4
+# Disproof
 
-## Emails
+## Part 4
 
-### 10/27/2023
+### Email: 10/27/2023
 
 Subject line: **Supporting students**</br>
 To: **CS grad department**</br>
@@ -21,7 +21,7 @@ Arthur Gould Yates Professor and Chair</br>
 Computer Science Department, University of Rochester</br>
 \<provided contact info\>
 
-### 10/30/2023
+### Email: 10/30/2023
 
 Subject line: **Re: [Grads] Supporting students**</br>
 To: **CS grad department students**</br>
@@ -45,7 +45,15 @@ These were the exact requirements given to me by the review committee:
     
 I was notified by Chenliang of the termination on July 24th, specifically that he would not support me “in the Fall”. Having no promise of funding (or an advisor), I emailed Chenliang and the committee members on August 10th to describe these events. Immediately, Chenliang replied with a lie, as well as the assertion that I could do my thesis if I just “formatted” it the way he recommended. I felt this would be a dishonest thesis, if I followed his advice, and then was terminated anyway this month due to my 6 years of research suddenly being “inconsistent.” I didn’t have enough for a thesis, in my opinion, and requested an extra year (out of 7) as well as reiterated the previously-mentioned situations, and of course the insanity of continuing to earnestly labor under an advisor who had just fired me and consciously/intentionally distorted truth. Without further discussion, they terminated me.
 
-### 10/31/2023
+### October 30th - October 31st
+
+Following this, one person in Chenliang's lab replied directly to me describing a similar experience, and asked me to convey it to the CS chair.
+
+The only person in the CS department, outside of the one who asked me to convey to the CS chair that he was going through something similar, and aside from two of my already-graduated friends, who replied directly, wrote: "Sam - I am really sorry this happened to you" which I genuinely sincerely appreciate, but he added: "It doesn’t seem fair. Especially because we all had to deal with the BS of COVID. My advice would be to try to get out of here with minimal effort and get the PhD. Just modify the thesis in line with Chenliang’s wishes and get out of dodge man."
+
+That's well-intentioned! I replied thankfully, but to clarify: I hadn't written a thesis to modify. They wanted me to write my whole thesis in ~1 month when I needed more time. And, no, sorry, I also went through Covid and those years were a respite for me compared to the rest of the aforementioned and not-mentioned medical trauma that I had, combined with the ongoing/over-looming injustice of all of this. He also used past tense "happened" and "had to" when what I described was happening then, and is, at its full height at that/this present moment. Also, my thesis wasn't ever their reason for my termination. The final one, coinciding with the date of my stipend being cut and after the decision to dismiss and terminate me, formally was only the six-month review, in the known light and context of everything. The reason it matters is because this is 6 years of a person's life that were discarded over a bullshit six-month review and countless inflicted tragedies by the same unliable institution, likely connecting to other such incidents and more generalized issues by the way if you don't give a shit about me as a worker/medical patient/person. And I stood up for all of you whenever I heard of injustice. [I protested Florian Jaeger in 2017](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl), [made the website](https://github.com/URGSU) for the original UR Grad Student Union effort freely, rallied people to unionize before it could've mattered to me directly in any way, and defended my friends on email record even against a professor. I lost my hair for having eczema, I got brain damaged for being coerced against my will into taking benzodiazepine prescriptions ("GABA down-regulated hellfire" as I described in a mass email), and I met every reasonable standard and then some as a worker.
+
+### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
@@ -61,7 +69,7 @@ Yours,
 
 Michael
 
-## Conclusive disproof
+### Conclusive disproof
 
 Propositions:
 
@@ -85,8 +93,27 @@ The make-up review deadline was August 30th. I was notified of my stipend being 
 
 Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. Other than that, no other concrete research plan advice was provided. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
-
 Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) is the accelerated and parallelized sampling without replacement for RL algorithm with adaptive, truly-shared RAM memory, memory-mapping, and dynamically growing Replay storage, and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is one of the commits as I finished implementing it, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
+
+### Additional context 
+
+(editing)
+
+The decision to cut my stipend (salary) occurred arbitrarily, long before the formality they ultimately used to justify the termination. This decision also followed two of my advisors and most of my committee members leaving, arbitrarily and in no way caused by me, and almost all of the deliberations were made entirely by people who literally had never met me during my 10 years there. I had to switch advisors in my 3rd year (of my PhD program) because my original advisor Henry Kautz was promoted to lead the AI division at the NSF. I switched to Chenliang Xu, who also decided to leave after 3 years due to me not having as many papers as he considered standard, despite my publication rate being about the same as or better than my original advisor’s average doctoral student (I published 2 papers in those 3 years under Chenliang, one in a top venue). Besides what should be considered a perfectly reasonable publication rate, they had extreme evidence of my research [talent](https://github.com/slerman12/Help-me/blob/main/5-Early-work-in-program.md) and [skill](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md). From successfully innovating on the methods behind ChatGPT 5 years ago before anyone outside of a small niche handful of researchers heard of MHDPA to predicting and painstakingly teaching the professors at my university about every recent and impending research innovation, with my predictions always proving true even when they argued or doubted. All of this got forgotten and discarded ultimately in the decision made by total strangers in my final year.
+
+I painstakingly/excruciatingly obeyed everything they required or advised me to do for the last 6 years, amid hospitalizations and medical trauma. I also exerted unthinkable discipline to stay functional during those times, including daily transcendental meditation; daily yoga; daily freezing cold ice baths; no movies, tv shows, social media, or even music (due to a Sadghuru and friend recommendation); strict diet, including Paleo, Paleo-Keto, and grassfed-pasture-raised-steak-and-wildcaught-salmon-only (allowing my hair to grow back at one point); daily walks in nature; 70-hour work weeks; at different points, after the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days once and ~15 days, respectively) and intermittent fasting (for some months consecutively) as trials (got rid of my eczema more than any treatment, but bad effect in terms of cognition/perception); and desperate attempts to still socialize every week. For more than a year, some of these things for many years. So I had to compensate for the Medical Center's damages in extreme ways, since the damages were extremely severe to my entire wellbeing, appearance, and cognition including social. If I took a medical leave, during the worst of the physical damage (following hair loss, and brain damage), I would have lost the subsidization for my student loans, salary, and health insurance. Those disciplines are the only thing that made it possible to meet the requirements of the PhD program, while literally brain damaged no less. I'm a 5'5" guy who weighs 110lb. Those damages were induced by the University of Rochester Medical Center's malpractices, something not even weighed into the University of Rochester's decision whether or not to terminate me while they profited from that med center's research (where I also worked concurrently by the way), big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the thinking, consciousness, and sometimes physiology of its students and workers, with no accountability.
+
+I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
+
+Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
+
+[Around $3 billion](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly.
+
+The budgets and surpluses at other universities are also extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
+
+This hasn't been suggested elsewhere: a worker and public led pressure campaign, like the kind led against the University of Rochester 7 years ago, but on university financial policy. Orchestrated with grad workers, faculty, students, and public, to reduce tuition costs and cancel student debt.
+
+Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), Russell Brand, and Sadhguru.
 
 ## Aftermath (October 30th - October 31st)
 
