@@ -116,7 +116,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 1. Find yet another advisor
 2. Find new source of funding
 3. Re-take a six-month review
-4. Do my thesis, or:
+4. Do my thesis before the make-up review, or:
 5. According to the six-month reviewers, effectively restart my entire thesis 
 6. Develop a brand new research plan
    - Which I did, and when I sent it, the only reply I got was the formal notice of termination.
