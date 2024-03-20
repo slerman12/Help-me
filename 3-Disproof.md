@@ -118,7 +118,7 @@ Generally speaking these are some of the political/social figures I like: Bernie
 The demand put on me was more excessive than this summarizes since I was expected to:
 
 1. Find yet another advisor
-   - Once again, for an arbitrary reason. First 3 years, advisor leaves for directorship at NSF. Next 3 years, apparently, "not enough papers"
+   - Once again, for an arbitrary reason. First 3 years, advisor leaves for directorship at NSF. Next 3 years, apparently, "not enough papers." Finding a new advisor is hard. The amount of work I had to do to get into Chenliang's group spanned a long time, I had to work for free under him, and had to submit a top-venue conference paper by the end of the first summer.
 3. Find new source of funding
 4. Re-take a six-month review
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
