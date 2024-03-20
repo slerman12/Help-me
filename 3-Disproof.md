@@ -130,7 +130,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 > Michael L. Scott (he/him) </br>
 > Arthur Gould Yates Professor and Chair</br>
 > Computer Science Department, University of Rochester</br>
-> <provided contact info>
+> \<provided contact info\>
 
 7. Develop a brand new research plan
 8. All of this on behalf of a brand new committee, people I don't know who never knew my research
