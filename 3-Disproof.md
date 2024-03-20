@@ -144,6 +144,8 @@ That's not even slavery, it's humanly impossible.
 
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. "All of the above" is as much of an answer as they've given me, but, technically speaking, they haven't given me an answer on that and [are currently ghosting me](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md).
 
+This is simultaneously slavery, humanly impossible, and fascism all wrapped into one.
+
 ### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
