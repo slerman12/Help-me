@@ -59,7 +59,7 @@ Yours,
 
 Michael
 
-### Conclusive disproof
+## Conclusive disproof
 
 Propositions:
 
