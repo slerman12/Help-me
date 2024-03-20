@@ -118,7 +118,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 3. Re-take a six-month review
 4. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
 5. According to the six-month reviewers, effectively restart my entire thesis
-6. Send them my research plan, now an added independent requirement to the previously specified six-motnh review requirements
+6. Send them my research plan, now an added independent requirement to the previously specified six-month review requirements
    - Which I did, and when I sent it on **10/06/2023**, this was the only reply, of **10/12/2023**:
 
 > Dear Sam:
