@@ -63,7 +63,7 @@ Aside from fasting for the sake of my eczema, I did all of the following listed 
 - Daily jogs and calisthenics
 - Daily freezing cold ice baths
 - No movies, tv shows, social media... or even music (due to a Sadghuru and friend recommendation)
-- Paleo diet at the start of the program. After damages, Paleo-Keto, and then most effectively, "all-steak", but more specifically, organic grassfed pasture-raised steak, Himalyan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage (and by New York State's own official definitions).
+- Paleo diet at the start of the program. After damages, Paleo-Keto, and then most effectively, "all-steak", but more specifically, organic grassfed pasture-raised steak, Himalyan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage.
 - Daily walks in nature
 - Desperate attempts to still socialize every week
 - 70-hour work weeks on average, always across two labs, including usually one where I did essentially the job of a software engineer
