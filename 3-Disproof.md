@@ -141,8 +141,6 @@ The make-up review deadline was August 30th. I was notified of my stipend being 
 
 Throughout, the department made multiple false statements about my research and my advisor's intentions.
 
-> By the way, without gaurentee of salary and with a 2nd advisor withdrawing, it should be illegal for the grad school to mandate anything.
-
 3. **"Your committee believes you could finish fairly soon if you would heed their advice regarding the research plan, but you have declined to do so."**
 
 I didn't decline their research plan and they didn’t provide one. Chenliang only vaguely and last-minute suggested I adhere to his formatting instructions. 
