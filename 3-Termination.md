@@ -1,6 +1,8 @@
 # Part 4
 
-## Email conversation of 10/27/2023 - 10/30/2023
+## Emails
+
+### 10/27/2023
 
 Subject line: **Supporting students**</br>
 To: **CS grad department**</br>
@@ -19,7 +21,7 @@ Arthur Gould Yates Professor and Chair</br>
 Computer Science Department, University of Rochester</br>
 \<provided contact info\>
 
-#
+# 10/30/2023
 
 Subject line: **Re: [Grads] Supporting students**</br>
 To: **CS grad department students**</br>
@@ -43,7 +45,7 @@ These were the exact requirements given to me by the review committee:
     
 I was notified by Chenliang of the termination on July 24th, specifically that he would not support me “in the Fall”. Having no promise of funding (or an advisor), I emailed Chenliang and the committee members on August 10th to describe these events. Immediately, Chenliang replied with a lie, as well as the assertion that I could do my thesis if I just “formatted” it the way he recommended. I felt this would be a dishonest thesis, if I followed his advice, and then was terminated anyway this month due to my 6 years of research suddenly being “inconsistent.” I didn’t have enough for a thesis, in my opinion, and requested an extra year (out of 7) as well as reiterated the previously-mentioned situations, and of course the insanity of continuing to earnestly labor under an advisor who had just fired me and consciously/intentionally distorted truth. Without further discussion, they terminated me.
 
-## Email of 10/31/2023
+### 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
