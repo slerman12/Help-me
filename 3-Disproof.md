@@ -126,6 +126,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 11. For less than New York State's legal living wage
 12. Within a one to few month timeframe
 13. No extensions unless all of this first
+14. Failing to do this, and no substantive reason, results in termination
 
 That's not even slavery, it's humanly impossible.
 
