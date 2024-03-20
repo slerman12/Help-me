@@ -121,7 +121,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 6. For less than New York State's legal living wage
 7. Within a one to few month timeframe
 
-That's not even slavery. It's impossible.
+That's not even slavery, it's humanly impossible.
 
 ### Email: 10/31/2023
 
