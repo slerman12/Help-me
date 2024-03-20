@@ -117,9 +117,10 @@ The demand put on me was more excessive than this summarizes since I was expecte
 2. Find new source of funding
 3. Re-take a six-month review
 4. Do my thesis
-5. All of this amid induced health issues and in my sixth year
-6. For less than New York State's legal living wage
-7. Within a one to few month timeframe
+5. According to the six-month reviewers, effectively restart my entire thesis
+6. All of this amid induced health issues and in my sixth year
+7. For less than New York State's legal living wage
+8. Within a one to few month timeframe
 
 That's not even slavery, it's humanly impossible.
 
