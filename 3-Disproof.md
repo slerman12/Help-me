@@ -119,7 +119,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 4. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
 5. According to the six-month reviewers, effectively restart my entire thesis
 6. Send them my research plan
-   - Which I did, independent from the documents meant to "allay your committee's concerns" and when I sent it, the only reply I got was the formal notice of termination
+   - Which I did, after the documents meant to "allay your committee's concerns" and when I sent it, the only reply I got was the formal notice of termination
 8. Develop a brand new research plan
 9. All of this on behalf of a brand new committee, people I don't know who never knew my research
 10. All of this amid induced health issues and in my sixth year
