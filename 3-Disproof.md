@@ -121,7 +121,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 6. Send them my research plan
    - Which I did, and when I sent it, the only reply I got was the formal notice of termination
 8. Develop a brand new research plan
-9. On behalf of a brand new committee
+9. All of this on behalf of a brand new committee, people I don't know who never knew my research
 10. All of this amid induced health issues and in my sixth year
 11. For less than New York State's legal living wage
 12. Within a one to few month timeframe
