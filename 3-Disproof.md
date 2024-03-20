@@ -137,6 +137,8 @@ Chris Kanan suggested I innovate a new reinforcement learning systems algorithm.
 
 The make-up review deadline was August 30th. I was notified of my stipend being cut and 2nd advisor leaving on July, 24th. July, 24th precedes August 30th. 
 
+- Depending on whether a PhD student is an employee, there might be a law against mandating labor in such an instance.
+
 [This was added post-hoc](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md) as a termination reason on 10/31/2023 (the official termination was on 10/12/2023, with my research plan as the reason).
 
 Throughout, the department made multiple false statements about my research and my advisor's intentions.
