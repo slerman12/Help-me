@@ -4,8 +4,8 @@
 
 <p align="center">
 <picture>
-  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/9f5fd673-2e39-4e60-8428-b243313bba3c">
-  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/9f5fd673-2e39-4e60-8428-b243313bba3c">
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
 </picture>
 </p>
 
