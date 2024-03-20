@@ -75,7 +75,7 @@ As a 5'5" nerdy guy who weighs 110lb for whom those disciplines don't come natur
 
 The University had no evidence for any of its changing set of reasons for terminating me.
 
-There’s a difficult-to-state hypocrisy about the University of Rochester being the ones to terminate me. Florian Jaeger’s termination was called for by the entire student body (and me, still [in public view](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl)) and soon the entire media and nation. The scandal sensationalized to national prominence, the University spent millions of dollars in defense of, well, evidence-based termination I guess, and then ultimately fired a dean and not that professor.
+There’s a difficult-to-state hypocrisy about the University of Rochester being the ones to terminate me. Florian Jaeger’s termination was called for by the entire student body (and me, [in public view](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl)) and soon the entire media and nation. The scandal sensationalized to national prominence, the University spent millions of dollars in defense of, well, evidence-based termination I guess, and then ultimately fired a dean and not that professor.
 
 Here is how I replied, immediately after their email, on that last and final day:
 
