@@ -81,8 +81,6 @@ All the while I begged my doctors, from the psychiatrists in the hospital the fi
 
 That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
 
-To be clear, university-hospital, university-employed psychiatrists, and university-employed outpatient doctor. Still, from the beginning, university-mediated interventions. 
-
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 ### Benzodiazepine mechanism of action
