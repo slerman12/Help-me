@@ -157,3 +157,7 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 > Note: None of these words do me justice. These words come from the trauma-mouth of some psychological framework that overtakes my genuine voice, rooted in memory of that institution's culture.
 >
 > I forgot to mention, when my hair initially fell out, all of my fingernails kind of fell out too. They turned purple and weak and gradually grew back normal after a long while. I don't remember if the same thing happened to my toenails.
+>
+> Add an "Aetna did it again" section witha photo of the huge bills they suddenly started sending me more than half a year into therapy.
+>
+> See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
