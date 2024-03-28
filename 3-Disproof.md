@@ -209,3 +209,5 @@ When my first advisor left in my 3rd year, I had to work without Chenliang's fun
 
 Obey the unreasonable demands, or else 6 years of my life are wasted, and all the money I lost by serving their demands — usually engineering work, not research, that benefited them more than me. And all the life experiences that were missed for an indenturment and trauma. And the demands were not just unreasonable, but in agglomeration, humanly impossible.
 
+We are so used to listening to these forces of mind control that tell us all of this is acceptable. But read these words: this is not.
+
