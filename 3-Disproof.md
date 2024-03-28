@@ -205,13 +205,17 @@ Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d
 
 The medical and learning systems of the University of Rochester have disproven large parts of themselves. But the learning system of the University of Rochester has proven something: that they are fascist. I don't mean to invoke Godwin's law here. This isn't exaggeration or hyperbole, but in a moment will be a proof, as much as there can be. By themselves, these policies might not seem like fascism. Agglomerated, the University of Rochester has ran fascism above their claimed values, visions, and principles.
 
-When my first advisor left in my 3rd year, Chenliang didn't fund me while I had to work for him for months in order to get into his lab so he would accept to be my advisor, hard strenuous work and during a traumatic period when I was just recovering from brain damage. He'd already proven how hard it is or can be to find a new advisor. And now I was expected to do that in my 6th year again, while answering for the 6-month review with a brand new committee, since the previous committee and advisors could all leave without accountability, and while being paid less than the living wage in my state, including that I implemented a novel systems-level RL algorithm by committee member's demand, the only provided suggestion from any of the committee members, and a new committee member no less, in two-months time, a Hell of a lot of engineering work to do to get terminated, without review. And this is where their memory lapses. My 6th-year advisor had already proven how hard it is to get a new advisor. Without pay, months of engineering work even while brain damaged, now demanded again amid yet other demands, just because they say so.
+When my first advisor left in my 3rd year, my would-be 2nd advisor didn't fund me while I had to work for him for months in order to get into his lab so he would accept to be my advisor, hard strenuous work that I already did once by his demand during a traumatic period when I was just recovering from brain damage. He'd already proven how hard it is or can be to find a new advisor. And now I was expected to do that again, but in my 6th year.
 
-#
+I was expetced to do that while answering for the new 6-month review with a brand new committee, brand new because multiple committee members and an advisor left with little warning and no accountability. 
 
-The threat meanwhile is to obey the unreasonable demands, or else 6 years of life are wasted. All the money that could've been made trusting some other institution or working elsewhere — miniature expenses. Instead, serving their demands — usually engineering work, not research. So what if it benefited them and not me. And all the life experiences that were missed — wasted — for the sake of indenturment and trauma — collateral damage. 
+I was expected to do all that while I still held onto my pay of less than the living wage in my state, and I did — I even implemented the novel systems-level RL algorithm that was suggested by one of the brand new committee members, the only provided suggestion from any of them. That's a Hell of a lot of engineering work, and I reported having done it to my advisor. 
 
-The demands were not reasonable, and in agglomeration humanly impossible.
+My 6th-year advisor had already proven how hard it is to get a new advisor. I suggested two faculty, and was rejected or ignored. 
+
+The threat meanwhile is that if the demands aren't met, 6 years of life will be wasted. All the money that could've been made trusting some other institution or working elsewhere — miniature expenses. Instead, serving their demands — usually engineering work, not research — always took priority — spit on — so what if it benefited them and not me. And all the life experiences that were missed — wasted — for the sake of indenturment and trauma — collateral damage. 
+
+The demands were not reasonable, and in agglomeration inhumane. 
 
 We are so used to listening to these forces of mind control that tell us all of this is acceptable. But read these words: this is not.
 
