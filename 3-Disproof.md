@@ -177,6 +177,8 @@ In this email, the possibility of reinstatement is mentioned, but no details are
 
 Also, I cannot endure more meetings and deliberations after this.
 
+#
+
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
 From: **CS department chair**
