@@ -32,15 +32,17 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Note: this was humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
+Admittedly, this was humor, but the point is more profound than it may appear. 
 
-But okay, we've gotten a construct for time and an unhalting Turing machine that presumably eventually (or somehow) cycles back to its origin starting state. We got this from hacking the definition of equivalence. We will take a step back now and derive it a little more formally. It is stupid, but perhaps there's nothing stopping us from doing this re-defining and obtaining a deductive logic from which cosmogenesis could theoretically make sense, noting: the Big Bang Theory is not a cosmogenesis theory but chronicles the early moments and evolution of the observable beginning of the universe. An un-mythological cosmogenesis theory has, perhaps, yet to be proposed in the scope of deduction. Myths, such as my favorite being Tolkien's cosmogenesis allegory (yes it is an allegory) of the universe arising from a musical theme, do exist.
+Let's derive it formally and as strictly as possible to really make the case.
 
-Assuming nothing but math, I'll derive "something from nothing".
+This is the world's first cosmogenesis deduction, that is deduced in math, but by its absurdity can be considered a myth. Myths are usually more beautiful. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the Universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. Deductively, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though doesn't include the first moment — the one that's actually the cosmogenetic origin moment.
+
+In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
 ## Deduction
 
-> This is a succinct definition of deduction. It's consistent with historical uses, and permits the derivation of arbitrary representation from nothing without additional axiom.
+Let's succinctly define deduction in such a way that's consistent with historical uses.
 
 ### Proofs
 
