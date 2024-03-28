@@ -209,7 +209,7 @@ When my first advisor left in my 3rd year, I had to work without Chenliang's fun
 
 #
 
-The threat meanwhile is to obey the unreasonable demands, or else 6 years of life are wasted. All the money that could've been made trusting some other institution — wasted. Instead, serving their demands — usually engineering work, not research, that benefited them and not me. And all the life experiences that were missed — wasted — for teh sake of indenturment and trauma. 
+The threat meanwhile is to obey the unreasonable demands, or else 6 years of life are wasted. All the money that could've been made trusting some other institution or working elsewhere — miniature expenses. Instead, serving their demands — usually engineering work, not research, that benefited them and not me. And all the life experiences that were missed — wasted — for the sake of indenturment and trauma — collateral damage. 
 
 The demands were not reasonable, and in agglomeration humanly impossible.
 
