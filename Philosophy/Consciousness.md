@@ -1,63 +1,33 @@
-## Representation & Physical
+Consciousness is the singularization of the many into one. First, let's consider why it can't be anything else. The alternative possibility is that consciousness is the many (neurons and all that compose the brain), not singularized into one, interacting as independent bodies within a circuit-type system that produces the observed behaviors of conscious beings. From an external perspective, like with the ["consciousness zombie"](https://en.wikipedia.org/wiki/Philosophical_zombie) thought experiment, that definition would be indistinguishable from the first. But egocentrically, we can recognize that our experience exists beyond just our observable outward behaviors, but has internal components that we observe with a single spectrum observation. Meanwhile, the neurons producing those experiences are separated in space, the chemical messengers that communicate between them themselves have firmament separating their physical matter from that of the other physical matter, for the most part. Some particles in physics, called bosons, are able to occupy the same space as other such particles, but other particles, fermions (named after Enrico Fermi), obey the Pauli exclusion principle, a natural boundary ("firmament", as it's synchronistically called) that separates the quantum states.
 
-What makes something representational rather than physical?
+So even when we look at a single blazing "lifeforce" in nature — let's say a fire metaphorically — we see it as a single fire, a living creature of one nature and quality. But that fire is composed of oxidized hydrogens and carbons spurting out electrons, all divisible and all locally excluding one another. If the particles were human beings, they'd collide, communicate, and interact in numerous infinite ways but ultimately each one would only know one's own experience and the others only their own, and somehow a firmament separates the consciousness of the one from the others, and my brain does not singularize with your brain, and your brain does not singularize with my brain, to my knowledge or yours. But our neurons somehow do, with messengers that unify not just information communication, but experience.
 
-Well, a representation is a physical property that refers to another physical property by analogy, via the interface of an interpreter: a human mind or any kind of reasoning system, such as, for another example, a computer compiler. The physical components require this interpreter to “translate” into the analogized meaning. For instance, the brain’s neural patterns — physically — are enzymes and grey matter and chemical signals and voltages. But by analogy they can represent everything that we perceive, think, and, at least to some degree, experience. Meanwhile, the electrons in a computer physically whirr through a circuit of logic gates, but those logic gates can represent everything expressible by a Turing machine grammar. Our language is sound waves, our poetry is multi-ambiguous translatable analogy, our scientific measurements even are holograms facilitated by communication mediums within/about the measuring devices. 
+Information communication is the alternative possibility to "singularization." The argument might go that your brain communicates the experience information through patterns and encodings, and the illusion of singularized experiences emerges from that. To show that the brain must singularize, it most likely suffices to disprove this alternative possibility, and it is possible to do that through a *reductio ad absurdum* argument: reduction to absurdity, as follows:
 
-Thus, everything we read, scientifically measure via equipment, and *think* to a higher order, is representation.
+Suppose I were to draw every neuron and chemical messenger in your brain at time point $t$ on the first page of a flipbook with pen. And then I drew every neuron and chemical messenger in your brain at time point $t + 1$ on the second page of a flipbook with pen. And so; say I proceeded to do this for up to $N$ time steps in arbitrarily precise detail. Heck, the flipbook can be the size of the moon if it helps the believability of such precision of detail being drawable on its pages with pen ink. But suffice it to say, a flipbook movie is then generated of all of your brain's neural processes, and then I flip those pen-ink stained paper pages. If information communication is all that your human-like consciousness reduces to, then this book composed of mere parchment and ink, is human-like conscious. In fact, it's you-like conscious, experiencing your love, joy, grief, observations, and memories. All by the power of one's pen. If I shrunk it down to the size of a Bible, would you believe me that the book I hand you is not only alive, but when you flip its pages, it experiences everything you did 10 minutes ago? In all likelihood, you would find that claim dubious.
 
-Does that leave any room for physicality in the human experience?
+And likewise, we can extend the analogy to computer circuits, communicating information not on paper but on silicon chips, and not by pen ink but by electrons zipping through open-close logic gates. If the flipbook isn't human-like conscious, then how can this labyrinth of zipping electrons be? Even if those electrons zip through a moon-sized server of GPUs running the most advanced neural network or human brain simulation, their information communication is effectively just the flipping of the paper pages of a flipbook, and once again we obtain absurdity.
 
-It would seem not, if all of our senses are facilitated by neural representation. But this is where the theory of qualia appears. Not all things are represented. Presumably, somewhere beyond our sense perception is a physical world, whose properties are as described above. Presumably, we ourselves belong to such a physical world. And, possibly, some of our experience — though not always the parts we think — do too.
+So the question is, at what point does this information communication become a physical process that produces consciousness?
 
-That experience cannot be produced through representation. If it could, a flipbook could be made conscious by drawing neural patterns in it. Since pen ink on paper is an absurd conception of a human-like consciousness, we can, for the time being, rule it out. Therefore, if consciousness is not purely representation, it must in some portion be physical.
+Well, for one, the physical material matters. That's why it's called matter. It matters. Or else we could simulate your consciousness with a domino chain. Or even with a human centipede/jamboree obeying the exact algorithm of your brain's dance of interactions.
 
-Where in the physical universe these experiences occur could precisely correspond to our locations and our physical beings in physical spacetime, not as analogy. This is qualia, and it is a process of entanglement of the “lower-level” universe byte-code that physically IS — not represents — consciousness.
+So the "grey matter" as it's called that composes your brain is not merely a representation machine, or an optional circuitry, but crucial to the singularization that is consciousness.
 
-That lowest-level form is simply matter. So, what makes something physical rather than representational? Matter, yes. And by definition and consequence, qualia.
+And once we've boiled down the credit for human consciousness to physical matter itself, not just its analogy of representations at the surface-level, we have to ask: (1) where does the physicalness of consciousness begin, and (2) how, mechanically, does it entangle so as to be one consciousness?
 
-## What is Consciousness?
+The simplest answer is the Panpsychist answer, that it begins from the elementary particles of the universe. And, more concretely as I propose, that it singularizes via literal entanglement, coherence states where the qualia of the divisible — base and perhaps neutral — singularizes into the complex, fires and dances of biological experience, perhaps mediated strongly by voltage as well since that accumulates and spikes through the grey matter composite of the brain, and produces electric and magnetic fields that can be picked up by EEG caps in quite precise detail non-invasively even beyond the human skull. Somehow this conglomerate of interactions entangles at the qualia level to produce more than just information communication, as what a paper flipbook could do by one's hand-drawings, or a domino machine, but singularized consciousness, capable of "feeling" those neural representational encodings.
 
-Consciousness is collisions.
+Finally, there is the mystery why the universe has these qualia and entanglement property and function.
 
-Consciousness is collisions in matter — elementary particles, atoms, boats, whatever you want to envision colliding. Each "bump" creates a "feeling" in space. 
+And that is, rather than a mystery, quite an answer.
 
-Therefore as you read this, your computer — perhaps where you're reading it — is "feeling" the *whirring* of electrons. It's — probably — nothing like human consciousness, and in its current form never will be.
+Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is", we'd have to ask, "Well, how did we get *that* extremely specific thing?" The most general assumption is the most reasonable default one.
 
-That's not to say it can't be. The open/close logic gates of a computer do parallel the biological activate-and-spike neuron. ("activate" is borrowing jargon from "AI").
+However, there is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
 
-However, its composition of silicon and physical metals is *not* the same combo of bumps and giggles that your brain goes through, not the same hormonal explosions, or spinal zaps, or neurotransmitter ooglidoos.
+Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise from nothing, a function that transforms nothing into something must exist. But that function is in itself something, so our "nothing" assumption is contradicted as soon as any such function is introduced.
 
-Consciousness is collisions in everything. You are conscious because somehow those collisions "entangle". They do so locally, at least at the hierarchical level of it that we can be sure of — ourselves. That local entanglement in the fabric of physics and spacetime, is you. Its rich complexities are what define you. Its what distinguishes you from the algorithm that runs in whirring electrons of your computer's transisters and microchips.
+One might posit different origins besides "nothing" and "everything" equally general perhaps, such as cyclicality or infinite "turtles all the way down", but these are all specific somethings and cannot be said to be as general as the two mentioned, leaving the same mysteries, arguably no more general than assuming as default our own universe exactly as it is elementarily outright: "Where did the cycle come from?" or "Where did the infinite recursive turtle-stack come from?"
 
-There are many more questions to ask, not just the ones hinted at (collective consciousness? intelligence in the fabric of spacetime?)
-
-For example, less interesting but to stay on theme (consciousness as a physical feeling in everything), what does your computer feel as its algorithmic binary zips and zaps of electrons change through its web of metallic logic gates? Most likely, nothing the rest of the universe doesn't sort of feel. It's not human(-like) consciousness.
-
-But, at some grander level, maybe it is?
-
-Neither is your arm or leg.
-
-Consciousness is composed of many parts. It's not one single body, yet it is. Your brain is a parthenon of Gods, a whole myth of memories and relationships and archetypes, and they singularize, much like your arm or leg, but they're not you.
-
-To what being might we be thumbs on some ungodly control stick?
-
-And, with neuromorphic computers, can we one day approach synthesizing human-like consciousness? Answer: we're not close. But we might be able to grow it in a lab. but we might want to double-think that.
-
-The green little gadget monster of my other GitHub account's profile picture, was in fact — backstory — *grown* in a lab. This myth now exists as representation, but besides the stirring bumps and gigglies of your brain, no, that representation, drawn in precise detail on my profile, is not human-like conscious.
-
-Here's a thought experiment.
-
-What if you drew in a flipbook every precise detail of a human-brain. A *biig* flipbook. Paper and regular pen. Then you flipped its pages. From time $t$ to time $t + n$. Would that hand-drawing on paper be conscious? Could you, produce human-consciousness by drawing on a paper with pen?
-
-By my interpretation, that flipbook would be as conscious as a flipbook with pen ink on it, not as a human.
-
-## Why Consciousness is Probably Matter
-
-Why Consciousness is probably matter
-
-Representation is absurd. We could make a flipbook human-like-conscious with pen ink.
-
-Matter and representation is hard to define, but neurons across humans have different encoding representations and embedding semantics that aren’t shared in a unified language of “these neural patterns are strictly necessary for consciousness.” Therefore the matter is what’s held constant, not the representations. Brains also come in different shapes and sizes.
-
-Lastly, the question is what level of matter. Is all matter somewhat conscious? How does it entangle into human-like consciousness? Chemists and physcists have no experimental evidence of a “consciousness” source or pinpointed emergence. The idea of consciousness as like fire, emerging upon just the right combustion of elements is intuitive, but would require new insights in chemistry and physics. The simplest answer, without contradicting or adding to any known laws of physics is that consciousness is an innate property of the matter that already exists. Somehow it entangles into richer, more complex forms like human-consciousness. Perhaps literally through a process of quantum entanglement between the locally isolated combustions, reactions, and voltage-mediated collisions of our brains.
+But assuming everything gives us a path forward. Perhaps constraints arose from everything due to the insufferability in a singularization that somehow optimized to be the laws of physics that became the Big Bang, and with this intrinsic qualia being ever present in the universe's foundations, the earlier reasoning can both be answered in its high-level and reenforced in its deduction.
