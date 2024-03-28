@@ -40,6 +40,8 @@ This is the world's first cosmogenesis deduction, that is deduced in math, but b
 
 In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
+Since nothing but math is assumed, we conclude there must be a missing component.
+
 ## Deduction
 
 Let's succinctly define deduction in such a way that's consistent with historical uses.
