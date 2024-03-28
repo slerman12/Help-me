@@ -151,6 +151,24 @@ The PhD student handbook has one clause of accountability for the grad school, a
 
 This is simultaneously slavery, humanly impossible, and fascism all wrapped into one.
 
+### Why it's fascism
+
+The medical and learning systems of the University of Rochester have disproven large parts of themselves. But the learning system of the University of Rochester has proven something: that they are fascist. I don't mean to invoke Godwin's law here. This isn't exaggeration or hyperbole, but in a moment will be a proof, as much as there can be. By themselves, these policies might not seem like fascism. Agglomerated, the University of Rochester has ran fascism above their claimed values, visions, and principles.
+
+When my first advisor left in my 3rd year, my would-be 2nd advisor didn't fund me while I had to work for him for months in order to get into his lab so he would accept to be my advisor, hard strenuous work that I already did once by his demand during a traumatic period when I was just recovering from brain damage. The 2nd advisor had already proven how hard it is or can be to find a new advisor. And now I was expected to do that again, but in my 6th year.
+
+I was expected to do that while answering for the new 6-month review with a brand new committee, brand new because multiple committee members and an advisor left with little warning and no accountability. 
+
+I was expected to do all that while I still held onto my pay of less than the living wage in my state, and I did — I even implemented the novel systems-level RL algorithm that was suggested by one of the brand new committee members, the only provided suggestion from any of them. That's a Hell of a lot of engineering work, and I reported having done it to my advisor. 
+
+My 6th-year advisor needed to be replaced. I suggested two faculty, and was rejected or ignored. 
+
+The threat meanwhile is that if the demands aren't met, 6 years of life will be wasted. All the money that could've been made trusting some other institution or working elsewhere — miniature expenses. Instead, serving their demands — usually engineering work, not research — always took priority — spit on — so what if it benefited them and not me. And all the life experiences that were missed — 6 years — for the sake of indenturment and trauma — collateral damage. 
+
+The demands were not reasonable, and in agglomeration inhumane — gavels slammed without just cause just because the independent pieces of policy give them the power to.
+
+They cherrypick the values, visions, and policies, but instead of doing so with the purpose of creating love, they do so without thought or empathy to what's at stake for them vs. what's at stake for someone else, what will have to be done by them, and what will have to be done by the person ruled on. They are bad rulers. And promote the policy of fascism when any ambiguity lets them. They promote greed and self-serving decisions and impartial rulings whenever reward or laziness is at stake, and thoughtlessness whenever something doesn't directly affect them.
+
 ### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
@@ -200,21 +218,3 @@ I didn't decline their research plan and they didn’t provide one. Chenliang on
 Chris Kanan suggested I innovate a new reinforcement learning systems algorithm. That in itself is a huge suggestion. Other than that, no other concrete research plan advice was provided. [Here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the commit in which I innovated a new reinforcement learning systems algorithm, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
 
 Can edit to: [Here](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) is the accelerated and parallelized sampling without replacement for RL algorithm with adaptive, truly-shared RAM memory, memory-mapping, and dynamically growing Replay storage, and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is one of the commits as I finished implementing it, just prior to the July 24th date when I was notified that my stipend was going to be cut and 2nd advisor leaving.
-
-### Why it's fascism
-
-The medical and learning systems of the University of Rochester have disproven large parts of themselves. But the learning system of the University of Rochester has proven something: that they are fascist. I don't mean to invoke Godwin's law here. This isn't exaggeration or hyperbole, but in a moment will be a proof, as much as there can be. By themselves, these policies might not seem like fascism. Agglomerated, the University of Rochester has ran fascism above their claimed values, visions, and principles.
-
-When my first advisor left in my 3rd year, my would-be 2nd advisor didn't fund me while I had to work for him for months in order to get into his lab so he would accept to be my advisor, hard strenuous work that I already did once by his demand during a traumatic period when I was just recovering from brain damage. The 2nd advisor had already proven how hard it is or can be to find a new advisor. And now I was expected to do that again, but in my 6th year.
-
-I was expected to do that while answering for the new 6-month review with a brand new committee, brand new because multiple committee members and an advisor left with little warning and no accountability. 
-
-I was expected to do all that while I still held onto my pay of less than the living wage in my state, and I did — I even implemented the novel systems-level RL algorithm that was suggested by one of the brand new committee members, the only provided suggestion from any of them. That's a Hell of a lot of engineering work, and I reported having done it to my advisor. 
-
-My 6th-year advisor needed to be replaced. I suggested two faculty, and was rejected or ignored. 
-
-The threat meanwhile is that if the demands aren't met, 6 years of life will be wasted. All the money that could've been made trusting some other institution or working elsewhere — miniature expenses. Instead, serving their demands — usually engineering work, not research — always took priority — spit on — so what if it benefited them and not me. And all the life experiences that were missed — 6 years — for the sake of indenturment and trauma — collateral damage. 
-
-The demands were not reasonable, and in agglomeration inhumane — gavels slammed without just cause just because the independent pieces of policy give them the power to.
-
-They cherrypick the values, visions, and policies, but instead of doing so with the purpose of creating love, they do so without thought or empathy to what's at stake for them vs. what's at stake for someone else, what will have to be done by them, and what will have to be done by the person ruled on. They are bad rulers. And promote the policy of fascism when any ambiguity lets them. They promote greed and self-serving decisions and impartial rulings whenever reward or laziness is at stake, and thoughtlessness whenever something doesn't directly affect them.
