@@ -173,6 +173,8 @@ They cherrypick the values, visions, and policies, but instead of doing so with 
 
 In this email, the possibility of reinstatement is mentioned, but no details are given on how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements without reply, and suggested two to the department, this path to reinstatement isn't a real believable path, "mutual understanding" or not.
 
+Also, I cannot endure more meetings and deliberations after this. They are cancelled.
+
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
 From: **CS department chair**
