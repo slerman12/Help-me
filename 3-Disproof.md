@@ -207,7 +207,7 @@ The medical and learning systems of the University of Rochester have disproven l
 
 When my first advisor left in my 3rd year, my would-be 2nd advisor didn't fund me while I had to work for him for months in order to get into his lab so he would accept to be my advisor, hard strenuous work that I already did once by his demand during a traumatic period when I was just recovering from brain damage, due to the arbitrary, unaccounted-for departure of my first advisor. The 2nd advisor had already proven how hard it is or can be to find a new advisor. And now I was expected to do that again, but in my 6th year.
 
-I was expetced to do that while answering for the new 6-month review with a brand new committee, brand new because multiple committee members and an advisor left with little warning and no accountability. 
+I was expected to do that while answering for the new 6-month review with a brand new committee, brand new because multiple committee members and an advisor left with little warning and no accountability. 
 
 I was expected to do all that while I still held onto my pay of less than the living wage in my state, and I did — I even implemented the novel systems-level RL algorithm that was suggested by one of the brand new committee members, the only provided suggestion from any of them. That's a Hell of a lot of engineering work, and I reported having done it to my advisor. 
 
