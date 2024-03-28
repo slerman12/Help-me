@@ -1,5 +1,3 @@
-> Huge disclaimer: this is in part humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
-
 # Archetypal Madness
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
@@ -34,7 +32,9 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Okay, we've gotten a construct for time and an unhalting Turing machine that presumably eventually (or somehow) cycles back to its origin starting state. We got this from hacking the definition of equivalence. We will take a step back now and derive it a little more formally. It is stupid, but perhaps there's nothing stopping us from doing this re-defining and obtaining a deductive logic from which cosmogenesis could theoretically make sense, noting: the Big Bang Theory is not a cosmogenesis theory but chronicles the early moments and evolution of the observable beginning of the universe. An un-mythological cosmogenesis theory has, perhaps, yet to be proposed in the scope of deduction. Myths, such as my favorite being Tolkien's cosmogenesis allegory (yes it is an allegory) of the universe arising from a musical theme, do exist.
+Note: this was humor, with a philosophical point about deduction and the "knowability" of any cosmogenesis theory.
+
+But okay, we've gotten a construct for time and an unhalting Turing machine that presumably eventually (or somehow) cycles back to its origin starting state. We got this from hacking the definition of equivalence. We will take a step back now and derive it a little more formally. It is stupid, but perhaps there's nothing stopping us from doing this re-defining and obtaining a deductive logic from which cosmogenesis could theoretically make sense, noting: the Big Bang Theory is not a cosmogenesis theory but chronicles the early moments and evolution of the observable beginning of the universe. An un-mythological cosmogenesis theory has, perhaps, yet to be proposed in the scope of deduction. Myths, such as my favorite being Tolkien's cosmogenesis allegory (yes it is an allegory) of the universe arising from a musical theme, do exist.
 
 Assuming nothing but math, I'll derive "something from nothing".
 
