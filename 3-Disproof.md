@@ -216,6 +216,3 @@ My 6th-year advisor needed to be replaced. I suggested two faculty, and was reje
 The threat meanwhile is that if the demands aren't met, 6 years of life will be wasted. All the money that could've been made trusting some other institution or working elsewhere — miniature expenses. Instead, serving their demands — usually engineering work, not research — always took priority — spit on — so what if it benefited them and not me. And all the life experiences that were missed — 6 years — for the sake of indenturment and trauma — collateral damage. 
 
 The demands were not reasonable, and in agglomeration inhumane. 
-
-We are so used to listening to these forces of mind control that tell us all of this is acceptable. But read these words: this is not.
-
