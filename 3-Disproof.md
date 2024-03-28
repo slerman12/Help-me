@@ -207,7 +207,11 @@ The medical and learning systems of the University of Rochester have disproven l
 
 When my first advisor left in my 3rd year, I had to work without Chenliang's funding for months in order to get into his lab, hard work — a top-venue paper while brain damaged. He'd already proven how hard it is or can be to find a new advisor. And now I was expected to do that in my 6th year again, while answering for the 6-month review with a brand new committee, since the previous committee and advisors could all leave without accountability, and while being paid less than the living wage in my state, including that I implemented a novel systems-level RL algorithm by committee member's demand, the only provided suggestion from any of the committee members, and a new committee member no less, in two-months time, a Hell of a lot of engineering work to do to get terminated, without review. And this is where their memory lapses. My 6th-year advisor had already proven how hard it is to get a new advisor. Without pay, months of engineering work even while brain damaged, now demanded again amid yet other demands, just because they say so.
 
-Obey the unreasonable demands, or else 6 years of my life are wasted, and all the money I lost by serving their demands — usually engineering work, not research, that benefited them more than me. And all the life experiences that were missed for an indenturment and trauma. And the demands were not just unreasonable, but in agglomeration, humanly impossible.
+#
+
+The threat meanwhile is to obey the unreasonable demands, or else 6 years of life are wasted. All the money that could've been made trusting some other institution — wasted. Instead, serving their demands — usually engineering work, not research, that benefited them and not me. And all the life experiences that were missed — wasted — for teh sake of indenturment and trauma. 
+
+The demands were not reasonable, and in agglomeration humanly impossible.
 
 We are so used to listening to these forces of mind control that tell us all of this is acceptable. But read these words: this is not.
 
