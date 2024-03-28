@@ -184,7 +184,7 @@ We thus obtain a strongly connected directed graph (potentially expanding in rea
 
 As for the existence of the un-specified deducer, usually this doesn't need proving in a derivation, but just in case, here is proof to formalize that without further axiom: "You observe, therefore an observer (you) exists." $\square$
 
-> One critique you can make is that the definition of math uses circular logic. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so. Therefore such circular deifnitions must be acceptable, or else math isn't. $\square$
+> One critique you can make is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, assuming it can theoretically consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. $\square$
 
 # Afterward
 
