@@ -120,7 +120,7 @@ In other words, defined as: some sequence of numerically representable deduction
 
 **Proof.**
 
-$(()) \rightarrow (\langle\rangle)$. (Definition 7)
+$() \rightarrow (\langle\rangle)$. (Definition 7)
 
 $(\langle\rangle)  \rightarrow (\langle\langle\rangle\rangle)$. (Axiom 1)
 
