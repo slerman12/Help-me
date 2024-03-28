@@ -182,7 +182,7 @@ We thus obtain a strongly connected directed graph (potentially expanding in rea
 
 > I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$.
 
-As for the un-specified deducer, in this case it's us and we definitely exist. Here is proof to formalize that without further axiom: "You observe, therefore an observer (you) exists." $\square$.
+As for the un-specified deducer, in this case it's us and we definitely exist. Here is proof to formalize that without further axiom: "You observe, therefore an observer (you) exists." $\square$
 
 # Afterward
 
