@@ -194,6 +194,20 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 And that path makes the most sense because we have seen that, otherwise, assuming math combined with information patterns as the fundamental all, then the above deduction derives the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative: the alternative is the existence of a matter that is neither math nor information pattern — perhaps nothing else than some kind of singularizing qualia.
 
+# Conclusion
+
+Either:
+
+1. Math and information patterns are the sole fundamental properties of the universe.
+   - In which case, I have done the monumental work of deriving cosmogenesis.
+
+or
+
+2. Math and information patterns are not the sole fundamental properties of the universe.
+    - In which case, I have done the monumental work of showing that math and information patterns are not the sole fundamental properties of the universe.
+    - In which case, there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
+    - One might think to propose simply "matter" and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. I propose "singularizing qualia" is the only concrete third alternative, thereby doing the monumental work of evidencing a kind of primordial consciousness as a basis of the universe.
+
 # Afterward
 
 Hypothetically, how far can we get without axioms?
