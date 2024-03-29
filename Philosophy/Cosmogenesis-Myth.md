@@ -189,10 +189,6 @@ As for the existence of the un-specified deducer, usually this doesn't need prov
 
 Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning (qualia?) is distinguishable by the deduction graph that they're in, or for that matter, different deduction graphs cannot substitute one another. Thus unique entities may be created from equivalents.
 
-> More philosophically, this derivation branches out into everything, including representations of choices and math itself. Perhaps, amid that everything, some distinguishable nothings defined constraints on themselves, cyclically recreating the math that bore them, and physics by which the overwhelming properties of everything — including the representational meaning of suffering — can be curtailed — and a purpose can be striven for — an objective, one to which the parameters within physics may slowly optimize — towards which the arc of time may bend.
-
-This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
-
 > [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
 
 And that path makes the most sense because we have seen that, otherwise, assuming math as the fundamental all, the above deduction is the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative.
