@@ -150,9 +150,9 @@ $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\Omega^{(0)}, \Om
 
 **Proof.**
 
-Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ where $i$ denotes the position on the tape and $t$ denotes the time point.
+Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ of size $N$ where $i$ denotes the position on the tape and $t$ denotes the time point.
 
-$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \in \mathbb{N}, \tau \in (0, 1)$.
+$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \leq N \in \mathbb{N}, \tau \in (0, 1)$.
 
 This is the initial state, defined by $\tau$.
 
