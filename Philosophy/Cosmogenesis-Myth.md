@@ -204,7 +204,7 @@ This part isn't derived, but this document is called "Cosmogenesis Myth" after a
 
 > [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
 
-And that path makes the most sense because we have seen that, otherwise, assuming math combined with information patterns as the fundamental all, then the above deduction derives the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative: the alternative is the existence of a matter that is neither math nor information pattern — perhaps nothing else than some kind of singularizing qualia.
+And that path will make the most sense in a moment because we have seen that, otherwise, assuming math combined with information patterns as the fundamental all, then the above deduction derives the truth of cosmogenesis, something I consider to be a bigger absurdity than the alternative: the alternative is the existence of a matter that is neither math nor information pattern — perhaps nothing else than some kind of singularizing qualia.
 
 # Conclusion
 
