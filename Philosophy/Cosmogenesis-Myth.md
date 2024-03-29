@@ -185,6 +185,8 @@ We thus obtain a strongly connected directed graph (potentially expanding in rea
 As for the existence of the un-specified deducer, usually this doesn't need proving in a derivation, but just for my satisfaction, here is proof to formalize that without further axiom: "You observe, therefore an observer (you) exists." $\square$ </br>
 &ensp;&ensp;&bull;&nbsp; Note: derivation doesn't depend on this point. The proof stands entirely without it.
 
+# Critiques
+
 > One critique you can make is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, since it can consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. (I can't put a $\square$ symbol here because if math isn't acceptable, then neither is the notion of Q.E.D.).
 
 Yet another critique: why go this roundabout way and not just represent the representational universe with some hypothetical decimal, e.g. $\pi$, that perhaps contains within it an encoding of the same constructed Turing machine? Well, the number line is a bigger assumption than the one I'm making, and requires specific definitions assumed as true, perhaps even about the physical universe. I have made no further assumptions than deduction itself.
