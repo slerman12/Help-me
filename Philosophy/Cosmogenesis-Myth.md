@@ -178,7 +178,7 @@ By Theorem 4. $\square$
 
 ---
 
-More generally, depending on the definition of $\Omega$, we thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
+We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
 
 > I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$.
 
