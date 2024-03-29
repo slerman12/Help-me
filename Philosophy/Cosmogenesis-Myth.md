@@ -206,7 +206,7 @@ or
 2. Math and information patterns are not the sole fundamental properties of the universe.
     - In which case, I have done the monumental work of showing that math and information patterns are not the sole fundamental properties of the universe.
     - In which case, there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. I propose "singularizing qualia" is the only concrete third alternative, thereby doing the monumental work of evidencing a kind of primordial consciousness as a basis of the universe.
+    - One might think to propose simply "matter" and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. I propose "singularizing-qualia" is the only concrete third alternative, thereby doing the monumental work of evidencing a kind of primordial consciousness as a basis of the universe.
 
 # Afterward
 
