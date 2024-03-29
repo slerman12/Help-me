@@ -2,21 +2,21 @@
 
 I am Chenliang, Sam's advisor. He writes this with telepathic interference from Josh, Sam's friend. Together, and this is Sam speaking, we shall derive the universe. Not derivatively of course. That would require ample physical sciences background. But sufficiently well-reasonedly, with made-up words here and there. Let's begin with a less exhausting setup. "I observe." It is true, therefore it is. At any rate, fading into sleep-deprivative exhaustion as I may be, I am reluctant to say this won't work. Largely because of the intensive time and money — "minimum wage" Josh chimes in — investment that has gone into this project. Well, so be it. The whole of the universe, in one shebang. It starts with time. But time exists as a physical construct not a mathematically deduced one. So let us find an incredibly stupid place to hide it. In equivalence.
 
-Alright. Given $A = B$, we know $A \rightarrow B$ and $B \rightarrow A$. We don't know *when* $A \rightarrow B$. Is it in $1$ deductive step $A \rightarrow_1 B$? Is it in $n$ deductive steps $A \rightarrow_n B$. From this, we get a cheap hacky way to derive something out of literally nothing.
+Alright. Given $A$ $=$ $B$, we know $A$ $\rightarrow$ $B$ and $B$ $\rightarrow$ $A$. We don't know *when* $A$ $\rightarrow$ $B$. Is it in $1$ deductive step $A$ $\rightarrow_1$ $B$? Is it in $n$ deductive steps $A$ $\rightarrow_n$ $B$. From this, we get a cheap hacky way to derive something out of literally nothing.
 
 Let us start with nothing $\emptyset$.
 
 Don't regard it as the empty set. Don't regard it at all.
 
-$\emptyset_0 = \emptyset_1 = \cdots$
+$\emptyset_0$ $=$ $\emptyset_1$ $=$ $\cdots$
 
 are all nothing, with just subscripts added.
 
 There we now have causality, constrained only to a cyclical loop between every nothing and every other nothing. e.g.
 
-$\emptyset_0 \rightarrow \emptyset_1 \rightarrow \cdots$
+$\emptyset_0$ $\rightarrow$ $\emptyset_1$ $\rightarrow$ $\cdots$
 
-$\emptyset_0 \leftarrow \emptyset_1 \leftarrow \cdots$
+$\emptyset_0$ $\leftarrow$ $\emptyset_1$ $\leftarrow$ $\cdots$
 
 These nodes can connect in any number of ways and create a multi-branched graph. The ambiguities are not necessary. Let us define one such branch/construct that we can say is "Turing equivalent" and be done with it.
 
@@ -32,9 +32,9 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Admittedly, this was humor, but the point is more profound than it may appear. 
+Admittedly, this was humor, but the point is more profound than it may appear.
 
-Let's derive it formally and as strictly as possible to really make the case.
+Let's derive it formally and as strictly as possible now.
 
 Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the Universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. Deductively, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though doesn't include the first moment — the one that's actually the cosmogenetic origin moment.
 
@@ -54,11 +54,11 @@ $($ Axiom  $A ) \coloneqq (\exists A)$.
 
 **Definition 2.** Definition.
 
-$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$. 
+$($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$.
 
 **Definition 3.** Equivalence.
 
-$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively. 
+$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively.
 
 Instantaneous equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
@@ -78,7 +78,7 @@ $($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \col
 
 $($ Sets of anything defined... $(A, B, ...))$ $\coloneqq ((A, B, ...))$
 
-denoted by parentheticals. 
+denoted by parentheticals.
 
 $A$ is a single hypothetical.
 
@@ -112,7 +112,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness). 
+> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something From Nothing
 
@@ -146,7 +146,7 @@ $\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarr
 
 $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\Omega^{(0)}, \Omega^{(1)}, ...) \rightarrow (\exists \Omega)$. (Definition 10) $\square$
 
-**Theorem 4.** The universe $\Omega$ is at least a non-halting Turing machine. 
+**Theorem 4.** The universe $\Omega$ is at least a non-halting Turing machine.
 
 **Proof.**
 
@@ -166,7 +166,7 @@ $\emptyset_{\tau,j,t} \rightarrow_1 \emptyset_{\tau,j,t+1}$.
 
 Now, complete the equivalence cycle required by Theorem 2 and Definitions 3 and 9 by the following limit:
 
-$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$. 
+$\lim_{n\rightarrow\infty} \emptyset_{\tau,i,n} \rightarrow_1 \emptyset$.
 
 The infinitum allows us to leave the potential cyclicality of the universe a mystery. $\square$
 
@@ -186,6 +186,8 @@ As for the existence of the un-specified deducer, usually this doesn't need prov
 &ensp;&ensp;&bull;&nbsp; Note: derivation doesn't depend on this point. The proof stands entirely without it.
 
 > One critique you can make is that the definition of math uses circular logic or infinite recursion, definitions that depend on definitions that cross-reference back to themselves. A dictionary always cross-references itself. Math is built on definitions. Every definition always points to another definition. A finite dictionary cannot exist without circular logic, an infinite dictionary cannot exist without infinite recursions, and math is built atop a dictionary. Therefore math has to be so, assuming it can theoretically consist of finite or infinite definitions. Therefore such definitions must be acceptable, or else math isn't. (I can't put a $\square$ symbol here because if math isn't acceptable, then neither is the notion of Q.E.D.).
+
+Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph due to the constraint on their possible positions in the deduction graph.
 
 # Afterward
 
@@ -219,7 +221,7 @@ Piecing these together, we could probably derive a non-axiomatic universe, but I
 
 ---
 
-Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))^\text{ \color{blue}[1.]}$, with a qualia to justify the development of that something into something specific. 
+Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))^\text{ \color{blue}[1.]}$, with a qualia to justify the development of that something into something specific.
 
 $\text{\color{blue}[1.]:}$ Just spitballing at this time.
 
@@ -241,7 +243,7 @@ $x$ is the cause, $y$ is the effect, under some dynamics system $\mathrm{R}$.
 
 $\mathbf{P}((y, h^{(n)}) \sim \mathrm{R}^n(x, h^{(0)}) \vert h^{(n)}, n \in \mathcal{N}, \mathrm{R}, x, h^{(0)})$
 
-where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$. 
+where $\mathrm{R}$ is the rules of math. $y$ is a theorem or theorem set, $x$ is an axiom or axiom set. $\mathrm{R}$ is Turing-complete due its rewritable memory state $h$. Ordinarily, $\mathrm{R}$'s rules are deterministic, a side effect being that the probability of a theorem $y$ is also deterministic, $1$ or $0$.
 
 Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as epistemological math, rooted in belief.
 
@@ -249,15 +251,15 @@ Non-deterministic math, e.g. an "Occam's razor" "theorem", we will refer to as e
 
 $\mathbf{P}(B \vert E) = \frac{\mathbf{P}(E \vert B)\mathbf{P}(B)}{\mathbf{P}(E)}$
 
-Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may: 
+Physics, causality, and math have utility and correlative predictiveness to our memories and senses, but beyond observing what's in front of us, these established beliefs are symbolic references within the brain, and the referents are memories, observations, and beliefs. As René Descartes derived with "*cogito, ergo sum*": "I doubt, therefore I am," we can further deduce inwardly. If I may:
 
-"I observe, therefore I am observing, therefore I am. 
+"I observe, therefore I am observing, therefore I am.
 
 I observe many referents to my observation, including memories, feelings, and viscera. There's also belief. I believe X, Y, Z. I justify X, Y, Z by reasons, another element of belief, X', Y', Z'."
 
 Each step is deeper into the psyche.
 
-Physics, causality, and math are beliefs. 
+Physics, causality, and math are beliefs.
 
 Philosophy includes these meta-beliefs as well as others.
 
