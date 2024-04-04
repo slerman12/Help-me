@@ -3,10 +3,12 @@
 # Opposing views
 
 <p align="center">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
 <picture>
   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
 </picture>
+</a>
 </p>
 
 ## Part 1 
@@ -40,10 +42,12 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <p align="center">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
 <picture>
   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
 </picture>
+</a>
 </p>
 
 ## Part 2
@@ -80,10 +84,11 @@ Intermission...
 ### Benzodiazepine mechanism of action
 
 <p align="center">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/ea219957-54e8-4e7b-8841-5fd27821036a">
 <picture>
   <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/ea219957-54e8-4e7b-8841-5fd27821036a">
   <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/ea219957-54e8-4e7b-8841-5fd27821036a">
-</picture><br><i></i>
+</picture></a><br><i></i>
 </p>
 
 This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
