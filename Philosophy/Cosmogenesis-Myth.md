@@ -44,7 +44,7 @@ Since nothing but math is assumed, we conclude there must be a missing component
 
 ## Deduction
 
-Let's define deduction succinctly and in such a way that's consistent with historical uses.
+Let's define deduction succinctly and in such a way that's consistent with historical use.
 
 ### Proofs
 
