@@ -38,7 +38,7 @@ Let's derive it formally and strictly.
 
 Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I like this one. In deduction, or physics rather, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though its cosmology has never deduced or explained the first moment.
 
-In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+Let's proceed below with an original deductive theory-myth. In short, assuming nothing but math, I'll derive "something from nothing." *I won't even assume the existence of nothing.*
 
 Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction is true.
 
