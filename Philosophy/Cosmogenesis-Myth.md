@@ -116,6 +116,8 @@ In other words, defined as: some sequence of numerically representable deduction
 
 ## Something From Nothing
 
+Let's now build something from nothing.
+
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
 **Proof.**
