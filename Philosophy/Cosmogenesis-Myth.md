@@ -32,19 +32,19 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-Now, all humor intended, but the point is more profound than it may appear.
+Admittedly, this was humor, but the point is more profound than it may appear.
 
-Let's derive it formally and strictly.
+Let's derive it formally and as strictly as possible now.
 
-Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. In contrast, the Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
+Cosmogenesis myths usually aren't mathematically deduced. For example, the Tolkien myth of Middle Earth's cosmogenesis describes the Universe as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. Deductively, the Big Bang Theory makes it as far back as the earliest moments of the observable universe, though doesn't include the first moment — the one that's actually the cosmogenetic origin moment.
 
 In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
-Since nothing but math is assumed, we conclude of a missing component, or else this deduction is true.
+Since nothing but math is assumed, we conclude there must be a missing component, or else this deduction is true.
 
 ## Deduction
 
-Let's define deduction succinctly and in such a way that's consistent with historical use.
+Let's succinctly define deduction in such a way that's consistent with historical uses.
 
 ### Proofs
 
@@ -115,8 +115,6 @@ In other words, defined as: some sequence of numerically representable deduction
 > &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something From Nothing
-
-Let's now build something from nothing.
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
@@ -193,7 +191,7 @@ One critique that can be made is that the definition of math uses circular logic
 
 Yet another critique: why go this roundabout way and not just represent the representational universe with some hypothetical decimal, e.g. $\pi$, that perhaps contains within it an encoding of the same constructed Turing machine? Well, the number line is a bigger assumption than the one I'm making, and requires specific definitions assumed as true, perhaps even about the physical universe. I have made no further assumptions than deduction itself. Though of course, a number line can be defined, e.g., with decimal integers and operators such as $\lt, \gt$. Their existence isn't immediately derived and would have to be assumed.
 
-That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitons, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) to exist or any associated operators ($\lt, \gt$ for example). See [Afterward ](#Afterward) for how (1) can be exploited further.
+That being said, there is now the critique of how I obtain the subscripts of the nothings if there is no a priori number line. First, the subscripts don't need to be numbers. For all intents and purposes, they can be any distinguishing variables. Deductively, it's debatable whether subscripts (as opposed to the variables/existences themselves) even need defining or existence. I think probably not. But suppose they have to be existing, distinguishing variables. Then such can be constructed as follows: (1) a hidden definition in the definition of definition is the existence of that definition, (2) then arbitrary definitons, bijective to a number line, can be constructed as placeholders for any such subscript variables, without actually assuming the content of those definitions (numbers) or any associated operators ($\lt, \gt$ for example) to exist. See [Afterward ](#Afterward) for how (1) can be exploited further.
 
 Another critique, I dare add, is that the cheap hack of time into equivalence has never been used before in defining equivalents, but mathematically speaking, this is internally consistent with the definition of deduction as having mandatory intermediary deductive steps, something that was always universally true. This allows equivalents to be distinguished and not swappably interchangeable within a single deduction graph such as $\Omega$ due to the constraint on their possible positions in $\Omega$. That means their implied existence is shared between all of them, but their representational meaning depends on the deduction graph that they're in, or for that matter, different deduction graphs cannot be inter-exchanged with one another. Thus unique data structures may be created from equivalents. They can even grow and expand over time, or have implications that step between deduction graphs dynamically to, for example, reuse nothing-subscripts to represent 0s and 1s with the same nothings rather than all with different nothings (Theorem 5 kind of simplifies this by using different nothings).</br>
 &ensp;&ensp;&bull;&nbsp; Heck, if I really wanted to construct a specific "Cosmogenesis Myth", I could define a stochastic recursive function through this mechanism, via a deduction graph that points stochastically from the original nothing to a binary bit (or some other encoding), that infinitely points to the original nothing of a next deduction graph which does the same thing, inductively bootstrapping a universe, one whose deduction is guided by the deducer's purpose and sensibilities regarding the feeling of the representations, with the deducer being an unstated self-proving axiom of any/the deduction.
