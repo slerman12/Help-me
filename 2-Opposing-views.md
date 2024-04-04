@@ -39,6 +39,13 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
+<p align="center">
+<picture>
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
+</picture>
+</p>
+
 ## Part 2
 
 - **University-hospital psychiatrists**
@@ -74,7 +81,7 @@ All the while I begged my doctors, from the psychiatrists in the hospital the fi
 <picture>
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
   <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
-</picture><br><i>Modified AI-generated image via Adobe Express. 
+</picture><br><i>Modified AI-generated image. 
   <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
 <br>To do: Find a better image that does me more justice.</i>
 </p>
