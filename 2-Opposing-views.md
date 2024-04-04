@@ -55,40 +55,27 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 ### Psychiatrists
 
-I was coerced to take benzodiazepines. At first, it was like being drunk every day and pleasant. After a month, I was in cognitive decline. After a few months, the experience was like burning in Hell. Excruciating agony, inability to think or remember, torture from every depth of mind, cognition, and consciousness.  
-
-No, that's not the beginning...
-
-Backtrack...
+This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state. I get hospitalized. They force me to take benzodiazepines. I can barely recall those days because the dosage was so high... and I was \*so high\*. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. So those days were a blur. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
-Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced and stress-inducing eczema, and social anxiety. And I remember carefully tabulating when I could take one because they reduced social anxiety. I knew they were dangerous. I warily took a quarter of a milligram before, less than once per every two weeks, if that, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and mental blurriness. This was before the hospitalization, at the once at most two weeks rate. The hospital rate was beyond unprecedented for me. I'm 5'5", 110lb.
+Damn. I'm sorry. This is too hard. 
+
+Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced and stress-inducing eczema, and social anxiety. And I remember carefully tabulating when I could take one because they reduced social anxiety. I knew they were dangerous. I warily took a quarter of a milligram before, less than once per every two weeks, if that, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and mental blurriness. This was before the hospitalization, at the once at most two weeks rate. The hospital rate was beyond unprecedented for me. I'm a 5'5" 110lb guy.
 
 I had to stay there for a month and they forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. 1/4 of a milligram, once every two weeks at most, had side effects. 48x-12x that dosage, every day.
 
-That whole month I was high, except as the fog rolled in towards the end. But the chemical waterboarding only began there.
+That whole month was a “blast”, thanks (1) to Lily being there in the psychiatric ward with me and two other friends I'd made, but also because (2) I was high as “complete balls” the whole time, except as my brain's gabaminergic system caught wind and began to downregulate GABA. But the chemical waterboarding only began there.
 
 They said they'd ween me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one seemed to want to ween me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would ween me off after the hospitalization, though they did gradually reduce the dose.
 
-He didn't, and he was a bastard.  I saw him for 6 months and don't remember his name either. But not because of being high. At that point, I was in severe cognitive decline. And the euphoria was turning into excruciating anxiety and fear, and then gray cloud and fog, and terror. I should've weened myself off, but not only did the drug effect impair my cognition, but because of the terror-state I was in due to the drug, my self-confidence was too low to defy my doctor’s orders, even as every rational thought told me I should. I listened to him for six months, arguing as he kept vaguely prolonging a distant eventual taper date, for no justification specified other than falling back on clinical authority. I argued and I think that's most of what contributed to his doubling down.
+He didn't, and he was a bastard. I saw him for 6 months and don't remember his name either. But not because of being high. At that point, I was in severe cognitive decline. And the euphoria was turning into excruciating anxiety and fear, and then gray cloud and fog, and terror. I should've weened myself off, but not only did the drug effect impair my cognition, but because of the terror-state I was in due to the drug, my self-confidence was too low to defy my doctor’s orders, even as every rational thought told me I should. I listened to him for six months, arguing as he kept vaguely prolonging a distant eventual taper date, for no justification specified other than falling back on clinical authority. I argued and I think that's most of what contributed to his doubling down.
 
 3 months in, after reporting that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low.
 
-All the while I begged my doctors, from the psychiatrists in the hospital the first month to the outpatient doctor all 6 months, to wean me off and argued *to them* the dangers of benzodiazepines. The benzos were forced onto me at extreme doses in the hospital against my will at the threat of court order. Even "they were just doing their jobs" doesn't cut it. They were coerced onto me. I was in severe agony three months in, the doctor refused to help with the taper and wanted to increase the dose, and I had to keep taking them, then I was in severely worse agony six months in. I wasn't able to recall important facts or do basic math. I had no choice and had to taper off by myself, and thank God I did because at that point, you might not agree with calling it brain damage, but it literally was, and if I'm speaking metaphorically, it was active chemical waterboarding. Then the agony persisted for more than a year after, indescribable, severe and debilitating. I was unable to leave the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely gray and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I wasn't able to do 4*7. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain.
+I can't describe this. 
 
-<p align="center">
-<picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
-  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
-</picture><br><i>Modified AI-generated image. 
-  <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
-<br>To do: Find a better image that does me more justice.</i>
-</p>
-
-That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
-
-The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
+Intermission...
 
 ### Benzodiazepine mechanism of action
 
@@ -113,11 +100,60 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 > By the way, I made these arguments to my outpatient doctor, and without any specific retort, he insisted on increasing the dosage. There is an authority/power play dynamic between psychiatrists and the patients they oversee, where literal healing is secondary to something else.
 
-#
+### Hospitalization
 
-To recap, the net effect of the University of Rochester healing system was not just extremely negative, but there was no positive effect. I lost all of my hair, including eyebrows and eyelashes — as a 5'5" 110lb guy with social anxiety, at best I look like the kid Aang from Avatar the Last Airbender (speaking of, the University of Rochester healing system realistically can do all of this to kids too) — and was benzo-brain damaged, coerced terrifyingly to suffer severe cognitive decline, seizure-like shaking, and enormous pain comparable to perpetual burning alive (in literal fire, in literal warzone, because those neurochemical activity are much the same experience of suffering internally even modified of the external precise details that validate that agony), every day, every night (usually unable to fall asleep as a result), for more than a year, independent of any prior issues I had before coming to my doctors, and these drugs that my so-called "healers" prescribed.
+> TLDR: I describe Mobi, a 16 year old who they kept hostage and made take benzos for probably longer than I did, Hudson who they electroshocked, Jeremiah a nice guy who was never even the slightest violent who the university-hospital police officers tackled and pinned down violently on a driveway, and Lily (not real name), a 24 year old who had sex with a 50-something janitor in the university psychiatric ward.
 
-> TODO: Oh shit, I just remembered. Describe [name-redacted], a 16 year old who they kept hostage and made take benzos for probably longer than I did, [name-redacted] who they electroshocked, [name-redacted] a nice guy who was never even the slightest violent who the university-hospital police officers tackled and pinned down violently on the floor, and [name-redacted], a 23 year old who had sex with a 50-something janitor in the university psychiatric ward. 
+Describing these events is really hard. I'm gonna try to do it in story form (at least for interpretability). I really want to do justice to the injustice, but in story form, it might not. The only way I can think to frame these events is around the context of someone I met in the hospital, Lily. She made the month there tolerable and enjoyable. Without her, like on other hospitalizations, like one where I was kept in the geriatric unit for elderly patients, the hospital environment and coercions would've been traumatic. And they were, before and after, for different reasons.
+
+Lily was 24 when we met. While I was there, we played Guitar Hero with our friend Hudson and another guy. I got her to do yoga, since I was still doing all my yoga and meditation regimen while there and, later, meditation with me. Literally this is stream of consciousness, but: even when she was in coke withdrawal later in hospital-provided housing after our hospitalization, I got her to slow down from the extreme tortured state and we meditated together. I even gave her a mantra, one I gleaned once somewhat illegitimately from the Transcendental Meditation (TM) list of Vedic mantras, perhaps a bad idea but the Vedic-sounding formalism got her to value the meditation session. No wait, it was one my mom used, I never did anything with the illegitimate ones except use the adjacent information to learn more about what the "advanced techniques" were about since I was skeptical. My mom and I got ours legitimately through the TM program. Mine has a coincidental meaning today but I'm not allowed to say what it is because in TM, mantras are usually kept personal but my mom already told me her's and doesn't meditate much and Lily needed it. Mantra meditations are scientifically backed by the way. And pop culturally, they aren't woo woo either. TM is the program the Beatles endorsed that the song "Across the Universe" is about. Jerry Seinfeld among others, like Russell Brand and the director of Twin Peaks David Lynch, pretty adamantly endorsed TM as well, not to mention plural millennia of Upanishad wisdom and the recent influx of analogous techniques in non-psychoactive therapeutic practice that teach overlapping disciplines. Personally, I don't endorse anything because I don't want to be accountable for a stranger's (as opposed to friend's) bad experiences with a meditation that might have better studied alternatives with blame placeable elsewhere. Backtracking to the hospital again, I was also doing Pranayama as well, a breathing technique, and eating extremely healthy (my mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and probably would've been glad to eat a diet like that if the hospital had any real substitute for the processed garbage they served out, itself a drug). I really did not need to be inoculated against my will with floodbaths of benzos for the next >6 months. [TO DO: Edit this paragraph. I only include it to make the point that my health practices were far too healthy for psychiatrists to be dictating what potent psychoactive drugs go into my body. If anything, I should have been dictating their practices.]
+
+In the hospital-provided housing that she had when I came to visit, her neighbor made food, a huge meal, pork chops and mashed potatoes and surprisingly all really good food. We then ate a Thanksgiving dinner with her neighbor. I brought yams I'd made previously before the invitation, not knowing I was going to be visiting/staying there for Thanksgiving. 
+
+She told me at that hangout she had sex with the 50-something year old psychiatric ward janitor while hospitalized. I think she said he was her most recent boyfriend, that they got into a relationship afterwards that lasted some time, and she'd broken up with him. 
+
+While she and I were in the hospital, backtracking again, our third companion was Hudson. When I was being discharged, he wrote me this long letter that included the line, "I hope you remember me when your an Icon of the world." He was electroshocked weekly during my stay there. For depression. Electrovolts of lightning in an electric chair for his depression. 
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
+</p>
+
+It's amazing he could write at all after the electrocution they put him through. I guess pharmaceuticals didn't seem sufficiently crucial to the core of his depression that they believed hooking him up to a car battery would make more sense.
+
+Meanwhile, little did I know — and actually quite a lot since I made the case quite articulately — I was being brain damaged and chemically waterboarded.
+
+My friend Jeremiah, someone so kind it's not even funny, went through something different while he was there. He told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure. Having undergone physical assaults from the university-hospital police myself, due also to efforts to leave containment, and once in the grass outside, and burned alive in the downregulation nightmare, I can say it’s unpleasant. 
+
+Those events are listed in the reverse chronological order by the way, combative efforts to escape only appearing in later hospitalizations that followed the multi-year benzo nightmare.
+
+Finally, Mobi, this guy I met there at a different hospitalization. He actually braided Lily's hair, I later found out. When you have people in there with you, it's actually palatable. But when you're alone, kept hostage, for prolonged periods, against your will, under constant overwatch and coercion, it's not the same story. Mobi was 16, also prescribed benzos like I was, but he was there much longer. Years, in and out. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder: they were feeding him the most potent addictive chemicals on the known planet by force. Yes: to be clear: they'd been giving him benzos for 2 years at that point, on and off, from the age of 14. Acclimating to benzos, yes, your brain is going to feel deprived of GABA and you will want drugs.
+
+And he was intelligent and respectful and well mannered. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
+
+> The fact that I can cite injustice for all 5 people I know who went through the system suggests that the absolute injustice rate is probably pretty damn high.
+
+The next part of the story conveys some of my trauma, and it's the hardest to write about. I might not... Hold on...
+
+### My... trauma
+
+<p align="center">
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+</picture><br><i>Modified AI-generated image via Adobe Express. 
+  <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
+<br>To do: Find a better image that does me more justice.</i>
+</p>
+
+I was in severe agony three months in, the doctor refused to help with the taper and wanted to increase the dose, and I had to keep taking them, then I was in severely worse agony six months in. I wasn't able to recall important facts or do basic math. I had no choice and had to taper off by myself, and thank God I did because at that point, you might not agree with calling it brain damage, but it literally was, and if I'm speaking metaphorically, it was active chemical waterboarding. Then the agony persisted for more than a year after, indescribable, severe and debilitating. 
+
+Laying on the couch for a year, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely gray and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I wasn't able to do 4*7. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture. The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I've read former cocaine and heroin addicts say the withdrawal is worse than for cocaine or heroin.
+
+That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
+
+Not to mention the paranoia and distrust built from undergoing coercion, repeatedly being told they'd wean me off later, with that turning out to be lies, and having ultimately to do it myself.
+
+The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 ## Part 3
 
