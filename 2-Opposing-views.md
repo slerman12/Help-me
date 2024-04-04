@@ -81,8 +81,8 @@ Intermission...
 
 <p align="center">
 <picture>
-  <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/2026617b-268a-4de3-926b-f6ae49d88fc7">
-  <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/2026617b-268a-4de3-926b-f6ae49d88fc7">
+  <source width="47%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/ea219957-54e8-4e7b-8841-5fd27821036a">
+  <img width="47%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/ea219957-54e8-4e7b-8841-5fd27821036a">
 </picture><br><i></i>
 </p>
 
