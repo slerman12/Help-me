@@ -42,10 +42,10 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/5400611a-7478-48a3-8fbf-f0232b6f358a">
 <picture>
-  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
-  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/b692b7c0-e597-4a51-b638-d9f2b73268b5">
+  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/5400611a-7478-48a3-8fbf-f0232b6f358a">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/5400611a-7478-48a3-8fbf-f0232b6f358a">
 </picture>
 </a>
 </p>
