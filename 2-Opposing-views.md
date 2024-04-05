@@ -43,7 +43,7 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 > - &#9432; Oh, I lost my fingernails. I forgot to mention that (they grew back). They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
 > - By the time my hair had fallen out, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
-> - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish decay.
+> - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of unprocess-able decay.
 > - My eczema and allergies also spiked for about a month. 
 
 #
