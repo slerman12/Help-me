@@ -49,10 +49,10 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 2. My eczema and allergies also spiked (for about a month).
 
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/d57933f9-39a8-414f-a2ed-e536f135faa4">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/69652420-7a1c-476a-a68c-31862480aa80">
 <picture>
-  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/d57933f9-39a8-414f-a2ed-e536f135faa4">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d57933f9-39a8-414f-a2ed-e536f135faa4">
+  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/69652420-7a1c-476a-a68c-31862480aa80">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/69652420-7a1c-476a-a68c-31862480aa80">
 </picture>
 </a>
 </p>
