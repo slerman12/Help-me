@@ -46,10 +46,10 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 #
 
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/365fd138-6a86-46dd-903f-cdbde2aaf03b">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/364e615c-88fe-4d3d-a419-ead24d76db3b">
 <picture>
-  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/365fd138-6a86-46dd-903f-cdbde2aaf03b">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/365fd138-6a86-46dd-903f-cdbde2aaf03b">
+  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/364e615c-88fe-4d3d-a419-ead24d76db3b">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/364e615c-88fe-4d3d-a419-ead24d76db3b">
 </picture>
 </a>
 </p>
