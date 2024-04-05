@@ -41,18 +41,11 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
-### &#9432; Additional details for part 1
-
-1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
-    - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
-    - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
-2. My eczema and allergies also spiked (for about a month).
-
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/6568aed9-7579-428d-9dc3-6f71f47a28a2">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/7a6d33ff-473b-4898-a18f-1bca040ec9cb">
 <picture>
-  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/6568aed9-7579-428d-9dc3-6f71f47a28a2">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/6568aed9-7579-428d-9dc3-6f71f47a28a2">
+  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/7a6d33ff-473b-4898-a18f-1bca040ec9cb">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/7a6d33ff-473b-4898-a18f-1bca040ec9cb">
 </picture>
 </a>
 </p>
@@ -216,3 +209,10 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 > Add an "Aetna did it again" section witha photo of the huge bills they suddenly started sending me more than half a year into therapy.
 >
 > See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
+
+### Additional details for part 1
+
+1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
+    - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
+    - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
+2. My eczema and allergies also spiked (for about a month).
