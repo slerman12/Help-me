@@ -46,8 +46,6 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
 > - My eczema and allergies also spiked (for about a month). 
 
-#
-
 <p align="center">
 <a href="https://github.com/slerman12/Detective-Sam/assets/9126603/efd5f28b-459b-4119-b144-e8a77a0d8fc9">
 <picture>
