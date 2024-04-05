@@ -41,10 +41,12 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
-> - &#9432; Oh, I lost my fingernails. I forgot to mention that (they grew back). They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
-> - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
-> - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
-> - My eczema and allergies also spiked (for about a month). 
+### &#9432; Additional details
+
+1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
+    - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
+    - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
+2. My eczema and allergies also spiked (for about a month). 
 
 <p align="center">
 <a href="https://github.com/slerman12/Detective-Sam/assets/9126603/efd5f28b-459b-4119-b144-e8a77a0d8fc9">
