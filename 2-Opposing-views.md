@@ -41,9 +41,7 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
-<p align="center">
-&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;</br>&bull;&bull;&bull;</br>&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;&bull;
-</p>
+Oh, I lost my fingernails. I forgot to mention that (they grew back). They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
 
 <p align="center">
 <a href="https://github.com/slerman12/Detective-Sam/assets/9126603/365fd138-6a86-46dd-903f-cdbde2aaf03b">
@@ -209,8 +207,6 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of emails, were CC’d on all of this, and didn’t reply to any of them — including, “Thanks Nick, I appreciate this.” about the Israel-Gaza situation affecting Jewish students that Nick sent out en-masse on the final October 31st day (about students-only university support groups for the Israel-Gaza situation, on the day I was denounced as a student). I mistakenly thought it was a email directly to me since maybe he learned that my family, including me, immigrated here as Jewish refugees. No, he never addressed me. It was also immediately before my birthday for that matter, but I’m sure these personal details don’t matter to them. They never acknowledged me, not a single reply.
 
 > Note: None of these words do me justice. These words come from the trauma-mouth of some psychological framework that overtakes my genuine voice, rooted in memory of that institution's culture.
->
-> I forgot to mention, when my hair initially fell out, all of my fingernails kind of fell out too. They turned purple and weak and gradually grew back normal after a long while. I don't remember if the same thing happened to my toenails.
 >
 > Add an "Aetna did it again" section witha photo of the huge bills they suddenly started sending me more than half a year into therapy.
 >
