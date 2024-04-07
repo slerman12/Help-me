@@ -93,7 +93,7 @@ After this 10/30/2023 email, replying to the false accusation of "declining to f
 
 > "Please provide evidence of research (not thesis-formatting) advice that was provided and not followed."
 
-None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what was told.
+None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what I was told.
 
 Another point of their hypocrisy is that, every single one of my advisors and most of my committee members skipped or altogether left without notice or warning, and their concluding termination reason was, as they falsely accused after this email as their last recourse of justification, that I "skipped" a six-month review and didn't schedule a make-up.
 
