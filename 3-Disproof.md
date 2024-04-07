@@ -120,7 +120,7 @@ Generally speaking these are some of the political/social figures I like: Bernie
 The demand put on me was more excessive than this summarizes since I was expected to:
 
 1. Find yet another advisor
-   - Finding a new advisor is hard. The amount of work I had to do to get into Chenliang's group spanned a long time, I had to work for free under him, and had to submit a top-venue conference paper by the end of the first summer, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, and had to suddenly again in my 6th year, it was already proven to be an enormous work to do so, and both advisors bailed for reasons that were their own fault.
+   - Finding a new advisor is hard. The amount of work I had to do to get into Chenliang's group spanned a long time, I had to work for free under him, and had to submit a top-venue conference paper by the end of the first summer, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, and had to suddenly again in my 6th year, it was already proven to be an enormous and very-likely unpaid work to do so, and both advisors bailed for reasons that were their own fault.
 3. Find new source of funding
 4. Re-take a six-month review
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
