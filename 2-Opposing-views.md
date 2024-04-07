@@ -42,11 +42,11 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/6d23c726-6e3f-41a6-9bae-8561a52e681b">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
 <picture>
-  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/6d23c726-6e3f-41a6-9bae-8561a52e681b">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/6d23c726-6e3f-41a6-9bae-8561a52e681b">
-</picture>
+  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
+  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
+</picture></a><br><i>Note: I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him.</i>
 </a>
 </p>
 
