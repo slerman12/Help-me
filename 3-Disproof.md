@@ -75,7 +75,7 @@ Also, if you really want to investigate the extent of my hard work, just look at
 
 For an idea, see these [slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing).
 
-See [here](https://github.com/slerman12/Detective-Sam/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md).
+And see [here](https://github.com/slerman12/Detective-Sam/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md).
 
 ### My termination had nothing to do with my work
 
