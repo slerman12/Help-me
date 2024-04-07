@@ -42,10 +42,10 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/0abb4344-ae77-4b39-8037-7bf17da1aee0">
 <picture>
-  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
-  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/0abb4344-ae77-4b39-8037-7bf17da1aee0">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/0abb4344-ae77-4b39-8037-7bf17da1aee0">
 </picture></a><br><i>Note: I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him.</i>
 </a>
 </p>
@@ -69,7 +69,7 @@ Clinicians come in, telling me I have to keep taking the benzos. It's not my cho
 
 I had to stay there for a month and they forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. 1/4 of a milligram, once every two weeks at most, had side effects. 48x-12x that dosage, every day.
 
-I'm a 5'5" 110lb guy.
+I'm 5'5" 110lb.
 
 That whole month was a “blast”, thanks (1) to Lily being there in the psychiatric ward with me and two other friends I'd made, but also because (2) I was high as “complete balls” the whole time, except as my brain's gabaminergic system caught wind and began to downregulate GABA. But the chemical waterboarding only began there.
 
@@ -215,4 +215,4 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
     - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
     - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
-2. My eczema and allergies also spiked (for about a month).
+2. My whole-body eczema and allergies also spiked (for about a month).
