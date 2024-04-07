@@ -46,7 +46,7 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 <picture>
   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/0abb4344-ae77-4b39-8037-7bf17da1aee0">
   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/0abb4344-ae77-4b39-8037-7bf17da1aee0">
-</picture></a><br><i>Note: I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was "Psycho Killer" which I'll interpret as psychiatric killer. Oh and then "Alabama  Song (Whisky Bar)." Not bad.</i>
+</picture></a><br><i>Note: I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was "Psycho Killer" which I'll interpret as psychiatric killer. Oh and then "Alabama  Song (Whisky Bar)." Not bad. Any song about alcohol is fitting for the topic of benzos. In fact, I introduced Lily to Elliott Smith for the first time with the song "Between the Bars."</i>
 </a>
 </p>
 
