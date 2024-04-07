@@ -44,8 +44,8 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 <p align="center">
 <a href="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
 <picture>
-  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/dcc2b74f-e156-45ec-8b35-f69190747816">
 </picture></a><br><i>Note: I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him.</i>
 </a>
 </p>
