@@ -16,7 +16,7 @@ where the size and complexity of a lower-level universe $C(\mathrm{U})$ is upper
 
 $C(\mathrm{U}=k+1) > C(\mathrm{U}=k), \forall k < N \in \mathbb{N}$. 
 
-Therefore the plurality goes to the highest-level universe $\mathrm{U}=N$:
+Therefore the plurality goes to the highest-level universe $\mathrm{U}$ $=$ $N$:
 
 $$\mathbf{P}(\mathrm{U}=N) > \mathbf{P} (\mathrm{U}=k), \forall k < N \in \mathbb{N}.$$
 
