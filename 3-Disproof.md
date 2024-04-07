@@ -71,7 +71,7 @@ Aside from fasting for the sake of my eczema, I did all of the following listed 
 - 70-hour work weeks on average, always across two labs, including usually one where I did essentially the job of a software engineer
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days once and ~15 days, respectively) and intermittent fasting (for maybe about three consecutive weeks) as trials (prolonged fasting gets rid of my eczema better than any other treatment, but sometimes bad effect in terms of cognition/perception; intermittent fasting hasn't helped me), as well as prolonged fasts for religious observances such as Yom Kippur.
 
-Also, if you need evidence of my hard work, just look at my GitHubs and GitHub repositories and commit counts and even chronologies and time stamps if you really want to investigate the extent of it.
+Also, if you need chronological evidence of my hard work, just look at my GitHubs and GitHub repositories and commit counts and even chronologies and time stamps if you really want to investigate the extent of it.
 
 For an idea, see these [slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing).
 
