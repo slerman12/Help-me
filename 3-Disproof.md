@@ -155,7 +155,7 @@ This is simultaneously slavery, humanly impossible, and fascism all wrapped into
 
 ### Why it's fascism
 
-The medical and learning systems of the University of Rochester have disproven large parts of themselves. But the learning system of the University of Rochester has proven something: that they are fascist. I don't mean to invoke Godwin's law here. This isn't exaggeration or hyperbole, but in a moment will be a proof, as much as there can be. By themselves, these policies might not seem like fascism. Agglomerated, the University of Rochester has ran fascism above their claimed values, visions, and principles.
+The medical and learning systems of the University of Rochester have disproven large parts of themselves. But the learning system of the University of Rochester has proven something: that they are fascist. I don't mean to invoke Godwin's law here. This isn't exaggeration or hyperbole, but in a moment will be a proof, as much as there can be, that they are fascist. By themselves, these policies might not seem like fascism. Agglomerated, the University of Rochester has ran fascism above their claimed values, visions, and principles.
 
 When my first advisor left in my 3rd year, my would-be 2nd advisor didn't fund me while I had to work for him for months in order to get into his lab so he would accept to be my advisor, hard strenuous work that I already did once by his demand during a traumatic period when I was just recovering from brain damage. The 2nd advisor had already proven how hard it is or can be to find a new advisor. And now I was expected to do that again, but in my 6th year.
 
