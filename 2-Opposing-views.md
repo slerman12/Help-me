@@ -42,10 +42,10 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <p align="center">
-<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505">
+<a href="https://github.com/slerman12/Detective-Sam/assets/9126603/77718976-f7ea-40a3-8a0b-369ed572de4f">
 <picture>
-  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505">
-  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505">
+  <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/77718976-f7ea-40a3-8a0b-369ed572de4f">
+  <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/77718976-f7ea-40a3-8a0b-369ed572de4f">
 </picture></a><br><i><b>Note:</b> I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was "Psycho Killer" which I'll interpret as psychiatric killer. Oh and then "Alabama  Song (Whisky Bar)." Not bad. Any song about alcohol is fitting for the topic of benzos, since they share a mechanism of action. In fact, I introduced Lily to Elliott Smith for the first time with the song "Between the Bars" (about alcohol) while we were in the hospital (between the bars of confinement). Since she was keeping a synchronicity list while we were there, I think she'll like this caption when I show her.</i>
 </a>
 </p>
