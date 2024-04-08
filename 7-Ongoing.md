@@ -92,7 +92,7 @@ Gloria: **Gandalf**
 
 Josh: **Aragorn**
 
-Ukrainian Neighbor Gorgen: **Bilbo, or Tom Bombadil**
+Ukrainian Neighbor Gurgen: **Bilbo, or Tom Bombadil**
 
 Jeremiah: **Samwise**
 
