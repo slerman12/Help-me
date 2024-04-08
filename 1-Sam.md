@@ -2,7 +2,7 @@
 
 “Who is Sam?”
 
-“Oh, he’s this guy. I saw this guy on the internet once. it’s him!”
+“Oh, he’s this guy. I saw this guy on the internet once. It’s him!”
 
 “Who is Sam?”
 
