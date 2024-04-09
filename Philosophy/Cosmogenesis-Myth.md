@@ -32,15 +32,15 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-All humor intended, but the point is more profound than it may appear.
+All humor intended, but the point might be more profound than it appears.
 
-Let's derive it formally and strictly.
+Let's derive it formally.
 
-Cosmogenesis myths usually aren't mathematically deduced, but I'd like to give two examples, one that isn't and one that sort of is, just because this document wouldn't feel as interesting without a reference to Tolkien. 
+Here is a cosmogenesis myth and a cosmological theory:
 - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. 
 - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
-In short, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+In contrast, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
 Since nothing but math is assumed, we conclude of a missing component that must physically exist, or else this deduction is true.
 
