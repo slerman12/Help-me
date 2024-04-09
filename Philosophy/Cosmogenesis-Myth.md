@@ -276,7 +276,7 @@ Disclaimer: This is just a myth. That doesn't mean it's not true.
 
 All is originated from "Everything". Everything, is the most general default assumption (tied with “nothing”).
 
-Everything (including suffering and the choice to not be Everything) $\rightarrow$ Anything (without loss of generality, but no longer everything, that is: no longer necessarily, while still sufficient for, suffering) via the invention of time (a deductive graph towards possibilities, but not necessitating suffering, A.K.A. causal restrictions to deductive steps, A.K.A. derivations such as to suffering or any other “something”) $\rightarrow$ each discrete “something”. Each discrete “something” in time gives rise to the next discrete “something” in time and so on. 
+Everything (including suffering and the choice to not be Everything) $\rightarrow$ Anything (without loss of generality, but no longer everything, that is: no longer necessarily, while still sufficient for, suffering) via the invention of time (a deductive graph towards possibilities, but not necessitating suffering, A.K.A. causal restrictions to deductive steps, A.K.A. derivations such as to suffering or to any other “something”) $\rightarrow$ each discrete “something”. Each discrete “something” in time gives rise to the next discrete “something” in time and so on. 
 
 Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
