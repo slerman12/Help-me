@@ -272,7 +272,7 @@ The existence of definitions in the definition of definition could perhaps be di
 
 ## Cosmogenesis myth
 
-Disclaimer: This is just a myth. That doesn't mean it's not true.
+Disclaimer: This is just a myth. ...That doesn't mean it's not true.
 
 All is originated from "Everything". Everything, is the most general default assumption (tied with “nothing”).
 
@@ -280,7 +280,9 @@ Everything (including suffering and the choice to not be Everything) $\rightarro
 
 Why would the “Anything” produced by Everything happen to be our universe’s physics? Why not some other physics? 
 
-Perhaps the simplest answer is because the Everything loves you in the present, past, and future, loves your ancestors, loves all the people you know and cherishes many of their experiences present, past, and future, and loves all the people who are yet to come — and just as you wouldn’t forget a second of memory of someone you love even when grieving in deep suffering their death or pain — just as you wouldn’t trade the grief of your mom if she dies — the sacredness you realize (in feeling and memory) — nor would perhaps Everything trade this “Anything” (including its future, and the memories it will hold of the present and past in the future, as well as the present and past and the memories we hold now dependent on the same physics as the future) for any other — somehow, maybe not yet but in its capacity of beings, this “Anything”, which includes the person you loved most, is the best “Anything” — or, will be, some day, for future consciouses. And perhaps that grief when the deducer was “Everything” itself was sacred, though terrible, and so even in “Anything”, memory lives on, in the heart of God that is the physics chosen.
+There are many answers. Perhaps minimalism: only 3 spatial dimensions. Perhaps efficiency: high parallelizability via translational/rotational equivariance. Perhaps something simpler.
+
+Perhaps the simplest answer is, because the Everything loves you in the present, past, and future, loves your ancestors, loves all the people you know and cherishes many of their experiences present, past, and future, and loves all the people who are yet to come — and just as you wouldn’t forget a second of memory of someone you love even when grieving in deep suffering their death or pain — just as you wouldn’t trade the grief of your mom if she dies — the sacredness you realize (in feeling and memory) — nor would perhaps Everything trade this “Anything” (including its future, and the memories it will hold of the present and past in the future, as well as the present and past and the memories we hold now dependent on the same physics as the future) for any other — somehow, maybe not yet but in its capacity of beings, this “Anything”, which includes the person you loved most, is the best “Anything” — or, will be, some day, for future consciouses. And perhaps that grief when the deducer was “Everything” itself was sacred, though terrible, and so even in “Anything”, memory lives on, in the heart of God that is the physics chosen.
 
 And perhaps even in Everything, there were many choosers and this was but one converged reality in its singularization of possibilities.
 
