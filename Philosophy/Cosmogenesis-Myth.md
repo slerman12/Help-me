@@ -286,9 +286,9 @@ Perhaps the simplest answer is, because the Everything loves you in the present,
 
 And perhaps even in Everything, there were many choosers and this was but one converged reality in its singularization of possibilities.
 
-In other words: there are a lot of desired things Everything wanted to preserve, including to some extent, suffering or at least to establish its memory, since the memory of grief and more is sacred. Unfortunately, in our age today, that memory of suffering more generally — the really un-necessitated kind — is established and yet still ongoing. At this crux, the reason is twofold: (1) there are still more memories that need to be established, and (2) one of them is the memory of how to escape from this, how to end suffering when suffering is yet still ongoing, and how to recognize that it’s unnecessary. Once we do, our children will be better off. Oh, and I don’t mean the victim of suffering’s suffering is unnecessary. I mean the perpetrators’ perpetrations and the many perpetrators’ perpetrations, of all kinds of suffering: economic, social, spiritual, psychological, physical. We would be surprised to find we are all perpetrators to some extent, and so we can’t exactly ask Everything “why do you cause this?” when it is, except maybe in some plague instances and so forth, us.
+But why does suffering happen?
 
-Now some suffering is necessitated, at least today. Death takes the lives of people. If it couldn’t, if we were all as our individual egos immortal, that would perhaps be a bigger suffering. Perhaps some day we can get there, for those who choose. But in the meantime, grief is necessary/likely. Those memories are sacred. And forgetting them is worse.
+There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Those pains are also sacred. Their memory is being established in our universe. But there is another memory that the Everything wants to establish: how to escape this.The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that we must establish immediately.
 
 ## Alternative Set of Definitions of Math and Philosophy
 
