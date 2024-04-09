@@ -238,23 +238,11 @@ So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
-with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's usd in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
+with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's used in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
 
 As to the question of whether this definition of deduction is true, well, it's summarizable in half a page and generalizes to every historical use, so if one were to criticize it, I would challenge them to come up with a better one. The onus of that is on them, since I have provided a definition of deduction, perhaps the first, that serves every historical use, and is elegant.
 
-Here's more thought experiments I drafted:
-
-Instead, we could discard causality and Axiom 2.
-
-Instead, let's define existence as a recursive function. Its input is any definition, chosen by a deducer, and its output is the existence of that definition paired with a recursion to a new application of itself to a new definition.
-
-$\exists(\emptyset_i) = (\exists\emptyset_i, \exists(\emptyset_j))$,
-
-Thus creating a limited set of definitions at each recursive step $n$, not easily denoted in the expressivity of recursive functional form. We can denote that $n\text{th}$ recursive step set of existence, and perhaps each source and sink to each existence, as $\Omega^{(n)}$.
-
-Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something, and it can be defined to be something else e.g. a recursive self-duplicating observer function that encapsulates both definition and cause, e.g. $\mathrm{I}(x) = (\exists x, \mathrm{I}(\max\limits_{y\subseteq \Omega} Q(\Omega)))^\text{ \color{blue}[1.]}$, with a qualia to justify the development of that something into something specific.
-
-$\text{\color{blue}[1.]:}$ Just spitballing at this time.
+Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
 
 ## Confusion about existence operator
 
