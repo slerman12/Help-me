@@ -234,7 +234,7 @@ From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its defini
 
 $\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
-So this together with Axiom 2 suffices to obtain $\Omega$ (without needing the use of Definition 7 in the first step of Theorem 1 previously relied on to get "the existence of nothing"). Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded as a unique number on the natural number scale $\mathbb{N}$ and each non-equivalent given its own dimension of equivalents $\mathbb{N}^\mathbb{N}$. We thus obtain an inoperable version of the natural numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
+So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded as a unique number on the natural number scale $\mathbb{N}$ and each non-equivalent given its own dimension of equivalents $\mathbb{N}^\mathbb{N}$. We thus obtain an inoperable version of the natural numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
