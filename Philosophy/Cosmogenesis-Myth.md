@@ -238,9 +238,11 @@ So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
-with some connecting universal node $0 \coloneqq i \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's used in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
+with some connecting universal node $0 \coloneqq i \ \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's used in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
 
 As to the question of whether this definition of deduction is true, well, it's summarizable in half a page and generalizes to every historical use, so if one were to criticize it, I would challenge them to come up with a better one. The onus of that is on them, since I have provided a definition of deduction, perhaps the first, that serves every historical use, and is elegant.
+
+And every deduction herein, including of itself (its definition), is consistent to that definition.
 
 Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
 
