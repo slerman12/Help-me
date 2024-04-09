@@ -90,7 +90,7 @@ $(\langle X_1, X_2, ... \rangle) \coloneqq (\exists X_1, X_2, ...)$
 
 hypotheticals whose elements exist.
 
-**Axiom 1.** Existence exists. $\langle X_1, X_2, ... \rangle \coloneqq \langle\langle X_1, X_2, ... \rangle\rangle$.
+**Axiom 1.** Existence exists. $\langle X_1, X_2, ... \rangle \coloneqq \langle\langle X_1, X_2, ... \rangle\rangle$. (The existence of that which exists... exists).
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
 
