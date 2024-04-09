@@ -230,7 +230,7 @@ Hypothetically, how far can we get without axioms?
 
 Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypotheticals $A, B$, $A \coloneqq B$ "exists" (is true).
 
-From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents:
+From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[1.]}$
 
 $\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
@@ -244,7 +244,7 @@ As to the question of whether this definition of deduction is true, well, it's s
 
 And every deduction herein, including of itself (its definition), is consistent to that definition.
 
-Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
+$\text{\color{blue}[1.]:}$ Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
 
 ## Confusion about existence operator
 
