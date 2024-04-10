@@ -40,7 +40,9 @@ Here is a cosmogenesis myth and a cosmological theory:
 - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. 
 - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
-In contrast, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+That's my related works section.
+
+Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
 Since nothing but math is assumed, we conclude of a missing component that must physically exist, or else this deduction is true.
 
