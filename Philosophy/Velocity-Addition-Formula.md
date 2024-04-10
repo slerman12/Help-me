@@ -1,4 +1,4 @@
-# Disproved standard use
+# Disproved standard attributions
 
 Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
@@ -165,6 +165,6 @@ $$
 
 rendering the theories of special and general relativity unusable in this scenario. $\square$
 
-#
+---
 
-> &#9432; Note: **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. This pair of disproofs means that the theory of the former cannot be attributed to much of the experimental results of the latter, as it currently is.
+&#9432; **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. This pair of disproofs means that the theory of the former cannot be attributed to much of the experimental results of the latter, as it currently is.
