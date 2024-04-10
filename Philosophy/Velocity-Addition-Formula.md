@@ -150,8 +150,6 @@ $$
 
 rendering the velocity-addition formula useless.
 
-> However, this isn't limited to **Joint Einstein's first postulate and velocity-addition formula usefulness**. Einstein's first postulate also renders the whole theory, including the Lorentz transformation, useless, in all slower-than-light-speed scenarios. Physicists either miss or ignore Einstein's first postulate, or there's a blaring misattribution of theory to experimental result. But maybe I am crazy for thinking $x$ $=$ $ct$ has the radical and revolutionary meaning $x$ $=$ $ct$.
-
 ### (2) Joint Einstein's first postulate and below-light-speed usefulness
 
 Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
