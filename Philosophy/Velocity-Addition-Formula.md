@@ -167,4 +167,4 @@ rendering the theories of special and general relativity unusable in this scenar
 
 ---
 
-&#9432; **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. This pair of disproofs means that the theory of Einstein's first postulate cannot be attributed to experimental results of the Lorentz transformation. It also leaves Einstein's first postulate in a much more precarious position.
+&#9432; **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. This pair of disproofs means that the theory of Einstein's first postulate cannot be attributed to many of the experimental results of the Lorentz transformation, and all of the experimental results of the velocity-addition formula. It also leaves Einstein's first postulate in a much more precarious position.
