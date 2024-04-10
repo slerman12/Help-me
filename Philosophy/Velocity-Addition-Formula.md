@@ -167,4 +167,4 @@ rendering the theories of special and general relativity unusable in this scenar
 
 #
 
-> &#9432; Note: that does not yet mean Einstein's first postulate or the Lorentz transformation are false. It means that the theory of the former cannot be attributed to much of the experimental results of the latter, as it currently is.
+> &#9432; Note: **(1)** and **(2)** do not mean Einstein's first postulate or the Lorentz transformation are false. It means that the theory of the former cannot be attributed to much of the experimental results of the latter, as it currently is.
