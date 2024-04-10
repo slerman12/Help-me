@@ -95,7 +95,7 @@ A.K.A. the existence of that which exists... exists.
 
 **Axiom 2.** Cause exists. $\exists \rightarrow$.
 
-## Nothing and The Universe
+## Nothing and the Universe
 
 **Definition 8.** Nothing.
 
@@ -117,7 +117,7 @@ In other words, defined as: some sequence of numerically representable deduction
 
 > &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
-## Something From Nothing
+## Something from Nothing
 
 Let's now build something from nothing.
 
