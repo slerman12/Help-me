@@ -152,4 +152,4 @@ rendering the velocity-addition formula useless.
 
 #
 
-> &#9432; To be fair, this assumption also renders the Lorentz transformation useless.
+> &#9432; To be fair, this assumption also renders the Lorentz transformation useless in all slower-than-light-speed scenarios.
