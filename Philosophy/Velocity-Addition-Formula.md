@@ -49,9 +49,7 @@ $$
 
 rendering the formula useless.
 
-# Deriving (most rigorously)
-
-In case the above derivation of the velocity-addition formula doesn't satisfy one's preference of rigor, here is a derivation of the velocity-addition formula from absolute scratch, as a simple but rigorous derivation of the velocity-addition formula, for educating and organizing's-sake.
+# Formally
 
 ## Definitions
 
