@@ -1,4 +1,4 @@
-# Disproving standard use
+# Disproved standard use
 
 Einstein used his first postulate, the constancy of the speed of light *in vacuo* across reference frames, to derive the Lorentz transformation. This postulate states and necessitates the following:
 
@@ -144,11 +144,11 @@ $$
 \begin{align}
 x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\quad \text{(Einstein's first postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}} = c \\
-&\rightarrow c = \mathcal{V}(v^{(i, j)}, c).  \quad\quad \text{(Theorem 1)} \quad\quad\quad \square\\
+&\rightarrow c = \mathcal{V}(v^{(i, j)}, c).  \quad\quad \text{(Theorem 1)}
 \end{align}
 $$
 
-rendering the velocity-addition formula useless.
+rendering the velocity-addition formula useless. $\square$
 
 ### (2) Joint Einstein's first postulate and below-light-speed usefulness
 
@@ -157,6 +157,8 @@ Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partia
 $$
 \begin{align}
 &x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
-&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c.  \quad\quad\quad \square
+&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c.
 \end{align}
 $$
+
+rendering the velocity-addition formula unusable in this scenario. $\square$
