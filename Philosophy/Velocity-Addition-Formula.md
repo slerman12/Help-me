@@ -165,4 +165,6 @@ $$
 
 rendering the theories of special and general relativity unusable in this scenario. $\square$
 
-> &#9432; Note: that does not yet mean Einstein's first postulate or the Lorentz transformation are false. 
+#
+
+> &#9432; Note: that does not yet mean Einstein's first postulate or the Lorentz transformation are false. The theory of the former however cannot be attributed to much of the experimental results of the latter as it currently is.
