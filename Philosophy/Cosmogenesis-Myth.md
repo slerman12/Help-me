@@ -44,7 +44,7 @@ That's my related works section.
 
 Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
-Since nothing but math is assumed, we conclude of a missing component that must physically exist, or else this deduction is true.
+Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, or else this deduction is true.
 
 ## Deduction
 
