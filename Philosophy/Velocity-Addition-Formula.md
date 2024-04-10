@@ -152,4 +152,4 @@ rendering the velocity-addition formula useless.
 
 #
 
-> &#9432; To be fair, this assumption also renders the Lorentz transformation useless in all slower-than-light-speed scenarios.
+However, the issue isn't just the velocity-addition formula. Einstein's first postulate also renders the Lorentz transformation useless in all slower-than-light-speed scenarios. I'm not sure what the bigger issue is, that physicists either miss or ignore this, or that there's a blaring misattribution of theory to experimental result. But maybe I am crazy for thinking $x = ct$ means $x = ct$.
