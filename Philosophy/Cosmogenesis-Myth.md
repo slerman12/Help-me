@@ -32,7 +32,7 @@ The "halt" can be cosmo-genocide, which we are not interested in solving. $\squa
 
 # Math
 
-All humor intended, but the point might be more profound than it appears.
+All humor intended, but the point isn't made yet.
 
 Let's derive it formally.
 
