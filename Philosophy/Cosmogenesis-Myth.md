@@ -36,14 +36,12 @@ All humor intended, but the point isn't made yet.
 
 Let's derive it formally.
 
-But first, two bullets:
-
 - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
 - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
 Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
-Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, [such as a primordial consciousness](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), or else this deduction is true.
+Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, or else this deduction is true.
 
 ## Deduction
 
