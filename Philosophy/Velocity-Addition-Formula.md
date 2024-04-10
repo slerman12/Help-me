@@ -167,6 +167,6 @@ rendering the theories of special and general relativity unusable in this scenar
 
 ---
 
-&#9432; These disproofs mean that none of the experimental results of the velocity-addition formula can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate (as is standardly done, *e.g.*, the Fizeau experiment), and none of the experimental results that involve the body/mass traveling at below light speed, of Einstein's theories of special and general relativity, can be attributed to Einstein's first postulate, from which the theories are derived. The experimental results betray the principle.
+&#9432; These disproofs mean that none of the experimental results of the velocity-addition formula (*e.g.*, Fizeau experiment) can be attributed to Einstein's first postulate or used as evidence for Einstein's first postulate, and none of the experimental results that involve the body/mass traveling at below light speed, of Einstein's theories of special and general relativity, can be attributed to Einstein's first postulate, from which the theories are derived. The experimental results betray the principle.
 
 It also raises the fundamental question, pertaining either to consciousness or intelligence, of how physicists didn't notice any of this ($x$ $=$ $ct$), despite the core of the disproofs following immediately from elementary-level math. 
