@@ -41,7 +41,7 @@ Let's derive it formally.
 
 Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
 
-Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, or else this deduction is true.
+Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, such as a [primordial consciousness](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), or else this deduction is true.
 
 ## Deduction
 
