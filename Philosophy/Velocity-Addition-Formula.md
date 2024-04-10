@@ -149,3 +149,7 @@ x_{t^{(i)}}^{(i)} = ct^{(i)} &\text{ and } x_{t^{(j)}}^{(j)} = ct^{(j)}  \quad\q
 $$
 
 rendering the velocity-addition formula useless.
+
+#
+
+> &#9432; To be fair, this assumption also renders the Lorentz transformation useless.
