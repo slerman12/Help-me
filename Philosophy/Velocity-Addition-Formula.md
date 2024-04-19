@@ -81,7 +81,7 @@ $x_{t^{(j)}}^{(j)} = \mathcal{X}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
 $t^{(j)} = \mathcal{T}(x_{t^{(i)}}^{(i)}, t^{(i)}, v^{(i, j)})$.
 
-The Lorentz transformation describes a transformation of a body's corresponding space and time coordinates across reference frames in physical spacetime.
+The Lorentz transformation describes a transformation of the body $\mathrm{B}$'s corresponding space and time coordinates across reference frames in physical spacetime.
 
 ### (2) Uniform motion.
 
@@ -97,7 +97,7 @@ $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^
 
 $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \mathcal{V}(v^{(i, j)}, \frac{\partial x_{t^{(j)}}^{(j)}}{\partial t^{(j)}})$.
 
-The velocity-addition formula describes a transformation of a body's velocity across reference frames in physical spacetime.
+The velocity-addition formula describes a transformation of the body $\mathrm{B}$'s velocity across reference frames in physical spacetime.
 
 **Proof.**
 
