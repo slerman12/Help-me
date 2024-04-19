@@ -156,12 +156,12 @@ rendering the velocity-addition formula useless. $\square$
 
 In the theories of special and general relativity, Einstein's first postulate states: $x_{t^{(i)}}^{(i)} = ct^{(i)} \text{ } \forall i$.
 
-Assume a mass/body below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
+Assume body $\mathrm{B}$ below light speed: $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} < c$. We obtain: 
 
 $$
 \begin{align}
 &x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
-&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c,
+&\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c < c,
 \end{align}
 $$
 
