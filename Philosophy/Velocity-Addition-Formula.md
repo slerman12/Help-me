@@ -166,7 +166,7 @@ $$
 \begin{align}
 &x_{t^{(i)}}^{(i)} = ct^{(i)} \quad\quad \text{(Einstein's first postulate)} \\
 &\rightarrow \frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = c\\ 
-&\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ < c,
+&\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ < c,  \quad\quad \text{(Below-light-speed assumption)}
 \end{align}
 $$
 
