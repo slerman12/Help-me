@@ -57,9 +57,9 @@ rendering the formula useless.
 
 Let $c \coloneqq 299,792,458$ be the speed of light constant *in vacuo*.
 
-Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is potentially in motion relative to other reference frames (coordinate systems likewise potentially in motion, for example $K^{(j)}$).
+Reference frame $K^{(i)}$ (for any $i \in \mathbb{N}$) is a coordinate system that is in motion relative to other reference frames  $K^{(j)}$ (for any $i \neq j \in \mathbb{N}$).
 
-Any observer stationary in reference frame $K^{(i)}$ and using reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
+Any observer stationary in reference frame $K^{(i)}$ measures the corresponding time and space coordinates of body $\mathrm{B}$, as $t^{(i)}  \in \mathbb{R}$ and $x_{t^{(i)}}^{(i)} \in \mathbb{R}$ respectively.
 
 $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) stationary in $K^{(j)}$ measured by any observer stationary in $K^{(i)}$.
 
@@ -67,11 +67,11 @@ $v^{(i, j)} \in \mathbb{R}$ is the velocity of any body (including observers) st
 
 $\mathcal{X}(X, T, V) \coloneqq \frac{X - VT}{\sqrt{1 - \frac{V^2}{c^2}}}$.
 
-$\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{XV}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$.
+$\mathcal{T}(X, T, V) \coloneqq \frac{T - \frac{VX}{c^2}}{\sqrt{1 - \frac{V^2}{c^2}}}$.
 
 ### (3) Velocity-addition formula.
 
-$\mathcal{V}(V, W) \coloneqq \frac{W + V}{1 + \frac{V}{c^2}W}$.
+$\mathcal{V}(V, W) \coloneqq \frac{W - V}{1 - \frac{V}{c^2}W}$.
 
 ## Assumptions
 
@@ -91,7 +91,7 @@ In other words, $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is constan
 
 Since average velocity is equal to displacement over time, a necessary consequence of constant $\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}}$ is:
 
-$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}}{t_2^{(i)} - t_1^{(i)}}$
+$\frac{\partial x_{t^{(i)}}^{(i)}}{\partial t^{(i)}} = \frac{\Delta x_{t^{(i)}}^{(i)}}{\Delta t^{(i)}} = \frac{x_{t_2^{(i)}}^{(i)} - x_{t_1^{(i)}}^{(i)}}{t_2^{(i)} - t_1^{(i)}},$
 
 for any time interval $t_2^{(i)} > t_1^{(i)}$.
 
