@@ -209,7 +209,7 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
 
-> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md), but in the actual, not representation.
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](#cosmogenesis-myth), but in the actual, not representation.
 
 And that path will make the most sense in a moment.
 
