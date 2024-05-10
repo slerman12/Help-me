@@ -220,10 +220,12 @@ Either:
 1. Math and information patterns are the sole fundamental properties of the universe.
    - In which case, I have done the monumental work of deriving cosmogenesis.
 2. Math and information patterns are not the sole fundamental properties of the universe.
-    - In which case, I have done the monumental work of showing there must exist at least a third possibility to the fundamental properties of the universe besides math and information pattern. (Information pattern is a subset of math, so technically "second" possibility).
+    - In which case, I have done the monumental work of showing there must exist at least a third possibility $^\text{ \color{blue}[1.]}$ to the fundamental properties of the universe besides math and information pattern.
     - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
+
+$\text{\color{blue}[1.]:}$ Information pattern is a subset of math, so technically "second" possibility.
 
 # Afterward
 
@@ -231,7 +233,7 @@ Hypothetically, how far can we get without axioms?
 
 Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypotheticals $A, B$, $A \coloneqq B$ "exists" (is true).
 
-From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[1.]}$
+From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[2.]}$
 
 $\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
@@ -245,7 +247,7 @@ As to the question of whether this definition of deduction is true, well, it's s
 
 And every deduction herein, including of itself (its definition), is consistent to that definition.
 
-$\text{\color{blue}[1.]:}$ Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
+$\text{\color{blue}[2.]:}$ Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
 
 ## Confusion About Existence Operator
 
