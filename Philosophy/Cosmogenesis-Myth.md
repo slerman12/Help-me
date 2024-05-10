@@ -45,7 +45,7 @@ Since nothing but math is assumed, we'll conclude of a missing component that mu
 
 ## Deduction
 
-Let's define deduction succinctly and in such a way that's consistent with historical use.
+This defines deduction succinctly and consistently with historical use.
 
 ### Proofs
 
