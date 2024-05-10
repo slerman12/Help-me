@@ -225,7 +225,7 @@ Either:
   
 — "at minimum wage", Josh chimes in.
 
-$\text{\color{blue}[1.]:}$ Information pattern is a subset of math, so technically "second" possibility.
+$\text{\color{blue}[1.]:}$ Math is information pattern, and information pattern is math, so technically "second" possibility.
 
 # Afterward
 
