@@ -45,4 +45,4 @@ Then another paper publication, and more, for a paper that was under review when
 [And a whole GitHub for them, including the data generation and pipeline, and all of the experiments](https://github.com/AGI-init/XRDs/tree/main) </br>
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 
-That’s a lot of money I helped bring into their institution to be supposedly indebted many thousands to them, an institution responsible for coerced permanent damage against my physical body, literal torture, and blatant abuse of my hard work.
+That’s a lot of money I helped bring into their institution to be supposedly indebted many thousands to them, an institution responsible for coerced permanent damage against me, literal torture, and blatant abuse of my hard work.
