@@ -119,7 +119,7 @@ $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
 In other words, defined as: some sequence of numerically representable deductions from the initial nothing.
 
-> &#9432; See [here](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
+> &#9432; See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md) for an *ad absurdum* argument analogous to why representation and matter can't be the same thing (representation and consciousness).
 
 ## Something from Nothing
 
@@ -227,7 +227,7 @@ Either:
    - In which case, I have done the monumental work of deriving cosmogenesis.
 2. Deduction (math and/or information patterns) is not the sole fundamental property of the universe.
     - In which case, I have done the monumental work of showing there must exist at least another possibility to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+    - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
 
