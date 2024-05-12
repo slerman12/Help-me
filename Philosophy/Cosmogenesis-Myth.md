@@ -211,11 +211,11 @@ Another critique, I dare add, is that the cheap hack of time into equivalence ha
 
 #
 
-This part isn't derived, but this document is called "Cosmogenesis Myth" after all:
-
 > More mythologically, we now have that every representation is derived, including representations of potentially agents with choices. Perhaps, amid that representational everything, some distinguishable nothings defined constraints on themselves, creating representational physics capable of being anything, but no longer quite everything, and with some optimizable parameters and an objective function optimizing towards representational forms of love, peace, and bliss, slowly bending their invented time towards those representational forms of love, peace, and bliss; and maybe, through some mysticism, actually experiencing those representational realities as experiences.
 
-[The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](#cosmogenesis-myth), but in the actual, not representation.
+This part isn't derived, but this document is called "Cosmogenesis Myth" after all.
+
+> [The easiest way to get there though is to not assume math as a starting point, and to instead assume the actual meanings of matter, the actual sufferings, the actual purposes — everything](#cosmogenesis-myth), but in the actual, not representation.
 
 And that path will make the most sense in a moment.
 
