@@ -39,13 +39,13 @@ Let's derive it formally, but I'd like to discuss two things:
 - The Tolkien myth of Middle Earth's cosmogenesis describes the universe Eä as a composition of musical themes evolved from the orchestrations of one being called Ilúvatar. I bring this up because there's some truth to the analogy of the universe as music, waves combining and interacting together to create beautiful compositions, and not just beautiful, but also dark, loud, tragic.
 - The Big Bang Theory deduces some of the earliest moments of the observable universe, but its cosmology doesn't include the first moment — the actual cosmogenetic origin point.
 
-Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the existence of nothing.
+Now, assuming nothing but math, I'll derive "something from nothing." I won't even assume the "nothing" to exist axiomatically (I almost wrote "a priori", but by definition, "a priori" is a deduction, that is, "relating to or denoting reasoning or knowledge which proceeds from theoretical deduction," via Oxford Languages). Specifically, deduction is defined for your appreciation and scrutiny with 2 axioms and 7 definitions below.
 
-Since nothing but math is assumed, we'll conclude of a missing component that must physically exist, or else the following deduction should have to be accepted as true.
+Since nothing but math (deduction) is assumed, I'll prove that a missing component of reality must physically exist besides math, or else the following deduction, defined without a better definition elsewhere, is... the origin of cosmogenesis.
 
 ## Deduction
 
-This defines deduction succinctly and consistently with historical use.
+This defines deduction succinctly and consistently with historical use. Yes actually.
 
 ### Proofs
 
@@ -97,6 +97,10 @@ A.K.A. the existence of that which exists... exists.
 
 ## Nothing and the Universe
 
+Let's define nothing and *something*, which I'll call "the universe."
+
+### Nothing and... a Physics of Information Patterns
+
 **Definition 8.** Nothing.
 
 The empty existence set $\emptyset \coloneqq \langle \rangle$.
@@ -120,6 +124,8 @@ In other words, defined as: some sequence of numerically representable deduction
 ## Something from Nothing
 
 Let's now build something from nothing.
+
+### Go:
 
 **Theorem 1.** Nothing exists. $\exists \emptyset$.
 
@@ -183,7 +189,7 @@ By Theorem 4. $\square$
 
 ---
 
-We thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
+I thus obtain a strongly connected directed graph (potentially expanding in real-time) with nodes and edges that may be defined as non-deterministic and/or non-stationary, whose grammatical "word" is chosen by the un-specified deducer.
 
 > I've derived the representable universe without making any assumptions (except deduction itself), and therefore either this derivation is true, and we have just uncovered cosmogenesis, or representation and deduction cannot be all there is fundamentally in nature and the physical universe. For home-hitting's sake, here's a Q.E.D. symbol: $\square$.
 
@@ -217,23 +223,21 @@ And that path will make the most sense in a moment.
 
 Either:
 
-1. Math and information patterns are the sole fundamental properties of the universe.
+1. Deduction (math and/or information patterns) is the sole fundamental property of the universe.
    - In which case, I have done the monumental work of deriving cosmogenesis.
-2. Math and information patterns are not the sole fundamental properties of the universe.
-    - In which case, I have done the monumental work of showing there must exist at least a third possibility $^\text{ \color{blue}[1.]}$ to the fundamental properties of the universe besides math and information pattern.
-    - One might think to propose simply "matter" as the third possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete third alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
+2. Deduction (math and/or information patterns) is not the sole fundamental property of the universe.
+    - In which case, I have done the monumental work of showing there must exist at least another possibility to the fundamental properties of the universe besides math and information pattern.
+    - One might think to propose simply "matter" as the other possibility and leave it at that, but there is no distinction in the vague term "matter" between "matter" and information pattern. The best running definition of "matter" is "particles". But information patterns are also particles (and/or interactions of particles) and particles are information patterns (defined typically by numerical quantum states). Therefore a different alternative is needed, something that cannot be defined as information pattern yet can coalesce into complexity. I propose ["singularizing-qualia"](https://github.com/slerman12/Detective-Sam/blob/main/Philosophy/Consciousness.md) is the only concrete alternative, and an alternative definition to "matter". Since that's the only running definition that doesn't reduce to information pattern, I've now done the monumental work of evidencing a kind of primordial consciousness as a basis of the physical universe for the first time deductively.
   
 — "at minimum wage", Josh chimes in.
 
-$\text{\color{blue}[1.]:}$ Math is information pattern, and information pattern is math, so technically "second" possibility.
-
 # Afterward
 
-Hypothetically, how far can we get without axioms?
+Hypothetically, how far can we get without axioms if we defined deduction without axioms?
 
 Well, a hidden axiom contained in the definition of definition is the existence of all definitions. Any definition, given any pair of hypotheticals $A, B$, $A \coloneqq B$ "exists" (is true).
 
-From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[2.]}$
+From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[1.]}$
 
 $\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
@@ -247,7 +251,7 @@ As to the question of whether this definition of deduction is true, well, it's s
 
 And every deduction herein, including of itself (its definition), is consistent to that definition.
 
-$\text{\color{blue}[2.]:}$ Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
+$\text{\color{blue}[1.]:}$ Note: no matter what, as long as there is a definition or an axiom, there is *something* and so what we are actually deriving from is not *nothing* but a primordial something.
 
 ## Confusion About Existence Operator
 
