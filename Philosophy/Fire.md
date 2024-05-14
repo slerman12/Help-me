@@ -12,11 +12,11 @@ Those compounds are called hydrocarbons, in the case of, for example, wood. Wood
 
 Now when you rub them together hard and long enough with enough friction, you can rupture those bonds! After all, they’re held together quite precariously by gravity and electromagnetism and all that. Squeeze ‘em hard enough and they’ll more-or-less split.
 
-So you rub two sticks together, say, using the bow-drill method (for fire making), and you rupture those hydrocarbons into hydrogens and carbons. Now the hydrogen will bond with the oxygen (if you’re lucky), that is, in the air, and the carbon will bond with the oxygen (if you’re unlucky), and this all-around combo-reconfiguration-of-bonding<sup>TM</sup> tends to leave excess electrons that shoot off like knives into your eyes — and also potentially into other atoms and hydrocarbons. So now that emission is what you see. It’s a spark!
+So you rub two sticks together, say, using the bow-drill method (for fire making), and you rupture those hydrocarbons into hydrogens and carbons. Now the hydrogen will bond with the oxygen (if you’re lucky), that is, in the air, and the carbon will bond with the oxygen (if you’re unlucky), and this all-around combo-reconfiguration-of-bonding<sup>TM</sup> tends to leave excess electrons that shoot off like knives into your eyes (or rather specific colors of light emitted by those accelerated/reconfigured electrons) — and also potentially into other atoms and hydrocarbons. So now that emission is what you see. It’s a spark!
 
 If enough hydrocarbons are hanging around, say you put the ember in some tinder, now those little hailstorms will trigger a chain reaction. Like knives, they’ll cut through the other hydrocarbons present, creating instability — and more shooting electrons. 
 
-Meanwhile, those broken off hydrogens bonded to oxygen — you know what they are? Water! Water vapor technically. Steam, if you like, with its composition of oxygen and hydrogen amidst a hailstorm of electrons. That “electricy water” is fire. 
+Meanwhile, those broken off hydrogens bonded to oxygen — you know what they are? Water! Water vapor technically. Steam, if you like, with its composition of oxygen and hydrogen amidst a hailstorm of electrons. That “electricity water” is fire. 
 
 Now the carbons on the other hand can also bond with oxygen. And that creates CO2. Meanwhile, some non-combustible elements in the mix (since non-charcoal wood for example is composed combustibly of more than just hydrocarbons) create ash and, its rising form, lifted by those rising gasses and water, smoke. 
 
@@ -24,7 +24,7 @@ Now the carbons on the other hand can also bond with oxygen. And that creates CO
 
 “Electriquey steam with some residue” — FIRE — in 5 words.
 
-So fire is water? Yes, electricy water. It is possible. It’s water with some electrons flying out creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
+So fire is water? Yes, electricity water. It is possible. It’s water with some electrons flying out creating a photoelectric rainbow of red and blue and yellow in your survival-expert-tool-wielding human eyes.
 
 That’s fire !
 
@@ -38,4 +38,4 @@ Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive 
 
 That is the Null Hypothesis by which I define words. [There was a time by the way when "blue" didn't exist](https://lethbridgenewsnow.com/2021/02/09/the-curious-case-of-the-missing-color-blue/#:~:text=It%20turns%20out%20the%20color,see”%20blue%20until%20modern%20times!).
 
-[^1]: [the garden of eden](https://en.wikipedia.org/wiki/Garden_of_Eden), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds.”), emblazed 
+[^1]: [The garden of eden](https://en.wikipedia.org/wiki/Garden_of_Eden), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds.”), emblazed.
