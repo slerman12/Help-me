@@ -190,6 +190,8 @@ There were further terrors at the University of Rochester Medical Center that I 
 
 In defense of Chenliang: he eventually accepted me into his lab (when I succesfully delivered that paper, even early, while still in the nightmare depths of the benzo withdrawal), and stayed generally nice throughout the time, while not expressing judgement towards my social anxiety. He sometimes had a good understanding of AI, better than others at the university. His spirit, sometimes, felt extraordinarily supportive. He contradictorily wanted efficiency with somewhat respecting my slower publication pace while I built UnifiedML, and I believed he fully knew that I was intelligent enough to warrant investing faith in. While 2 publications in 3 years is (I think) less than his average student, that was, however, his only reason for terminating me when I was in my sixth year, three years later, an average number of publications.
 
+For context, Henry's average was 1 - 3 across the PhD student's full tenure.
+
 <p align="center">
 <img width="340" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2c912a3b-d85a-4112-ad2c-596c9b502099">
 </p>
