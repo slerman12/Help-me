@@ -75,11 +75,11 @@ Also, if you need evidence of my hard work, just look at my GitHubs and GitHub r
 
 For an idea, see these [slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing).
 
-And see [here](https://github.com/slerman12/Detective-Sam/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md).
+And see [here](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md).
 
 ### My termination had nothing to do with my work
 
-The decision to cut off my funding occurred arbitrarily, before the formality they ultimately used to justify the termination. This decision also followed two of my advisors and most of my committee members leaving, arbitrarily and in no way related to me, and almost all of the deliberations were made entirely by people who literally had never met me during my 10 years in undergrad or PhD. I had to switch advisors in my 3rd year (of my PhD) because my original advisor Henry Kautz was promoted to lead the AI division at the NSF. I switched to Chenliang Xu, who also decided to leave after 3 years due to me not having as many papers as he considered standard, despite my publication rate being about the same as or better than my original advisor’s average doctoral student (I [published 2 papers in the 3 years under Chenliang](https://scholar.google.com/citations?user=3xy30K0AAAAJ&hl=en), [one in a top venue](https://arxiv.org/abs/2006.08601)). Besides what should be considered a perfectly reasonable publication rate, they had extreme evidence of my research [talent](https://github.com/slerman12/Help-me/blob/main/5-Early-work-in-program.md) and [skill](https://github.com/slerman12/Detective-Sam/blob/main/6-Indebted.md). From successfully innovating on the methods behind ChatGPT 5 years ago before anyone outside of a small niche handful of researchers heard of MHDPA to predicting and painstakingly teaching the professors at my university about every recent and impending research innovation that developed in deep learning during (and after) my fascination in those areas during my PhD, with my predictions always proving true even when those advisors and faculty argued or doubted. All of this got forgotten and discarded ultimately in the decision made by total strangers in my final year.
+The decision to cut off my funding occurred arbitrarily, before the formality they ultimately used to justify the termination. This decision also followed two of my advisors and most of my committee members leaving, arbitrarily and in no way related to me, and almost all of the deliberations were made entirely by people who literally had never met me during my 10 years in undergrad or PhD. I had to switch advisors in my 3rd year (of my PhD) because my original advisor Henry Kautz was promoted to lead the AI division at the NSF. I switched to Chenliang Xu, who also decided to leave after 3 years due to me not having as many papers as he considered standard, despite my publication rate being about the same as or better than my original advisor’s average doctoral student (I [published 2 papers in the 3 years under Chenliang](https://scholar.google.com/citations?user=3xy30K0AAAAJ&hl=en), [one in a top venue](https://arxiv.org/abs/2006.08601)). Besides what should be considered a perfectly reasonable publication rate, they had extreme evidence of my research [talent](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md) and [skill](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md). From successfully innovating on the methods behind ChatGPT 5 years ago before anyone outside of a small niche handful of researchers heard of MHDPA to predicting and painstakingly teaching the professors at my university about every recent and impending research innovation that developed in deep learning during (and after) my fascination in those areas during my PhD, with my predictions always proving true even when those advisors and faculty argued or doubted. All of this got forgotten and discarded ultimately in the decision made by total strangers in my final year.
 
 Prior to all of that, I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
 
@@ -149,7 +149,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 
 That's not even slavery, it's humanly impossible.
 
-The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. "All of the above" is as much of an answer as they gave me, but, technically speaking, they haven't given me an answer on that and [are currently ghosting me](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md).
+The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. "All of the above" is as much of an answer as they gave me, but, technically speaking, they haven't given me an answer on that and [are currently ghosting me](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md).
 
 This is simultaneously slavery, humanly impossible, and fascism all wrapped into one.
 
@@ -215,7 +215,7 @@ The make-up review deadline was August 30th. I was notified of my stipend being 
 
 - Depending on whether a PhD student counts as an employee, there might be a law against mandating labor in such an instance.
 
-[This was added post-hoc](https://github.com/slerman12/Detective-Sam/blob/main/7-Ongoing.md) as a termination reason on 10/31/2023 (the official termination was on 10/12/2023, with my research plan as the reason).
+[This was added post-hoc](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) as a termination reason on 10/31/2023 (the official termination was on 10/12/2023, with my research plan as the reason).
 
 Throughout, the department made multiple false statements about my research and my advisor's intentions.
 
