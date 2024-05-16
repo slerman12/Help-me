@@ -177,7 +177,7 @@ In the email shown below, the possibility of reinstatement was mentioned, but no
 
 Also, I replied to the email (while still officially a grad student) asking for evidence and my reply was ignored. It was the last message sent between us prior to [these ones](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) that I reinstated, also currently being ignored.
 
-It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did they really expect me to convey all of this in person to them? I did my best to convey and elaborate on all of this at a safe distance and they ignored those emails too, and I requested that they respond. 
+It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did they really expect me to convey all of this in person? I did my best to convey and elaborate on all of this at a safe distance and they ignored those emails too, and I requested that they respond. Whatever "mutual understanding" Michael could've been referring to, it was about him not about me.
 
 Additionally, I cannot endure more meetings and deliberations after this ump-teenth set of traumas (including ones I haven't mentioned in this repo that also happened during this time period, also are egregious, and also were induced by the Medical Center via coercion, ["#NotEnoughCarbs"](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) and more...) culminating six years of torture from this one institution.
 
