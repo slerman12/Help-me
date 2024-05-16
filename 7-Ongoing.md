@@ -243,7 +243,7 @@ The disproof now is going to be of Proposition 1:
 
 Here it is:
 
-$|A| = 0 \not> 0$. $\square$ 
+$|x| = 0 \not> 0$. $\square$ 
 
 If you find this too pedantic, then endure six years of trauma and get terminated by your torturers [for far less justification].
 
