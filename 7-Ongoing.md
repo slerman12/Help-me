@@ -227,7 +227,9 @@ Now let’s assume I didn’t do anything they suggested or requested of me:
 
 This is the strongest set of possible assumptions I can make in their favor. 
 
-Define the set of what was necessary for reinstatement of support indicated to the student, by writing, when withdrawing support as $x$:
+Define the set of what was necessary for reinstatement of support indicated to the student, by writing, when withdrawing support as $x$.
+
+"should you choose to apply for reinstatement." is the only mention that was made of reinstatement. No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements without reply, and met with and suggested one to the department, this path to reinstatement isn't a believable path. Micheal reaches out to meet in person, but presumably that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. 
 
 $x = \emptyset$. 
 
