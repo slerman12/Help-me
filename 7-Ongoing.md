@@ -217,17 +217,17 @@ Maybe this is better:
 
 Suppose every reason they had for terminating me was true, and suppose any one of them suffices:
 
-[List them.]
+[List them, can keep these succinct, "(False, but assume True)", and just link to the relevant subsection on the word False.]
 
 This is almost the strongest possible assumption I can make in their favor. 
 
 Now let’s assume I didn’t do anything they suggested or requested of me:
 
-[List the one. Maybe mention that I did it exceptionally.]
+[List the one. "(False, but assume True)", link to the relevant subsection on the word False, mantion that I did it exceptionally.]
 
 This is the strongest set of possible assumptions I can make in their favor. 
 
-Define the set of what was necessary for reinstatement of support indicated to the student, by writing, when withdrawing support as $x$.
+The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support was withdrawn" as the variable $x$.
 
 The only time reinstatement was mentioned was by Michael [here](3-Disproof.md#email-10312023): "should you choose to apply for reinstatement." No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements without reply, and met with one and suggested another to the department, this isn't a path. Micheal reaches out to meet in person, but presumably that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. Demanding someone your institution tortured to meet with you in person as the basis of reinstatement despite your complete unfamiliarity with their field, is a violation of human rights, the torture and the demand.
 
