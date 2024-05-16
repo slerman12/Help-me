@@ -148,7 +148,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 **Definition 1.** $x = \emptyset$. 
 
-That is the empty set. 
+That is the empty set, as described in the reminder. 
 
 Now, assume the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15.
 
