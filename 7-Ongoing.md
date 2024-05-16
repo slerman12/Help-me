@@ -225,7 +225,7 @@ Now let’s assume I didn’t do anything they suggested or requested of me:
 
 [List the one. "(False, but assume True)", link to the relevant subsection on the word False, mention that I did it exceptionally.]
 
-This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to their own claims *or* plausible assumptions. 
+This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to their own claims.
 
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. 
 
