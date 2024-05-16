@@ -223,7 +223,7 @@ This is almost the strongest possible assumption I can make in their favor.
 
 Now let’s assume I didn’t do anything they suggested or requested of me:
 
-[List the one. "(False, but assume True)", link to the relevant subsection on the word False, mantion that I did it exceptionally.]
+[List the one. "(False, but assume True)", link to the relevant subsection on the word False, mention that I did it exceptionally.]
 
 This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to their own claims. 
 
