@@ -249,5 +249,5 @@ $|x| = 0 \not> 0$. $\square$
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
-They can’t ever use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to their own policy.
+They can’t even ever use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to their own policy.
 
