@@ -179,7 +179,7 @@ Also, I replied to the email (while still officially a grad student) asking for 
 
 Additionally, I cannot endure more meetings and deliberations after this ump-teenth set of traumas (including ones I haven't mentioned in this repo that also happened during this time period, also are egregious, and also were induced by the Medical Center via coercion, ["#NotEnoughCarbs"](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) and more...) culminating six years of torture from this one institution.
 
-It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did they really expect me to convey all of this in a single meeting as well? I did my best to convey and elaborate on everything and they ignored those emails too, and I requested that they respond, while I was still employed as a grad student. 
+It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did they really expect me to convey all of this in a single meeting as well? I did my best to convey and elaborate on everything and they ignored those emails too, and I requested that they respond, while I was still a grad student. 
 
 #
 
