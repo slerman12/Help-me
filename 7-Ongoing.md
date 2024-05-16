@@ -128,7 +128,7 @@ Now let’s assume I didn’t do anything they suggested or requested of me:
 
 This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their own claims.
 
-### Reminder
+### Reminder of [first](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) disproof
 
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. 
 
@@ -173,6 +173,3 @@ If they find this too pedantic, then they should endure six years of trauma and 
 They can’t even use “just doing their jobs” as an excuse for these events, since they aren’t, even by their own policy.
 
 I wrote in the email, "Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?" Seems somewhat pedantic, oh but it's policy. And policy is policy. Right?
-
-This is now the [second](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) disproof by the way.
-
