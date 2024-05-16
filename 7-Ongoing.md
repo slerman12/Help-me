@@ -130,6 +130,8 @@ This is now the strongest set of possible assumptions I can make in their favor,
 
 ### Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
+Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continued without the suppositions described here about everything they claim being true. 
+
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. 
 
 The only time reinstatement was mentioned was by Michael [here](3-Disproof.md#email-10312023). No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, this isn't a path (and none of these things were suggested by the faculty in writing). Michael reaches out to meet in person, but that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason for wanting to meet was "mutual understanding", not "what is necessary" for reinstatement, unless "mutual understanding" with Michael, someone who I don't know and never met, becomes a requirement for reinstatement, the chair of a department in an institution that tortured me in person for six years, during yet another trauma, this time being actively inflicted by him. 
@@ -141,8 +143,6 @@ Additionally, I cannot endure more meetings and deliberations where I have to de
 It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did he really expect me to convey all of this in a single meeting as well while I had no salary or income? I responded to Michael about that directly: (1) "Hi Michael, I’d be willing to meet. But please extend my stipend through November," and "I would be glad to meet in person, but I ask that you restore my stipend for the month of November. Thank you." (November is my birthday actually). I did my best to convey and elaborate on everything and he ignored those emails too. Meanwhile, I was being actively overseen remotely and in person by two different research groups requiring regular research updates, software engineering tasks, and progress reports — both of whom said I was done and ready to defend, and none of whom were Michael.
 
 Furthermore, support was withdrawn long before Michael sent this email.
-
-Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continued without the suppositions described here about everything they claim being true. 
 
 ### Begin second disproof:
 
