@@ -236,8 +236,9 @@ Here it is:
 
 $$
 \begin{align}
-|x| &= 0 \quad\quad \text{(Definition 1)} \\
-&\not> 0.  \\ 
+x &= \emptyset \quad\quad \text{(Definition 1)} \\
+&\rightarrow |x| = 0 \\
+&\ \ \ \quad \quad \not> 0.  \\ 
 &\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \square
 \end{align}
 $$
