@@ -142,7 +142,7 @@ It's taking me a year to write this. They couldn't even understand my research, 
 
 Furthermore, support was withdrawn long before Michael sent this email.
 
-Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continues without the suppositions described here about everything they claim being true. 
+Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continued without the suppositions described here about everything they claim being true. 
 
 ### Begin second disproof:
 
