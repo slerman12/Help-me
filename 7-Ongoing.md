@@ -233,7 +233,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 The only time reinstatement was mentioned was by Michael [here](3-Disproof.md#email-10312023): "should you choose to apply for reinstatement." No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements without reply, and met with one and suggested another to the department, this isn't a path. Micheal reaches out to meet in person, but presumably that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. Demanding someone your institution tortured to meet with you in person as the basis of reinstatement despite your complete unfamiliarity with their field, is a violation of human rights, the torture and the demand.
 
-**Definition.** $x = \emptyset$. 
+**Definition 1.** $x = \emptyset$. 
 
 That is the empty set. 
 
@@ -241,9 +241,9 @@ Finally, let’s assume the proposition stated in the PhD student handbook: “W
 
 Mathematically:
 
-**Proposition.** $\vert x \vert > 0.$
+**Proposition 1.** $\vert x \vert > 0.$
 
-The disproof now is going to be of Proposition:
+The disproof now is going to be of Proposition 1:
 
 Here it is:
 
