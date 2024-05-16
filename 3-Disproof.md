@@ -177,7 +177,7 @@ In the email shown below, the possibility of reinstatement was mentioned, but no
 
 Also, I cannot endure more meetings and deliberations after this ump-teenth set of traumas (including ones I haven't mentioned in this repo that also happened during this time period, also are egregious, and also were induced by the Medical Center via coercion, ["#NotEnoughCarbs"](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) and more...) culminating six years of torture from this one institution.
 
-Also, I replied to the following email asking for evidence and my reply was ignored.
+Also, I replied to the email asking for evidence and my reply was ignored.
 
 #
 
