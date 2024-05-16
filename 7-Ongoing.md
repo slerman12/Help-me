@@ -232,7 +232,13 @@ The disproof now is going to be of Proposition 1:
 
 Here it is:
 
-**Disproof.** $x = \emptyset \rightarrow |x| = 0 \not> 0$. $\square$
+**Disproof.** 
+
+$x = \emptyset$. &nbsp; (Definition 1) 
+
+$\rightarrow |x| = 0$ 
+
+$\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
