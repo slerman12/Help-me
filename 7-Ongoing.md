@@ -134,7 +134,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 The only time reinstatement was mentioned was by Michael [here](3-Disproof.md#email-10312023). No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, this isn't a path. Michael reaches out to meet in person, but that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason for wanting to meet was "mutual understanding", not "what is necessary" for reinstatement, unless "mutual understanding" with Michael, someone who I don't know and never met, becomes a requirement for reinstatement, the chair of a department in an institution that tortured me in person for six years, during yet another trauma, this time being actively inflicted by him. 
 
-Also, I replied to the email asking for evidence and my reply was ignored.
+Also, I replied to the email (while still officially a grad student) asking for evidence and my reply was ignored.
 
 **Definition 1.** $x = \emptyset$. 
 
