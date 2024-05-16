@@ -156,7 +156,7 @@ Mathematically:
 
 **Proposition 1.** $\vert x \vert > 0.$
 
-The disproof now is going to be of Proposition 1 from the PhD student handbook:
+The disproof now is going to be of Proposition 1:
 
 Here it is:
 
