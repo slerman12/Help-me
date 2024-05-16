@@ -241,7 +241,7 @@ Mathematically:
 
 **Proposition.** $\vert x \vert > 0.$
 
-The disproof now is going to be of Proposition 1:
+The disproof now is going to be of Proposition:
 
 Here it is:
 
