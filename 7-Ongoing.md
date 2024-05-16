@@ -245,7 +245,7 @@ The disproof now is going to be of Proposition 1:
 
 Here it is:
 
-$|x| = 0 \not> 0$. $\square$ 
+**Disproof.** $|x| = 0 \not> 0$. $\square$ 
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
