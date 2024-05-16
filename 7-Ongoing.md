@@ -232,7 +232,15 @@ The disproof now is going to be of Proposition 1:
 
 Here it is:
 
-**Disproof.** $|x| = 0 \not> 0$. $\square$ 
+**Disproof.** 
+
+$$
+\begin{align}
+|x| &= 0 \quad\quad \text{(Definition 1)} \\
+&\not> 0.  \\ 
+&\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \square
+\end{align}
+$$
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
