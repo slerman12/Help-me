@@ -247,11 +247,9 @@ Here it is:
 
 $|x| = 0 \not> 0$. $\square$ 
 
-If you find this too pedantic, then endure six years of trauma and get terminated by your torturers [for far less justification].
+If you find this too pedantic, then endure six years of trauma and get terminated by your torturers for far less justification.
 
 In other words, they violated their own policy. They’re also violating it right now. 
 
-Doesn’t matter if it’s pedantic. This means that they can’t ever use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to formal math. 
-
-Perhaps they feel the math isn't fair to them?
+They can’t ever use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to formal math. 
 
