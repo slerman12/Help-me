@@ -146,7 +146,7 @@ Furthermore, support was withdrawn long before Michael sent that email.
 
 ### Begin second disproof:
 
-Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support was withdrawn" as the variable $x$.
+Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support is withdrawn" as the variable $x$.
 
 **Definition 1.** $x = \emptyset$. 
 
