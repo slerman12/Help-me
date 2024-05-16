@@ -142,7 +142,7 @@ It's taking me a year to write this. They couldn't even understand my research, 
 
 Furthermore, support was withdrawn long before Michael sent this email.
 
-### Begin disproof
+### Begin:
 
 Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support was withdrawn" as the variable $x$.
 
