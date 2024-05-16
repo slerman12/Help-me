@@ -247,9 +247,7 @@ Here it is:
 
 $|x| = 0 \not> 0$. $\square$ 
 
-If you find this too pedantic, then endure six years of trauma and get terminated by your torturers for far less justification.
+If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
-In other words, they violated their own policy. They’re also violating it right now. 
-
-They can’t ever use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to formal math. 
+They can’t ever use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to their own policy.
 
