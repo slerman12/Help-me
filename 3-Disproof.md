@@ -175,6 +175,8 @@ They cherrypick the policies, vision, and values (e.g., "bad standing" in depart
 
 In the email shown below, the possibility of reinstatement was mentioned, but no details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, this isn't a path. Michael reaches out to meet in person, but that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason given was "mutual understanding", not reinstatement, and certainly doesn't satisfy the "what is necessary" part of the clause, unless "mutual understanding" with Michael, someone who I don't know and never met, becomes a requirement for reinstatement, nor speaking with the chair of an institution that tortured me in person for six years, during yet another trauma, this time being actively infliced by him.
 
+My reply to this email asking for evidence was ignored.
+
 Also, I cannot endure more meetings and deliberations after this ump-teenth set of traumas (including ones I haven't mentioned in this repo that also happened during this time period, also are egregious, and also were induced by the Medical Center via coercion, ["#NotEnoughCarbs"](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) and more...) culminating six years of torture from this one institution.
 
 #
@@ -192,10 +194,6 @@ For the record, I do not agree with your characterization of how or why you are 
 Yours,
 
 Michael
-
-#
-
-My reply to this asking for evidence was ignored.
 
 ### Conclusive disproof
 
