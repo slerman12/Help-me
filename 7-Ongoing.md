@@ -231,7 +231,7 @@ The PhD student handbook has one clause of accountability for the grad school, a
 
 Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support was withdrawn" as the variable $x$.
 
-The only time reinstatement was mentioned was by Michael [here](3-Disproof.md#email-10312023): "should you choose to apply for reinstatement." No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements without reply, and met with one and suggested another to the department, this isn't a path. Micheal reaches out to meet in person, but presumably that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The way he phrased it, it didn't sound like the demand on which any of this hinged, but if it was... demanding someone your institution tortured to meet with you in person as the basis of reinstatement despite your (meaning Michael's) complete unfamiliarity with their (meaning my) field, is a violation of human rights, the torture and the demand.
+The only time reinstatement was mentioned was by Michael [here](3-Disproof.md#email-10312023): "should you choose to apply for reinstatement." No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements without reply, and met with one and suggested another to the department, this isn't a path. Micheal reaches out to meet in person, but presumably that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. It was clear in the ohrasing that that meeting with Michael specifically was an orthogonal suggestion to applying for reinstatement. However, if this was secretly the indication, on which all of this hinged... vaguely demanding someone your institution tortured to meet with you in person as the basis of reinstatement despite your (meaning Michael's) complete unfamiliarity with that person, is a violation of human rights, the torture and the demand.
 
 **Definition 1.** $x = \emptyset$. 
 
@@ -251,7 +251,7 @@ Here it is:
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
-They can’t even use “just doing their jobs” as an excuse for these events, since they aren’t, at least according to their own policy.
+They can’t even use “just doing their jobs” as an excuse for these events, since they aren’t, even provably by their own policy.
 
 I wrote in the email, "Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?" Seems somewhat pedantic, oh but it's policy. And policy is policy. Right?
 
