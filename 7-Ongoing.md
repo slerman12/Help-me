@@ -128,7 +128,7 @@ Now let’s assume I didn’t do anything they suggested or requested of me:
 
 This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their own claims.
 
-### Reminder of some context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md):
+### Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md):
 
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. 
 
@@ -150,7 +150,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 **Definition 1.** $x = \emptyset$. 
 
-That is the empty set, as described in the context. 
+That is the empty set, as described in the context reminder. 
 
 Now, assume the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15.
 
