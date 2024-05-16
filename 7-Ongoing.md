@@ -200,21 +200,6 @@ The University of Rochester: **Saruman**
 
 # $\mathcal{Epilogue}$ (Conclusive disproof of Michael)
 
-**Proposition 1:** “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15.
-
-**Proposition 2:** Either: (1) a make-up to the six-month review make-up is necessary for reinstatement of support, or (2) a research plan that is consistent and viable is necessary for reinstatement of support.
-
-1. A make-up to a make-up reduces to absurdity, and was not “[indicated] to the student, in writing.”
-2. No evidence was provided that my research plan was inconsistent or unviable, since it wasn’t, and nowhere was the necessity to provide a new research plan "[indicated] to the student, in writing“ "when [they withdrew] support.” The research plan I provided is the reason they withdrew support.
-
-Therefore, the faculty did not “indicate to the student, in writing,” what is necessary for reinstatement of support, “when [they withdrew] support.”
-
-Furthermore, the faculty is violating their own policy right now.
-
-#
-
-Maybe this is better:
-
 Suppose every reason they had for terminating me was true, and suppose any one of them suffices:
 
 [List them, can keep these succinct, "(False, but assume True)", and just link to the relevant subsection on the word False.]
