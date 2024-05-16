@@ -239,7 +239,7 @@ $$
 x &= \emptyset \quad\quad \text{(Definition 1)} \\
 &\rightarrow |x| = 0 \\
 &\ \ \ \quad \quad \not> 0.  \\ 
-&\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \square
+&\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad \ \ \ \ \square
 \end{align}
 $$
 
