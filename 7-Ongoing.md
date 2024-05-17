@@ -116,6 +116,8 @@ The University of Rochester: **Saruman**
 
 # $\mathcal{Epilogue}$ (Conclusive disproof of Michael)
 
+Resume dark tone:
+
 Suppose every reason they had for terminating me was true, and suppose any one of them suffices:
 
 [List them, keep them succinct, "(False, but assume True)", and just link to the relevant subsection on the word False.]
