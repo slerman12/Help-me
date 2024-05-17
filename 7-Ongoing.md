@@ -118,18 +118,6 @@ The University of Rochester: **Saruman**
 
 Resume dark tone:
 
-Suppose every reason they had for terminating me was true, and suppose any one of them suffices:
-
-[List them, keep them succinct, "(False, but assume True)", and just link to the relevant subsection on the word False.]
-
-This is almost the strongest possible assumption I can make in their favor. 
-
-Now let’s assume I didn’t do anything they suggested or requested of me:
-
-[List the one. "(False, but assume True)", link to the relevant subsection on the word False, mention that I did it exceptionally.]
-
-This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
-
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
 Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continued without the suppositions described here about everything they claim being true. 
@@ -146,25 +134,43 @@ It's taking me a year to write this. They couldn't even understand my research, 
 
 Furthermore, support was withdrawn long before Michael sent that email.
 
-## Begin second disproof:
+## Definitions
+
+### (1) Necessity of support set.
 
 Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support is withdrawn" as the variable $x$.
 
-### Definitions
-
-**(1) $x$ $\coloneqq$ $\emptyset$.**
+$x$ $\coloneqq$ $\emptyset$.
 
 That is the empty set, as described in the [context reminder](#reminder-of-context-mentioned-in-first-disproof). 
 
-### Propositions
+## Propositions
 
-Now, hypothesize the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
+### (1) Truth.
 
-**(1) $\vert x \vert > 0$.**
+Suppose every reason they had for terminating me was true. (False, but assume True).
 
-### Disproofs
+### (2) Sufficient cause.
 
-**(1) Proposition 1.**
+Suppose any one of them suffices. (False, but assume True).
+
+### (3) Student's negligence.
+
+Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
+
+&#9432; This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
+
+Finally:
+
+### (4) PhD student handbook.
+
+“When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
+
+$\vert x \vert > 0$.
+
+## Disproofs
+
+### (1) Proposition 4.
 
 **Disproof.**
 
@@ -174,7 +180,7 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-### Disproof conclusion
+## Disproof conclusion
 
 - If they find this point too pedantic, then they should consider what it's like to endure six years of trauma and get terminated by their torturers for far less justification.
 - They can't claim “just doing their jobs” as an excuse for these events, because they aren’t, even by their own policy, even when all of their claims are treated as steel by supposing: (1) every reason they had for terminating me was true, (2) any one of them suffices, and (3) I didn’t do anything they suggested or requested of me. That is, "steel-manning" them as opposed to ["straw-manning"](https://en.wikipedia.org/wiki/Straw_man).
