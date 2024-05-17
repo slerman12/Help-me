@@ -108,7 +108,7 @@ Nicole: **Galadriel**
 
 Lane, Lisa, Mohsen: **Legolas**
 
-Emily (Townsend): **Éowyn**
+Emily T: **Éowyn**
 
 The modern cultures, leaders, and institutions, including the education/research and healing systems: **Melkor/Sauron**
 
