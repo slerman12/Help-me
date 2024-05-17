@@ -148,23 +148,17 @@ Furthermore, support was withdrawn long before Michael sent that email.
 
 Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support is withdrawn" as the variable $x$.
 
-#
-
 ### Definitions
 
 **(1) $x$ $\coloneqq$ $\emptyset$.**
 
 That is the empty set, as described in the context reminder. 
 
-#
-
 ### Propositions
 
 Now, hypothesize the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
 **(1) $\vert x \vert > 0$.**
-
-#
 
 ### Disproofs
 
@@ -176,9 +170,7 @@ $x = \emptyset$. &nbsp; (Definition 1)
 
 $\rightarrow |x| = 0$ 
 
-$\quad \quad \ \ \not> 0$. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \square$
-
-#
+$\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
