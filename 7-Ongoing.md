@@ -152,7 +152,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 **(1) $x$ $\coloneqq$ $\emptyset$.**
 
-That is the empty set, as described in the context reminder. 
+That is the empty set, as described in the [context reminder](#reminder-of-context-mentioned-in-first-disproof). 
 
 ### Propositions
 
