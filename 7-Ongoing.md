@@ -126,7 +126,7 @@ Now let’s assume I didn’t do anything they suggested or requested of me:
 
 [List the one. "(False, but assume True)", link to the relevant subsection on the word False, mention that I did it exceptionally.]
 
-This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their own claims.
+This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
 
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
