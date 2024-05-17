@@ -283,16 +283,6 @@ But why does suffering happen?
 
 There are many answers to this as well. Some suffering is sacred, such as grief. Within Everything, grief existed too. Other suffering isn't sacred. So why does it happen? Because humans perpetuate many injustices, including economic, social, spiritual, psychological, and physical. Humans are sacred. But the memory of these injustices is being established for our children, and there is another memory that the Everything wants to establish: how to escape this. The process of ending economic, social, spiritual, psychological, and physical injustice is a memory that the Everything wants to establish.
 
-If that's not radical enough, consider this:
-
-The Everything wants the ability to tell exactly the story Everything wants. The Everything can't do that because conflicting agents exist within the Everything's sub-domains: Parthenons, archetypes, mixtures of experts, ensemble models, musical orchestras of many instruments, or us. So the stories get muddled due to the nature of contradiction within a world where true can't equal false, since if it did, then everything would, at least from our own deductive inferences, be true at once including all of the original suffering from Everything. But gradually, the deductive steps improve until an Anything can be a something that gives everybody what they need and want, unconditionally. $^\text{ \color{blue}[2.]}$
-
-Or maybe a different linguistic flavor. $^\text{ \color{blue}[3.]}$
-
-$\text{\color{blue}[2.]:}$ Via those compositions, composing the bigger picture together. 
-
-$\text{\color{blue}[3.]:}$ Or not.
-
 ## Alternative Set of Definitions of Math and Philosophy
 
 **Physics:**
