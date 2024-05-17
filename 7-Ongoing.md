@@ -128,7 +128,7 @@ Now let’s assume I didn’t do anything they suggested or requested of me:
 
 This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their own claims.
 
-### Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
+## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
 Unlike here, the main [disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) continued without the suppositions described here about everything they claim being true. 
 
@@ -144,31 +144,41 @@ It's taking me a year to write this. They couldn't even understand my research, 
 
 Furthermore, support was withdrawn long before Michael sent that email.
 
-### Begin second disproof:
+## Begin second disproof:
 
 Define the set of "what is necessary for reinstatement of support, indicated to the student by the faculty, in writing, when support is withdrawn" as the variable $x$.
 
-**Definition 1.** $x = \emptyset$. 
+#
+
+### Definitions
+
+**(1) $x$ $\coloneqq$ $\emptyset$.**
 
 That is the empty set, as described in the context reminder. 
 
-Now, assume the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15.
+#
 
-Mathematically:
+### Propositions
 
-**Proposition 1.** $\vert x \vert > 0.$
+Now, assume the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
-The disproof now is going to be of Proposition 1:
+**(1) $\vert x \vert > 0$.**
 
-Here it is:
+#
 
-**Disproof.** 
+### Disproofs
+
+**(1) Proposition 1.**
+
+**Disproof.**
 
 $x = \emptyset$. &nbsp; (Definition 1) 
 
 $\rightarrow |x| = 0$ 
 
-$\quad \quad \ \ \not> 0$. &nbsp; $\square$
+$\quad \quad \ \ \not> 0$. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \square$
+
+#
 
 If they find this too pedantic, then they should endure six years of trauma and get terminated by torturers for far less justification.
 
