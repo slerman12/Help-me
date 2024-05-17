@@ -1,33 +1,36 @@
-# Email conversation of 02/07/24 - 02/09/24
+# Ongoing
 
-> Re: Supporting students</br>
-> To: "Scott, Michael" <scott@cs.rochester.edu></br>
-> From: "Sam Lerman" <slerman@ur.rochester.edu>
->
-> Hi Michael, 
->
-> Was this six-month review mentioned at/between the time of my termination and October 31st?
->
-> Sam
+## Part 7
 
-#
+### Email: 02/07/2024
 
-> Re: Supporting students</br>
-> To: "Sam Lerman" <slerman@ur.rochester.edu> Cc: "Clark, Robin" <robin.clark@rochester.edu>, "Xu, Chenliang" <Chenliang.Xu@rochester.edu></br>
-> From: "Scott, Michael" <scott@cs.rochester.edu>
->
-> Hi Sam -
->
-> I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
->
-> — Michael
+Re: **Supporting students** </br>
+To: **CS department chair** </br>
+From: **Sam Lerman**
 
----
+Hi Michael, 
 
-> Re: Supporting students</br>
-> To: "Scott, Michael" <scott@cs.rochester.edu> Cc: "Clark, Robin" <robin.clark@rochester.edu>, "Xu, Chenliang" <Chenliang.Xu@rochester.edu></br>, "Grad Student Association (GSA)" <ase_gsa@ur.rochester.edu> </br>
-> Bcc: "Graduate Student Collective" <urgraduatecollective@gmail.com> </br>
-> From: "Sam Lerman" <slerman@ur.rochester.edu>
+Was this six-month review mentioned at/between the time of my termination and October 31st?
+
+Sam
+
+### Email: 02/07/2024
+
+Re: **Supporting students** </br>
+To: **Sam Lerman, Graduate Coordinator Robin, Chenliang** </br>
+From: **Michael**
+
+Hi Sam —
+
+I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
+
+— Michael
+
+### Email: 02/09/2024
+
+Re: **Supporting students**</br>
+To: **Michael Scott, Robin, Chenliang, Grad Student Association (ASE GSA)** </br>
+From: **Sam Lerman**
 
 Hi Michael,
 
