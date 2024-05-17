@@ -175,7 +175,7 @@ $\vert x \vert > 0$.
 
 ### (1) Proposition 4.
 
-**Disproof of Michael.**
+**Disproof.**
 
 $x = \emptyset$. &nbsp; (Definition 1) 
 
