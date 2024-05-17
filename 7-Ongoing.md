@@ -118,13 +118,13 @@ The University of Rochester: **Saruman**
 
 Suppose every reason they had for terminating me was true, and suppose any one of them suffices:
 
-[I can list them, can keep them succinct, "(False, but assume True)", and just link to the relevant subsection on the word False.]
+[List them, keep them succinct, "(False, but assume True)", and just link to the relevant subsection on the word False.]
 
 This is almost the strongest possible assumption I can make in their favor. 
 
 Now let’s assume I didn’t do anything they suggested or requested of me:
 
-[I can list the one. "(False, but assume True)", link to the relevant subsection on the word False, mention that I did it exceptionally.]
+[List the one. "(False, but assume True)", link to the relevant subsection on the word False, mention that I did it exceptionally.]
 
 This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their own claims.
 
