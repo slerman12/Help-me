@@ -18,7 +18,7 @@ Sam
 
 Re: **Supporting students** </br>
 To: **Sam Lerman, Graduate Coordinator Robin, Chenliang** </br>
-From: **CS department chair**
+From: **Michael**
 
 Hi Sam —
 
@@ -29,7 +29,7 @@ I’m not sure which review you’re referring to: the one you skipped in Fall 2
 ### Email: 02/09/2024
 
 Re: **Supporting students**</br>
-To: **CS department chair, Graduate Coordinator Robin, Chenliang, Grad Student Association (ASE GSA)** </br>
+To: **Michael, Graduate Coordinator Robin, Chenliang, Grad Student Association (ASE GSA)** </br>
 From: **Sam Lerman**
 
 Hi Michael,
