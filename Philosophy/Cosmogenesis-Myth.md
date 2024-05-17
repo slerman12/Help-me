@@ -287,6 +287,8 @@ If that's not radical enough, consider this:
 
 The Everything wants the ability to tell exactly the story Everything wants. The Everything can't do that because conflicting agents exist within the Everything's sub-domains: Parthenons, archetypes, mixtures of experts, ensemble models, musical orchestras of many instruments, or us. So the stories get muddled due to the nature of contradiction within a world where true can't equal false, since if it did, then everything would, at least from our own deductive inferences, be true at once including all of the original suffering from Everything. But gradually, the deductive steps improve until an Anything can be a something that gives everybody what they need and want, unconditionally. 
 
+Or maybe a different linguistic flavor.
+
 ## Alternative Set of Definitions of Math and Philosophy
 
 **Physics:**
