@@ -160,7 +160,7 @@ That is the empty set, as described in the context reminder.
 
 ### Propositions
 
-Now, assume the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
+Now, hypothesize the proposition stated in the PhD student handbook: “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
 **(1) $\vert x \vert > 0$.**
 
