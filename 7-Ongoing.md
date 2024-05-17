@@ -174,6 +174,6 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ### Disproof conclusion
 
-- If they find this too pedantic, then they should consider what it's like to endure six years of trauma and get terminated by their torturers for far less justification.
+- If they find this point too pedantic, then they should consider what it's like to endure six years of trauma and get terminated by their torturers for far less justification.
 - They can't claim “just doing their jobs” as an excuse for these events, because they aren’t, even by their own policy where all of their claims are treated as steel (I'm "steel-manning" them, as opposed to ["straw-manning"](https://en.wikipedia.org/wiki/Straw_man)).
 - I wrote in the email, "Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?" Seems somewhat pedantic, oh but it's policy, and the **wisdom** of the University of Rochester says that policy is policy. Then so is this one being **broken** by the University of Rochester, right now. 
