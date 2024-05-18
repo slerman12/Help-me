@@ -185,15 +185,9 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## My imagined dialogue:
 
-[No reply from the University of Rochester Alderman]
+## My imagined dialogue:
 
-“What, you don’t want to be called out by name, Hitler?” I shout. 
-
-“Of course these actions were wrong, but they weren’t so bad,” says the Alderman. 
-
-“You’re literally a vile Nazi and I hope you get hit by a shortbus you donkey fellating raccoon,” I shout. 
-
-“Well that’s just not very nice. I’m a good man. Why should I be charged with these ungodly accusations?” asks the Alderman. 
+“Why should I be charged with these ungodly accusations?” asks the Alderman. 
 
 “Because you are the representative of the policy behind them.”
 
