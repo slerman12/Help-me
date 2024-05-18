@@ -183,9 +183,40 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-## Disproof conclusion
+## My imagined dialogue:
 
-- If they find this point too pedantic, then they should endure six years of trauma and get terminated by their torturers for far less justification.
-- They can't claim “just doing their jobs” as an excuse for these events, because they aren’t, even by their own policy, even when all of their claims are treated as steel by supposing: (1) every reason they had for terminating me was true, (2) any one of them suffices, and (3) I didn’t do anything they suggested or requested of me. That is, "steel-manning" them, not "straw-manning". And still, mathematically.
-- The answer to my question was no by the way.
-- I wrote in the email, "Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?" Seems somewhat pedantic. But it's policy, of course, and therefore, going by the University of Rochester’s **wisdom**, policy is more important than human rights. Then this disproven policy that's being **broken** by the University of Rochester right now, perhaps matters. But who knows, maybe the point of including it in the PhD student handbook was just to get me to write all of this. Maybe, somebody else would like to hear about my would-be thesis, had you and the committee not rejected it. 5 - 7 years is the average time for a PhD. I was finishing my 6th year. All I asked for was a year to work in peace with a concrete and elaborate research plan, and in reply to that you neglected giving a substantive response and just sent the termination letter. And that was immediately after a formal letter threatened to terminate me *if* you didn't get (another) research plan by that day, which you unequivocally did. And that is, for the record, another disproof (of your signature of sincere servitude). Though I can't say this year is going great, living with my mom and writing this, unemployed and bleeding with eczema and no salary or health insurance, and tons of student debt to pay off, I can say that I will try not to waste my former thesis plans. The mindset that led to the University of Rochester's policies and practices, across the medical, research, and learning centers, are militaristic, not healing or serving to the interests of human intelligence or health. Perhaps my research can directly contribute to exposing some of the egregious depths of these institutions, as well as neural and physical hypotheses underlying a more literal consciousness in the collective sphere, political or metaphysical, curtail the unethical rise of AI consumerism, and actually teach people something. "I'm sorry you feel that way" won't cut it.
+[No reply from the University of Rochester Alderman]
+
+“What, you don’t want to be called out by name, Hitler?” I shout. 
+
+“Of course these actions were wrong, but they weren’t so bad,” says the Alderman. 
+
+“You’re literally a vile Nazi and I hope you get hit by a shortbus you donkey fellating raccoon,” I shout. 
+
+“Well that’s just not very nice. I’m a good man. Why should I be charged with these ungodly accusations?” asks the Alderman. 
+
+“Because you are the representative of the policy behind them.”
+
+“Well the policy is currently being **broken**. As you’ve proven. Therefore I’m a good man,” states the Alderman. 
+
+“You fell back on policy in your decision to terminate me.”
+
+“Ah, but in that case the policy mattered! It was about you! Besides, you are the one on trial here, not me.”
+
+“Who is Sam?” the rest of the congress asks. 
+
+“He’s a PhD flunkee,” the Alderman decides with another firmest resolve, and slams the gavel to the desk, breaking its ivory surface with a crack and sending a rumbling quake through the **wisdoms** of the alder of its construction.
+
+In those ruptures, the fire of anger sparks as the wood itself comes alive to tell the congress: “you’re wrong.”
+
+“You don’t know what you’re talking about,” they answer. 
+
+The tree procures a disproof of their physics reasoning. 
+
+“You don’t know what you’re talking about.”
+
+The tree procures a new model of physics. 
+
+“You don’t know what you’re —“
+
+The tree puts every one of them to shame, and soon they’ll see. 
