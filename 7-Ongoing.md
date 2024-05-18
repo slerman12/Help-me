@@ -197,7 +197,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Who is Sam?” the rest of the congress asks. 
 
-“He’s a PhD flunkee,” the Alderman decides with another firmest resolve.
+“He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
 But when the gavel slammed, it **broke** the ivory surface with a crack and sent a rumbling quake through the **wisdoms** of the alder of its construction.
 
