@@ -183,9 +183,7 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-## My imagined dialogue:
-
-## My imagined dialogue:
+## Imagined dialogue
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman. 
 
