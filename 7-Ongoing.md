@@ -191,7 +191,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Because you are the representative of the policy behind them.”
 
-“Well the policy is currently being **broken**. As you’ve proven. Therefore I’m a good man,” states the Alderman. 
+“Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman. 
 
 “You fell back on policy in your decision to terminate me.”
 
@@ -199,7 +199,9 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Who is Sam?” the rest of the congress asks. 
 
-“He’s a PhD flunkee,” the Alderman decides with another firmest resolve, and slams the gavel to the desk, breaking its ivory surface with a crack and sending a rumbling quake through the **wisdoms** of the alder of its construction.
+“He’s a PhD flunkee,” the Alderman decides with another firmest resolve
+
+But when the gavel slammed, it **broke** the ivory surface with a crack and sent a rumbling quake through the **wisdoms** of the alder of its construction.
 
 In those ruptures, the fire of anger sparks as the wood itself comes alive to tell the congress: “you’re wrong.”
 
