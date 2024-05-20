@@ -18,15 +18,14 @@ This blood is on their hands.
 
 ![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
 
-
-
-<!-- -->
+![Leg-Eczema](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52)
 
 
 ![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/ab3c0314-cb60-498d-90c3-582c5e0c8659)
 
 
-<!-- -->
+![IMG_2661](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/8580ed2a-260a-40be-804b-446230fab5ab)
+
 
 ![IMG_2649](https://github.com/slerman12/BrokenWisdoms/assets/9126603/40fdd37e-76e2-4087-823c-35cacd911f69)
 
