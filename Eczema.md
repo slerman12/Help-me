@@ -12,8 +12,6 @@ The symbol on the whiteboard represents healing because it means "ever better", 
 
 These "opposing views" are especially unpleasant.
 
-This blood is on their hands.
-
 ![IMG_2647](https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f)
 
 ![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
@@ -32,5 +30,8 @@ This blood is on their hands.
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
 ## Thanks for this, University of Rochester.
+
+This blood is on their hands.
+
 
 
