@@ -24,7 +24,7 @@ Screenshot
 
 ### Enemies
 
-Rewind to August, before the six-month review and after I was notified of my stipend and advisor-cut. I took my best friend into this, asking for his advice on an email that I sent, and stating my plans (or lackthereof) regarding legal action:
+Rewind to August, before the six-month review deadline and after I was notified of my stipend and advisor-cut. I took my best friend into this, asking for his advice on an email that I sent, and stating my plans (or lackthereof) regarding legal action:
 
 > Date: **08/06/23**
 
