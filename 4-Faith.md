@@ -32,7 +32,7 @@ Rewind to August, before the six-month review and after I was notified of my sti
 
 </br>We were discussing [this email (of 08/10/23)](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md).
 
-I sent them this email exactly as it was wirtten when I showed my friend, and so they knew all of what was going on as early as the beginning of August, at least as much as could be summarized in less than a book. Following which, here is how my friend and I discussed it afterwards:
+I sent them this email exactly as it was written when I showed my friend, and so they knew all of what was going on as early as the beginning of August, at least as much as could be summarized in less than a book. Following which, here is how my friend and I discussed it afterwards:
 
 Screenshots
 
