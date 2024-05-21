@@ -1,4 +1,4 @@
-# Road of trials
+# Faith
 
 ## Part 5
 
