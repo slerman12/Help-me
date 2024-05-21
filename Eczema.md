@@ -4,7 +4,7 @@ I’ve suffered severe bouts like this all my life, since I was 1-month old. It�
 
 ## Towards Ever Better
 
-The symbol on the whiteboard represents healing because it means "ever better", mathematically. It's a policy gradient that represents the optimization of a purpose — objective or teleology — towards its maximum metric realization of "good", as sickness turns to health, or a corrupt academic institution starts to finally change their ways after 2 independent sensationalized scandals to this date in recent history. Of course, “good” needs defining and hopefully some of these univesrity-liable injustices inflicted on me reveal some of what’s missing from the existing sets of metrics. “Ever better” is the University of Rochester’s school motto.
+The symbol on the whiteboard represents healing because it means "ever better", mathematically. It's a policy gradient that represents the optimization of a purpose — objective or teleology — towards its maximum metric realization of "good", as sickness turns to health, or a corrupt academic institution starts to finally change their ways after 2 independent sensationalized scandals to this date in recent history. Of course, “good” needs defining and hopefully some of these case injustices inflicted on me reveal some of what’s missing from the existing sets of metrics. “Ever better” is the University of Rochester’s school motto.
 
 ![IMG_2815](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adecf976-9097-40f9-90f6-2458fdbc0a8c)
 
