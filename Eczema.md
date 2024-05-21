@@ -12,7 +12,7 @@ The symbol on the whiteboard represents healing because it means "ever better", 
 
 These "opposing views" are especially unpleasant.
 
-And yet, I fear that nobody will empathize with the role they play in causing these blood wounds and gashes. I'm afraid they'll look at this as pity-pandering and keep practicing the roles that cause these illnesses in the first place, not just in e, but in others, and kids, ubiquitously, more than ever in history.
+And yet, I fear that nobody will empathize with the role they play in causing these blood wounds and gashes. I'm afraid they'll look at this as pity-pandering and keep practicing the roles that cause these illnesses in the first place, not just in me, but in others, and kids, ubiquitously, more than ever in history.
 
 ![IMG_2647](https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f)
 
@@ -35,5 +35,7 @@ And yet, I fear that nobody will empathize with the role they play in causing th
 
 This blood is on their hands.
 
+That might sound like a cancel-charge plea, but in actual reality, their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that create these ugly skin disorders.
 
 
+Causally speaking, I would not have these wounds, and would not have had these wounds in the years that I did if not for the systemic policies of lower, middle, and higher education and research and even medical systems alike.
