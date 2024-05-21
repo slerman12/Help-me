@@ -34,7 +34,7 @@ Rewind to August, before the six-month review and after I was notified of my sti
 
 Despite the intention to not sue, I sent them this email, meaning they knew all of what was going on as early as the beginning of August, at least as much as could be summarized in less than a book. Following which, here is how my friend and I discussed it afterwards:
 
-Screenshot
+Screenshots
 
 ## Synchronicities
 
