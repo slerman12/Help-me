@@ -44,4 +44,4 @@ Causally speaking, I would not have these wounds, and would not have had these w
 
 I think something about this might be unconvincing to people with no perspective.
 
-Maybe imagine me regularly having to crawl to get to the bathroom because I can't unbend my arms and legs, eyes squinting, intense pain and itching seething on every corner of my body, and the pain of showers/baths.
+Maybe imagine me regularly having to crawl to get to the bathroom because I can't unbend my arms and legs, eyes squinting, intense pain and itching seething on every corner of my body, and the pain of showers.
