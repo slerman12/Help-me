@@ -14,6 +14,8 @@ These "opposing views" are especially unpleasant.
 
 And yet, I fear that nobody will empathize with the role they play in causing these blood wounds and gashes. I'm afraid they'll look at this as pity-pandering and keep practicing the roles that cause these illnesses in the first place, not just in me, but in others, and kids, ubiquitously, more than ever in history.
 
+We live in a torture-world.
+
 ![IMG_2647](https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f)
 
 ![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
