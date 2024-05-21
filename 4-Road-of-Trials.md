@@ -1,4 +1,4 @@
-# The Road of Trials
+# Road of Trials
 
 ## Part 5
 
