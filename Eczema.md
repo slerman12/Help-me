@@ -43,3 +43,5 @@ That might sound like a cancel-charge plea, but in actual reality, their fascism
 Causally speaking, I would not have these wounds, and would not have had these wounds in the years that I did if not for the systemic policies of lower, middle, and higher education and research and even medical, systems, alike, and the persecution, stress, and economic disparity that I was born into.
 
 I think something about this might be unconvincing to people with no perspective.
+
+Maybe imagine me regularly having to crawl to get to the bathroom because I can't unbend my arms and legs.
