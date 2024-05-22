@@ -258,7 +258,7 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 
 > Note: Many of these words in Part 3 don't do me justice. These words come from the trauma-mouth of some psychological framework that overtakes my genuine voice, rooted in memory of that institution's culture.
 >
-> **Add that Aetna (the University of Rochester) did it again section with a photo of the huge bills they suddenly started sending me 10 months into therapy for the therapy.**
+> **Add that Aetna (the University of Rochester) did it again section with a photo of the huge bills they suddenly started sending me 10 months into therapy for my psychologist.**
 >
 > See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
 
