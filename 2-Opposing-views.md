@@ -221,7 +221,7 @@ Since Charles Venuto was the only person on the committee who knew me since I be
 Now, in defense of Dr. Michael L. Scott, the messenger:
 
 <p align="center">
-<img width="400" alt="Screenshot 2024-03-12 at 8 10 54 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/066cc0d1-5a53-4793-86c8-63f1d7b6503d">
+<img width="400" alt="Screenshot 2024-03-12 at 8 10 54 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/07a38b60-d24f-4019-9b96-f7d1c16df83a">
 </p>
 
 Michael doesn't know this, but he bumped my grade up in undergrad once. Now he ultimately relayed the ruling to terminate, on the basis of the committee, and not one, but, as he claimed, [two](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) six-month reviews. Michael mentioned the possibility of applying for reinstatement, though what that means is unclear, especially as: Did he mean I needed to find yet another advisor, new source of funding, re-take a six-month review, do my thesis, and do all of this amid health issues in my sixth year, for less than New York State's legal living wage, within the next one to few months? 
