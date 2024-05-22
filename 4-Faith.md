@@ -40,7 +40,7 @@ Screenshots
 
 Meanwhile, before and after, astonishing synchronicities were happening that I will list below and leave for your judgement on their metaphysical or coincidental nature.
 
-### Deus Ex Memory
+### Deus ex memory
 
 - Indeed, my faith regarding sending my sincere description of the traumas, despite the difficulty of doing so, was somewhat rewarded, though probably not by their conscious intent, rather by a lucky [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md), wherein one of the 3 committee members (accidentally) recorded to official record that he really-extraordinarily didn’t remember the details of the meeting on which all of this was based. 
  - Following this [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) exchange with Chris Kanan, I had yet another reply I wanted to send afterwards that would’ve ruined the conclusive punctuation of the previous, and by chance my internet went down or some disruption to the internet happened after hitting send and I was really lucky that it didn’t go through, leaving this exchange on the note of “we all know what just happened,” and a strong discredit to the committee's judgement-making thoughtfulness and memory.
