@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
 <picture>
-  <source width="80%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
-  <img width="80%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/babba507-5e4e-48ce-a5cf-b369934ff744">
 </picture>
 </a>
 </p>
