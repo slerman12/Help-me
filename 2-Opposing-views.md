@@ -110,7 +110,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 > By the way, I made these arguments to my outpatient doctor, and without any specific retort, he insisted on increasing the dosage. There is an authority/power play dynamic between psychiatrists and the patients they oversee, where literal healing is secondary to something else.
 >
-> Despite a clinician's arguably well-intentioned faith in the adaptability and reason of what they learned to science, the profits of big pharma companies in the $3 billion benzo drug market have won out over scientific practice and principle.
+> Despite a clinician's arguably well-intentioned faith in the scientific adaptability and reason of what they learned, the profits of big pharma companies in the $3 billion benzo drug market have won out over scientific practice and principle.
 >
 > And either way, that doesn't excuse a clinician's disbelief in a patient.
 
