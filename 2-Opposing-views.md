@@ -260,7 +260,7 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 
 ### Additional details for part 1
 
-1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. I couldn’t cut them as they shredded.
+1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. I couldn’t cut them as they crumbled, bent, and ripped into ugly shreds from the clippers and scissors.
     - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
     - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
 2. My whole-body eczema and allergies also spiked (for about a month).
