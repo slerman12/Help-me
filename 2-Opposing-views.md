@@ -68,9 +68,9 @@ Damn. I'm sorry. This is too hard.
 
 Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced and stress-inducing eczema, and social anxiety. And I remember carefully tabulating when I could take one because they reduced social anxiety. I knew they were dangerous. I warily took a quarter to a half of a milligram before, less than once per every two weeks, if that, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and mental blurriness. This was before the hospitalization, at the once at most two weeks rate. The hospital rate was beyond unprecedented for me.
 
-I had to stay there for a month and they forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. 1/4 to 1/2 of a milligram, once every two weeks at most, had side effects. 48x-12x that dosage, every day.
+I had to stay there for a month and they forced me to take $48\text{x}$ that dosage reduced later to $12\text{x}$ that dosage, over the course of $3$ times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, every day.
 
-Accounting for dosage *and* rate, that’s a minimum 672x-168x to 336x-84x increase.
+Accounting for dosage *and* rate, that’s a minimum $672\text{x}$ $-$ $168\text{x}$ &nbsp; to &nbsp; $336\text{x}$ $-$ $84\text{x}$ increase.
 
 I'm 5'5" 110lb.
 
