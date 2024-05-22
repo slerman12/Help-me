@@ -256,9 +256,9 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 
 Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of emails, were CC’d on all of this, and didn’t reply to any of them — including, “Thanks Nick, I appreciate this.” about the Israel-Gaza situation affecting Jewish students that Nick sent out en-masse on the final October 31st day (about students-only university support groups for the Israel-Gaza situation, on the day I was denounced as a student). I mistakenly thought it was a email directly to me since maybe he learned that my family, including me, immigrated here as Jewish refugees. No, he never addressed me. It was also immediately before my birthday for that matter, but I’m sure these personal details don’t matter to them. They never acknowledged me, not a single reply.
 
-> Note: None of these words do me justice. These words come from the trauma-mouth of some psychological framework that overtakes my genuine voice, rooted in memory of that institution's culture.
+> Note: Many of these words in Part 3 don't do me justice. These words come from the trauma-mouth of some psychological framework that overtakes my genuine voice, rooted in memory of that institution's culture.
 >
-> Add an "Aetna did it again" section witha photo of the huge bills they suddenly started sending me more than half a year into therapy.
+> **Add that Aetna (the University of Rochester) did it again section with a photo of the huge bills they suddenly started sending me more than half a year into therapy.**
 >
 > See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
 
