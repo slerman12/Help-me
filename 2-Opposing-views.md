@@ -164,10 +164,10 @@ Not to mention the paranoia and distrust built from undergoing coercion, repeate
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d522d6a8-2845-4c71-a808-4a17033d5eb7">
-<picture>
-  <source width="70%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d522d6a8-2845-4c71-a808-4a17033d5eb7">
-  <img width="70%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d522d6a8-2845-4c71-a808-4a17033d5eb7">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/b49e6ea5-7580-47be-9819-e7cd3aa67865">
+ <picture>
+   <source width="70%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/b49e6ea5-7580-47be-9819-e7cd3aa67865">
+   <img width="70%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/b49e6ea5-7580-47be-9819-e7cd3aa67865">
 </picture>
 </a>
 </p>
