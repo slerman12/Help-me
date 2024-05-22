@@ -70,7 +70,7 @@ Clinicians come in, telling me I have to keep taking the benzos. It's not my cho
 
 I had to stay there for a month and they forced me to take $48\text{x}$ that dosage reduced later to $12\text{x}$ that dosage, over the course of $3$ times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, every day.
 
-Accounting for dosage *and* rate, that’s a minimum $672\text{x}$ $-$ $168\text{x}$ &nbsp; to &nbsp; $336\text{x}$ $-$ $84\text{x}$ increase.
+Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
 I'm 5'5" 110lb.
 
