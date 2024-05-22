@@ -185,7 +185,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University graduate administrator and Deans**
 
 <p align="center">
-<img width="350" alt="Screenshot 2024-03-12 at 8 08 29 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/38c120aa-7b20-4c91-a302-7fad96b52d06">
+<img width="320" alt="Screenshot 2024-03-12 at 8 08 29 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/38c120aa-7b20-4c91-a302-7fad96b52d06">
 </p>
 
 There were further terrors at the University of Rochester Medical Center that I don't want to get into (one of the easier ones to point out, that happened later, was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring). Concurrent with this, while I was still in withdrawal from the benzodiazepines and after my third year in the PhD program, I was forced to switch from being Henry Kautz's student because Henry got a prestigious position offer to direct at the NSF that he accepted. In defense of Henry, he'd already done a lot for me, and had no formal background or experience with deep learning to facilitate my research studies compared to, who he recommended, Chenliang Xu, whose lab I had to then fight to get into, with an ultimatum pressed on me to write a top-venue paper, from scratch, by the end of that summer for him or be rejected advisor-less from the PhD program.
