@@ -199,13 +199,13 @@ In defense of Chenliang: he eventually accepted me into his lab (when I succesfu
 For context, Henry's average was 1 - 3 across the PhD student's full tenure.
 
 <p align="center">
-<img width="420" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2c912a3b-d85a-4112-ad2c-596c9b502099">
+<img width="440" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2c912a3b-d85a-4112-ad2c-596c9b502099">
 </p>
 
 In defense of the committee members who agreed on the decision, most of them didn't know me and hadn't met each other or me previously, and one of them, in a kind of *deus ex machina* (or so I thought, since that should have conclusively settled it), [mis-remembered](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) the short 30-minute Zoom only meeting that the four of us had, on which these decisions from their end were based, as being 1.5 hours and twice. That is quite a lapse in memory. The meeting was 30 minutes, and once, as the other committee members may recall and confirm. And, the calendar invitation that that committee member, Chris Kanan, accepted, wrote: "Friday May 5, 2023 ⋅ 1pm – 1:45pm (Eastern Time - New York)" (extra lag time added). Also, I have on email to one committee member Tom Howard that we planned half an hour: "Would you be available any of the following dates for a half-hour remote 6-month review?" So, as can be easily confirmed or sufficiently evidenced, it was indeed 30 minutes with our brand new committee in which I had to summarize 6 years of work over Zoom: 20ish minutes spent on my presentation and the remaining on their independent-room discussion and concluding remarks. 
 
 <p align="center">
-<img width="360" alt="Screenshot 2024-05-13 at 7 36 05 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/70a422b3-b8bf-4e25-bebc-315096b8328c">
+<img width="480" alt="Screenshot 2024-05-13 at 7 36 05 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/8ac3e884-5c7b-4e8f-af07-d68543656697">
 </p>
 
 The independent-room discussion reasonably marked the end of my portion of the meeting, or so I thought. However, after the independent-room discussion, we kept talking, I left, and Chenliang later told me that the committee members thought I dropped the line early. That was a misunderstanding. I really thought the meeting was over since they conveyed everything I had to do next, or at least that they were going to in that discussion. At the very, very end of the discussion, one of the committee members, Tom Howard, said, “I just want to add, I think it’s important.” I actually in my sleep deprivation thought he meant my work (I know he probably meant the chapter-list), so I did a sincere and prolonged “bless you” sign with my hands in the silence and left. I know that this is the least believable part. Chenliang knew I hadn’t slept that whole night, due to insomnia and maybe-nervousness, and I mentioned that I "didn't sleep all night" during the meeting to which I think Tom Howard off-handedly, maybe-non-noticedly said "I know," before resuming his point. 
@@ -219,7 +219,7 @@ Since Charles Venuto was the only person on the committee who knew me since I be
 Now, in defense of Dr. Michael L. Scott, the messenger:
 
 <p align="center">
-<img width="380" alt="Screenshot 2024-03-12 at 8 10 54 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/066cc0d1-5a53-4793-86c8-63f1d7b6503d">
+<img width="400" alt="Screenshot 2024-03-12 at 8 10 54 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/066cc0d1-5a53-4793-86c8-63f1d7b6503d">
 </p>
 
 Michael doesn't know this, but he bumped my grade up in undergrad once. Now he ultimately relayed the ruling to terminate, on the basis of the committee, and not one, but, as he claimed, [two](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) six-month reviews. Michael mentioned the possibility of applying for reinstatement, though what that means is unclear, especially as: Did he mean I needed to find yet another advisor, new source of funding, re-take a six-month review, do my thesis, and do all of this amid health issues in my sixth year, for less than New York State's legal living wage, within the next one to few months? 
