@@ -1,4 +1,4 @@
-# Enough is Enough. Enough Papers. Enough Carbs. Not Enough Student, Workplace, and Medical Good-Policy.
+# Enough is Enough. Enough Papers. Enough Carbs. Not Good Policy for Student Workers and Patients. 
 
 ### Email: 08/10/2023
 
