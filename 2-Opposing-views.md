@@ -164,10 +164,10 @@ Not to mention the paranoia and distrust built from undergoing coercion, repeate
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/6f5e3922-be3f-4cd2-a68d-01b2e074dec8">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d522d6a8-2845-4c71-a808-4a17033d5eb7">
 <picture>
-  <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/6f5e3922-be3f-4cd2-a68d-01b2e074dec8">
-  <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/6f5e3922-be3f-4cd2-a68d-01b2e074dec8">
+  <source width="70%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d522d6a8-2845-4c71-a808-4a17033d5eb7">
+  <img width="70%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d522d6a8-2845-4c71-a808-4a17033d5eb7">
 </picture>
 </a>
 </p>
@@ -225,7 +225,7 @@ The torment doesn't stop until I finish this. I'm slave driven by my skin, as I 
 Something I didn't mention or elaborate on here yet: Chenliang lied, as soon as I sent [my first email](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) to the committee. Here's a story that Chenliang knows is true: After he notified me of his leaving and my income being cut, I reached out my hand to shake his hand, he didn't shake it, and then I said, "I consider you someone I personally hold dear", and patted my heart with my hand as I left his office and another student entered. I meant it. That's why I refrained from telling the other committee members and Michael that Chenliang lied in his reply email until after they had formally notified me of my termination. This was the fabrication, on email: "Dr. Niaz Abdolrahim delivered my message to you [... that] I can continue to provide funding support (Sep, Oct, Nov)." No, she did not. She didn't say anything about continued funding support. She can confirm, though she didn't risk their professional relationship by replying either when I CC'd her. Even if she had offered any words of financial security for between then and November, November time limit before losing my funding and having to find my third PhD advisor, in my sixth year, on short-notice, in the context of the extreme work I did across many labs including mostly uncredited work, and what that same institution induced, would still be Kafkaesque and unacceptable.
 
 <p align="center">
-<img width="330" alt="Screenshot 2024-05-13 at 7 40 22 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5847462a-c1d1-4a39-ab68-9f30180c5312">
+<img width="330" alt="Screenshot 2024-05-13 at 7 40 22 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/19b2fdd0-4fc0-4f2e-bb2a-54dad5fa334f">
 </p>
 
 Niaz, perhaps an "opposing view", though someone I really like, was my other principle investigator together with Chenliang, for whose group I did a lot of programming, engineering, data generation and pipeline-optimizing, schematic-creating, and grant-idea-providing-and-writing work. When Chenliang told me he couldn't be my advisor, I asked Niaz if she could be. She said she couldn't, because she was in the Mechanical Engineering department and that the process of transferring departments isn't easy enough to be my new advisor, and that maybe she could reach out to the Dean about my concerns. She also advised that I reach out to the CARE Network, something I at first took some mild offense to, because I'd relayed to her some of that trauma with specifics, and she clarified, no, she meant reaching out to them for a lawyer. I appreciated that.  I'm grateful Chenliang forced me on that project. But, I did a lot for them in the Mechanical Engineering department, concurrent with my studies in AI separately in his lab, and I had no choice because that project's grants, that I helped write, was the source of my funding, with their names as authors and me uncredited. As mentioned, I did a lot of engineering and data work that was independent to my research for them, that ordinarily would get paid a 6-figure salary for, while I have never been paid more than $15/hr in my life.
