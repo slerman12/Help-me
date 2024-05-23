@@ -5,11 +5,11 @@
 </p>
 
 <p align='center'>
-<b>a Sam Lerman devastation</b> 
+☼ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>a Sam Lerman devastation</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☼
 </p>
 
 <p align='center'>
-⎺⎻⎼⎽⎽𖥸⎽⎽⎼⎻⎺
+⎻⎼⎽⎽𖥸⎽⎽⎼⎻
 </p>
 
 ## Chapters
