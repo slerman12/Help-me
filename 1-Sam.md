@@ -1,15 +1,7 @@
 # Broken Wisdoms
 
 <p align='center'>
-☽
-</p>
-
-<p align='center'>
-☼✧✧ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>a Sam Lerman devastation</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✧✧☼
-</p>
-
-<p align='center'>
-⎻⎼⎽⎽𖥸⎽⎽⎼⎻
+<b>a Sam Lerman devastation</b></br>𖥸
 </p>
 
 ## Chapters
