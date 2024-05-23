@@ -1,7 +1,7 @@
 # 𖥸 $\text{Bro}\mathfrak{ken}$ &nbsp; $\mathcal{Wisdoms}$ 
 
 <p align='center'>
-</br><b>a Sam Lerman devastation</b></br>
+</br><b>a Sam Lerman devastation</b> 𖥸</br>
 </p>
 
 ## Chapters
