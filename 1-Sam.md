@@ -1,4 +1,4 @@
-# 𖥸 $\text{Bro}\mathfrak{ken}$ &nbsp; $\mathcal{Wisdoms}$ 
+# 𖥸 $\mathcal{Broken}$ &nbsp; $\mathfrak{Wisdoms}$ 
 
 <p align='center'>
 </br><b>a Sam Lerman devastation</b> 𖥸</br>
