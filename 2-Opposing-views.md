@@ -114,7 +114,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 >
 > And either way, that doesn't excuse a clinician's disbelief in a patient.
 >
-> The 6 months of inconsistent psychiatrist and doctor plans shows how biased doctors become as a patient's personality changes due to the doctor's own interventions. Measurement bias is an issue in science and medicine, especially as doctors change the personalities of their patients, such as with me, where my personality started very charming and cheerful (I'm a happy drunk), and became extremely fearful and cognitively unbelievable as the withdrawal and hellfire started worsening, with no power of my own to prevent those neurologically induced personality changes.
+> The 6 months of inconsistent psychiatrist and doctor plans shows how biased doctors become as a patient's personality changes due to the doctor's own interventions. Measurement bias is an issue in science and medicine, especially as doctors change the personalities of their patients, such as with me, where my personality started very charming and cheerful (I'm a happy drunk), and became extremely fearful and cognitively unbelievable as the withdrawal and hellfire started worsening, with no power of my own to prevent those neurologically induced personality changes ("doctoring" the patient's psyche). Doctors are aggressively playing Gods, without the undertanding of the severe bias their interventions can create.
 
 ### Hospitalization
 
