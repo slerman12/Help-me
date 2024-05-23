@@ -1,4 +1,4 @@
-# 𖥸 $\mathfrak{Broken \text{ }\text{ }\text{ } Wisdoms}$ 
+# 𖥸 $\mathfrak{Broken}$ &nbsp; $\mathcal{Wisdoms}$
 
 <p align='center'>
 </br><b>a Sam Lerman devastation</b> 𖥸</br>
