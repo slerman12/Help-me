@@ -1,5 +1,3 @@
-# 𖥸 $\mathfrak{Broken}$ &nbsp; $\mathcal{Wisdoms}$
-
 ## $\mathfrak{\text{P}rologue}$
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
@@ -17,6 +15,8 @@
 There’s no answer because the person writing this doesn’t know. The observer knows, but he doesn’t write with language, he doesn’t speak with tone of voice, he doesn’t detach the symbols from the reality that is his skin and whole.
 
 #
+
+# 𖥸 $\mathfrak{Broken}$ &nbsp; $\mathcal{Wisdoms}$
 
 <p align='center'>
 </br><b>a Sam Lerman devastation</b> 𖥸</br>
