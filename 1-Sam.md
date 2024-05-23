@@ -116,7 +116,7 @@
 
 “Who is Sam?”
 
-“Oh, he’s this guy. I saw this guy on the internet once. it’s him!” &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[^1]
+“Oh, he’s this guy. I saw this guy on the internet once. it’s him!” 
 
 “Who is Sam?”
 
@@ -125,6 +125,4 @@
 “Who is —“
 
 There’s no answer because the person writing this doesn’t know. The observer knows, but he doesn’t write with language, he doesn’t speak with tone of voice, he doesn’t detach the symbols from the reality that is his skin and whole.
-
-[^1]: This typo style resurfaces in the Epilogue of [Ongoing](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md#imagined-dialogue) and shall be kept here for symmetry.
 
