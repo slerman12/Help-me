@@ -1,7 +1,5 @@
 # 𖥸 $\mathfrak{Broken}$ &nbsp; $\mathcal{Wisdoms}$
 
----
-
 ## $\mathfrak{\text{P}rologue}$
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
