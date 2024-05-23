@@ -9,7 +9,7 @@
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
     - Chapters
-    - [Prologue](#prologue)
+    - Prologue (*untitled*)
 
 - **Opposing Views**
 
@@ -110,7 +110,7 @@
         - (2) Joint Einstein's second postulate and below-light-speed usefulness.
     - Conclusion   
 
-## Prologue
+##
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
 
