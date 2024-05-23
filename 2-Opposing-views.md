@@ -1,4 +1,4 @@
-> This is a description of the best-faith interpretation of the opposing views. All of these events happened during my time as a PhD student.
+ > This is a description of the best-faith interpretation of the opposing views. All of these events happened during my time as a PhD student.
 
 # Opposing views
 
@@ -112,7 +112,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 >
 > Despite a clinician's arguably well-intentioned faith in the scientific adaptability and reason of what they learned, the profits of big pharma companies in the $3 billion benzo drug market have won out over clinical practice and principle, and systemic issues don't excuse individual clinicians' disbelief in patients.
 >
-> The 6 months of inconsistent psychiatrist and doctor plans shows how biased doctors become as a patient's personality changes due to the doctor's own interventions. Measurement bias is an issue in science and medicine, either as a physical system is changed by its detection, or as doctors change the personalities of their patients, such as with me, where my personality started very charming and cheerful (I'm a happy drunk), and became extremely fearful and cognitively unbelievable as the withdrawal and hellfire started worsening, with no power of my own to prevent those neurologically induced personality changes ("doctoring" the patient's psyche). Doctors are aggressively playing Gods, and have no understanding of the severe bias their own interventions create in *themselves*.
+> The 6 months of inconsistent psychiatrist and doctor plans shows how biased doctors become as a patient's personality changes due to the doctor's own interventions. Measurement bias is an issue in science and medicine, either as a physical system is changed by its detection, or as doctors change the personalities of their patients, such as with me, where my personality started very charming and cheerful (I'm a happy drunk), and became extremely fearful and cognitively unbelievable as the withdrawal and hellfire started worsening, with no power of my own to prevent those neurologically induced personality changes ("doctoring" the patient's psyche). Doctors are aggressively playing Gods, and have no understanding of the severe bias their own interventions create in *themselves*. Had my scalp not looked so much like Gollum's head, would they have been so imprudent to make psychiatric prescriptions on me? This reminds me, that outpatient doctor commented on my bald head. He wouldn't believe me that the hair loss was induced. He interrogated, rather repeatedly, even after I answered, whether I had pulled the hair out myself.
 
 ### Hospitalization
 
