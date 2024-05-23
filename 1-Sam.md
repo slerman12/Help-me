@@ -1,15 +1,35 @@
 # 𖥸 $\mathfrak{Broken}$ &nbsp; $\mathcal{Wisdoms}$
 
+## $\mathfrak{\text{P}rologue}$
+
+“Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
+
+“Who is Sam?”
+
+“Oh, he’s this guy. I saw this guy on the internet once. it’s him!” 
+
+“Who is Sam?”
+
+“Oh he’s a shy guy. He’s really smart.”
+
+“Who is —“
+
+There’s no answer because the person writing this doesn’t know. The observer knows, but he doesn’t write with language, he doesn’t speak with tone of voice, he doesn’t detach the symbols from the reality that is his skin and whole.
+
+#
+
 <p align='center'>
 </br><b>a Sam Lerman devastation</b> 𖥸</br>
 </p>
 
-## Chapters
+---
+
+## $\mathfrak{\text{C}hapters}$
 
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
+    - Prologue
     - Chapters
-    - Prologue (*untitled*)
 
 - **Opposing Views**
 
@@ -110,19 +130,4 @@
         - (2) Joint Einstein's second postulate and below-light-speed usefulness.
     - Conclusion   
 
-#
-
-“Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
-
-“Who is Sam?”
-
-“Oh, he’s this guy. I saw this guy on the internet once. it’s him!” 
-
-“Who is Sam?”
-
-“Oh he’s a shy guy. He’s really smart.”
-
-“Who is —“
-
-There’s no answer because the person writing this doesn’t know. The observer knows, but he doesn’t write with language, he doesn’t speak with tone of voice, he doesn’t detach the symbols from the reality that is his skin and whole.
 
