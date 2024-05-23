@@ -1,4 +1,4 @@
- > This is a description of the best-faith interpretation of the opposing views. All of these events happened during my ongoing PhD years.
+ > This is a description of the best-faith interpretation of the opposing views. All of these events happened during my time as a PhD student.
 
 # Opposing views
 
