@@ -7,7 +7,7 @@
     - Chapters
     - [Prologue](#prologue)
 
-- **Battle with the University of Rochester**
+- **Opposing Views**
 
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
