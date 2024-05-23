@@ -110,7 +110,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 > By the way, I made these arguments to my outpatient doctor, and without any specific retort, he insisted on increasing the dosage. There is an authority/power play dynamic between psychiatrists and the patients they oversee, where literal healing is secondary to something else.
 >
-> Despite a clinician's arguably well-intentioned faith in the scientific adaptability and reason of what they learned, the profits of big pharma companies in the $3 billion benzo drug market have won out over scientific practice and principle, though systemic issues don't excuse individual clinicians' disbelief in patients.
+> Despite a clinician's arguably well-intentioned faith in the scientific adaptability and reason of what they learned, the profits of big pharma companies in the $3 billion benzo drug market have won out over clinical practice and principle, and systemic issues don't excuse individual clinicians' disbelief in patients.
 >
 > The 6 months of inconsistent psychiatrist and doctor plans shows how biased doctors become as a patient's personality changes due to the doctor's own interventions. Measurement bias is an issue in science and medicine, especially as doctors change the personalities of their patients, such as with me, where my personality started very charming and cheerful (I'm a happy drunk), and became extremely fearful and cognitively unbelievable as the withdrawal and hellfire started worsening, with no power of my own to prevent those neurologically induced personality changes ("doctoring" the patient's psyche). Doctors are aggressively playing Gods, without the undertanding of the severe bias their interventions can create.
 
