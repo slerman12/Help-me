@@ -110,9 +110,7 @@
         - (2) Joint Einstein's second postulate and below-light-speed usefulness.
     - Conclusion   
 
-𖥸
-
----
+#
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
 
