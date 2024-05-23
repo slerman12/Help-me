@@ -10,17 +10,35 @@
 - **Opposing Views**
 
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
-    - Part 1
-    - Part 2
-    - Part 3
+    - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
+    - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers, University psychiatric ward janitor)
+      - Psychiatrists
+      - Benzodiazepine mechanism of action
+      - Hospitalization
+      - My... trauma
+    - Part 3 (University PhD advisors, University PhD committee members, University graduate administrator and Deans)
+    - Additional details for part 1
   - [Disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
     - Part 4
+      - Email: 10/27/2023
+      - Email: 10/30/2023
+      - 10/30/2023 - 10/31/2023, and 7 years ago - now
+      - Hardest worker - literally.
+      - My termination had nothing to do with my work
+      - Hypocrisy
+      - Protest
+      - Slavery or Impossible
+      - Why it's fascism
+      - Email: 10/31/2023
+      - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
     - Part 5
       - Friends
       - Allies
       - Enemies
     - Synchronicities
+      - Deus ex memory
+      - Timing of benzodiazepine coercion diagram
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
       - Part 6
@@ -28,8 +46,11 @@
       - Part 6 (Continued)
   - [Ongoing](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md)
     - Part 7
+      - Email: 02/07/2024
+      - Email: 02/07/2024
+      - Email: 02/09/2024
     - Credits
-    - Epilogue
+    - Epilogue (Conclusive disproof of Michael)
       - Reminder of context mentioned in first disproof
       - Definitions
         - (1) Necessity of support set.
