@@ -113,6 +113,8 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 > Despite a clinician's arguably well-intentioned faith in the scientific adaptability and reason of what they learned, the profits of big pharma companies in the $3 billion benzo drug market have won out over scientific practice and principle.
 >
 > And either way, that doesn't excuse a clinician's disbelief in a patient.
+>
+> The 6 months of inconsistent psychiatrist and doctor plans shows how biased doctors become as a patient's personality changes due to the doctor's own interventions. Measurement bias is an issue in science and medicine, especially as doctors change the personalities of their patients.
 
 ### Hospitalization
 
