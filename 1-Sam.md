@@ -51,7 +51,7 @@ There’s no answer because the person writing this doesn’t know. The observer
       - My termination had nothing to do with my work
       - Hypocrisy
       - Protest
-      - Slavery or Impossible
+      - Slavery or impossible
       - Why it's fascism
       - Email: 10/31/2023
       - Conclusive disproof
