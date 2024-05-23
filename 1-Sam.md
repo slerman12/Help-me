@@ -1,5 +1,7 @@
 # Broken Wisdoms
 
+### by Sam Lerman
+
 ## Chapters
 
 - **Sam**
