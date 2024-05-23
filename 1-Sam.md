@@ -1,7 +1,7 @@
-# Broken Wisdoms
+# $\mathcal{Broken}$ $\mathcal{Wisdoms}$
 
 <p align='center'>
-<b>a Sam Lerman devastation</b></br>𖥸
+☽</br>a <i><b>Sam Lerman</b></i> devastation</br>𖥸
 </p>
 
 ## Chapters
