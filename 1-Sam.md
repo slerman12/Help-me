@@ -30,6 +30,17 @@
     - Part 7
     - Credits
     - Epilogue
+      - Reminder of context mentioned in first disproof
+      - Definitions
+        - (1) Necessity of support set.
+      - Propositions
+        - (1) Truth.
+        - (2) Sufficent cause.
+        - (3) Student's negligence.
+        - (4) PhD student handbook.
+      - Disproofs
+        - (4) Proposition 4.
+      - Imagined dialogue
 
 - **Philosophy**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
@@ -61,17 +72,17 @@
         - Utility of the velocity-addition formula
     - Formally
       - Definitions
-        - Speed of light constant *in vacuo*, reference frame, and spacetime.
-        - Lorentz transformation.
-        - Velocity-addition formula.
+        - (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
+        - (2) Lorentz transformation.
+        - (3) Velocity-addition formula.
       - Assumptions
-        - Lorentz transformation.
-        - Uniform motion.
+        - (1) Lorentz transformation.
+        - (2) Uniform motion.
       - Theorems
-        - Velocity-addition formula.
+        - (1) Velocity-addition formula.
       - Disproofs
-        - Joint Einstein's second postulate and velocity-addition formula usefulness.
-        - Joint Einstein's second postulate and below-light-speed usefulness.
+        - (1) Joint Einstein's second postulate and velocity-addition formula usefulness.
+        - (2) Joint Einstein's second postulate and below-light-speed usefulness.
     - Conclusion   
 
 ## Prologue
@@ -90,5 +101,5 @@
 
 There’s no answer because the person writing this doesn’t know. The observer knows, but he doesn’t write with language, he doesn’t speak with tone of voice, he doesn’t detach the symbols from the reality that is his skin and whole.
 
-[^1]: This typo style resurfaces in the [Epilogue]() and shall be kept here for symmetry.
+[^1]: This typo style resurfaces in the Epilogue of [Ongoing](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md#imagined-dialogue) and shall be kept here for symmetry.
 
