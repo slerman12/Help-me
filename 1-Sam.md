@@ -1,7 +1,15 @@
 # Broken Wisdoms
 
 <p align='center'>
-<b>a Sam Lerman devastation</b>
+☽
+</p>
+
+<p align='center'>
+<b>a Sam Lerman devastation</b> 
+</p>
+
+<p align='center'>
+⎺⎻⎼⎽⎽𖥸⎽⎽⎼⎻⎺
 </p>
 
 ## Chapters
