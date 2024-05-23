@@ -1,6 +1,12 @@
 # Broken Wisdoms
 
-### by Sam Lerman
+<p align='center'>
+<b>by</b>
+</p>
+
+<p align='center'>
+<b>Sam Lerman</b>
+</p>
 
 ## Chapters
 
