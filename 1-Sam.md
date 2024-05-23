@@ -31,7 +31,7 @@ There’s no answer because the person writing this doesn’t know. The observer
     - Prologue
     - Chapters
 
-- **Opposing Views**
+- **The Easy Problem of Consciousness**
 
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
@@ -87,7 +87,7 @@ There’s no answer because the person writing this doesn’t know. The observer
         - (4) Proposition 4.
       - Imagined dialogue
 
-- **Philosophy**
+- **The Hard Problem of Consciousness**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
   - [Cosmogenesis Myth](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Cosmogenesis-Myth.md)
     - Archetypal Madness
