@@ -181,7 +181,7 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-## Imagined dialogue
+## $\mathfrak{\text{I}magined\text{ }dialogue}$
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman. 
 
