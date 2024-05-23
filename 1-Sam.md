@@ -9,7 +9,7 @@
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
     - Chapters
-    - [Prologue (*untitled*)](#&nbsp;)
+    - [Prologue (*untitled*)](#-)
 
 - **Opposing Views**
 
