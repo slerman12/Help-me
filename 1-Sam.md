@@ -116,7 +116,7 @@
 
 “Who is Sam?”
 
-“Oh, he’s this guy. I saw this guy on the internet once. it’s him!”[^1]
+“Oh, he’s this guy. I saw this guy on the internet once. it’s him!” &nbsp;[^1]
 
 “Who is Sam?”
 
