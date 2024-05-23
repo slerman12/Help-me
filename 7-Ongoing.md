@@ -133,7 +133,7 @@ Additionally, I cannot endure more meetings and deliberations where I have to de
 
 It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did he really expect me to convey all of this in a single meeting as well while I had no salary or income? I responded to Michael about meeting: (1) "Hi Michael, I’d be willing to meet. But please extend my stipend through November," and "I would be glad to meet in person, but I ask that you restore my stipend for the month of November. Thank you." (November is my birthday actually). I did my best to convey and elaborate on everything and he ignored those emails too. Meanwhile, I was being actively overseen remotely and in person by two different research groups requiring regular research updates, intensive software engineering burdens, and proof of progress — both of whose PIs (including advisor) said I was done and ready to defend, despite my insistence that I needed more time.
 
-Furthermore, support was withdrawn long before Michael sent that email.
+Furthermore, "support" was withdrawn long before Michael sent that email.
 
 ## Definitions
 
