@@ -1,11 +1,7 @@
 # Broken Wisdoms
 
 <p align='center'>
-<b>by</b>
-</p>
-
-<p align='center'>
-<b>Sam Lerman</b>
+<b>a Sam Lerman devastation</b>
 </p>
 
 ## Chapters
