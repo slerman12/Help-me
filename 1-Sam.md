@@ -5,7 +5,7 @@
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
     - Chapters
-    - Prologue
+    - [Prologue](#prologue)
 
 - **Opposing Views**
 
