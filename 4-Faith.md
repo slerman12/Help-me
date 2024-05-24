@@ -64,7 +64,7 @@ Description
 
 Description
 
-### Jordan Peterson's sensationalized Benzo brain damage timing
+### Jordan Peterson's sensationalized Benzo-brain damage timing
 
 Description
 
