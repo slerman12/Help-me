@@ -124,7 +124,7 @@ Resume dark tone:
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
-- in writing (as opposed to unwritten, A.K.A., in person),
+- in writing (as opposed to in person),
 
 The only time reinstatement was mentioned was by Michael. No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing).
 
