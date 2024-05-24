@@ -174,7 +174,7 @@ They cherrypick the policies, vision, and values (e.g., "bad standing" in depart
 ### Email: 10/31/2023
 
 Quick reminder: The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
-- in writing (as opposed to unwritten, A.K.A., in person),
+- in writing (as opposed to in person),
 - when support is withdrawn.
 
 In the email shown below, the possibility of reinstatement was mentioned, but no details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there isn't a path (and none of these things were suggested by the faculty in writing).
