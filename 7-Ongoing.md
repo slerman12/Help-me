@@ -127,6 +127,8 @@ The PhD student handbook has one clause of accountability for the grad school, a
 
 The only time reinstatement was mentioned was by Michael, and he provided no details as to how, but suggested that meeting in person would be more conducive to "mutual understanding," despite the policy's "in writing" clause.
 
+He ignored multiple of my emails, was actively inflicting a millionth trauma by this one institution, and has no background or expertise in my field.
+
 He also mentioned that I may "choose to apply" for reinstatement, but the university provides no "reinstatement applications" for PhD students, nor does that answer on what conditions, how to secure my future as an employee with a salary, advisor, and a basic standard of living, and if not, how to go about obtaining those without any further connections in my field (since Michael isn't in my field) or resources to do so.
 
 In the [above email](#email-02072024), I brought up that the reinstatement-condition wasn't indicated to me.
