@@ -60,7 +60,7 @@ Description
 
 Description
 
-### Mikayla Peterson steak-only diet concurrent recommendation
+### Mikhaila Peterson steak-only diet concurrent recommendation
 
 Description
 
