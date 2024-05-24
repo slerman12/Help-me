@@ -8,13 +8,17 @@ The symbol on the whiteboard represents healing because it means "ever better", 
 
 ![IMG_2839](https://github.com/slerman12/BrokenWisdoms/assets/9126603/167a5106-17a8-4c09-a3aa-1b40604c453c)
 
-## This might be hard to look at
+## Thanks for this, University of Rochester.
 
-These "opposing views" are especially unpleasant.
+This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that create these ugly skin disorders.
 
-And yet, I fear that nobody will empathize with the role they play in causing these blood wounds and gashes. I'm afraid they'll look at this as pity-pandering and keep practicing the roles that cause these illnesses in the first place, not just in me, but in others, and kids, ubiquitously, more than ever in history.
+Causally speaking, I would not have these wounds, and would not have had these wounds in the years that I did if not for the systemic policies of lower, middle, and higher education and research and even medical, systems, alike, and the persecution, stress, and economic disparity that I was born into.
 
-We live in a torture-world.
+I think something about this might be unconvincing to administrators with no perspective.
+
+Maybe imagine me regularly having to crawl to get to the bathroom because I can't unbend my arms and legs, eyes squinting, intense pain and itching seething on every corner of my body, and the pain of showers. All because I had to debug some data-cleaning software that I never even got credit for, that had nothing to do with my PhD.
+
+The severity shown also isn’t the full height of my eczema, nor how widespread it gets (e.g., my neck, face, and full torso).
 
 ![IMG_2647](https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f)
 
@@ -33,17 +37,4 @@ We live in a torture-world.
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
-## Thanks for this, University of Rochester.
 
-This blood is on their hands.
-
-That might sound like a cancel-charge plea, but in actual reality, their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that create these ugly skin disorders.
-
-
-Causally speaking, I would not have these wounds, and would not have had these wounds in the years that I did if not for the systemic policies of lower, middle, and higher education and research and even medical, systems, alike, and the persecution, stress, and economic disparity that I was born into.
-
-I think something about this might be unconvincing to people with no perspective.
-
-Maybe imagine me regularly having to crawl to get to the bathroom because I can't unbend my arms and legs, eyes squinting, intense pain and itching seething on every corner of my body, and the pain of showers.
-
-The severity shown also isn’t the full height of my eczema, nor how widespread it gets (e.g., my neck, face, and full torso).
