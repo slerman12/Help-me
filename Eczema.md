@@ -34,6 +34,5 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
-Bloody Hell! Talk about "opposing views." This is a torture-world!
-
+Bloody Hell! Talk about "opposing views." 
 
