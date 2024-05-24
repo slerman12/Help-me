@@ -87,20 +87,20 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (4) Proposition 4.
       - Imagined dialogue
 
-- **Ancillary**
-  - [Conv is all you need](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md)
-  - [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)
-    - Email: 10/15/2023
-    - Email: 10/15/2023
-    - Email: 10/15/2023
-    - Email: 10/15/2023
-  - [Eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md)
-    - Towards Ever Better
-    - Current Battle Wounds as I Fight Alone
-  - [Not Enough Carbs](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md)
-    - Enough is Enough. Enough Papers. Enough Carbs. Not Enough Good Policy for Students, Workers, and Patients.
-      - Email: 08/10/2023
-      - Email: 08/21/2023
+  - Ancillary
+    - [Conv is all you need](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md)
+    - [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)
+      - Email: 10/15/2023
+      - Email: 10/15/2023
+      - Email: 10/15/2023
+      - Email: 10/15/2023
+    - [Eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md)
+      - Towards Ever Better
+      - Current Battle Wounds as I Fight Alone
+    - [Not Enough Carbs](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md)
+      - Enough is Enough. Enough Papers. Enough Carbs. Not Enough Good Policy for Students, Workers, and Patients.
+        - Email: 08/10/2023
+        - Email: 08/21/2023
 
 - **Philosophy**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
