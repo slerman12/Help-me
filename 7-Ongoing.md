@@ -132,7 +132,7 @@ In the [above email](#email-02072024), I brought up that the reinstatement-condi
 
 - when support is withdrawn.
 
-Furthermore, "support", as distinct from "pay", was withdrawn long before Michael sent that email.
+Furthermore, "support," as distinct from "pay," was withdrawn long before Michael sent that email.
 
 ## Definitions
 
