@@ -123,7 +123,7 @@ Resume dark tone:
 
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
-The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement, and to specify that in writing, as distinct from in-person.
+The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement, and to specify that "in writing," as distinct from in-person.
 
 The only time reinstatement was mentioned was by Michael, and he provided no details as to how, but suggested that meeting in person would be more conducive to "mutual understanding," despite the policy's "in writing" clause.
 
