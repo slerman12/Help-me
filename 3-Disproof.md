@@ -173,7 +173,7 @@ They cherrypick the policies, vision, and values (e.g., "bad standing" in depart
 
 ### Email: 10/31/2023
 
-Quick reminder: The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
+The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
 - in writing (as opposed to in person),
 - when support is withdrawn.
 
