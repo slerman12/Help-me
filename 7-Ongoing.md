@@ -79,7 +79,7 @@ Furthermore, one of the three, excluding my advisor, committee members, on forma
 
 Also, Michael, why does a six-month review make-up have so much weight when I had to report to two labs every action I took every week for the last 3 years?
 
-#
+---
 
 There was no reply. Michael never answered any of my questions or addressed the things I asked to be addressed, or referred anyone else to address the things I asked to be addressed. Michael and the University of Rochester stayed silent on the whole of the matters conveyed in this repo, to date of writing. Below, in the Epilogue, I will disprove their own judgement using their own policy. But first, Credits.
 
