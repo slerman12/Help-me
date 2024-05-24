@@ -1,4 +1,4 @@
-## $\mathfrak{\text{P}rologue}$
+## $\mathcal{Prologue}$
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
 
@@ -24,7 +24,7 @@ There’s no answer because the person writing this doesn’t know. The observer
 
 ---
 
-## $\mathfrak{\text{C}hapters}$
+## $\mathfrak{Chapters}$
 
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
