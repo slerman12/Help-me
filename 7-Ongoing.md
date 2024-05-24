@@ -123,7 +123,9 @@ Resume dark tone:
 
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
-The PhD student handbook has one clause of accountability for the grad school, and it's to specify, in writing, what the PhD student would need to do (without pay or support) for reinstatement, when support is withdrawn.
+The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
+- in writing,
+- when support is withdrawn.
 
 The only time reinstatement was mentioned was by Michael. No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing). Michael reached out to meet in person, but that would not be sufficient for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason for wanting to meet was "mutual understanding", not "what is necessary" for reinstatement, unless "mutual understanding" with Michael, someone who I don't know and never met, becomes a requirement for reinstatement, the chair of a department in an institution that tortured me in person for six years, during yet another trauma, this time being actively inflicted by him, who is not in my field.
 
