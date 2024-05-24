@@ -18,7 +18,7 @@ There’s no answer because the person writing this doesn’t know. The observer
 
 # 𖥸 Broken Wisdoms
 
-$$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
+$$\mathcal{a \ Sam \ Lerman \ hobbit's \ tragedy} \ \text{𖥸}$$
 
 </br>
 
