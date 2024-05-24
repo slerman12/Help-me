@@ -33,7 +33,7 @@ We live in a torture-world.
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
-## Thanks for this, University of Rochester.
+## Dedicated to, University of Rochester.
 
 This blood is on their hands.
 
