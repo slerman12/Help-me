@@ -26,15 +26,14 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![Leg-Eczema](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52)
 
-
 ![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/ab3c0314-cb60-498d-90c3-582c5e0c8659)
 
-
 ![IMG_2661](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/8580ed2a-260a-40be-804b-446230fab5ab)
-
 
 ![IMG_2649](https://github.com/slerman12/BrokenWisdoms/assets/9126603/40fdd37e-76e2-4087-823c-35cacd911f69)
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
+
+Bloody Hell! Talk about "opposing views." This is a torture-world!
 
 
