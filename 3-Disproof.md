@@ -189,7 +189,7 @@ It's taking me a year to write this. They couldn't even understand my research, 
 
 Furthermore, "support," as distinct from "pay," was withdrawn long before Michael sent this reinstatement-mentioning email.
 
-Note also: the university doesn't have "reinstatement applications" for PhD students.
+Note also: the university doesn't have PhD "reinstatement applications".
 
 #
 
