@@ -1,5 +1,3 @@
-## $\mathcal{Prologue}$
-
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
 
 “Who is Sam?”
@@ -14,13 +12,13 @@
 
 There’s no answer because the person writing this doesn’t know. The observer knows, but he doesn’t write with language, he doesn’t speak with tone of voice, he doesn’t detach the symbols from the reality that is his skin and whole.
 
+</br>
+
 #
 
-# 𖥸 $\mathfrak{Broken}$ &nbsp; $\mathcal{Wisdoms}$
+# 𖥸 Broken Wisdoms
 
-<p align='center'>
-</br><b>a Sam Lerman devastation</b> 𖥸</br>
-</p>
+$$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
 
 ---
 
@@ -31,7 +29,7 @@ There’s no answer because the person writing this doesn’t know. The observer
     - Prologue
     - Chapters
 
-- **The Easy Problem of Consciousness**
+- **Opposing Views**
 
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
@@ -87,7 +85,7 @@ There’s no answer because the person writing this doesn’t know. The observer
         - (4) Proposition 4.
       - Imagined dialogue
 
-- **The Hard Problem of Consciousness**
+- **Philosophy**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
   - [Cosmogenesis Myth](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Cosmogenesis-Myth.md)
     - Archetypal Madness
@@ -129,5 +127,3 @@ There’s no answer because the person writing this doesn’t know. The observer
         - (1) Joint Einstein's second postulate and velocity-addition formula usefulness.
         - (2) Joint Einstein's second postulate and below-light-speed usefulness.
     - Conclusion   
-
-
