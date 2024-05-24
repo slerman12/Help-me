@@ -97,7 +97,7 @@ None of them provided any evidence of anything, or replied for that matter. They
 
 Another point of their hypocrisy is that their concluding termination reason was, as their last recourse of justification, that I "skipped" a make-up review, from a committee where every single one of my advisors and most of my committee members had previously skipped or altogether left without notice or warning.
 
-### Protest
+### You should probably protest
 
 Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
 
