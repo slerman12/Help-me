@@ -50,7 +50,7 @@ There’s no answer because the person writing this doesn’t know. The observer
       - Hardest worker - literally.
       - My termination had nothing to do with my work
       - Hypocrisy
-      - Protest
+      - You should probably protest
       - Slavery or impossible
       - Why it's fascism
       - Email: 10/31/2023
