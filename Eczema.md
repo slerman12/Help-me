@@ -45,3 +45,5 @@ Causally speaking, I would not have these wounds, and would not have had these w
 I think something about this might be unconvincing to people with no perspective.
 
 Maybe imagine me regularly having to crawl to get to the bathroom because I can't unbend my arms and legs, eyes squinting, intense pain and itching seething on every corner of my body, and the pain of showers.
+
+The severity shown also isn’t the full height of my eczema, nor how widespread it gets (e.g., my neck, face, and full torso).
