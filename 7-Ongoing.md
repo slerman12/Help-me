@@ -125,11 +125,12 @@ Resume dark tone:
 
 The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
 - in writing,
-- when support is withdrawn.
 
 The only time reinstatement was mentioned was by Michael. No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing).
 
 Also, I replied to that email (when it was sent, that is, on my last day of being a stipend-receiving grad student) asking for evidence for the given termination reasons and my reply was ignored. It was the last message sent between us, prior to [these ones](#email-02072024) above that I resumed also currently being ignored. In that second of the ignored emails mentioned (there were multiple others ignored unmentioned), I brought up that the reinstatement-condition wasn't indicated to me.
+
+- when support is withdrawn.
 
 Furthermore, support was withdrawn long before Michael sent that email.
 
