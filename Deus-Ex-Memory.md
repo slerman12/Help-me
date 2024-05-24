@@ -1,5 +1,7 @@
 # Deus Ex Memory
 
+This is an email conversation with newly added committee member Chris Kanan, who my advisor suggested last-minute as the replacement for one of the absent committee members.
+
 ### Email: 10/15/2023
 
 Re: **Graduate student firing** </br>
