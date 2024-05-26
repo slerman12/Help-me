@@ -179,6 +179,12 @@ $\vert x \vert > 0$.
 
 ## Disproofs
 
+### (1) Propositions 1, 2, and 3.
+
+**Disproof.**
+
+See [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
+
 ### (2) Proposition 4. 
 
 $\vert x \vert > 0$.
