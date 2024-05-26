@@ -191,7 +191,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- They are currently violating their own policy.
+- The ruling judges are currently violating their own policy.
 
 ## Imagined dialogue
 
