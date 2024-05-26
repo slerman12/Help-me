@@ -166,6 +166,8 @@ Suppose any one of them suffices. (False, but assume True).
 
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
 
+Finally:
+
 ### (4) PhD student handbook.
 
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
