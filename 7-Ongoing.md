@@ -179,6 +179,8 @@ $\vert x \vert > 0$.
 
 ## Disproofs
 
+&#9432; Propositions 1, 2, and 3 were disproved less formally in [Disproof 1](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
+
 ### (2) Proposition 4. 
 
 $\vert x \vert > 0$.
@@ -194,8 +196,6 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 ## Conclusion
 
 - Disproof 2 disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
-
-Propositions 1, 2, and 3 were disproved in [Disproof 1](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
 
 ## Imagined dialogue
 
