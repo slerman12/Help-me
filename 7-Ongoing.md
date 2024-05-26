@@ -199,7 +199,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Because you are the representative of the policy behind them.”
 
-“Well the policy is currently being broken. Therefore all is right,” states the Alderman. 
+“Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
 “You fell back on policy in your decision to terminate me.”
 
