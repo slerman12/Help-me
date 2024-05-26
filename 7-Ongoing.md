@@ -189,7 +189,7 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-## Proofs
+## Theorems
 
 ### (1) The ruling judges are currently violating their own policy. 
 
