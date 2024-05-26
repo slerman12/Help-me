@@ -183,7 +183,9 @@ $\vert x \vert > 0$.
 
 Truth, sufficient cause, and student's negligence.
 
-**[Disproof.](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)**
+**Disproof.**
+
+ See [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
 
 ### (2) Proposition 4. 
 
