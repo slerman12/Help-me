@@ -179,7 +179,9 @@ $\vert x \vert > 0$.
 
 ## Disproofs
 
-### (1) Proposition 4. $\vert x \vert > 0$.
+### (1) Proposition 4. 
+
+$\vert x \vert > 0$.
 
 **Disproof.**
 
