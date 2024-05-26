@@ -169,7 +169,7 @@ Suppose any one of them suffices. (False, but assume True).
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
 
 > [!NOTE]
-> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond even their own claims.
+> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
 
 #
 
