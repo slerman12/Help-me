@@ -175,7 +175,7 @@ Finally:
 $\vert x \vert > 0$.
 
 > [!NOTE]
-> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy of accountability  that the PhD student handbook specifies.
+> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy of accountability that the PhD student handbook specifies.
 
 ## Disproofs
 
@@ -201,7 +201,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy, even if Propositions 1, 2, and 3 are held to be true, which they were/are shown not be in Disproof 1.
+- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy, even if Propositions 1, 2, and 3 are true, which they were/are shown not to be in Disproof 1.
 
 ## Imagined dialogue
 
