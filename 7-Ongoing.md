@@ -195,7 +195,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 **Proof.**
 
-By Disproof 1. $\square$
+By Disproof 1, Proposition 4, belonging to the policy of the PhD student handbook brought up by Michael, is being violated. $\square$
 
 ## Imagined dialogue
 
