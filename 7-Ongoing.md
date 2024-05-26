@@ -135,7 +135,14 @@ In that reinstatement-mentioning email that he ignored my reply to, Michael reac
 
 It's taking me a year to write this. They couldn't even understand my research, and Michael isn't even in my field. Did he really expect me to convey all of this in a single meeting as well while I had no salary or income? I responded to Michael about meeting: (1) "Hi Michael, I’d be willing to meet. But please extend my stipend through November," and (2) "I would be glad to meet in person, but I ask that you restore my stipend for the month of November. Thank you." (November is my birthday actually). I did my best to convey and elaborate on everything and he ignored those emails too. Through every week of my PhD, I was being actively overseen remotely and in person by two different research groups requiring regular research updates, intensive software engineering tasks, and proof of progress — both of whom said I was done and ready to defend (when I needed more time, having not even written the thesis), and were capable of verifying the reinstatement/non-termination-satisfying information to Michael that the brand new committee wanted chronologically after my advisor's notification of withdrawal of support.
 
-Furthermore, support was withdrawn long before that email.
+Furthermore, "support," as distinct from "pay," was withdrawn long before Michael sent that reinstatement-mentioning email.
+
+Note also: the university doesn't have PhD "reinstatement applications."
+
+> [!IMPORTANT]
+> The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
+> - in writing
+> - when support is withdrawn
 
 ## Definitions
 
