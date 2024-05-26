@@ -191,9 +191,13 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-#
+## Theorems
 
-They are currently violating their own policy. $\square$
+### (1) They are currently violating their own policy. 
+
+**Proof.**
+
+By Disproof 1. $\square$
 
 ## Imagined dialogue
 
