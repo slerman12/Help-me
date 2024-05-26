@@ -175,7 +175,7 @@ Finally:
 $\vert x \vert > 0$.
 
 > [!NOTE]
-> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
+> In these 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
 
 ## Disproofs
 
