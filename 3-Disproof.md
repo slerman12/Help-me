@@ -149,7 +149,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 
 That's not even slavery, it's humanly impossible.
 
-The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do for reinstatement. "All of the above" is as much of an answer as they gave me, but, technically speaking, they haven't given me an answer on that and [are currently ghosting me](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md).
+The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement, and to specify that "in writing" (as distinct from in person) when support is withdrawn. "All of the above" is as much of an answer as they gave me, but, technically speaking, they haven't given me an answer on that and [are currently ghosting me](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md).
 
 This is simultaneously slavery, humanly impossible, and fascism all wrapped into one.
 
@@ -173,9 +173,10 @@ They cherrypick the policies, vision, and values (e.g., "bad standing" in depart
 
 ### Email: 10/31/2023
 
-The PhD student handbook has one clause of accountability for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
-- in writing
-- when support is withdrawn
+> [!IMPORTANT]
+> The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
+> - in writing
+> - when support is withdrawn
 
 In the email shown below, the possibility of reinstatement was mentioned, but no details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there isn't a path (and none of these things were suggested by the faculty in writing).
 
