@@ -10,7 +10,7 @@ From: **Sam Lerman**
 
 Hi Michael, 
 
-Was this six-month review mentioned at/between the time of my termination and October 31st?
+Was this six-month review mentioned at/between the time of my termination and October 31st?[^1]
 
 Sam
 
@@ -197,8 +197,6 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 - Disproof 2 disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
 
-Also, the answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.
-
 ## Imagined dialogue
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman. 
@@ -230,3 +228,5 @@ The tree procures a new model of physics.
 “You don’t know what you’re —“
 
 The tree puts every one of them to shame, and soon they’ll see. 
+
+[^1]: The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.
