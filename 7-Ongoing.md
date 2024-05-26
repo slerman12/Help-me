@@ -154,9 +154,6 @@ That is the empty set, as described in the [context reminder](#reminder-of-conte
 
 ## Propositions
 
-> [!NOTE]
-> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
-
 ### (1) Truth.
 
 Suppose every reason they had for terminating me was true. (False, but assume True).
@@ -174,6 +171,11 @@ Suppose I didn’t do anything they suggested or requested of me. (Extraordinari
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
 $\vert x \vert > 0$.
+
+#
+
+> [!NOTE]
+> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
 
 ## Disproofs
 
