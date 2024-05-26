@@ -12,7 +12,7 @@ The symbol on the whiteboard represents healing because it means "ever better", 
 
 ## Current Battle Wounds as I Fight Alone
 
-This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that created these ugly skin disorders.
+This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that created this skin condition.
 
 Causally speaking, I would not have these wounds, and would not have had these wounds in the years that I did if not for the systemic policies of lower, middle, and higher education and research and even medical, systems, alike, and the persecution, stress, and economic disparity that I was born into.
 
