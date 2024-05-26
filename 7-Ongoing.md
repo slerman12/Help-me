@@ -162,7 +162,7 @@ Suppose every reason they had for terminating me was true. (False, but assume Tr
 
 Suppose any one of them suffices. (False, but assume True).
 
-### (3) Student's negligence.
+### (3) Student negligence.
 
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
 
@@ -181,7 +181,7 @@ $\vert x \vert > 0$.
 
 ### (1) Propositions 1, 2, and 3.
 
-Truth, sufficient cause, and student's negligence.
+Truth, sufficient cause, and student negligence.
 
 **Disproof.**
 
