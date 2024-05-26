@@ -85,6 +85,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (4) PhD student handbook.
       - Disproofs
         - (4) Proposition 4.
+      - Conclusion
       - Imagined dialogue
 
 - **Philosophy**
