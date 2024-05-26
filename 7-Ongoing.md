@@ -154,6 +154,9 @@ That is the empty set, as described in the [context reminder](#reminder-of-conte
 
 ## Propositions
 
+> [!NOTE]
+> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
+
 ### (1) Truth.
 
 Suppose every reason they had for terminating me was true. (False, but assume True).
@@ -165,13 +168,6 @@ Suppose any one of them suffices. (False, but assume True).
 ### (3) Student's negligence.
 
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
-
-> [!NOTE]
-> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
-
-#
-
-Finally:
 
 ### (4) PhD student handbook.
 
