@@ -119,6 +119,8 @@ The University of Rochester: **Saruman**
 
 # $\mathcal{Epilogue}$
 
+Resume dark tone:
+
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
 > [!IMPORTANT]
