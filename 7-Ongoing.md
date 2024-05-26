@@ -193,7 +193,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 1 proves that the ruling judges are currently violating their own policy.
+- Disproof 1 disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
 
 ## Imagined dialogue
 
