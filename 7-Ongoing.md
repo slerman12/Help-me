@@ -197,6 +197,8 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 - Disproof 2 disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
 
+Also, the answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.
+
 ## Imagined dialogue
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman. 
