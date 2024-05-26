@@ -84,7 +84,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (3) Student's negligence.
         - (4) PhD student handbook.
       - Disproofs
-        - (1) Propositions 1, 2, and 3.
         - (2) Proposition 4.
       - Conclusion
       - Imagined dialogue
