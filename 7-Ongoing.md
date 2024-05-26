@@ -175,7 +175,7 @@ Finally:
 $\vert x \vert > 0$.
 
 > [!NOTE]
-> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy that the PhD student handbook specifies.
+> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy of accountability  that the PhD student handbook specifies.
 
 ## Disproofs
 
