@@ -175,7 +175,7 @@ Finally:
 $\vert x \vert > 0$.
 
 > [!NOTE]
-> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
+> In this set of assumptions, the decision of the ruling judge is steelmanned as perfect and accurate up to and well beyond his claims.
 
 ## Disproofs
 
@@ -191,7 +191,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Theorems
 
-### (1) The ruling judges are currently violating their own policy. 
+### (1) The ruling judge is currently violating his own policy. 
 
 **Proof.**
 
