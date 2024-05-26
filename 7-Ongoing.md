@@ -191,7 +191,9 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-They are currently violating their own policy.
+#
+
+They are currently violating their own policy. $\square$
 
 ## Imagined dialogue
 
