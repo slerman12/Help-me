@@ -156,15 +156,15 @@ That is the empty set, as described in the [context reminder](#reminder-of-conte
 
 ### (1) Truth.
 
-Suppose every reason they had for terminating me was true. (False, but assume True).
+Suppose every reason they had for terminating me was true. (False, but assume true).
 
 ### (2) Sufficient cause.
 
-Suppose any one of them suffices. (False, but assume True).
+Suppose any one of them suffices. (False, but assume true).
 
 ### (3) Student's negligence.
 
-Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
+Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily false, but assume true).
 
 Finally:
 
@@ -201,7 +201,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy, even while assuming Propositions 1, 2, and 3 to be True.
+- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy, even while assuming Propositions 1, 2, and 3 to be true.
 
 ## Imagined dialogue
 
