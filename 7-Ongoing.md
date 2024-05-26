@@ -191,7 +191,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- The ruling judges are currently violating their own policy.
+- Disproof 1 shows that the ruling judges are currently violating their own policy.
 
 ## Imagined dialogue
 
