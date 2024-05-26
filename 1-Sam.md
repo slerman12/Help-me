@@ -74,7 +74,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Email: 02/07/2024
       - Email: 02/09/2024
     - Credits
-    - Epilogue (Conclusive disproof of Michael)
+    - Epilogue
       - Reminder of context mentioned in first disproof
       - Definitions
         - (1) Necessity of support set.
