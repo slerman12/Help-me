@@ -175,7 +175,7 @@ Finally:
 $\vert x \vert > 0$.
 
 > [!NOTE]
-> In this set of assumptions, the decision of the ruling judge is steelmanned as perfect and accurate up to and well beyond his claims.
+> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
 
 ## Disproofs
 
@@ -188,14 +188,6 @@ $x = \emptyset$. &nbsp; (Definition 1)
 $\rightarrow |x| = 0$ 
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
-
-## Theorems
-
-### (1) The ruling judge is currently violating his own policy. 
-
-**Proof.**
-
-By Disproof 1, Proposition 4, belonging to the policy of the PhD student handbook brought up by Michael, is being violated. $\square$
 
 ## Imagined dialogue
 
