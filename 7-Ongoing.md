@@ -179,14 +179,6 @@ $\vert x \vert > 0$.
 
 ## Disproofs
 
-### (1) Propositions 1, 2, and 3.
-
-Truth, sufficient cause, and student's negligence.
-
-**Disproof.**
-
- See [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
-
 ### (2) Proposition 4. 
 
 $\vert x \vert > 0$.
@@ -201,8 +193,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Propositions 1, 2, and 3 were/are shown false in Disproof 1.
-- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy, even if Propositions 1, 2, and 3 were/are to be held true.
+- Disproof 2 disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
 
 ## Imagined dialogue
 
