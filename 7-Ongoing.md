@@ -174,8 +174,6 @@ Finally:
 
 $\vert x \vert > 0$.
 
-#
-
 > [!NOTE]
 > In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims.
 
@@ -191,9 +189,9 @@ $\rightarrow |x| = 0$
 
 $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
-## Theorems
+## Proofs
 
-### (1) They are currently violating their own policy. 
+### (1) The ruling judges are currently violating their own policy. 
 
 **Proof.**
 
