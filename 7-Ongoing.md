@@ -161,7 +161,10 @@ Suppose any one of them suffices. (False, but assume True).
 
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
 
-&#9432; This is now the strongest set of possible assumptions I can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
+> [!NOTE]
+> This is the strongest set of possible assumptions can be made in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
+
+#
 
 Finally:
 
