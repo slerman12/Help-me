@@ -10,7 +10,7 @@ From: **Sam Lerman**
 
 Hi Michael, 
 
-Was this six-month review mentioned at/between the time of my termination and October 31st?[^1]
+Was this six-month review mentioned at/between the time of my termination and October 31st? $^\text{ \color{blue}[1.]}$
 
 Sam
 
@@ -82,6 +82,8 @@ Also, Michael, why does a six-month review make-up have so much weight when I ha
 #
 
 There was no reply. Michael never answered any of my questions or addressed the things I asked to be addressed, or referred anyone else to address the things I asked to be addressed. Michael and the University of Rochester stayed silent on the whole of the matters conveyed in this repo, to date of writing. Below, in the Epilogue, I will disprove their own judgement using their own policy. But first, Credits.
+
+$\text{\color{blue}[1.]:}$ The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
@@ -228,5 +230,3 @@ The tree procures a new model of physics.
 “You don’t know what you’re —“
 
 The tree puts every one of them to shame, and soon they’ll see. 
-
-[^1]: The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.
