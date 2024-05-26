@@ -117,9 +117,7 @@ The modern cultures, leaders, and institutions, including the education/research
 
 The University of Rochester: **Saruman**
 
-# $\mathcal{Epilogue}$ (Conclusive disproof of Michael)
-
-Resume dark tone:
+# $\mathcal{Epilogue}$
 
 ## Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
