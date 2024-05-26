@@ -195,6 +195,8 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 - Disproof 2 disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
 
+Propositions 1, 2, and 3 were disproved in [Disproof 1](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
+
 ## Imagined dialogue
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman. 
