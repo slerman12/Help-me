@@ -162,7 +162,7 @@ Suppose any one of them suffices. (False, but assume True).
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily False, but assume True).
 
 > [!NOTE]
-> This is now the strongest set of possible assumptions one can make in their favor, because it assumes that everything they did was perfect and accurate up to and probably well beyond their claims.
+> In this set of assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond even their own claims.
 
 #
 
