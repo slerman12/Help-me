@@ -189,7 +189,7 @@ I responded previously to Michael about meeting: (1) "Hi Michael, I’d be willi
 
 Furthermore, "support," as distinct from "pay," was withdrawn long before Michael sent this reinstatement-mentioning email.
 
-Note also: the university doesn't have PhD "reinstatement applications".
+Note also: the university doesn't have PhD "reinstatement applications."
 
 #
 
