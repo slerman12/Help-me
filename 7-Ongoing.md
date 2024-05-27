@@ -214,7 +214,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “You fell back on policy in your decision to terminate me.”
 
-"You are the one on trial here, not me."
+"You are the one on trial here, not me!"
 
 “Who is Sam?” the rest of the congress asks. 
 
