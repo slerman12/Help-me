@@ -203,17 +203,12 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - Proposition 3 is the policy of accountability that the PhD student handbook requires the ruling judges to satisfy.
 - Disproof 2 formally disproves the claim of Proposition 3, and proves that the ruling judges are currently violating their own PhD student handbook policy.
 - Said judges ultimately invoked PhD student handbook policy as their justification for the latest in a series of atrocities committed against one student by one institution.
-- At the very least, under this much ambiguous cause, the decision was entirely personal, by Michael and Michael alone.
 
 ## Imagined dialogue
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman. 
 
-“Because you are the representative of the policy behind them.”
-
-“Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
-
-“You fell back on policy in your decision to terminate me.”
+"Under this much ambiguous cause, the decision was entirely personal, by you and you alone. The evidence didn't support your formally inscribed rulings. At the same time as you're breaking your own policy, you fell back on policy in your decision to terminate me.”
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
