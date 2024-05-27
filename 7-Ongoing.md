@@ -220,6 +220,10 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
+"You did much more than fall back on policy. You misrepresented my research, took as axiom that I hadn't satisfied all research requirements, and ignored the abundant on-email-record evidence against that."
+
+\<No reply\>
+
 “Who is Sam?” the rest of the congress asks. 
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
@@ -239,5 +243,3 @@ The tree procures a new model of physics.
 “You don’t know what you’re —“
 
 The tree puts every one of them to shame, and soon they’ll see. 
-
-[^1]: The Alderman did much more than fall back on policy. The Alderman misrepresented my research, took as axiom that I hadn't satisfied all research requirements, and ignored the abundant on-email-record evidence against that.
