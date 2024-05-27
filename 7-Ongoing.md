@@ -201,8 +201,8 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 ## Conclusion
 
 - Proposition 3 is the policy of accountability that the PhD student handbook requires the ruling judges to satisfy.
-- Disproof 2 formally disproves the claim of Proposition 3, and proves that the ruling judges are currently violating their own PhD student handbook policy.
-- Said judges ultimately invoked PhD student handbook policy as their justification for the latest in a series of atrocities committed against one student by one institution.
+- Disproof 2 formally disproves the claim of Proposition 3, and proves that the ruling judges are currently violating the PhD student handbook.
+- Said judges ultimately invoked the PhD student handbook as their justification for the latest in a series of atrocities committed against one student by one institution.
 
 ## Imagined dialogue
 
