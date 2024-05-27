@@ -209,8 +209,8 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 2 has formally disproven the claim of the PhD student handbook, and proven that the ruling judges are currently violating their own purported PhD student handbook policy.
-- The ruling judges have done so as their justification for the latest in a series of atrocities committed against one student by one institution.
+- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own purported PhD student handbook policy.
+- Said judges have done so as their justification for the latest in a series of atrocities committed against one student by one institution.
 
 ## Imagined dialogue
 
