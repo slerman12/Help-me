@@ -208,7 +208,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman.
 
-“Because you are the charged representative of the policy.”
+“Because you are the charged representative of the policy behind them.”
 
 “Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
