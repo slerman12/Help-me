@@ -216,7 +216,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
-“You fell back on policy in your decision to terminate me.”[^1]
+“You fell back on policy in your decision to terminate me.”
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
