@@ -209,11 +209,13 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 #
 
-“Why should I be charged with these ungodly characterizations?” asks the Alderman. 
+“Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
 “You fell back on policy in your decision to terminate me.”
 
-“Ah, but in that case the policy mattered, since, as of October 31st, six-month review make-ups are more important than humanity! Besides, you are the one on trial here, not me.”
+“Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
+
+"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st? Mattered so much as to be the only reason to commit another injustice on me?"
 
 “Who is Sam?” the rest of the congress asks.
 
