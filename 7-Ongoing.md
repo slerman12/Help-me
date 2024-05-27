@@ -216,13 +216,15 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
+"I will recriminate every charge."
+
 “Who is Sam?” the rest of the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
 But when the gavel slammed, it **broke** the ivory surface with a crack and sent a rumbling quake through the **wisdoms** of the alder of its construction.
 
-In those ruptures, the fire of anger sparks as the wood itself comes alive to tell the congress: “you’re wrong.”
+In those ruptures, the fire of anger sparks as the wood itself comes alive to tell the congress: “you’re wrong.” 
 
 “You don’t know what you’re talking about,” they answer. 
 
@@ -234,4 +236,4 @@ The tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-The tree puts every one of them to shame, and soon they’ll see. 
+The tree puts every one of them to shame, and soon they'll see.
