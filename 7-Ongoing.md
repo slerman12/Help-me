@@ -168,6 +168,11 @@ Suppose any one of them suffices. (False, but assume true).
 
 Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily false, but assume true).
 
+> [!NOTE]
+> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy of accountability that the PhD student handbook specifies.
+
+#
+
 Finally:
 
 ### (4) PhD student handbook.
@@ -175,9 +180,6 @@ Finally:
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
 $\vert x \vert > 0$.
-
-> [!NOTE]
-> In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy of accountability that the PhD student handbook specifies.
 
 ## Disproofs
 
