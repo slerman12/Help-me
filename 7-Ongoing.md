@@ -207,7 +207,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 2 formally disproved the claim of the PhD student handbook, and proved that the ruling judges are currently violating their own policy, while assuming the strongest assumptions in favor of the ruling judges.
+- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
 
 ## Imagined dialogue
 
