@@ -185,7 +185,7 @@ $\vert x \vert > 0$.
 >
 > **Disproof.**
 >
-> Propositions 1, 2, and 3 were disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
+> Propositions 1, 2, and 3 (in both their weaker and stronger forms) were disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
 
 ### (2) Proposition 4. 
 
