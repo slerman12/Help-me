@@ -206,7 +206,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Imagined dialogue
 
-“Why should I be charged with these ungodly accusations?” asks the Alderman. 
+“Why should I be charged with these ungodly characterizations?” asks the Alderman. 
 
 "Because under this much ambiguous cause, and since the evidence doesn't support your allegations, the decision is entirely personal, by you and you alone. At the same time as breaking your own policy, you fell back on policy in your decision to terminate me.”
 
