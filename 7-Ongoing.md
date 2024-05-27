@@ -129,7 +129,7 @@ The modern cultures, leaders, and institutions, including the education/research
 
 The University of Rochester: **Saruman**
 
-# $\mathcal{Epilogue}$ (Conclusive disproof of Michael)
+# $\mathcal{Epilogue}$ (Conclusive disproof of the Alderman)
 
 Resume dark tone:
 
