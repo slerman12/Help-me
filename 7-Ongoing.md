@@ -164,7 +164,7 @@ That is the empty set, as shown in the [context reminder](#reminder-of-context-m
 
 ### (1) Goodness, truth, and sufficiency.
 
-Suppose some reason(s) they had for terminating me were good, true, and sufficient. (False, but assume true).
+Suppose some reasons they had for terminating me were good, true, and sufficient. (False, but assume true).
 
 ### (2) Student's negligence.
 
