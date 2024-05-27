@@ -206,7 +206,17 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Imagined dialogue
 
-“Who is Sam?” the congress asks.
+“Why should I be charged with these ungodly accusations?” asks the Alderman.
+
+“Because you are the representative of the policy behind them.”
+
+“Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
+
+“You fell back on policy in your decision to terminate me.”
+
+“Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
+
+“Who is Sam?” the rest of the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
