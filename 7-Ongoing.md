@@ -16,7 +16,7 @@ Sam
 
 #
 
-<sub>$\text{\color{blue}[1.]:}$ The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.</sub>
+<sup>$\text{\color{blue}[1.]:}$ The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.</sup>
 
 ### Email: 02/07/2024
 
