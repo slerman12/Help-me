@@ -147,7 +147,7 @@ Resume dark tone:
 - I responded to Michael about meeting in person on **10/25/2024**: (1) "Hi Michael, I’d be willing to meet. But please extend my stipend through November," and (2) "I would be glad to meet in person, but I ask that you restore my stipend for the month of November. Thank you." November is my birthday actually.
   - To establish "in person" instead of "in writing" as having been an "implicitly" indicated reinstatement-condition requires rephrasing the reinstatement-clause, foregoing explicit formal communications, and violating ethics by demanding that I participate in an unpaid face-to-face meeting with an authority actively inflicting trauma who has no background or expertise in my field, who has no power to address the issues preventing my reinstatement (e.g. lack of advisor), as the only imaginable grounds for hypothetical reinstatement after an unjustified, un-evidenced termination and disrespect.
 - Support, as distinct from pay, was withdrawn long before Michael or any faculty mentioned reinstatement.
-  - As evidenced by the many tortures, including permanent ongoing ones, inflicted by his institution. 
+  - As evidenced by the [many tortures](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md), including permanent ongoing ones and [less severe](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md) ones, inflicted by his institution. 
 
 ## Definitions
 
