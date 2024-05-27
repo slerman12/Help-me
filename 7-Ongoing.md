@@ -209,11 +209,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 #
 
-“Well the policies are currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
-
-“You fell back on policy in your decision to terminate me.”
-
-“Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
+“You are the one on trial here, not me,” states the Alderman.
 
 “Who is Sam?” the rest of the congress asks.
 
