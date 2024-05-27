@@ -189,9 +189,11 @@ $\vert x \vert > 0$.
 >
 > Truth, sufficient cause, student's negligence.
 >
+> &#9432; Suppose either their strongest forms, or weaker, e.g. replacing "any/every" with "some." 
+>
 > **Disproof.**
 >
-> Propositions 1, 2, and 3 (in both their stronger and weaker, e.g. replacing "any/every" with "some," forms) were disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
+> Disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
 
 ### (2) Proposition 4. 
 
@@ -207,7 +209,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own policy.
+- Disproof 2 has formally disproven the claim of the PhD student handbook, and proven that the ruling judges are currently violating their own policy.
 
 ## Imagined dialogue
 
