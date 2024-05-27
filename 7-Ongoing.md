@@ -209,7 +209,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 #
 
-“Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
+“Well the policies are currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
 “You fell back on policy in your decision to terminate me.”
 
