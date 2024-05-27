@@ -216,8 +216,6 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
-"I will recriminate every charge."
-
 “Who is Sam?” the rest of the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
