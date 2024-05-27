@@ -192,7 +192,7 @@ To establish "in person" instead of "in writing" as having been an "implicitly" 
 
 Support, as distinct from pay, was withdrawn long before Michael or any faculty mentioned reinstatement, as evidenced by my second advisor's communication of withdrawal on **07/24/2024**, the [sudden termination email on **10/12/2024**](#slavery-or-impossible), and [many tortures](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md), including permanent ongoing ones, inflicted by Michael's institution. To reiterate, all I asked for in the research proposal that Michael slammed with a termination, was more time. That detail was the only part he specified in a later email as having an issue with.
 
-Note also: the university doesn't have PhD "reinstatement applications."
+Note also: the university doesn't have PhD "reinstatement applications." Any appearance of the below email as specifying a reinstatement-condition is pure gaslighting.
 
 #
 
