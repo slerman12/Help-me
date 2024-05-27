@@ -189,7 +189,7 @@ $\vert x \vert > 0$.
 >
 > Truth, sufficient cause, student's negligence.
 >
-> &#9432; Suppose either their strongest forms, as phrased above, or weaker, e.g. replacing "any/every" with "some." 
+> &#9432; Suppose either their strongest forms, as phrased under [Propositions](#propositions), or weaker, e.g. replacing "any/every" with "some." 
 >
 > **Disproof.**
 >
