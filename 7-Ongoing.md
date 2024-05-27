@@ -32,7 +32,7 @@ I’m not sure which review you’re referring to: the one you skipped in Fall 2
 
 #
 
-<sup>$\text{\color{blue}[2.]:}$ The answer was "no" no matter how he interpreted it. Six-month reviews, which are meant to help students, are a deceptive point under the circumstances, with inconsistent review make-up requirements, with a brand new committee and a second departing advisor in a student's 6th traumatic year, with extreme evidence of good, hard work and advisor-asserted preparedness to defend, as well as PI and two labs.</sup>
+<sup>$\text{\color{blue}[2.]:}$ The answer was "no" no matter how he interpreted it. Six-month reviews, which are meant to help students, are a deceptive point under the circumstances, with inconsistent review make-up requirements (only a chapter-list was required, which was satisfied), with a brand new committee and a second departing advisor in a student's 6th traumatic year, with extreme evidence of good, hard work and advisor-asserted preparedness to defend, as well as PI and two labs.</sup>
 
 ### Email: 02/09/2024
 
