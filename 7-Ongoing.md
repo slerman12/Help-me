@@ -209,8 +209,6 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 #
 
-“You are the one on trial here, not me,” states the Alderman.
-
 “Who is Sam?” the rest of the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
