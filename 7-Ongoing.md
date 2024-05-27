@@ -32,7 +32,7 @@ I’m not sure which review you’re referring to: the one you skipped in Fall 2
 
 #
 
-<sup>$\text{\color{blue}[2.]:}$ The answer was "no" no matter how he interpreted it. </sup>
+<sup>$\text{\color{blue}[2.]:}$ The answer was "no" no matter how he interpreted it. Six-month reviews, which are meant to help students, are a small pedantic point under the circumstances.</sup>
 
 ### Email: 02/09/2024
 
