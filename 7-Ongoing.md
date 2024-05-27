@@ -164,36 +164,29 @@ That is the empty set, as shown in the [context reminder](#reminder-of-context-m
 
 ## Propositions
 
-### (1) Truth.
+### (1) Goodness, truth, and sufficiency.
 
-Suppose every reason they had for terminating me was true. (False, but assume true).
+Suppose some reason they had for terminating me was good, true, and sufficient. (False, but assume true).
 
-### (2) Sufficient cause.
+### (2) Student's negligence.
 
-Suppose any one of them suffices. (False, but assume true).
+Suppose I didn’t do something they suggested or requested of me under reasonable circumstances. (False, but assume true).
 
-### (3) Student's negligence.
-
-Suppose I didn’t do anything they suggested or requested of me. (Extraordinarily false, but assume true).
-
-### (4) PhD student handbook.
+### (3) PhD student handbook.
 
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - PhD student handbook, page 15. Mathematically:
 
 $\vert x \vert > 0$.
 
-&#9432; In this set of 4 assumptions, the decisions of the ruling judges are "steelmanned," that is, they're made as perfect and accurate as can be up to and well beyond anybody's claims. Assumption 4 is the policy of accountability that the PhD student handbook still requires them to satisfy.
-
 ## Disproofs
 
-> [!NOTE]
-> ### (1) Propositions 1, 2, and 3. 
->
-> &#9432; Suppose either their strongest forms, as phrased under [Propositions](#propositions), or weaker, e.g. replacing "any"/"every" with "some." 
->
-> **Disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).**
+### (1) Propositions 1 or 2. 
 
-### (2) Proposition 4. 
+Goodness, truth, and sufficiency; or student's negligence.
+
+**Disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).**
+
+### (2) Proposition 3. 
 
 $\vert x \vert > 0$.
 
@@ -207,7 +200,8 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Conclusion
 
-- Disproof 2 formally disproves the claim of the PhD student handbook, and proves that the ruling judges are currently violating their own PhD student handbook policy.
+- Proposition 3 is the policy of accountability that the PhD student handbook requires the ruling judges to satisfy.
+- Disproof 2 formally disproves the claim of Proposition 3, and proves that the ruling judges are currently violating their own PhD student handbook policy.
 - Said judges ultimately invoked PhD student handbook policy as their justification for the latest in a series of atrocities committed against one student by one institution.
 
 ## Imagined dialogue
