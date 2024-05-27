@@ -211,7 +211,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
-“You fell back on policy in your decision to terminate me.”
+“On October 31st, you fell back on policy in your decision to terminate me.”
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
