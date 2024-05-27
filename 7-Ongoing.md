@@ -129,7 +129,7 @@ The modern cultures, leaders, and institutions, including the education/research
 
 The University of Rochester: **Saruman**
 
-# $\mathcal{Epilogue}$ (Conclusive disproof of the Alderman)
+# $\mathcal{Epilogue}$
 
 Resume dark tone:
 
@@ -207,7 +207,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
-## Imagined dialogue
+#
 
 “Why should I be charged with these ungodly accusations?” asks the Alderman.
 
