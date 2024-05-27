@@ -216,7 +216,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
-“You fell back on policy in your decision to terminate me.”
+“You fell back on policy in your decision to terminate me.”[^1]
 
 “Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
 
@@ -239,3 +239,5 @@ The tree procures a new model of physics.
 “You don’t know what you’re —“
 
 The tree puts every one of them to shame, and soon they’ll see. 
+
+[^1]: The Alderman did much more than fall back on policy. The Alderman misrepresented my research, took as axiom that I hadn't satisfied all research requirements, and ignored the abundant on-email-record evidence against that.
