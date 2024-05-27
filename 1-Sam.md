@@ -79,12 +79,12 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Definitions
         - (1) Necessity of support set.
       - Propositions
-        - (1) Truth.
-        - (2) Sufficent cause.
-        - (3) Student's negligence.
-        - (4) PhD student handbook.
+        - (1) Goodness, truth, and sufficiency.
+        - (2) Student's negligence.
+        - (3) PhD student handbook.
       - Disproofs
-        - (2) Proposition 4.
+        - (1) Propositions 1 or 2. 
+        - (2) Proposition 3.
       - Conclusion
       - Imagined dialogue
 
