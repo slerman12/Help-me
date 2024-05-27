@@ -206,9 +206,9 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Imagined dialogue
 
-“Why should I be charged with these ungodly accusations?” asks the Alderman.
+“Why should I be charged with these ungodly characterizations?” asks the Alderman.
 
-“Because you are the representative of the policy behind them.”
+“Because under this much ambiguous cause, and since the evidence doesn't support your allegations, any decision is by you and you alone. Meanwhile, you are the charged representative of the policy behind those atrocities.”
 
 “Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
