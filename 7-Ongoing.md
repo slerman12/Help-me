@@ -206,15 +206,17 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## Imagined dialogue
 
-“Why should I be charged with these ungodly characterizations?” asks the Alderman. 
+“Why should I be charged with these ungodly accusations?” asks the Alderman.
 
-"Because under this much ambiguous cause, and since the evidence doesn't support your allegations, any decision is by you and you alone. Meanwhile, you're breaking policy even as the gavel weighs in your hand.”
+“Because you are the representative of the policy behind them.”
 
-“The policy you refer to is minute and doesn't matter. Besides, you are the one on trial here, not me,” states the Alderman.
+“Well the policy is currently being broken. As you’ve proven. Therefore I’m a good man,” states the Alderman.
 
 “You fell back on policy in your decision to terminate me.”
 
-“Who is Sam?” the rest of the congress asks. 
+“Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me.”
+
+“Who is Sam?” the rest of the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
