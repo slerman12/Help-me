@@ -26,9 +26,13 @@ From: **Michael**
 
 Hi Sam —
 
-I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
+I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.$^\text{ \color{blue}[1.]}$  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
 
 — Michael
+
+#
+
+<sup>$\text{\color{blue}[2.]:}$ The answer was "no" no matter how he interpreted it. </sup>
 
 ### Email: 02/09/2024
 
