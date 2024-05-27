@@ -180,7 +180,7 @@ Suppose I didn’t do anything they suggested or requested of me. (Extraordinari
 
 $\vert x \vert > 0$.
 
-&#9432; In this set of 4 assumptions, the decisions of the ruling judges are steelmanned as perfect and accurate up to and well beyond their claims. Assumption 4 is the policy of accountability that the PhD student handbook specifies.
+&#9432; In this set of 4 assumptions, the decisions of the ruling judges are "steelmanned," that is, they're made as perfect and accurate as can be up to and well beyond their claims. Assumption 4 is the policy of accountability that the PhD student handbook specifies.
 
 ## Disproofs
 
