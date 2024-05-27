@@ -215,7 +215,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Ah, but in that case the policy mattered!”
 
-"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st? Mattered so much as to be the only reason to commit another injustice on me? And the previous atrocities of the institution you represent didn't matter?"
+"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st the reason for termination? Mattered so much as to be the only reason to commit another injustice on me? And the previous atrocities of the institution you represent didn't matter?"
 
 "You are the one on trial here, not me."
 
