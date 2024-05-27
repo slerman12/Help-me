@@ -203,7 +203,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - Proposition 3 is the policy of accountability that the PhD student handbook requires the ruling judges to satisfy.
 - Disproof 2 formally disproves the claim of Proposition 3, and proves that the ruling judges are currently violating the PhD student handbook.
 - Said judges ultimately invoked the PhD student handbook as their justification for the latest in a series of atrocities committed against one student by one institution.
-- Disproof 1 showed that the evidence doesn't support the allegations of the charged representative of the policies behind those atrocities, whether he assumes that role or not.
+- Disproof 1 showed that the evidence doesn't support the allegations of the charged representative of the policies behind those atrocities, whether the Alderman assumes that role or not.
 
 ## Imagined dialogue
 
