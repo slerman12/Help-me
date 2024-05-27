@@ -189,13 +189,9 @@ $\vert x \vert > 0$.
 > [!NOTE]
 > ### (1) Propositions 1, 2, and 3. 
 >
-> Truth, sufficient cause, student's negligence.
->
 > &#9432; Suppose either their strongest forms, as phrased under [Propositions](#propositions), or weaker, e.g. replacing "any"/"every" with "some." 
 >
-> **Disproof.**
->
-> Disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
+> **Disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).**
 
 ### (2) Proposition 4. 
 
