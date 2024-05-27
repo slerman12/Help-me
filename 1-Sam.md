@@ -86,7 +86,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (1) Propositions 1 or 2. 
         - (2) Proposition 3.
       - Conclusion
-      - Imagined dialogue
 
 - **Philosophy**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
