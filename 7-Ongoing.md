@@ -16,7 +16,7 @@ Sam
 
 #
 
-<sup>$\text{\color{blue}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree," despite those assertions being [absurdly false](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md), and did not mention the six-month review. </sup>
+<sup>$\text{\color{blue}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree," despite those assertions being [absurdly false](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).</sup>
 
 ### Email: 02/07/2024
 
