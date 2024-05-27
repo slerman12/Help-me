@@ -213,7 +213,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “You fell back on policy in your decision to terminate me.”
 
-“Ah, but in that case the policy mattered, since six-month review make-ups are more important than humanity! Besides, you are the one on trial here, not me.”
+“Ah, but in that case the policy mattered, since, as of October 31st, six-month review make-ups are more important than humanity! Besides, you are the one on trial here, not me.”
 
 “Who is Sam?” the rest of the congress asks.
 
