@@ -210,9 +210,11 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 "Because under this much ambiguous cause, and since the evidence doesn't support your allegations, any decision is by you and you alone. Meanwhile, you're breaking policy even as the gavel weighs in your hand.”
 
-“You are on trial here, not me, and the policy you refer to is minute and doesn't matter,” states the Alderman.
+“The policy you refer to is minute and doesn't matter,” states the Alderman.
 
 “You fell back on policy in your decision to terminate me.”
+
+"You are the one on trial here, not me."
 
 “Who is Sam?” the rest of the congress asks. 
 
