@@ -203,7 +203,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 <p align='center'>𖥸</p>
 
-- An Alderman of the ruling judges ultimately invoked the policy of the PhD student handbook as his justification for the latest in a series of atrocities committed against me by one institution.
+- An Alderman of the ruling judges ultimately invoked the policy of the PhD student handbook as his justification for the latest in a series of atrocities committed against me by this institution.
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
