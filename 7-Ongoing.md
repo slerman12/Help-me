@@ -208,7 +208,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Why should I be charged with these ungodly characterizations?” asks the Alderman. 
 
-"Because under this much ambiguous cause, and since the evidence doesn't support your allegations, the decision is entirely personal, by you and you alone. Meanwhile, you're breaking policy.”
+"Because under this much ambiguous cause, and since the evidence doesn't support your allegations, any decision you make is entirely personal, by you and you alone. Meanwhile, you're breaking policy.”
 
 “The policy you refer to is minute and doesn't matter. You are the one on trial here, not me,” states the Alderman.
 
