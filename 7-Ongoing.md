@@ -10,13 +10,13 @@ From: **Sam Lerman**
 
 Hi Michael, 
 
-Was this six-month review mentioned at/between the time of my termination and October 31st?<sup>$^\text{\color{blue}[1.]}$</sup>
+Was this six-month review mentioned at/between the time of my termination and October 31st?<sup>$^\text{\color{purple}[1.]}$</sup>
 
 Sam
 
 #
 
-<sup>$\text{\color{blue}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree," despite those assertions being [absurdly, unethically false](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).</sup>
+<sup>$\text{\color{purple}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree," despite those assertions being [absurdly, unethically false](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).</sup>
 
 ### Email: 02/07/2024
 
@@ -26,13 +26,13 @@ From: **Michael**
 
 Hi Sam —
 
-I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{blue}[2.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
+I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{purple}[2.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
 
 — Michael
 
 #
 
-<sup>$\text{\color{blue}[2.]:}$ The answer is "no" no matter how he interprets it.</sup>
+<sup>$\text{\color{purple}[2.]:}$ The answer is "no" no matter how he interprets it.</sup>
 
 ### Email: 02/09/2024
 
