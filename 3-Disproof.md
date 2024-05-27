@@ -192,7 +192,7 @@ I responded to Michael about meeting in person on **10/25/2024**: (1) "Hi Michae
 
 To establish "in person" instead of "in writing" as having been an "implicitly" indicated reinstatement-condition requires rephrasing the reinstatement-clause, foregoing explicit formal communications, and violating ethics by demanding that I participate in an unpaid face-to-face meeting with an authority actively inflicting trauma who has no background or expertise in my field, who has no power to address the issues preventing my reinstatement (e.g. lack of advisor), as the only imaginable grounds for hypothetical reinstatement after a disrespectful, unjustified, un-evidenced termination.
 
-Support, as distinct from pay, was withdrawn long before Michael or any faculty mentioned reinstatement, as evidenced by my second advisor's communication of withdrawal on **07/24/2024**, the [sudden termination email on **10/12/2024**](#slavery-or-impossible) and [many tortures](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md), including permanent ongoing ones, inflicted by Michael's institution. 
+Support, as distinct from pay, was withdrawn long before Michael or any faculty mentioned reinstatement, as evidenced by my second advisor's communication of withdrawal on **07/24/2024**, the [sudden termination email on **10/12/2024**](#slavery-or-impossible), and [many tortures](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md), including permanent ongoing ones, inflicted by Michael's institution. 
 
 Note also: the university doesn't have PhD "reinstatement applications."
 
