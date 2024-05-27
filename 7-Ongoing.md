@@ -212,7 +212,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “The policy you refer to is minute and doesn't matter,” states the Alderman.
 
-“You're falling back on policy in your decision to terminate me.”
+“You fell back on policy in your decision to terminate me.”
 
 “Who is Sam?” the rest of the congress asks. 
 
