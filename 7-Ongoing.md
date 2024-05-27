@@ -184,7 +184,7 @@ Truth, sufficient cause, student's negligence.
 
 **Disproof.**
 
-Propositions 1, 2, and 3 were disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md). $\square$
+Propositions 1, 2, and 3 were disproved in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md).
 
 ### (2) Proposition 4. 
 
