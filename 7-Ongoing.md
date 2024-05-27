@@ -14,6 +14,10 @@ Was this six-month review mentioned at/between the time of my termination and Oc
 
 Sam
 
+#
+
+<sub>$\text{\color{blue}[1.]:}$ The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.</sub>
+
 ### Email: 02/07/2024
 
 Re: **Supporting students** </br>
@@ -81,9 +85,14 @@ Also, Michael, why does a six-month review make-up have so much weight when I ha
 
 #
 
+<p align='center'>
+  𖥸
+</p>
+
 There was no reply. Michael never answered any of my questions or addressed the things I asked to be addressed, or referred anyone else to address the things I asked to be addressed. Michael and the University of Rochester stayed silent on the whole of the matters conveyed in this repo, to date of writing. Below, in the Epilogue, I will disprove their own judgement using their own policy. But first, Credits.
 
-$\text{\color{blue}[1.]:}$ The answer to "Was this six-month review mentioned at/between the time of my termination and October 31st?" is no.
+
+
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
