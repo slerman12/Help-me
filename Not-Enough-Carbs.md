@@ -2,7 +2,7 @@
 
 ### Email: 08/10/2023
 
-Subject: **Graduate student firing** </br>
+Subject line: **Graduate student firing** </br>
 To: **Chenliang, Tom, Chris, Charles, Graduate Student Collective** </br>
 From: **Sam Lerman**
 
