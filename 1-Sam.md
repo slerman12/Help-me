@@ -95,7 +95,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (1) Propositions 1 or 2. 
         - (2) Proposition 3.
       - Conclusion
-      - Dialogue of the congress
+      - Dialogue of the Congress
 
 - **Philosophy**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
