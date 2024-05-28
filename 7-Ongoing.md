@@ -233,7 +233,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 "And the previous atrocities of the institution you represent didn't matter?"
 
-“Who is Sam?” the rest of the congress asks.
+“Who is Sam?” is what the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
