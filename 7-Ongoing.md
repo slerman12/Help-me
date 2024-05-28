@@ -215,7 +215,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Ah, but in that case the policy mattered!”
 
-"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for termination against all principles of justice?"
+"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for termination? After discredited reasons, grossly erroneous reasons, and in opposition to any semblance of justice?"
 
 "You are the one on trial here, not me," the Alderman states.
 
