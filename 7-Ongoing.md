@@ -262,7 +262,7 @@ After a pause: "The policy of an incompetently-arbitrated six-month review make-
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\color{green}\text{``}\text{\color{black}Y}o\text{\color{black}u'}r\text{\color{black}e} \ \text{w}\text{\color{black}r}\text{o}\text{\color{black}n}g\text{\color{black}.}\text{"}}$ $\mathbf{(} \ \color{green}\square \ \color{black}\mathbf{).}$
+In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\color{green}\text{``}\text{\color{black}Y}o{\color{black}u'}r{\color{black}e} \ \text{\color{black}w}{r}{\color{black}o}{n}{\color{black}g}{\color{black}.}\text{"}}$ $\mathbf{(} \ \color{green}\square \ \color{black}\mathbf{).}$
 
 “You don’t know what you’re talking about,” the congress and the Alderman answer. 
 
@@ -274,4 +274,4 @@ The tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-The tree puts every one of them to shame; and soon they'll see.
+The tree puts every one of them to shame, and soon they'll see.
