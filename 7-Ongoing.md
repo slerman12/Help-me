@@ -228,7 +228,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 "I am no such thing," states the Alderman. "I act only on good grounds and the highest ethics. Besides, you are the one on trial here, not me."
 
-"On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
+"No, as you are violating policy, we are both on trial. On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
 “Ah, but in that case the policy mattered!"
 
