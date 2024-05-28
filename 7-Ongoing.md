@@ -10,6 +10,8 @@
   <br><i><sup>"Who is Sam?" is what the congress asks.</sup></i>
 </p>
 
+<p align='center'>𖥸</p>
+
 ## Part 7
 
 ### Email: 02/07/2024
