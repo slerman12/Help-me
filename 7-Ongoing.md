@@ -226,7 +226,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “You are the representative behind the policy being contravened."
 
-"The policy violation you refer to doesn't warrant my attention."
+"The policy-violation you refer to doesn't warrant my attention."
 
 "On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
