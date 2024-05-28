@@ -28,7 +28,7 @@ Sam
 
 #
 
-<sup>$\text{\color{purple}[1.]:}$ The termination email stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails from Michael also claimed that my termination had to do with my research and "plan," deferring to the brand new committee, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were all wrong: I needed more time to write a good thesis, ideally in peace after the repeated traumas and abandonments of faculty in positions of responsibility, and ideally with their conscious support via funding, dignity, and basic respect.</sup>
+<sup>$\text{\color{purple}[1.]:}$ The termination email claimed: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails from Michael also claimed that my termination had to do with my research and "plan," despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were all wrong: I needed more time to write a good thesis, ideally in peace after the repeated traumas and abandonments of faculty in positions of responsibility, and ideally with their conscious support via funding, dignity, and basic respect.</sup>
 
 ### Email: 02/07/2024
 
