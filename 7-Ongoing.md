@@ -17,13 +17,13 @@ From: **Sam Lerman**
 
 Hi Michael, 
 
-Was this six-month review mentioned at/between the time of my termination and October 31st?<sup>$^\text{\color{purple}[1.]}$</sup>
+Was this six-month review mentioned at/between the time of my termination and October 31st?<sup>$^\text{\color{maroon}[1.]}$</sup>
 
 Sam
 
 #
 
-<sup>$\text{\color{purple}[1.]:}$ The termination email claimed: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails from Michael also claimed that my termination had to do with my research, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were all wrong: I needed more time to write a good thesis. The specific part of my "plan" that Michael remarked on was my request to work in peace after the repeated traumas and abandonments of faculty in positions of responsibility, and ideally with their conscious support via funding, dignity, and basic respect.</sup>
+<sup>$\text{\color{maroon}[1.]:}$ The termination email claimed: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails from Michael also claimed that my termination had to do with my research, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were all wrong: I needed more time to write a good thesis. The specific part of my "plan" that Michael remarked on was my request to work in peace after the repeated traumas and abandonments of faculty in positions of responsibility, and ideally with their conscious support via funding, dignity, and basic respect.</sup>
 
 ### Email: 02/07/2024
 
@@ -33,13 +33,13 @@ From: **Michael**
 
 Hi Sam —
 
-I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{purple}[2.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
+I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{maroon}[2.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
 
 — Michael
 
 #
 
-<sup>$\text{\color{purple}[2.]:}$ The answer is "no" no matter how he interpreted it.</sup>
+<sup>$\text{\color{maroon}[2.]:}$ The answer is "no" no matter how he interpreted it.</sup>
 
 ### Email: 02/09/2024
 
