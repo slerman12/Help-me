@@ -223,23 +223,25 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
-“On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
+“You are the representative behind the policy being broken."
 
-“Ah, but in that case the policy mattered!”
+"The policy-breaking you refer to doesn't warrant my attention," states the Alderman flippantly.
 
-"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for a 6th-year student's termination? After discredited reasons, grossly erroneous reasons, and desertion of advisor?"
+"On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
-"You are the one on trial here, not me," the Alderman states.
+“Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me." Again, flippant dismissal.
 
-"And the previous atrocities of the institution you represent didn't matter?"
+After a pause: "The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
 
-“Who is Sam?” the congress asks again.
+"Why are you defaming me with these characterizations?" The Alderman signals the rest of the congress.
+
+“Who is Sam?” the rest of the congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
-But when the gavel slammed, it **broke** the ivory surface with a crack and sent a rumbling quake through the **wisdoms** of the alder of its construction.
+But when he slammed the gavel, he **broke** its ivory surface with a crack and sent a quake through the **wisdoms** in the alder of its carving.
 
-In those ruptures, the fire of anger sparks as the wood itself comes alive to tell the congress: “you’re wrong.” 
+The wood itself pulsates into being. “You’re wrong,” it says. The congress hears and recognizes the low grumble, each word pronounced like long thunder.
 
 “You don’t know what you’re talking about,” they answer. 
 
