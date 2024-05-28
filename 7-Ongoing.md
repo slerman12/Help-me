@@ -16,7 +16,7 @@ Sam
 
 #
 
-<sup>$\text{\color{purple}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails also claimed that my termination had to do with my research or research "plan," according to Michael and the brand new committee, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were all wrong: I could've defended that month, but I needed time to write a good thesis.</sup>
+<sup>$\text{\color{purple}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails also claimed that my termination had to do with my research or research "plan," according to Michael and the brand new committee, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were all wrong: I needed time to write a good thesis.</sup>
 
 ### Email: 02/07/2024
 
@@ -89,11 +89,18 @@ Also, Michael, why does a six-month review make-up have so much weight when I ha
 
 #
 
-<p align='center'>
-  𖥸
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
+<picture>
+  <source width="5%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
+  <img width="5%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
+</picture>
+</a>
 </p>
 
 There was no reply. Michael never answered any of my questions or addressed the things I asked to be addressed, or referred anyone else to address the things I asked to be addressed. Michael and the University of Rochester stayed silent on the whole of the matters conveyed in this repo, to date of writing. Below, in the Epilogue, I will disprove their own judgement using their own policy. But first, Credits.
+
+<p align='center'>𖥸</p>
 
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
