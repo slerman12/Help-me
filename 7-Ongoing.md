@@ -222,8 +222,8 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
 <picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+  <source width="18%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+  <img width="18%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
 </picture>
 </a>
 </p>
