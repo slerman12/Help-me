@@ -224,9 +224,9 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
-“You are the representative behind the policy that was enforced, and the ongoing breaker of that same constitution."
+“You are the representative behind the policy being contravented."
 
-"The policy-breaking you refer to doesn't warrant my attention," states the Alderman flippantly.
+"The policy-violation you refer to doesn't warrant my attention," states the Alderman flippantly.
 
 "On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
