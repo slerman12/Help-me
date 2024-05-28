@@ -224,7 +224,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 “Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
-“You are the representative behind the policy being contravented."
+“You are the representative behind the policy being contravened."
 
 "The policy-violation you refer to doesn't warrant my attention."
 
