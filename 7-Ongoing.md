@@ -299,6 +299,6 @@ The alder-tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-The alder-tree puts every one of them to shame, and, by the torchlights in their hands, they see.
+The alder-tree puts every one of them to shame, and, by the torchlight of some ancient justice, they see.
 
 <p align='center'>𖥸</p>
