@@ -258,7 +258,7 @@ After a pause: "The policy of an incompetently-arbitrated six-month review make-
 
 "Who is Sam?" the congress echoes in unison.
 
-“He’s a PhD flunkee,” the Alderman decides with another firmest resolve
+“He’s a PhD flunkee,” the Alderman decides with another firmest resolve —
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
