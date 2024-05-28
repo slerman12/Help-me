@@ -262,7 +262,7 @@ After a pause: "The policy of an incompetently-arbitrated six-month review make-
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\text{\color{green}``Y}o\text{\color{green}u}'r\text{\color{green}e} \ \text{\color{green}w}r\text{\color{green}o}n\text{\color{green}g}\text{\color{black}.}}\text{\color{green}"}$ $\mathbf{(} \ \color{green}\square \ \color{black}\mathbf{).}$
+In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\color{green}\text{``}\text{\color{black}Y}o{\color{black}u'}r{\color{black}e} \ \text{\color{black}w}{r}{\color{black}o}{n}{\color{black}g}{\color{black}.}\text{"}}$ $\mathbf{(} \ \color{green}\square \ \color{black}\mathbf{).}$
 
 “You don’t know what you’re talking about,” the congress and the Alderman answer. 
 
