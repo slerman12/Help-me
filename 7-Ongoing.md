@@ -233,7 +233,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 "It wasn't effective, because the policy you fell back on drew from the same constitution as the policy you are violating."
 
-"No matter. The first policy mattered. The second policy didn't."
+"No matter. The first policy mattered. The second policy doesn't."
 
 "The first policy mattered?"
 
