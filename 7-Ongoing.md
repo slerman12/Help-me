@@ -7,6 +7,7 @@
   <img width="35%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
 </picture>
 </a>
+  <br><i><sup>"Who is Sam?" the congress asks.</sup></i>
 </p>
 
 ## Part 7
