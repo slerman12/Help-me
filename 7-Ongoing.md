@@ -16,7 +16,7 @@ Sam
 
 #
 
-<sup>$\text{\color{purple}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails also claimed that my termination had to do with my research or research "plan," according to Michael (who I don't know and isn't in my field) and the brand new committee, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were both wrong: I could've defended that month, but I needed time to write a good thesis.</sup>
+<sup>$\text{\color{purple}[1.]:}$ The answer is "no." The original termination email only stated: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails also claimed that my termination had to do with my research or research "plan," according to Michael and the brand new committee, despite my advisor and PI claiming the opposite, that I was ready to defend that very same month. Whereas, they were both wrong: I could've defended that month, but I needed time to write a good thesis.</sup>
 
 ### Email: 02/07/2024
 
