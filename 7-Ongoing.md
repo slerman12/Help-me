@@ -1,16 +1,11 @@
 # Ongoing
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ce38e3b8-9130-41e5-8a9a-7e0c556a970e">
 <picture>
-  <source width="35%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
-  <img width="35%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+  <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ce38e3b8-9130-41e5-8a9a-7e0c556a970e">
+  <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ce38e3b8-9130-41e5-8a9a-7e0c556a970e">
 </picture>
-</a>
-  <br><i><sup>"Who is Sam?" is what the congress asks.</sup></i>
-</p>
-
-<p align='center'>𖥸</p>
 
 ## Part 7
 
