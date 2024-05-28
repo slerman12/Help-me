@@ -1,5 +1,14 @@
 # Ongoing
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+<picture>
+  <source width="35%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+  <img width="35%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+</picture>
+</a>
+</p>
+
 ## Part 7
 
 ### Email: 02/07/2024
@@ -212,22 +221,13 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 #
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
-<picture>
-  <source width="35%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
-  <img width="35%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
-</picture>
-</a>
-</p>
-
 “Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
 “On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
 “Ah, but in that case the policy mattered!”
 
-"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for a 6th-year student's termination? After discredited reasons, grossly erroneous reasons, and in opposition to right semblances of justice?"
+"The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for a 6th-year student's termination? After discredited reasons, grossly erroneous reasons, and in opposition to right justice?"
 
 "You are the one on trial here, not me," the Alderman states.
 
