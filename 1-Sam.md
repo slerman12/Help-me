@@ -5,6 +5,7 @@
   <img width="18%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/27577084-7f4d-4b43-980b-8119cfec7682">
 </picture>
 </a>
+  <br><i><sup>"Who is Sam?" is what the congress asks.</sup></i>
 </p>
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
