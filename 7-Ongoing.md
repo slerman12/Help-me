@@ -1,12 +1,5 @@
 # Ongoing
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2f2ec2dc-25c6-480a-9ff7-186810f7699e">
-<picture>
-  <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2f2ec2dc-25c6-480a-9ff7-186810f7699e">
-  <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2f2ec2dc-25c6-480a-9ff7-186810f7699e">
-</picture>
-
 ## Part 7
 
 ### Email: 02/07/2024
