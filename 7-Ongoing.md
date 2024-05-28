@@ -274,4 +274,4 @@ The tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-The tree puts every one of them to shame, and soon they'll see.
+The tree puts every one of them to shame; and soon they'll see.
