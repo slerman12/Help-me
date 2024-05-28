@@ -231,17 +231,45 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 "On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
-"And the ruling today will consolidate the efficacy of that decision."
+"And the ruling today, for which the congress has gathered, will consolidate the effectiveness of that decision."
 
-"It wasn't effective, because the policy you fell back on drew from the same constitution as the policy you are violating."
+"What do you mean effectiveness?"
 
-"No matter. The first policy mattered. The second policy doesn't."
+"Why you've written all of this!"
+
+"Are you saying this was all planned?"
+
+"In all likelihood."
+
+"Absurd. You were conscious of none of this."
+
+"Right."
+
+"Oh you were conscious of all the atrocities and injustices. Just not that they could lead to something good and creative."
+
+"So?"
+
+"I'm still terminated. And whoever planned, if something did, probably wanted justice, not injustice, as the result."
+
+"Well, let's first consolidate the decision previously made by making the ruling that we were going to today."
+
+"And that is?"
+
+"That you have missed a six-month review make-up and therefore ought to pay the penalty."
+
+"By what policy?"
+
+"The PhD student handbook policy, as I said before."
+
+"The policy from the same constitution as the one you are violating?"
+
+"No matter. The first matters. The second doesn't."
 
 "The first policy mattered?"
 
 "Yes. Of course." 
 
-After a pause: "The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
+"The policy of an incompetently-arbitrated six-month review make-up, mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
 
 “How dare you! These characterizations are asinine."
 
@@ -255,16 +283,22 @@ After a pause: "The policy of an incompetently-arbitrated six-month review make-
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\color{green}\text{``}\text{\color{black}Y}o{\color{black}u'}r{\color{black}e} \ \text{\color{black}w}{r}{\color{black}o}{n}{\color{black}g}{\color{black}.}\text{"}}$ $\mathbf{(} \ \color{black}\square \ \mathbf{)\color{green}.}$
+In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g}{\color{black}.}}\text{\color{green}"}$ $\mathbf{(} \ \color{green}_\square \ \color{black}\mathbf{).}$
 
 “You don’t know what you’re talking about,” the congress and the Alderman answer. 
 
-The tree procures a disproof of their physics reasoning. 
+"You have obeyed the alder to the point that you have lost all humanity."
+
+The Alderman scoffs.
+
+The alder-tree procures a disproof of his physics reasoning. 
 
 “You don’t know what you’re talking about.”
 
-The tree procures a new model of physics. 
+The alder-tree procures a new model of physics. 
 
 “You don’t know what you’re —“
 
-The tree puts every one of them to shame, and soon they'll see.
+The alder-tree puts every one of them to shame, and, by the torchlight of some ancient justice, they see.
+
+<p align='center'>𖥸</p>
