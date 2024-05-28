@@ -301,4 +301,6 @@ The alder-tree procures a new model of physics.
 
 The alder-tree puts every one of them to shame, and, by the torchlight of some ancient justice [blowing back at them by a West wind](https://qr.ae/pscADC), they see.
 
+"Who crafted the gavel?" is what the congress finally asks.
+
 <p align='center'>𖥸</p>
