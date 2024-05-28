@@ -250,15 +250,19 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 After a pause: "The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
 
-“How dare you! These characterizations are asinine,” says the Alderman. 
+“How dare you! These characterizations are asinine."
 
-“Who is Sam?” the rest of the congress asks.
+"How dare I?"
+
+"Yes, how dare you, as if you think you're some sort of alderman yourself. Who is Sam?"
+
+"Who is Sam?" the congress echoes in unison.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
-But when he slammed the gavel, he **broke** its ivory surface with a crack and sent a quake through the **wisdoms** in the alder of its carving.
+But when his gavel hit the ivory surface of his desk, the mallet's head **broke**, the impact sent a quake through the **wisdoms** in the alder, and the cracked wood sprouted with roots, branches, and moss.
 
-The wood itself pulsates into being. “You’re wrong,” it says. The congress hears and recognizes the low grumble, each word pronounced like long thunder.
+“You’re wrong,” it says. The congress hears and recognizes the low grumble, each word pronounced like long thunder.
 
 “You don’t know what you’re talking about,” they answer. 
 
