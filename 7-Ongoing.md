@@ -217,16 +217,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
-## Dialogue of the congress
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-<picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-</picture>
-</a>
-</p>
+## 🏛️ $\mathbf{Dialogue \ of \ the \ Congress}$
 
 “You are the representative behind the policy being contravened."
 
@@ -259,3 +250,13 @@ The tree procures a new model of physics.
 “You don’t know what you’re —“
 
 The tree puts every one of them to shame, and soon they'll see.
+
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+</picture>
+</a>
+</p>
