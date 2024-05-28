@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+<picture>
+  <source width="35%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+  <img width="35%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/174367ea-91f9-4c1d-8733-d2e0d5aa80b8">
+</picture>
+</a>
+  <br><i><sup>"Who is Sam?" is what the congress asks.</sup></i>
+</p>
+
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
 
 “Who is Sam?”
