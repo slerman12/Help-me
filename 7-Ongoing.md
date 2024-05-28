@@ -219,6 +219,15 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 ## $\mathbf{Dialogue \ of \ the \ Congress}$
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+</picture>
+</a>
+</p>
+
 “You are the representative behind the policy being contravened."
 
 "I am no such thing," states the Alderman. "I act only on good grounds and the highest ethics. Besides, you are the one on trial here, not me."
@@ -262,13 +271,3 @@ The tree procures a new model of physics.
 “You don’t know what you’re —“
 
 The tree puts every one of them to shame, and soon they'll see.
-
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-<picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
-</picture>
-</a>
-</p>
