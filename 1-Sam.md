@@ -1,11 +1,10 @@
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c1d58532-2ded-4e97-917e-8749f35b4daf">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
 <picture>
-  <source width="15%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c1d58532-2ded-4e97-917e-8749f35b4daf">
-  <img width="15%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c1d58532-2ded-4e97-917e-8749f35b4daf">
+  <source width="25%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
+  <img width="25%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
 </picture>
 </a>
-  <br><i><sup>"Who is Sam?" is what the congress asks.</sup></i>
 </p>
 
 “Who is Sam?” is what the congress asks. They call in everyone except him to find out. One by one the lineup proceeds. 
