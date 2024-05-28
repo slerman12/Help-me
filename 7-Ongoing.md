@@ -260,7 +260,7 @@ After a pause: "The policy of an incompetently-arbitrated six-month review make-
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve
 
-But when his gavel hits the ivory surface of his desk, the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
+But as his gavel hits the ivory surface of his desk, the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
 “You’re wrong,” the tree says. The congress hears and recognizes the low grumble, each word pronounced like long thunder.
 
