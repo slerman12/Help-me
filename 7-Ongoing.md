@@ -145,9 +145,7 @@ The University of Rochester: **Saruman**
 
 # $\mathcal{Epilogue}$
 
-Resume dark tone:
-
-## <sup>$\color{blue} _\mathbf{&#9432;}$</sup>&#8202; Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
+## 🔎 Reminder of context mentioned in [first disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
 
 > [!IMPORTANT]
 > The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
@@ -172,7 +170,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 $x$ $\coloneqq$ $\emptyset$.
 
-That is the empty set, as shown in the [context reminder](#reminder-of-context-mentioned-in-first-disproof). 
+That is the empty set, as shown in the [context reminder](#-reminder-of-context-mentioned-in-first-disproof). 
 
 ## Propositions
 
