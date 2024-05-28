@@ -217,7 +217,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
-## 🏛️ $\mathbf{Dialogue \ of \ the \ Congress}$
+## $\mathbf{Dialogue \ of \ the \ Congress}$
 
 “You are the representative behind the policy being contravened."
 
@@ -229,7 +229,15 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 "On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
-“Ah, but in that case the policy mattered!"
+"And the ruling today will consolidate the efficacy of that decision."
+
+"It wasn't effective, because the policy you fell back on drew from the same constitution as the policy you are violating."
+
+"No matter. The first policy mattered. The second policy didn't."
+
+"The first policy mattered?"
+
+"Yes. Of course."
 
 After a pause: "The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
 
