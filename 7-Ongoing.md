@@ -100,15 +100,6 @@ Also, Michael, why does a six-month review make-up have so much weight when I ha
 
 There was no reply. Michael never answered any of my questions or addressed the things I asked to be addressed, or referred anyone else to address the things I asked to be addressed. Michael and the University of Rochester stayed silent on the whole of the matters conveyed in this repo, to date of writing. Below, in the Epilogue, I will disprove their own judgement using their own policy. But first, Credits.
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
-<picture>
-  <source width="5%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
-  <img width="5%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7bf7a827-b0c6-46cf-87ee-4d473fb254bb">
-</picture>
-</a>
-</p>
-
 # $\mathfrak{Credits,}$ $\text{written by}$ $\mathcal{Frodo  \ Baggins}$ <sup> $(Sam)$ </sup>
 
 My mom: **Pippin, or Tom Bombadil**
