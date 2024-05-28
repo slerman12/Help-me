@@ -220,11 +220,11 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
-#
+## Imagined dialogue
 
 “Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
-“You are the representative behind the policy being broken."
+“You are the representative behind the policy that was enforced, and the ongoing breaker of that same constitution."
 
 "The policy-breaking you refer to doesn't warrant my attention," states the Alderman flippantly.
 
