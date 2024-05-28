@@ -220,21 +220,19 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
-## Imagined dialogue
-
-“Why should I be accused with these ungodly characterizations?” asks the Alderman. 
+#
 
 “You are the representative behind the policy being contravened."
 
-"The policy-violation you refer to doesn't warrant my attention."
+"I am no such thing," states the Alderman. "I act only on good grounds and the highest ethics. Besides, you are the one on trial here, not me."
 
 "On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
 
-“Ah, but in that case the policy mattered! Besides, you are the one on trial here, not me."
+“Ah, but in that case the policy mattered!"
 
 After a pause: "The policy of an incompetently-arbitrated six-month review make-up, as of October 31st mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
 
-"Why are you defaming me with these characterizations?" 
+“Why should I be accused with these ungodly characterizations?” asks the Alderman. 
 
 “Who is Sam?” the rest of the congress asks.
 
