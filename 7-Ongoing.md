@@ -264,7 +264,7 @@ The Alderman strikes his gavel against the ivory surface of his desk, but the ma
 
 In a voice that doesn't need to be heard to be heard, the tree says, "You're wrong."
 
-“You don’t know what you’re talking about,” they answer. 
+“You don’t know what you’re talking about,” the congress and the Alderman answer. 
 
 The tree procures a disproof of their physics reasoning. 
 
