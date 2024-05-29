@@ -273,7 +273,7 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 
 ### Additional details for part 3
 
-The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they self-contradictingly later wanted a make-up before the next one that they wouldn’t even attend. 
+The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they (self-contradictingly and later, that is, ad-hoc) wanted a make-up before the next one that they wouldn’t even attend. 
 
 Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on my committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned their duties) last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
 
