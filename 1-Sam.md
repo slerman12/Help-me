@@ -52,6 +52,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - My... trauma
     - Part 3 (University PhD advisors, University PhD committee members, University graduate administrator and Deans)
     - Additional details for part 1
+    - Additional details for part 3
   - [Disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
     - Part 4
       - Email: 10/27/2023
