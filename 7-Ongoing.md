@@ -283,7 +283,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$ $\mathbf{(} \ {\color{green}_\square} \ \mathbf{).}$
+In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says: $\mathfrak{\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$ $\mathbf{(} \ {\square} \ \mathbf{).}$
 
 “You don’t know what you’re talking about,” the congress and the Alderman answer. 
 
