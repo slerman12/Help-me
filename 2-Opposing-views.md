@@ -270,3 +270,11 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
     - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
     - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
 2. My whole-body eczema and allergies also spiked (for about a month).
+
+### Additional details for part 3
+
+The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they wanted a make-up before the next one that they wouldn’t even attend. 
+
+Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on my committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned their duties) last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
+
+That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
