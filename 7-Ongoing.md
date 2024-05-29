@@ -32,7 +32,7 @@ I’m not sure which review you’re referring to: the one you skipped in Fall 2
 
 #
 
-<sup>$\text{\color{maroon}[2.]:}$ The answer is "no" no matter how he interpreted it. Maybe I should’ve replied: “The one that I was excused from, the one that I attended, or the one that was post-hoc?”</sup>
+<sup>$\text{\color{maroon}[2.]:}$ The answer is "no" no matter how he interpreted it. Maybe I should’ve replied: “The one that I was excused from, the one that I attended with a brand new interim, or the one that was post-hoc both with respect to advisor-desertion and requirement?”</sup>
 
 ### Email: 02/09/2024
 
