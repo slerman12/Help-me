@@ -1,6 +1,6 @@
 # Deus Ex Memory
 
-This is an extraordinary email conversation with one of the newly added committee members Chris Kanan, who my advisor suggested last-minute as the replacement for one of the leaving former committee members.
+This is an extraordinary email conversation with one of the newly added committee members Chris Kanan, who my advisor suggested last-minute as the replacement for one of the missing committee members.
 
 ### Email: 10/15/2023
 
