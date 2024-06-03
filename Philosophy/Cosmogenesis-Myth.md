@@ -59,7 +59,7 @@ $($ Definition $A \coloneqq B) \coloneqq (\exists (A \coloneqq B))$.
 
 **Definition 3.** Equivalence.
 
-$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{Z}^{+})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively.
+$($ Equivalence $A = B) \coloneqq (A \rightarrow_n B, B \rightarrow_m A, n, m \in \mathbb{N})$, where $n, m$ are deductive steps, meaning $n-1, m-1$ statements must be deduced between $A$ and $B$ and $B$ and $A$ respectively.
 
 Instantaneous equivalence $(A \coloneqq B) \coloneqq (A \rightarrow_1 B, B \rightarrow_1 A)$.
 
@@ -71,7 +71,7 @@ $($ Implication $A \rightarrow_1 B) \coloneqq (\exists A \rightarrow_1 \exists B
 
 **Definition 5.** Proof.
 
-$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$ for some $n \in \mathbb{Z}^{+}$.
+$($ Deduction/theorem/proof $A \rightarrow B) \coloneqq (A \rightarrow_n B) \coloneqq (\exists A \rightarrow_n \exists B)$ for some $n \in \mathbb{N}$.
 
 ### Existence and Cause
 
@@ -107,13 +107,13 @@ The empty existence set $\emptyset \coloneqq \langle \rangle$.
 
 **Definition 9.** Nothing equivalents.
 
-$\emptyset_K = \emptyset, \text{ } \forall K \subseteq \mathbb{Z}^{+}$.
+$\emptyset_K = \emptyset, \text{ } \forall K \subseteq \mathbb{N}$.
 
 **Definition 10.** The universe.
 
 $\Omega^{(0)} \coloneqq \emptyset$.
 
-$\Omega^{(n)} \coloneqq (( \emptyset_K \vert K \subseteq \mathbb{Z}^{+}; \Omega^{(0)} \rightarrow_n \emptyset_K ), \rightarrow_n),$ $\forall n \in \mathbb{Z}^{+}$.
+$\Omega^{(n)} \coloneqq (( \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K ), \rightarrow_n),$ $\forall n \in \mathbb{N}$.
 
 $\Omega \coloneqq (\Omega^{(0)}, \Omega^{(1)}, ...)$.
 
@@ -139,11 +139,11 @@ $(\langle\langle\rangle\rangle)  \rightarrow (\exists \langle\rangle)$. (Definit
 
 $((\emptyset \coloneqq \langle \rangle), (\exists \langle\rangle)) \rightarrow (\exists \emptyset)$. (Definition 8) $\square$
 
-**Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{Z}^{+}$.
+**Theorem 2.** All nothings exist. $\exists \emptyset_K \vert K \subseteq \mathbb{N}$.
 
 **Proof.**
 
-$((\exists \emptyset), (\emptyset = \emptyset_K \forall K \subseteq \mathbb{Z}^{+})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{Z}^{+})$. (Theorem 1, Definition 9) $\square$
+$((\exists \emptyset), (\emptyset = \emptyset_K \forall K \subseteq \mathbb{N})) \rightarrow (\exists \emptyset_K \vert K \subseteq \mathbb{N})$. (Theorem 1, Definition 9) $\square$
 
 **Theorem 3.** The universe exists. $\exists \Omega$.
 
@@ -151,9 +151,9 @@ $((\exists \emptyset), (\emptyset = \emptyset_K \forall K \subseteq \mathbb{Z}^{
 
 $((\exists \emptyset), (\Omega^{(0)} \coloneqq \emptyset)) \rightarrow (\exists \Omega^{(0)})$. (Theorem 1, Definition 10)
 
-$((\exists \emptyset_K \vert K \subseteq \mathbb{Z}^{+}), (\exists \rightarrow_n)) \rightarrow \langle\langle \emptyset_K \vert K \subseteq \mathbb{Z}^{+}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle$. (Theorem 2, Axiom 2, Definition 3, Definition 5, Axiom 1)
+$((\exists \emptyset_K \vert K \subseteq \mathbb{N}), (\exists \rightarrow_n)) \rightarrow \langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle$. (Theorem 2, Axiom 2, Definition 3, Definition 5, Axiom 1)
 
-$\langle\langle \emptyset_K \vert K \subseteq \mathbb{Z}^{+}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 10)
+$\langle\langle \emptyset_K \vert K \subseteq \mathbb{N}; \Omega^{(0)} \rightarrow_n \emptyset_K \rangle, \rightarrow_n \rangle \rightarrow (\exists \Omega^{(n)})$. (Definition 10)
 
 $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\Omega^{(0)}, \Omega^{(1)}, ...) \rightarrow (\exists \Omega)$. (Definition 10) $\square$
 
@@ -161,9 +161,9 @@ $((\exists \Omega^{(0)}), (\exists \Omega^{(n)})) \rightarrow (\Omega^{(0)}, \Om
 
 **Proof.**
 
-Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ of size $N \in \mathbb{Z}^{+}$ where $i$ denotes the position on the tape and $t$ denotes the time point.
+Construct a tape of binary zeroes and ones $\emptyset_{0,i, t}, \emptyset_{1,i, t}$ of size $N \in \mathbb{N}$ where $i$ denotes the position on the tape and $t$ denotes the time point.
 
-$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \leq N \in \mathbb{Z}^{+}, \tau \in (0, 1)$.
+$\emptyset \rightarrow_1 \emptyset_{\tau,i,0} \forall i \leq N \in \mathbb{N}, \tau \in (0, 1)$.
 
 This is the initial state, defined by $\tau$.
 
@@ -239,13 +239,13 @@ Well, a hidden axiom contained in the definition of definition is the existence 
 
 From that we can derive a variable $\emptyset = (A \coloneqq B)$, and its definition equivalents: $^\text{ \color{blue}[1.]}$
 
-$\emptyset = \emptyset_K \vert K \subseteq \mathbb{Z}^{+}$.
+$\emptyset = \emptyset_K \vert K \subseteq \mathbb{N}$.
 
-So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded as a unique number on the positive integer number scale $\mathbb{Z}^{+}$ and each non-equivalent given its own dimension of equivalents $\mathbb{Z}^{+}^\mathbb{Z}^{+}$. We thus obtain an inoperable version of the positive integer numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
+So this together with Axiom 2 suffices to obtain $\Omega$. Then we can ask "what is definition?" Perhaps there is a set of all possible definitions. Each equivalent can be regarded as a unique number on the natural number scale $\mathbb{N}$ and each non-equivalent given its own dimension of equivalents $\mathbb{N}^\mathbb{N}$. We thus obtain an inoperable version of the natural numbers and vector spaces. The way they relate to each other is by implication with respect to each dimension: some order, for example:
 
 $1 \rightarrow_1 2 \rightarrow_1 3 \rightarrow_1 \cdots$
 
-with some connecting universal node $0 \coloneqq i \ \forall i \in \mathbb{Z}^{+}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's used in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
+with some connecting universal node $0 \coloneqq i \ \forall i \in \mathbb{N}$ to complete the strongly connected directed graph. This doesn't quite get us to Axiom 2 though. We could discard Axiom 2 though. It's used in one step in the proof of Theorem 3, but that step doesn't require it since the implication is true by Definition 3 and 5. I realized this later, but it feels weird to remove it because then I can get these same results without axiom. Well, my only axiom would be that deduction as defined here is true. 
 
 As to the question of whether this definition of deduction is true, well, it's summarizable in half a page and generalizes to every historical use, so if one were to criticize it, I would challenge them to come up with a better one. The onus of that is on them, since I have provided a definition of deduction, perhaps the first, that serves every historical use, and is elegant.
 
