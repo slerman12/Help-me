@@ -28,7 +28,7 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![Leg-Eczema](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52)
 
-![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/ab3c0314-cb60-498d-90c3-582c5e0c8659)
+![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/9b6d2715-9e5d-4185-800d-44a88fa364df)
 
 ![IMG_2661](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/8580ed2a-260a-40be-804b-446230fab5ab)
 
