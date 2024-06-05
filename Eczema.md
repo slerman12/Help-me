@@ -45,5 +45,5 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 ![Eczema-Ever-Better](https://github.com/slerman12/BrokenWisdoms/assets/9126603/808239ba-c6f8-4096-9a2a-3cc1bf425c4b)
 
 
-Bloody Hell! Talk about "opposing views." 
+This was the price I regularly paid to do some soulless debugging work that I never got credit for, and had nothing to do with my PhD.
 
