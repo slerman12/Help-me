@@ -10,7 +10,7 @@ The symbol on the whiteboard represents healing because it means "ever better", 
 
 ![IMG_2839](https://github.com/slerman12/BrokenWisdoms/assets/9126603/167a5106-17a8-4c09-a3aa-1b40604c453c)
 
-## Recent Battle Wounds as I Fight Towards Ever Better
+## Recent Battle Wounds as I Fight Alone Towards Ever Better
 
 This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that created this skin condition.
 
