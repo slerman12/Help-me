@@ -2,7 +2,7 @@
 
 I’ve suffered severe bouts like this all my life, since I was 1-month old. It’s largely stress-induced. Nothing induces it more than prolonged stress periods, especially when heavy debugging is involved. Much of the heavy debugging I did was done out of coercion on behalf of exterior labs, putting me in software-engineer type roles, even though I was a PhD student researcher doing orthogonal research, as happened both in the Med Center and the Mechanical Engineering labs, though I made the best of both for my research directions, and my funding depended that I obey their engineering demands in addition to stated PhD requirements. For that reason, the research institution is also guilty in causing actual bloodshed.
 
-## Policy Gradient
+## Towards Ever Better - Policy Gradient
 
 > "The arc of the moral universe is long, but it bends toward justice.” - Martin Luther King, Jr.
 
