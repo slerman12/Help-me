@@ -10,7 +10,7 @@ The symbol on the whiteboard represents healing because it means "ever better", 
 
 ![IMG_2839](https://github.com/slerman12/BrokenWisdoms/assets/9126603/167a5106-17a8-4c09-a3aa-1b40604c453c)
 
-## Current Battle Wounds as I Fight Alone
+## Recent Battle Wounds as I Fight Alone
 
 This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that created this skin condition.
 
@@ -28,7 +28,8 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![Leg-Eczema](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52)
 
-![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/afab7e71-a60c-42a8-a884-f8c54d6134c9)
+
+![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/10d4bd20-f275-49ec-8950-d02e98c296a2)
 
 
 ![IMG_2661](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/8580ed2a-260a-40be-804b-446230fab5ab)
