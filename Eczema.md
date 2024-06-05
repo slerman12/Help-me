@@ -2,15 +2,15 @@
 
 I’ve suffered severe bouts like this all my life, since I was 1-month old. It’s largely stress-induced. Nothing induces it more than prolonged stress periods, especially when heavy debugging is involved. Much of the heavy debugging I did was done out of coercion on behalf of exterior labs, putting me in software-engineer type roles, even though I was a PhD student researcher doing orthogonal research, as happened both in the Med Center and the Mechanical Engineering labs, though I made the best of both for my research directions, and my funding depended that I obey their engineering demands in addition to stated PhD requirements. For that reason, the research institution is also guilty in causing actual bloodshed.
 
-## Towards Ever Better
-
 > "The arc of the moral universe is long, but it bends toward justice.” - Martin Luther King, Jr.
 
-The symbol on the whiteboard represents healing because it means "ever better", mathematically. It's a ["policy gradient"](http://www.scholarpedia.org/article/Policy_gradient_methods) that represents the optimization of a purpose — objective or teleology — towards its maximum metric realization of "good", as sickness turns to health, or a corrupt academic institution starts to finally change their ways after 2 independent sensationalized scandals to this date in recent history. Of course, “good” needs defining and hopefully some of these case injustices inflicted on me reveal some of what’s missing from the existing sets of metrics. “Ever better” is the University of Rochester’s school motto. Either their motto or policy need optimizing.
+## Policy Gradient
+
+The symbol on the whiteboard represents healing because it means "ever better", mathematically. It's a ["policy gradient"](http://www.scholarpedia.org/article/Policy_gradient_methods) that represents the optimization of a purpose — objective or teleology — towards its maximum metric realization of "good" (the parametric methods for improving a policy), as sickness turns to health, or a corrupt academic institution starts to finally change their ways after 2 independent sensationalized scandals to this date in recent history. Of course, “good” needs defining and hopefully some of these case injustices inflicted on me reveal some of what’s missing from the existing sets of metrics. “Ever better” is the University of Rochester’s school motto. Either their motto or policy need optimizing.
 
 ![IMG_2839](https://github.com/slerman12/BrokenWisdoms/assets/9126603/167a5106-17a8-4c09-a3aa-1b40604c453c)
 
-## Recent Battle Wounds as I Fight Alone
+## Recent Battle Wounds as I Fight Towards Ever Better
 
 This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that created this skin condition.
 
@@ -41,6 +41,9 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 ![IMG_2649](https://github.com/slerman12/BrokenWisdoms/assets/9126603/40fdd37e-76e2-4087-823c-35cacd911f69)
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
+
+![Eczema-Ever-Better](https://github.com/slerman12/BrokenWisdoms/assets/9126603/808239ba-c6f8-4096-9a2a-3cc1bf425c4b)
+
 
 Bloody Hell! Talk about "opposing views." 
 
