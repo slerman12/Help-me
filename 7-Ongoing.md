@@ -161,7 +161,7 @@ Define the set of "what is necessary for reinstatement of support, indicated to 
 
 $x$ $\coloneqq$ $\emptyset$.
 
-> $\color{green} &#9432;$ That is the empty set, as described in the [context reminder](#-reminder-of-context-mentioned-in-first-disproof). 
+$\color{green} &#9432;$ That is the empty set, as described in the [context reminder](#-reminder-of-context-mentioned-in-first-disproof). 
 
 ## Propositions
 
