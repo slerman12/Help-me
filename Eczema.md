@@ -55,3 +55,5 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 This was the price I regularly paid to do some soulless debugging work that I never got credit for, and had nothing to do with my PhD.
 
+Shown are the recent gashes since the termination. This is FAR from the full severity.
+
