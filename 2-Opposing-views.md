@@ -186,6 +186,8 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University PhD committee members**
 - **University graduate administrator and Deans**
 
+> This section is still in progress.
+
 <p align="center">
 <img width="320" alt="Screenshot 2024-03-12 at 8 08 29 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/38c120aa-7b20-4c91-a302-7fad96b52d06">
 </p>
