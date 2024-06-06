@@ -125,7 +125,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 4. Re-take a six-month review
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
 6. According to the brand new interim six-month reviewers, effectively restart my entire research for an altogether different thesis
-7. Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by 10/06/2023, now an added independent requirement to the previously specified six-month review "new" research "plan" that I'd already sent
+7. Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by 10/06/2023, now an added independent requirement to the previously delivered materials
    - Which I did, and when I sent it by **10/06/2023**, this was the only reply I got, of **10/12/2023**:
 
 > Dear Sam:
@@ -139,7 +139,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 > Computer Science Department, University of Rochester</br>
 > \<provided contact info redacted\>
 
-7. Develop a brand new research plan
+7. Develop another brand new research plan
 8. All of this on behalf of a brand new committee, people I don't know who never knew my research during my PhD prior to our one and only meeting
 10. All of this amid induced health issues and in my sixth year
 11. For less than New York State's legal living wage
