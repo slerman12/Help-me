@@ -14,6 +14,8 @@ I want the university to apologize for its actions, take accountability, and rem
 
 Here is some of the work I did and had to do for them at less than minimum wage:
 
+[Plug and play substitute for DataLoader, better in every way, leveraging Numpy truly shared memory from scratch and with the best possible interface for use in reinforcement learning as an experienced replay, prioritized experiences replay, or other parallel, distributed, algorithmically novel versions, including priority-sampling without replacement by multiple parallel-CPU workers an memory-mapping.](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py)
+
 (neural) Architecture Systems:
 
 1. Generously-released AI open-source library from which I made no money due to it being unfinished due to the university’s termination of support, even calling it “unviable”: https://www.github.com/AGI-init/UnifiedML-legacy
