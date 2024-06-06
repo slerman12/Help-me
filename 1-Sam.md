@@ -49,7 +49,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Email: 10/27/2023
       - Email: 10/30/2023
       - 10/30/2023 - 10/31/2023, and 7 years ago - now
-      - Hardest worker - literally.
+      - Hardest worker — literally.
       - My termination had nothing to do with my work
       - Hypocrisy
       - You should probably protest
