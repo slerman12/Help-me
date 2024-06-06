@@ -266,14 +266,14 @@ Finally, Deans Wendi Heinzelman and Nick Vamivakas, who I flooded with a ton of 
 >
 > See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
 
-### Additional details for part 1
+## Additional details for part 1
 
 1. Oh, I lost my fingernails. I forgot to mention that. They turned entirely purple and bended like putty. 
     - Some time after the I Ching reading, my nails were turning more purple and weak. They didn't fall out, but they were unusable and unmanageable. (They eventually grew back normal, after months to maybe a year).
     - I don't remember if the same thing happened to my toenails as fingernails. I was preoccupied with PhD work and already at the apex of night-marish and unprocessable decay.
 2. My whole-body eczema and allergies also spiked for a prolonged time due to that sudden cessation/withdrawal.
 
-### Additional details for part 3
+## Additional details for part 3
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
 
