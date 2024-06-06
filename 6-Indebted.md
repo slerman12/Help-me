@@ -14,8 +14,6 @@ I want the university to apologize for its actions, take accountability, and rem
 
 Here is some of the work I did and had to do for them at less than minimum wage:
 
-[Plug and play substitute for DataLoader, better in every way, leveraging Numpy truly-shared memory from scratch and with the best possible interface for use in reinforcement learning as an experienced replay, prioritized experiences replay, or other parallel, distributed, algorithmically novel versions, including priority-sampling without replacement by multiple parallel-CPU workers and memory-mapping, fully unified with dynamically growing and agent-re-writable datasets/replay memories.](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py)
-
 (neural) Architecture Systems:
 
 1. Generously-released AI open-source library from which I made no money due to it being unfinished due to the university’s termination of support, even calling it “unviable”: https://www.github.com/AGI-init/UnifiedML-legacy
@@ -52,3 +50,7 @@ Then another paper publication, and more, for a paper that was under review when
 And helped write their almost-million-dollar grant, including coming up with, proposing, and teaching some of the main ideas, uncredited.
 
 That’s a lot of money I helped bring into their institution to be supposedly indebted many thousands to them, an institution responsible for coerced permanent damage against me, literal torture, and blatant abuse of my hard work.
+
+Work that I did that was rejected by the brand new interim committee and called "unviable" by the department chair:
+
+[Plug and play substitute for DataLoader, better in every way, leveraging Numpy truly-shared memory from scratch and with the best possible interface for use in reinforcement learning as an experienced replay, prioritized experiences replay, or other parallel, distributed, algorithmically novel versions, including priority-sampling without replacement by multiple parallel-CPU workers and memory-mapping, fully unified with dynamically growing and agent-re-writable datasets/replay memories.](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py)
