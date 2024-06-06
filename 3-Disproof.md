@@ -107,6 +107,20 @@ This hasn't been suggested elsewhere: a worker and public led pressure campaign,
 
 Generally speaking these are some of the political/social figures I like: Bernie, Krystal Ball, Kyle Kulinski, ShoeOnHead (June Nicole Lapine), and Sadhguru.
 
+> TO DO: Other things to mention:
+>
+> Sectoral bargaining. More Commonly used in other countries. See “‘That’s Crazy’: Jesse Waters Thinks $20/hr Is 100k A Year”. Fast food workers negotiate $20/hr.
+> ^ Not even negotiated by workers. The negotiation /included/ the businesses. Negotiated by councils I guess.
+> ^ Also Panera didn’t want to comply, and then did “only because that story went viral”.
+>
+> Never having made more than $15/hr in my life.
+>
+> Maybe mention that the living wage is 33280 and what stipend was (assuming you’re receiving one), well below that for PhD students.
+And most PhD students work significant overtime. I had to work 70 hr/week often. There are also extra fees and phantom costs that the university doesn’t reimburse. Parking is required if you don’t live nearby and costs extra hundreds of dollars each year. Quality research equipment can be really hard to get, and if you can’t convince your advisor to pay for it, then that also has to come out of pocket.
+> The job is also demanding. Each hour can be really stressful and can cause and worsen health conditions like eczema. So the hours aren’t light hours. Debugging is the most common cause for my eczema of anything else. These are high pressure, intensive-work jobs. A PhD also takes 5 - 7 years on average. That’s 5 - 7 years invested in a below-living wage high-stress job, in which a termination can happen arbitrarily in the 6th year. 
+>
+> By the time students graduate, if they graduate, they risk having no savings in their late-20s or early-30s, despite having contributed and worked at the highest level and proven their skill and talent within that setting. If they don’t graduate, or God forbid they do something that upsets the “bridges” who are in charge of them, they can lose all of that in a split second.  
+
 ### Slavery or impossible
 
 1. PhD students are employees
