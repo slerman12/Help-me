@@ -120,7 +120,7 @@ Generally speaking these are some of the political/social figures I like: Bernie
 The demand put on me was more excessive than this summarizes since I was expected to:
 
 1. Find yet another advisor
-   - The amount of work to get into Chenliang's group was huge and far from instantaneous, I had to work for free under him until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, proven a huge undertaking, and had to suddenly again in my 6th year, it was already proven to be an enormous and very-likely-unpaid work of indefinite duration to do so, and both advisors bailed for reasons that were their own fault.
+   - The amount of work to get into Chenliang's group was huge and far from instantaneous, I had to work for free under him until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, proven a huge undertaking, and had to suddenly again in my 6th year, an unpaid work of indefinite undignifying duration forced on a 6th-year student, and both advisors bailed for reasons that were their own fault.
 3. Find new source of funding
 4. Re-take a six-month review
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
