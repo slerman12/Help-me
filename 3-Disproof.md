@@ -140,7 +140,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 > \<provided contact info redacted\>
 
 7. Develop another brand new research plan
-8. All of this on behalf of a brand new committee, people I don't know who never knew my research during my PhD prior to our one and only meeting
+8. All of this on behalf of a brand new interim committee, people I don't know who never knew my research during my PhD prior to our one and only meeting
 10. All of this amid induced health issues and in my sixth year
 11. For less than New York State's legal living wage
 12. Within a one to few month timeframe
