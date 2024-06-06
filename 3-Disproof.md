@@ -99,7 +99,7 @@ Another point of their hypocrisy is that their concluding termination reason was
 
 ### You should probably protest
 
-Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, on-campus parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
+Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
 
 [Around $3 billion](https://www.google.com/search?client=safari&rls=en&q=university+of+rochester+budget&ie=UTF-8&oe=UTF-8) is U of R's yearly budget. They're a city-wide monopoly. The budgets and surpluses at other universities are also extreme. For example, [this](https://www.thecrimson.com/article/2022/10/14/harvard-budget-fy22/) is almost enough to cancel most of Harvard's students' debt, ever. Let me stress that. The budgetary surplus of a single year. *All* of Harvard's students' debt this year. Most of Harvard's students' debt, ever. From a one-year surplus. For every student. Enough surplus to cancel nearly all debt for every student that ever went to Harvard, ever, from a one year's *surplus*. Universities in the US make huge profits and, with public pressure, can use that money where the Supreme Court failed. 
 
