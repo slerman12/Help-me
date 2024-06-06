@@ -283,19 +283,19 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a voice that resonates in every pore of one's being, the alder-tree says: $\mathfrak{\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$ $\mathbf{(} \ {\square} \ \mathbf{).}$
+In a voice that doesn't need to be heard to resonate in every crevice of one's being, the alder-tree says:  $\mathfrak{\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$ $\mathbf{(} \ {\square} \ \mathbf{).}$
 
-“You don’t know what you’re talking about,” the congress and the Alderman answer. 
+“You don’t know what you’re talking about,” the congress and the Alderman answer.
 
-"Of course I do."
+"You have obeyed the alder to the point that you have lost all humanity."
 
 The Alderman scoffs.
 
-The alder-tree procures a disproof of the Alderman's physics reasoning. 
+The alder-tree procures a disproof of his physics reasoning.
 
 “You don’t know what you’re talking about.”
 
-The alder-tree procures a new model of physics. 
+The alder-tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
