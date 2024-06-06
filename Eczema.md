@@ -24,7 +24,6 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![IMG_2647](https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f)
 
-![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
 
 ![Leg-Eczema](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52)
 
@@ -47,8 +46,12 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
+
+![IMG_2960](https://github.com/slerman12/BrokenWisdoms/assets/9126603/8eed2f37-2e1b-4d8f-bf32-84a3ce73145e)
+
 ![Eczema-Ever-Better](https://github.com/slerman12/BrokenWisdoms/assets/9126603/808239ba-c6f8-4096-9a2a-3cc1bf425c4b)
 
+![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
 
 This was the price I regularly paid to do some soulless debugging work that I never got credit for, and had nothing to do with my PhD.
 
