@@ -29,18 +29,20 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 ![Leg-Eczema](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52)
 
 ![IMG_2936](https://github.com/slerman12/BrokenWisdoms/assets/9126603/4f7d1c54-e4d4-40ae-a5ba-038d4732bd95)
-![IMG_2900](https://github.com/slerman12/BrokenWisdoms/assets/9126603/6fd4c34e-6b17-45ea-9495-afad5e294907)
+
+![IMG_2927](https://github.com/slerman12/BrokenWisdoms/assets/9126603/e2a89f42-6115-4e44-9ebc-131beb3c0c7f)
 
 
 
-![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/10d4bd20-f275-49ec-8950-d02e98c296a2)
+![IMG_2918](https://github.com/slerman12/BrokenWisdoms/assets/9126603/4cdd472f-443c-4be3-a795-6125fcf37c2a)
 
+![IMG_2814](https://github.com/slerman12/BrokenWisdoms/assets/9126603/8fcdd3bf-d944-43f6-aa3c-496a8bc3e1ea)
 
 ![IMG_2661](https://github.com/animal-tree/BrokenWisdoms/assets/142250284/8580ed2a-260a-40be-804b-446230fab5ab)
 
 ![IMG_2649](https://github.com/slerman12/BrokenWisdoms/assets/9126603/40fdd37e-76e2-4087-823c-35cacd911f69)
 
-![Uploading IMG_2954.jpeg…]()
+![IMG_2954](https://github.com/slerman12/BrokenWisdoms/assets/9126603/875f6223-6153-4d95-9981-81b0c6d3523c)
 
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
