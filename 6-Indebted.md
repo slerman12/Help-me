@@ -41,7 +41,7 @@ Robotics:
 
 Top-venue paper publication, that I had to do under force in less than 2 months while literally brain damaged (literally, physiologically, by that very institution, due to benzodiazepine coercions and malpractice) or else I would lose funding due to my first advisor being promoted to a directing position at the NSF and my second one not wanting to accept me into his lab unless I wrote and submitted a top-venue paper immediately:
 
-1. Published paper: https://arxiv.org/pdf/2006.08601.pdf
+1. Published Paper: https://arxiv.org/pdf/2006.08601.pdf
 2. Poster: https://docs.google.com/presentation/d/1nI8dKitjOy0yLsIpJHKNF1nnfOnydpXOBobXi9s2-eY/edit?usp=sharing)
 3. Video: https://youtu.be/P08ZNFxMh7Q?si=KwNnGlIA7PdXF5zR)
 
