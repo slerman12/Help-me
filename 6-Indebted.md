@@ -53,6 +53,6 @@ That’s a lot of money I helped bring into their institution to be supposedly i
 
 #
 
-Work that I did that was rejected by the brand new interim committee and called "unviable" by the department chair:
+Work that I did — meaning, fully implemented, as described below — that was rejected by the brand new interim committee and called "unviable" by the department chair:
 
 [Plug and play substitute for DataLoader, better in every way, leveraging Numpy truly-shared memory from scratch and with the best possible interface for use in reinforcement learning as an experienced replay, prioritized experiences replay, or other parallel, distributed, algorithmically novel versions, including priority-sampling without replacement by multiple parallel-CPU workers and memory-mapping, fully unified with dynamically growing and agent-re-writable datasets/replay memories.](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py)
