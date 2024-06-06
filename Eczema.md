@@ -40,6 +40,9 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![IMG_2649](https://github.com/slerman12/BrokenWisdoms/assets/9126603/40fdd37e-76e2-4087-823c-35cacd911f69)
 
+![Uploading IMG_2954.jpeg…]()
+
+
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
 ![Eczema-Ever-Better](https://github.com/slerman12/BrokenWisdoms/assets/9126603/808239ba-c6f8-4096-9a2a-3cc1bf425c4b)
