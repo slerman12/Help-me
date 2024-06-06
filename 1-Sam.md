@@ -51,6 +51,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - 10/30/2023 - 10/31/2023, and 7 years ago - now
       - Hardest worker - literally.
       - My termination had nothing to do with my work
+      - Brand new interim committee
       - Hypocrisy
       - You should probably protest
       - Slavery or impossible
