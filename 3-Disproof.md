@@ -124,7 +124,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 3. Find new source of funding
 4. Re-take a six-month review
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
-6. According to the six-month reviewers, effectively restart my entire thesis
+6. According to the brand new interim six-month reviewers, effectively restart my entire thesis
 7. Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by 10/06/2023, now an added independent requirement to the previously specified six-month review requirements
    - Which I did, and when I sent it by **10/06/2023**, this was the only reply I got, of **10/12/2023**:
 
