@@ -291,7 +291,7 @@ In a voice that resonates in every pore of one's being, the alder-tree says: $\m
 
 The Alderman scoffs.
 
-The alder-tree procures a disproof of his physics reasoning. 
+The alder-tree procures a disproof of the Alderman's physics reasoning. 
 
 “You don’t know what you’re talking about.”
 
