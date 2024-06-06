@@ -287,7 +287,7 @@ In a voice that resonates in every pore of one's being, the alder-tree says: $\m
 
 “You don’t know what you’re talking about,” the congress and the Alderman answer. 
 
-"You have obeyed the alder to the point that you have lost all humanity."
+"Of course I do."
 
 The Alderman scoffs.
 
