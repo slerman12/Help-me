@@ -53,5 +53,5 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
 
-This was the price I regularly paid to do some soulless debugging work that I never got credit for, and had nothing to do with my PhD. The shown gashes are FAR from the full severity that I worked through, through pure willpower, during my PhD.
+This was the price I regularly paid to do some soulless debugging work that I never got credit for, and had nothing to do with my PhD. The shown gashes are FAR from the full severity that I regularly had to work through, through pure willpower, during my PhD.
 
