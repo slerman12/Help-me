@@ -64,7 +64,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 - Daily yoga, pranayama, and twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)
 - Daily jogs and calisthenics
 - Daily freezing cold ice baths
-- No movies, tv shows, social media... or even music (due to a Sadghuru recommendation and friend biasing)
+- No movies, tv shows, social media... or even music (due to a Sadghuru recommendation and friend-biasing)
 - Paleo diet at the start of the program. After damages, Paleo-Keto, and then most effectively, "all-steak", but more specifically, organic grassfed grass-finished pasture-raised steak, Himalayan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage for a student with no financial safety net, a family that immigrated here without money as refugees (including me), and that New York State officially classifies the University of Rochester's salary for PhD students as being below official living wage. Noting again: three times my hair grew back on this diet, and it very noticeably expedited my brain damage recovery, and those were the reasons I had to do it (besides one of my friends biasing me more towards recognizing the dietary value of eating more meat).
 - Daily walks in nature
 - Desperate attempts to still socialize every week
