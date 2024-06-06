@@ -26,4 +26,4 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 
 > I also proposed these [bio-inspired neurons]( https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) to my semantic parsing class in 2018, to Henry, and again to Chenliang later. But, no one other than me particularly took an interest, despite the extremely original, intuitive formulation.
 
-> TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory.
+> TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, and how that is still relevant via leveraging foundation model world-knowledge for disease prognostication.
