@@ -78,7 +78,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 
 Also, just look at my GitHubs and GitHub repositories and commit counts and even chronologies and time stamps if you really want to investigate the extent of my discipline, particularly November, 2021 - September, 2023, during which I maintained all of these disciplines and asceticisms without even a single day's slip-up or loss in actualized devotion, though I largely maintained all of them through the course of my PhD. Initially, Paleo diet and asceticisms and meditation routine for meeting the work demand, and then the stricter versions and the other disciplines for recovering from the Med Center-induced damages. No medical leaves due to risk of loss of student loan subsidization from that same university for which I was working and which did those medical damages.
 
-For a small idea, see these [slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing).
+For a small idea of the work I did, see these [slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing).
 
 And see [here](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md).
 
