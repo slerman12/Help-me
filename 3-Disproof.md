@@ -70,6 +70,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 - No movies, tv shows, social media... or even music (due to Sadghuru-recommendation and friend-biasing)
   - Only reading and nature walks.
 - Organic grassfed grass-finished pasture-raised steak, Himalayan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage for a student with no financial safety net, a family that immigrated here without money as refugees (including me), and that New York State officially classifies the University of Rochester's salary for PhD students as being below official living wage. Noting again: three times my hair grew back on this diet, and it very noticeably expedited my brain damage recovery, and those were the reasons I had to do it (besides that same friend biasing me more towards recognizing the dietary value of eating more meat, and Mikhaila Peterson recommendation).
+ - No other foods, or drinks besides water.
 - Daily walks in nature
 - Desperate attempts to still socialize every week
 - 70-hour work weeks on average, always across two labs, including usually ones where I did essentially the job of a software engineer minus the pay
