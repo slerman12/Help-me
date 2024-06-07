@@ -1,10 +1,10 @@
 # Ongoing
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ab70b5cc-fcfa-45eb-bc6e-9562048de5d3">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d163c32f-ad31-49a2-a676-6ff3a924abad">
 <picture>
-  <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ab70b5cc-fcfa-45eb-bc6e-9562048de5d3">
-  <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ab70b5cc-fcfa-45eb-bc6e-9562048de5d3">
+  <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d163c32f-ad31-49a2-a676-6ff3a924abad">
+  <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d163c32f-ad31-49a2-a676-6ff3a924abad">
 </picture>
 </a>
 </p>
