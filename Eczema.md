@@ -43,10 +43,10 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 ![IMG_2954](https://github.com/slerman12/BrokenWisdoms/assets/9126603/875f6223-6153-4d95-9981-81b0c6d3523c)
 
+![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
 
 ![IMG_2560](https://github.com/slerman12/BrokenWisdoms/assets/9126603/adebf6c9-20a4-4895-be8f-088ff61a60c1)
 
-![IMG_2648](https://github.com/slerman12/BrokenWisdoms/assets/9126603/1112f270-57d2-434d-b4bb-9ed3bf1e9520)
 
 ![IMG_2960](https://github.com/slerman12/BrokenWisdoms/assets/9126603/8eed2f37-2e1b-4d8f-bf32-84a3ce73145e)
 
