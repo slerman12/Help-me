@@ -10,7 +10,7 @@
 
 ### Allies 
 
-Message about preferring to die to legal action
+Message about preferring to die than legal action
 
 > Date: **10/30/23**
 
