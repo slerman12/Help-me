@@ -2,7 +2,7 @@
 
 ## $\mathbf{Dialogue \ of \ the \ Congress \ 1}$
 
-&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;"The stenographer checks the print. "The records read: \`A not-bald, not-especially-traumatized PhD student in artificial intelligence\`."
+&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;"The stenographer checks the print. "The records read: \``A not-bald, not-especially-traumatized PhD student in artificial intelligence`\`."
 
 </br>
 
