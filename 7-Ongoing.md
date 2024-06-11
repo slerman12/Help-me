@@ -252,6 +252,6 @@ The alder-tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-By the [Western-storming torchlight](https://qr.ae/pscADC), they soon see.
+By torchlight blowing East in [Western wind](https://qr.ae/pscADC), they soon see.
 
 <p align='center'>𖥸</p>
