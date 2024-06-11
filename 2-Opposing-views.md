@@ -1,8 +1,4 @@
- > The described events took place while I was a PhD student in artificial intelligence.
-
 # Opposing views
-
-
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ac6457d3-46bb-470f-a4ca-05b205a4d74a">
