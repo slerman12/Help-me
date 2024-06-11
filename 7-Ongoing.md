@@ -238,20 +238,4 @@ The Alderman strikes his gavel against the ivory surface of his desk, but the ma
 
 In a thunder, the alder-tree says:  $\mathfrak{\color{green}\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$
 
-“You don’t know what you’re talking about,” the Congress and the Alderman answer.
-
-$\mathfrak{\color{green}\text{``T}he}$ $\mathfrak{\color{green}policy}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}an}$ $\mathfrak{\color{green}incompetently}\text{\color{green}-}\mathfrak{\color{green}arbitrated}$ $\mathfrak{\color{green}six\text{\color{green}-}month}$ $\mathfrak{\color{green}review}$ $\mathfrak{\color{green}make\text{\color{green}-}up}\text{\color{green},}$ $\mathfrak{\color{green}mattered}$ $\mathfrak{\color{green}so}$ $\mathfrak{\color{green}much}$ $\mathfrak{\color{green}as}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}be}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}only}$ $\mathfrak{\color{green}reason}$ $\mathfrak{\color{green}for}$ $\mathfrak{\color{green}terminating}$ $\mathfrak{\color{green}\text{S}am}$ $\mathfrak{\color{green}6}$ $\mathfrak{\color{green}years}$ $\mathfrak{\color{green}into}$ $\mathfrak{\color{green}his}$ $\mathfrak{\color{green}\text{P}hD}\text{\color{green}?}$ $\mathfrak{\color{green}After}$ $\mathfrak{\color{green}discredited}$ $\mathfrak{\color{green}reasons}\text{\color{green},}$ $\mathfrak{\color{green}grossly}$ $\mathfrak{\color{green}erroneous}$ $\mathfrak{\color{green}reasons\text{,}}$ $\mathfrak{\color{green}desertion}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}advisor\text{,}}$ $\mathfrak{\color{green}desertions}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}previous}$ $\mathfrak{\color{green}advisor}$ $\mathfrak{\color{green}and}$ $\mathfrak{\color{green}committee\text{,}}$ $\mathfrak{\color{green}and}$ $\mathfrak{\color{green}opposition}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}all}$ $\mathfrak{\color{green}right}$ $\mathfrak{\color{green}principles}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}justice\text{?}}$ $\mathfrak{\color{green}And\text{,}}$ $\mathfrak{\color{green}man}$ $\mathfrak{\color{green}\text{wh}o}$ $\mathfrak{\color{green}holds}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}gavel\text{,}}$ $\mathfrak{\color{green}did}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}previous}$ $\mathfrak{\color{green}atrocities}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}your}$ $\mathfrak{\color{green}institution\text{,}}$ $\mathfrak{\color{green}those}$ $\mathfrak{\color{green}apothecarial}$ $\mathfrak{\color{green}atrocities}$ $\mathfrak{\color{green}that}$ $\mathfrak{\color{green}have}$ $\mathfrak{\color{green}all}$ $\mathfrak{\color{green}been}$ $\mathfrak{\color{green}made}$ $\mathfrak{\color{green}aware}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}you\text{,}}$ $\mathfrak{\color{green}not}$ $\mathfrak{\color{green}matter\text{,}}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}institution}$ $\mathfrak{\color{green}you}$ $\mathfrak{\color{green}assume}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}representative}$ $\mathfrak{\color{green}role}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}by}$ $\mathfrak{\color{green}making}$ $\mathfrak{\color{green}your}$ $\mathfrak{\color{green}ruling\text{?"}}$
-
-“You don’t know what you’re talking about,” the Congress and the Alderman answer.
-
-The alder-tree procures a disproof of their physics reasoning.
-
-The Alderman scoffs.
-
-The alder-tree procures a new model of physics.
-
-“You don’t know what you’re —“
-
-The alder-tree puts every one of them to shame, and, by the torchlight of some ancient justice [blowing back at them by a West wind](https://qr.ae/pscADC), they see.
-
 <p align='center'>𖥸</p>
