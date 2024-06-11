@@ -252,6 +252,6 @@ The alder-tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-The alder-tree puts every one of them to shame. By torchlight blowing East in [Western wind](https://qr.ae/pscADC), they soon see.
+The alder-tree puts every one of them to shame, and, by the torchlight of some ancient justice [blowing back at them by a West wind](https://qr.ae/pscADC), they see.
 
 <p align='center'>𖥸</p>
