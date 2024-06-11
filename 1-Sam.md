@@ -1,4 +1,4 @@
-&ensp;&ensp;&ensp;"Who is Sam?"</br>&ensp;&ensp;&ensp;&ensp;&ensp;“A PhD flunkee,” rules the man with the gavel.
+&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;“A PhD flunkee,” rules the man with the gavel.
 
 </br>
 
