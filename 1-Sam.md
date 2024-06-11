@@ -1,4 +1,4 @@
-# $\mathfrak{\text{P}rologue}$
+# $\mathfrak{\mathrm{P}rologue}$
 
 ## $\mathbf{Dialogue \ of \ the \ Congress \ 1}$
 
