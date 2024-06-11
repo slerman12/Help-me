@@ -1,4 +1,4 @@
- > All of the described events took place while I was a PhD student in artificial intelligence.
+ > The described events took place while I was a PhD student in artificial intelligence.
 
 # Opposing views
 
