@@ -1,10 +1,10 @@
 # Opposing views
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ac6457d3-46bb-470f-a4ca-05b205a4d74a">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
 <picture>
-  <source width="75%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ac6457d3-46bb-470f-a4ca-05b205a4d74a">
-  <img width="75%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/ac6457d3-46bb-470f-a4ca-05b205a4d74a">
+  <source width="75%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+  <img width="75%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
 </picture>
 </a>
 </p>
@@ -40,10 +40,10 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to rape me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/175981a2-c9b8-430f-b8c1-247588d0740e">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
 <picture>
-  <source width="75%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/175981a2-c9b8-430f-b8c1-247588d0740e">
-  <img width="75%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/175981a2-c9b8-430f-b8c1-247588d0740e">
+  <source width="75%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
+  <img width="75%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
 </picture></a>
 <!-- <br><i><b>Note:</b> I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was "Psycho Killer" which I'll interpret as psychiatric killer. Oh and then "Alabama  Song (Whisky Bar)." Not bad. Any song about alcohol is fitting for the topic of benzos, since they both work by GABA as the mechanism of action. In fact, I introduced a fellow hospital-inmate Lily to Elliott Smith for the first time with the song "Between the Bars" (about alcohol... not about Xanax bars [Xanax is another benzo and "bars" is the colloquially and sometimes clinically used term for pills of them]) while we were in the hospital (between the bars of confinement). Since she was keeping a synchronicity list while we were there, I think she'll appreciate these observations in this caption when I show her, though it would unfortunately be a non-sequitor to make any claims to their nature or significance. Some of these however are just linguistic.</i> -->
 </a>
