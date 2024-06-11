@@ -19,13 +19,9 @@ From: **Sam Lerman**
 
 Hi Michael, 
 
-Was this six-month review mentioned at/between the time of my termination and October 31st?<sup>$^\text{\color{maroon}[1.]}$</sup>
+Was this six-month review mentioned at/between the time of my termination and October 31st?
 
 Sam
-
-#
-
-<sup>$\text{\color{maroon}[1.]:}$ The termination email claimed: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Previous emails from Michael also claimed that my termination had to do with my research.</sup>
 
 ### Email: 02/07/2024
 
@@ -35,13 +31,15 @@ From: **Michael**
 
 Hi Sam —
 
-I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{maroon}[2.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
+I’m not sure which review you’re referring to: the one you skipped in Fall 2022, the unsuccessful one in Spring 2023, or the make-up review that you didn’t schedule.<sup>$^\text{\color{purple}[1.]}$</sup>  The requirement for reviews is documented in the CS PhD Student Handbook.  Deadlines for reviews are communicated to all PhD students and advisors via email every year.
 
 — Michael
 
 #
 
-<sup>$\text{\color{maroon}[2.]:}$ The answer is "no" no matter how he interpreted it. Maybe I should’ve replied: “The one that I was excused from, the one that I attended with a brand new *interim* committee, or the one that was post-hoc both with respect to advisor-desertion and requirement?”</sup>
+<sup>$\text{\color{purple}[1.]:}$ In all cases, the answer was "no." I should’ve replied: “The one that I was excused from, the one that I attended with a brand new *interim* committee, or the one that was post-hoc both with respect to advisor-desertion and requirement?” Or maybe: ${\color{green}\text{``}The}$ ${\color{green}policy}$ ${\color{green}of}$ ${\color{green}an}$ ${\color{green}incompetently}\text{\color{green}-}{\color{green}arbitrated}$ ${\color{green}six\text{\color{green}-}month}$ ${\color{green}review}$ ${\color{green}make\text{\color{green}-}up}\text{\color{green},}$ ${\color{green}mattered}$ ${\color{green}so}$ ${\color{green}much}$ ${\color{green}as}$ ${\color{green}to}$ ${\color{green}be}$ ${\color{green}the}$ ${\color{green}only}$ ${\color{green}reason}$ ${\color{green}for}$ ${\color{green}terminating}$ ${\color{green}me}$ ${\color{green}6}$ ${\color{green}years}$ ${\color{green}into}$ ${\color{green}my}$ ${\color{green}PhD}\text{\color{green}?}$ ${\color{green}After}$ ${\color{green}discredited}$ ${\color{green}reasons}\text{\color{green},}$ ${\color{green}grossly}$ ${\color{green}erroneous}$ ${\color{green}reasons\text{,}}$ ${\color{green}desertion}$ ${\color{green}of}$ ${\color{green}advisor\text{,}}$ ${\color{green}desertions}$ ${\color{green}of}$ ${\color{green}previous}$ ${\color{green}advisor}$ ${\color{green}and}$ ${\color{green}committee\text{,}}$ ${\color{green}and}$ ${\color{green}opposition}$ ${\color{green}to}$ ${\color{green}all}$ ${\color{green}right}$ ${\color{green}principles}$ ${\color{green}of}$ ${\color{green}justice\text{?}}$ ${\color{green}And\text{,}}$ ${\color{green}man}$ ${\color{green}who}$ ${\color{green}holds}$ ${\color{green}the}$ ${\color{green}gavel\text{,}}$ ${\color{green}did}$ ${\color{green}the}$ ${\color{green}previous}$ ${\color{green}atrocities}$ ${\color{green}of}$ ${\color{green}your}$ ${\color{green}institution\text{,}}$ ${\color{green}those}$ ${\color{green}apothecarial}$ ${\color{green}atrocities}$ ${\color{green}that}$ ${\color{green}have}$ ${\color{green}all}$ ${\color{green}been}$ ${\color{green}made}$ ${\color{green}aware}$ ${\color{green}to}$ ${\color{green}you\text{,}}$ ${\color{green}not}$ ${\color{green}matter\text{,}}$ ${\color{green}the}$ ${\color{green}institution}$ ${\color{green}you}$ ${\color{green}assume}$ ${\color{green}the}$ ${\color{green}representative}$ ${\color{green}role}$ ${\color{green}of}$ ${\color{green}by}$ ${\color{green}making}$ ${\color{green}your}$ ${\color{green}ruling\text{?"}}$ Unlike what Michael's reply makes it sound like, his previous emails, including the termination email, attributed without evidence my termination to my research, e.g., the extremely-false reason given in the termination email was: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree."</sup>
+
+
 
 ### Email: 02/09/2024
 
