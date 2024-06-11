@@ -37,7 +37,7 @@ I’m not sure which review you’re referring to: the one you skipped in Fall 2
 
 #
 
-<sup>$\text{\color{purple}[1.]:}$ In all cases, the answer was `"no."` I should’ve replied: `"The one that I was excused from, the one that I attended with a brand new interim committee, or the one that was post-hoc both with respect to advisor-desertion and requirement?”` Unlike what Michael's reply makes it sound like, his termination email didn't attribute my termination to any of these things, but rather to my research, e.g., the extremely-false reason given in the termination email was: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Meanwhile, my advisor and PI both said my plan was completed successfully and I was ready to defend that month. Whereas, they were all wrong: I needed more time to write a good thesis.</sup>
+<sup>$\text{\color{purple}[1.]:}$ In all cases, the answer was `"no."` I should’ve replied: `"The one that I was excused from, the one that I attended with a brand new *interim* committee, or the one that was post-hoc both with respect to advisor-desertion and requirement?”` Unlike what Michael's reply makes it sound like, his termination email didn't attribute my termination to any of these things, but rather to my research, e.g., the extremely-false reason given in the termination email was: "the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree." Meanwhile, my advisor and PI both said my plan was completed successfully and I was ready to defend that month. Whereas, they were all wrong: I needed more time to write a good thesis.</sup>
 
 ### Email: 02/09/2024
 
