@@ -230,84 +230,28 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 </a>
 </p>
 
-“You are the representative behind the policy being contravened."
-
-"I am no such thing," states the Alderman. "I act only on good grounds and the highest ethics. Besides, you are the one on trial here, not me."
-
-"No, as you are violating policy, we are both on trial." 
-
-"Ridiculous."
-
-"On October 31st, you ad-hoc fell back on policy in your decision to terminate me.”
-
-"And the ruling today, for which the congress has gathered, will consolidate the effectiveness of that decision."
-
-"What do you mean effectiveness?"
-
-"Why you've written all of this!"
-
-"Are you saying this was all planned?"
-
-"In all likelihood."
-
-"Absurd. You were conscious of none of this."
-
-"Right."
-
-"Oh you were conscious of all the atrocities and injustices. Just not that they could lead to something good and creative."
-
-"So?"
-
-"I'm still terminated. And whoever planned, if something did, probably wanted justice, not injustice, as the result."
-
-"Well, let's first consolidate the decision previously made by making the ruling that we were going to today."
-
-"And that is?"
-
-"That you have missed a six-month review make-up and therefore ought to pay the penalty."
-
-"By what policy?"
-
-"The PhD student handbook policy, as I said before."
-
-"The policy from the same constitution as the one you are violating?"
-
-"No matter. The first matters. The second doesn't."
-
-"The first policy mattered?"
-
-"Yes. Of course." 
-
-"The policy of an incompetently-arbitrated six-month review make-up, mattered so much as to be the only reason for terminating me 6 years into my PhD? After discredited reasons, grossly erroneous reasons, desertion of advisor, and opposition to all right principles of justice? And, I ask, did the previous atrocities of your institution, those atrocities that have all been made aware to you, not matter, the institution you assume the representative role of by making your ruling?"
-
-“How dare you! These characterizations are asinine."
-
-"How dare I?"
-
-"Yes, how dare you, as if you think you're some sort of alderman yourself. Who is Sam?"
-
-"Who is Sam?" the congress echoes in unison.
+"Who is Sam?" the Congress asks.
 
 “He’s a PhD flunkee,” the Alderman decides with another firmest resolve —
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a voice that doesn't need to be heard to resonate in every shaken pore of one's being, the alder-tree says:  $\mathfrak{\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$ $\mathbf{(} \ {\square} \ \mathbf{).}$
+In a thunder, the alder-tree says:  $\mathfrak{\color{green}\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$
 
-“You don’t know what you’re talking about,” the congress and the Alderman answer.
+“You don’t know what you’re talking about,” the Congress and the Alderman answer.
 
-"You have obeyed the alder to the point that you have lost all humanity."
+$\mathfrak{\color{green}\text{``T}he}$ $\mathfrak{\color{green}policy}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}an}$ $\mathfrak{\color{green}incompetently}\text{\color{green}-}\mathfrak{\color{green}arbitrated}$ $\mathfrak{\color{green}six\text{\color{green}-}month}$ $\mathfrak{\color{green}review}$ $\mathfrak{\color{green}make\text{\color{green}-}up}\text{\color{green},}$ $\mathfrak{\color{green}mattered}$ $\mathfrak{\color{green}so}$ $\mathfrak{\color{green}much}$ $\mathfrak{\color{green}as}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}be}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}only}$ $\mathfrak{\color{green}reason}$ $\mathfrak{\color{green}for}$ $\mathfrak{\color{green}terminating}$ $\mathfrak{\color{green}\text{S}am}$ $\mathfrak{\color{green}6}$ $\mathfrak{\color{green}years}$ $\mathfrak{\color{green}into}$ $\mathfrak{\color{green}his}$ $\mathfrak{\color{green}\text{P}hD}\text{\color{green}?}$ $\mathfrak{\color{green}After}$ $\mathfrak{\color{green}discredited}$ $\mathfrak{\color{green}reasons}\text{\color{green},}$ $\mathfrak{\color{green}grossly}$ $\mathfrak{\color{green}erroneous}$ $\mathfrak{\color{green}reasons\text{,}}$ $\mathfrak{\color{green}desertion}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}advisor\text{,}}$ $\mathfrak{\color{green}desertions}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}previous}$ $\mathfrak{\color{green}advisor}$ $\mathfrak{\color{green}and}$ $\mathfrak{\color{green}committee\text{,}}$ $\mathfrak{\color{green}and}$ $\mathfrak{\color{green}opposition}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}all}$ $\mathfrak{\color{green}right}$ $\mathfrak{\color{green}principles}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}justice\text{?}}$ $\mathfrak{\color{green}And\text{,}}$ $\mathfrak{\color{green}man}$ $\mathfrak{\color{green}\text{wh}o}$ $\mathfrak{\color{green}holds}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}gavel\text{,}}$ $\mathfrak{\color{green}did}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}previous}$ $\mathfrak{\color{green}atrocities}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}your}$ $\mathfrak{\color{green}institution\text{,}}$ $\mathfrak{\color{green}those}$ $\mathfrak{\color{green}apothecarial}$ $\mathfrak{\color{green}atrocities}$ $\mathfrak{\color{green}that}$ $\mathfrak{\color{green}have}$ $\mathfrak{\color{green}all}$ $\mathfrak{\color{green}been}$ $\mathfrak{\color{green}made}$ $\mathfrak{\color{green}aware}$ $\mathfrak{\color{green}to}$ $\mathfrak{\color{green}you\text{,}}$ $\mathfrak{\color{green}not}$ $\mathfrak{\color{green}matter\text{,}}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}institution}$ $\mathfrak{\color{green}you}$ $\mathfrak{\color{green}assume}$ $\mathfrak{\color{green}the}$ $\mathfrak{\color{green}representative}$ $\mathfrak{\color{green}role}$ $\mathfrak{\color{green}of}$ $\mathfrak{\color{green}by}$ $\mathfrak{\color{green}making}$ $\mathfrak{\color{green}your}$ $\mathfrak{\color{green}ruling\text{?"}}$
 
-The Alderman scoffs.
+“You don’t know what you’re talking about,” the Congress and the Alderman answer.
 
 The alder-tree procures a disproof of their physics reasoning.
 
-“You don’t know what you’re talking about.”
+The Alderman scoffs.
 
 The alder-tree procures a new model of physics.
 
 “You don’t know what you’re —“
 
-The alder-tree puts every one of them to shame, and, by the torchlight of some ancient justice [blowing back at them by a West wind](https://qr.ae/pscADC), they see.
+The alder-tree puts every one of them to shame. By the [Western-storming torchlight](https://qr.ae/pscADC), they see.
 
 <p align='center'>𖥸</p>
