@@ -1,6 +1,6 @@
 ## $\mathfrak{\text{P}rologue}$
 
-&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;“A not-bald, not-especially-traumatized, PhD student in artificial intelligence,” the records read.
+&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;“A not-bald, not-especially-traumatized PhD student in artificial intelligence,” the records read.
 
 </br>
 
