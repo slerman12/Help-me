@@ -1,4 +1,4 @@
-&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;“A PhD flunkee.”
+&ensp;&ensp;&ensp;"Who is Sam?" is what the Congress asks.</br>&ensp;&ensp;&ensp;&ensp;&ensp;“A PhD student.”
 
 </br>
 
