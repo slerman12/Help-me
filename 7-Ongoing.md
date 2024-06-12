@@ -215,7 +215,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 <p align='center'>𖥸</p>
 
-- An Alderman of the ruling judges ultimately invoked the policy of the PhD student handbook, the same constitution as the one being violated by those judges, as his justification for the latest in a series of atrocities committed against me by this institution.
+- An Alderman of the ruling judges ultimately invoked the policy of the PhD student handbook as his justification for the latest in a series of atrocities committed against me by this institution.
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
@@ -236,6 +236,6 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 
 The Alderman strikes his gavel against the ivory surface of his desk, but the mallet's head **breaks**, the impact sends a quake through the **wisdoms** in the alder, and the cracked wood sprouts with roots, branches, and moss.
 
-In a thunder and [a Western wind](https://qr.ae/psDqOz), the alder-tree says:  $\mathfrak{\color{green}\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$
+In a thunder, the alder-tree says:  $\mathfrak{\color{green}\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}"}$
 
 <p align='center'>𖥸</p>
