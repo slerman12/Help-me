@@ -65,7 +65,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 - Daily Pranayama in the morning.
 - Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon.
 - Daily early morning jogs.
-- Daily calisthenics.
+- Daily calisthenics, a little in the morning and a little in the afternoon.
 - Daily freezing cold ice baths in the morning.
 - No movies, tv shows, or social media... or even music (due to Sadghuru-recommendation and friend-biasing).
   - Only reading, usually non-fiction or philosophical texts, and nature walks.
