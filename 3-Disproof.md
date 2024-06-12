@@ -61,19 +61,19 @@ I did everything advised and required, amid hospitalizations, medical trauma, an
 
 Aside from fasting for the sake of my [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md), I did all of the following listed disciplines for at least a year consecutively without interruption concurrently, some of these things for many years. That might sound voluntary, or unreasonable. No, I had to both to do PhD work and to recover from the [Medical Center's severe damages](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md). I'm a 5'5" nerdy guy who weighs 110lb and these kinds of disciplines aren't natural to me. Medical leaves aren't paid and I could've lost the subsidization for my student loans and potentially health insurance. Those disciplines are the only thing that made it possible to meet the requirements of the program, while literally mutilated, brain damaged, and burning alive. Those damages were induced by the University of Rochester Medical Center's malpractices, while they profited from that Med Center's research (where I also worked concurrently), big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the health of its students and workers.
 
-- Daily yoga
-- Daily Pranayama
-- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)
-- Daily early morning jogs
-- Daily calisthenics
-- Daily freezing cold ice baths in the morning
-- No movies, tv shows, or social media... or even music (due to Sadghuru-recommendation and friend-biasing)
+- Daily yoga in the morning.
+- Daily Pranayama in the morning.
+- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon.
+- Daily early morning jogs.
+- Daily calisthenics.
+- Daily freezing cold ice baths in the morning.
+- No movies, tv shows, or social media... or even music (due to Sadghuru-recommendation and friend-biasing).
   - Only reading, usually non-fiction or philosophical texts, and nature walks.
 - Organic grassfed grass-finished pasture-raised steak, Himalayan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage for a student with no financial safety net, a family that immigrated here without money as refugees (including me), and that New York State officially classifies the University of Rochester's salary for PhD students as being below official living wage. Noting again: three times my hair grew back on this diet, and it very noticeably expedited my brain damage recovery, and those were the reasons I had to do it (besides that same friend biasing me more towards recognizing the dietary value of eating more meat, and Mikhaila Peterson recommendation).
   - No other foods, or drinks besides water.
-- Daily walks in nature
-- Desperate attempts to still socialize every week
-- 70-hour work weeks on average, always across two labs, including usually ones where I did essentially the job of a software engineer minus the pay
+- Daily walks in nature.
+- Desperate attempts to still socialize every week.
+- 70-hour work weeks on average, always across two labs, including usually ones where I did essentially the job of a software engineer minus the pay.
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days and ~15 days, respectively, in that time period at least) and intermittent fasting (16:8, for maybe about one consecutive month) as trials (prolonged fasting gets rid of my eczema, but sometimes bad effect in terms of cognition/perception; intermittent fasting hasn't helped me), as well as prolonged fasts for religious observances such as Yom Kippur.
 
 Also, just look at my GitHubs and GitHub repositories and commit counts and even chronologies and time stamps if you really want to investigate the extent of my discipline, particularly November, 2021 - September, 2023, during which I maintained all of these disciplines without even a single day's slip. However, I largely maintained all of them through the course of my PhD, initially Paleo diet and asceticisms and meditation routine, and then the stricter versions and the other disciplines for recovering from the Med Center-induced damages. No medical leaves (breaks from these routines) due to risk of loss of student loan subsidization from that same university for which I was working and which did those medical damages. Anything else, and I get intolerable pressure from the PhD, [potentially eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md), no chance of recovery from the alopecia, and the hellfire >year from the benzo-brain damage.
