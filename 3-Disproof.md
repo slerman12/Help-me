@@ -71,7 +71,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
   - Only reading, usually non-fiction or philosophical texts, and nature walks.
 - Organic grassfed grass-finished pasture-raised steak, Himalayan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage for a student with no financial safety net, a family that immigrated here without money as refugees (including me), and that New York State officially classifies the University of Rochester's salary for PhD students as being below official living wage. Noting again: three times my hair grew back on this diet, and it very noticeably expedited my brain damage recovery, and those were the reasons I had to do it (besides a friend biasing me more towards recognizing the dietary value of eating more meat, and Mikhaila Peterson recommendation).
   - No other foods, or drinks besides water.
-- Daily walks in nature.
+- Daily walks in parks and on trails in nature.
 - Desperate attempts to still socialize every week.
 - 70-hour work weeks possibly-on-average, always across two labs, including usually ones where I did essentially the job of a software engineer minus the pay.
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days and ~15 days, respectively, in that time period at least) and intermittent fasting (16:8, for maybe about one consecutive month) as trials (prolonged fasting gets rid of my eczema, but sometimes bad effect in terms of cognition/perception; intermittent fasting hasn't helped me), as well as prolonged fasts for religious observances such as Yom Kippur.
