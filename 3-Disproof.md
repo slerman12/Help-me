@@ -80,7 +80,7 @@ Also, just look at my GitHubs and GitHub repositories and commit counts and even
 
 For a small idea of the work I did, see these [slides](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing).
 
-And see [here](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md).
+And see [here](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md) and [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md) (I was consistently on the cutting-edge of AI).
 
 ### My termination had nothing to do with my work
 
