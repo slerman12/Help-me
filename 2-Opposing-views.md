@@ -87,10 +87,10 @@ Intermission...
 ### Benzodiazepine mechanism of action
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e3dfb6de-79f6-4264-aaf5-5066efa4cf27">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/185c809a-9c0c-4252-aefb-9af425be7741">
 <picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e3dfb6de-79f6-4264-aaf5-5066efa4cf27">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e3dfb6de-79f6-4264-aaf5-5066efa4cf27">
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/185c809a-9c0c-4252-aefb-9af425be7741">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/185c809a-9c0c-4252-aefb-9af425be7741">
 </picture></a><br><i></i>
 </p>
 
