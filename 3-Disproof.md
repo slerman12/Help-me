@@ -64,7 +64,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 - Daily yoga
 - Daily Pranayama
 - Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition)
-- Early morning jogs 
+- Early morning jog
 - Daily calisthenics
 - Daily freezing cold ice baths
 - No movies, tv shows, or social media... or even music (due to Sadghuru-recommendation and friend-biasing)
