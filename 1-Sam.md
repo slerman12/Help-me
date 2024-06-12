@@ -21,6 +21,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
     - Prologue
+      - Dialogue of the Congress 1
     - Chapters
 
 - **Opposing Views**
@@ -81,7 +82,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (1) Propositions 1 or 2. 
         - (2) Proposition 3.
       - Conclusion
-      - Dialogue of the Congress
+      - Dialogue of the Congress 2
 
 - **Philosophy**
   - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
