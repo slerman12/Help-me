@@ -21,7 +21,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
 - **Sam**
   - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
     - Prologue
-      - Dialogue of the Congress 1
     - Chapters
 
 - **Opposing Views**
