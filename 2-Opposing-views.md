@@ -86,9 +86,6 @@ Intermission...
 
 ### Benzodiazepine mechanism of action
 
-<img width="1213" alt="Mechanism-of-Action-31" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-
-
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
 <picture>
