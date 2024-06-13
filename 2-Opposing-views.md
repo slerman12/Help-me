@@ -58,13 +58,11 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 ### Psychiatrists
 
-At first, it was like being drunk every day and pleasant. After a month, I was in cognitive decline. After a few months, the experience was like burning in Hell. Excruciating agony, inability to think or remember, torture from every depth of mind, cognition, and consciousness.
-
-No, that's not the beginning...
-
-Backtrack...
+This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state. I get hospitalized. They force me to take benzodiazepines. I can barely recall those days because the dosage was so high... and I was \*so high\*. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. So those days were a blur. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
+
+Damn. I'm sorry. This is too hard. 
 
 Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced and stress-inducing eczema, and social anxiety. And I remember carefully tabulating when I could take one because they reduced social anxiety. I knew they were dangerous. I warily took a quarter to a half of a milligram before, less than once per every two weeks, if that, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and mental blurriness. This was before the hospitalization, at the once at most two weeks rate. The hospital rate was beyond unprecedented for me.
 
@@ -74,7 +72,7 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 
 I'm 5'5" 110lb.
 
-That whole month I was high, except as the fog rolled in towards the end. But the chemical waterboarding only began there.
+That whole month was a “blast”, thanks (1) to Lily being there in the psychiatric ward with me and two other friends I'd made, but also because (2) I was high as “complete balls” the whole time, except as my brain's gabaminergic system caught wind and began to downregulate GABA. But the chemical waterboarding only began there.
 
 They said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one seemed to want to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
@@ -82,7 +80,9 @@ He didn't, and he was a bastard. I saw him for 6 months and don't remember his n
 
 3 months in, after reporting that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low.
 
-I can't describe this. Intermission...
+I can't describe this. 
+
+Intermission...
 
 ### Benzodiazepine mechanism of action
 
