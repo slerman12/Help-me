@@ -130,7 +130,7 @@ And most PhD students work significant overtime. I had to work 70 hr/week often.
 
 ### Slavery or impossible
 
-The demand put on me was more excessive than any other word summarizes:
+The demand put on me was more excessive than any word other than "slavery" summarizes:
 
 1. Find yet another advisor
    - The amount of work to get into Chenliang's group was huge and far from instantaneous, I had to work for free under him until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, proven a huge undertaking, and had to suddenly again in my 6th year, an unpaid work of indefinite undignifying duration forced a second time on a 6th-year student, and both advisors bailed for reasons that were their own fault.
