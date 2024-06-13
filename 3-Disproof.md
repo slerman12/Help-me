@@ -192,7 +192,7 @@ Since I had to switch advisors, and my PI Niaz agreed to be on my defense commit
 
 That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
-### Email: 10/31/2023
+### Reinstatement
 
 > [!IMPORTANT]
 > The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
@@ -217,7 +217,7 @@ Any appearance of the below email as indicating a reinstatement-condition is gas
 
 Note also: the University of Rochester's CS department doesn't have PhD "reinstatement applications." 
 
-#
+### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
