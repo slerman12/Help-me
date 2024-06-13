@@ -113,7 +113,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization
 
-> My friend Lily (not her real name), who was a 24-year-old inpatient, had sex with the 50-something janitor of the psychiatric ward, in the psychiatric ward, while drugged by the university with benzos. Hudson, they electroshocked. Jeremiah, who's always been kind and never even the slightest dangerous, was pinned down violently and tackled on a driveway by the university-hospital police officers. Mobi, was a 16-year-old drug addict who they kept hostage and made take benzos for probably longer than me. 
+> My friend Lily (not her real name), who was a 24-year-old inpatient, had sex with the 50-something janitor of the psychiatric ward, in the psychiatric ward, while drugged by the university with benzos. Hudson, they electroshocked. Jeremiah, who's always been kind and never even the slightest dangerous, was pinned down violently and tackled on a driveway by the university-hospital police officers. Mobi, was a 16-year-old drug addict who they kept institutionalizing periodically and made take benzos for probably longer than me. 
 
 Describing these events is really hard. I'm gonna try to do it in story form (at least for interpretability). I really want to do justice to the injustice, but in story form, it might not. The only way I can think to frame these events is around the context of someone I met in the hospital, Lily. She made the month there tolerable and enjoyable. Without her, like on other hospitalizations, like one where I was kept in the geriatric unit for elderly patients, the hospital environment and coercions would've been traumatic. And they were, before and after, for different reasons.
 
