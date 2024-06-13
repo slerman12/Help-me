@@ -74,7 +74,7 @@ I had to stay there for a month and they forced me to take $48\text{x}$ that dos
 
 Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{x}$ &nbsp; to &nbsp; $672\text{x}$ $-$ $168\text{x}$ increase.
 
-That whole month I was high, except as the fog rolled in towards the end. But the chemical waterboarding only began there.
+That whole month I was high, until the fog rolled in by the second week of the chemical waterboarding that only began there.
 
 They said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one seemed to want to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
