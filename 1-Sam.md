@@ -48,6 +48,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Slavery or impossible
       - Why it's fascism
       - Brand new interim committee
+      - Reinstatement
       - Email: 10/31/2023
       - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
