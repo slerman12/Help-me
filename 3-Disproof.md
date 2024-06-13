@@ -155,7 +155,7 @@ The demand put on me was more excessive than any other word summarizes:
 7. Develop another brand new research plan
 8. All of this on behalf of a brand new interim committee, people I don't know who never knew my research during my PhD prior to our one and only meeting
 10. All of this amid induced health issues and in my 6th year
-11. For less than New York State's legal living wage (University of Rochester’s PhD student stipend is below New York State’s official living wage) or no wage at all
+11. For less than New York State's living wage (University of Rochester’s PhD student stipend is below New York State’s official living wage) or no wage at all
 12. Within a one to few month timeframe
 13. No extensions unless all of this first
 14. Under the pressure that failing to do all of this will result in termination for no substantive reason other than failing to do all of this
