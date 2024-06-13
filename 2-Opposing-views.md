@@ -58,6 +58,8 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 ### Psychiatrists
 
+This is night-marish.
+
 At first, it was like being drunk every day and pleasant. After a month, I was in cognitive decline. After a few months, the experience was like burning in Hell. Excruciating agony, inability to think or remember, torture from every depth of mind, cognition, and consciousness.
 
 No, that's not the beginning...
