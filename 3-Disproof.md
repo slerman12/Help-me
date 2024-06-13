@@ -130,15 +130,7 @@ And most PhD students work significant overtime. I had to work 70 hr/week often.
 
 ### Slavery or impossible
 
-1. PhD students are employees
-2. Employees are not slaves
-3. Slaves are involuntary workers whose work has not yet been paid for - it can be paid for later via reparations
-4. To pay for full-time work requires a living wage
-5. University of Rochester’s PhD student stipend is below New York State’s official living wage
-6. Voluntary vs. involuntary is evidenced by what people would choose to do without guarantee of pay
-7. Terminating somebody for avoiding slavery is illegal, since slavery is illegal
-
-The demand put on me was more excessive than this summarizes since I was expected to:
+The demand put on me was more excessive than any other word summarizes:
 
 1. Find yet another advisor
    - The amount of work to get into Chenliang's group was huge and far from instantaneous, I had to work for free under him until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, proven a huge undertaking, and had to suddenly again in my 6th year, an unpaid work of indefinite undignifying duration forced a second time on a 6th-year student, and both advisors bailed for reasons that were their own fault.
@@ -163,7 +155,7 @@ The demand put on me was more excessive than this summarizes since I was expecte
 7. Develop another brand new research plan
 8. All of this on behalf of a brand new interim committee, people I don't know who never knew my research during my PhD prior to our one and only meeting
 10. All of this amid induced health issues and in my 6th year
-11. For less than New York State's legal living wage
+11. For less than New York State's legal living wage (University of Rochester’s PhD student stipend is below New York State’s official living wage) or no wage at all
 12. Within a one to few month timeframe
 13. No extensions unless all of this first
 14. Under the pressure that failing to do all of this will result in termination for no substantive reason other than failing to do all of this
