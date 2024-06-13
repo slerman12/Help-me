@@ -174,7 +174,7 @@ When my first advisor left, my second advisor Chenliang made me do insanely high
 
 I was expected to do that while answering for the new 6-month review brand new interim committee, brand new because multiple committee members and an advisor left with little warning and no accountability, as well as this second advisor. 
 
-I was expected to do all that while I still held onto my pay of less than the living wage in my state, and I obeyed — I even implemented the novel systems-level RL algorithm that was suggested by one of the brand new committee members, the only provided suggestion from any of them. That's a Hell of a lot of engineering work for no reason, and not the first time I had to do 6-figure salary work at the behest of departments across the University of Rochester, from the uncredited work at the Medical Center to the XRD neural modeling, distracting from my own proposed plans of research and requirements set on me.
+I was expected to do all that while I still held onto my pay of less than the living wage in my state, and I obeyed — I even implemented the novel systems-level RL algorithm that was suggested by one of the brand new interim committee members, the only provided suggestion from any of them. That's a Hell of a lot of engineering work for no reason, and not the first time I had to do 6-figure salary work at the behest of departments across the University of Rochester, from the uncredited work at the Medical Center to the XRD neural modeling, distracting from my own proposed plans of research and requirements set on me.
 
 My 6th-year advisor decided to leave. So I suggested two faculty, asked one personally, and emailed four others, and was rejected or ignored. 
 
