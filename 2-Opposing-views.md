@@ -86,11 +86,14 @@ Intermission...
 
 ### Benzodiazepine mechanism of action
 
+<img width="1213" alt="Mechanism-of-Action-31" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+
+
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/370c1f21-9c8e-4872-bfe1-c947ed647177">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
 <picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/370c1f21-9c8e-4872-bfe1-c947ed647177">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/370c1f21-9c8e-4872-bfe1-c947ed647177">
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
 </picture></a><br><i></i>
 </p>
 
