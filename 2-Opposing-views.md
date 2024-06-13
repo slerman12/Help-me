@@ -66,7 +66,7 @@ No, that's not the beginning...
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state. I get hospitalized. They force me to take benzodiazepines. I can barely recall those days because the dosage was so high... and I was \*so high\*. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. So those days were a blur. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
 
-Damn. I'm sorry. This is too hard. 
+Damn. I'm sorry. This is hard. 
 
 Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for [stress-induced eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md), and social anxiety. And I remember carefully tabulating when I could take one, but I only took them rarely, mostly for social events. I knew they were dangerous. I warily took a quarter to a half of a milligram before, less than once per every two weeks, if that much, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and my cognition feeling blurred. This was before the hospitalization, at the once at most every two weeks rate. The hospital rate was beyond unprecedented for me, a 5'5" 110lb guy.
 
