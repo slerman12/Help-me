@@ -27,13 +27,13 @@ Here's a personal story, since I was fixated with Taoism at the time:
 
 To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
 
-The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness", as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: “Difficulty at the beginning” (as Richard Wilhelm described: “The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.”) $\rightarrow$ (changes to) “Fellowship with man” (e.g., baldness). That answer about whether my hair’d grow back came true with the all-steak diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could “sprout” out of the earth, my head, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
+The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness", as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: “Difficulty at the beginning” (as Richard Wilhelm described: “The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.”) $\rightarrow$ (changes to) “Fellowship with man” (e.g., baldness). That answer about whether my hair’d grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could “sprout” out of the earth, my head, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
 
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
 
-Another time I did the all-steak diet, my pubic hair grew back — temporarily.
+Another time I did the steak-only diet, my pubic hair grew back — temporarily.
 
-Another time I did the all-steak diet, a few eyelashes grew back for the first time. 
+Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
 That can’t be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
@@ -53,16 +53,18 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
-- **University-hospital police officers**
 - **University psychiatric ward janitor**
+- **University-hospital police officers**
 
 ### Psychiatrists
 
-This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
+At first, it was like being drunk every day and pleasant. After a month, I was in cognitive decline. After a few months, the experience was like burning in Hell. Excruciating agony, inability to think or remember, torture from every depth of mind, cognition, and consciousness.
+
+No, that's not the beginning...
+
+Backtrack...
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state. I get hospitalized. They force me to take benzodiazepines. I can barely recall those days because the dosage was so high... and I was \*so high\*. Benzos are potent medications that have alcohol-like effects and even an alcohol-like mechanism of action. So those days were a blur. But the thing with benzos is, the longer you take them, the more your brain downregulates. Because your brain knows they're poison, so your brain catches all the fancy GABA explosions and goes, "hmm, no something's wrong..." and its system-wide neurons stop producing GABA, the neurotransmitter that's 1/2 of the two primary chemical messengers in your brain.
-
-Damn. I'm sorry. This is too hard. 
 
 Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced and stress-inducing eczema, and social anxiety. And I remember carefully tabulating when I could take one because they reduced social anxiety. I knew they were dangerous. I warily took a quarter to a half of a milligram before, less than once per every two weeks, if that, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and mental blurriness. This was before the hospitalization, at the once at most two weeks rate. The hospital rate was beyond unprecedented for me.
 
@@ -72,7 +74,7 @@ Accounting for dosage *and* rate, that’s a minimum $336\text{x}$ $-$ $84\text{
 
 I'm 5'5" 110lb.
 
-That whole month was a “blast”, thanks (1) to Lily being there in the psychiatric ward with me and two other friends I'd made, but also because (2) I was high as “complete balls” the whole time, except as my brain's gabaminergic system caught wind and began to downregulate GABA. But the chemical waterboarding only began there.
+That whole month I was high, except as the fog rolled in towards the end. But the chemical waterboarding only began there.
 
 They said they'd wean me off before I was discharged, but changed their minds. Perhaps they saw how different the drugs made my personality and made the mistake of thinking they were treating the underlying root of something. There were two psychiatrists. The first one seemed to want to wean me off. The second one, I don't remember her name because I don't remember most names from that metaphorical airplane flight, was a tall Asian woman and she changed the first psychiatrist's decision last-minute and said the outpatient doctor would wean me off after the hospitalization, though they did gradually reduce the dose.
 
@@ -80,9 +82,7 @@ He didn't, and he was a bastard. I saw him for 6 months and don't remember his n
 
 3 months in, after reporting that I was brain damaged, he didn't believe me and wanted to increase the dose. I begged him to taper, and he thought if I was having all those negative symptoms, that the dose must've been too low.
 
-I can't describe this. 
-
-Intermission...
+I can't describe this. Intermission...
 
 ### Benzodiazepine mechanism of action
 
@@ -113,7 +113,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization
 
-> TLDR: I describe Mobi, a 16 year old who they kept hostage and made take benzos for probably longer than I did, Hudson who they electroshocked, Jeremiah a kind guy who was never even the slightest violent who the university-hospital police officers tackled and pinned down violently on a driveway, and Lily (not real name), a 24 year old who had sex with a 50-something janitor in the university psychiatric ward.
+> My friend Lily (not her real name), who was a 24-year-old inpatient, had sex with the 50-something janitor of the psychiatric ward, in the psychiatric ward, while drugged by the university with benzos. Hudson, they electroshocked. Jeremiah, who's always been kind and never even the slightest dangerous, was pinned down violently and tackled on a driveway by the university-hospital police officers. Mobi, was a 16-year-old drug addict who they kept hostage and made take benzos for probably longer than me. 
 
 Describing these events is really hard. I'm gonna try to do it in story form (at least for interpretability). I really want to do justice to the injustice, but in story form, it might not. The only way I can think to frame these events is around the context of someone I met in the hospital, Lily. She made the month there tolerable and enjoyable. Without her, like on other hospitalizations, like one where I was kept in the geriatric unit for elderly patients, the hospital environment and coercions would've been traumatic. And they were, before and after, for different reasons.
 
