@@ -27,7 +27,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
 
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
-    - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers, University psychiatric ward janitor)
+    - Part 2 (University-hospital psychiatrists, University outpatient doctor, University psychiatric ward janitor, University-hospital police officers)
       - Psychiatrists
       - Benzodiazepine mechanism of action
       - Hospitalization
