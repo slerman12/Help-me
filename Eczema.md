@@ -18,7 +18,7 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 #
 
-**Note: All of these wounds were after my termination, as I fought my literal consciousness and linguistics to write Broken Wisdoms, through lessening but severe trauma re-visitted, the most intense of which, perhaps surprisingly (amid alopecia and benzo-hellfire brain damage), being that inflicted from the administrator who terminated me (maybe due to his cold execution of policy, maybe due to his false reasons, maybe due to recency, maybe due to his being the hardest of the injustices to communicate, beleivably, were equally proportionate injustices).**
+**Note: All of these wounds were after my termination, as I fought my literal consciousness and linguistics to write Broken Wisdoms, through lessening but severe trauma re-visitted, the most intense of which, perhaps surprisingly (amid alopecia and benzo-hellfire brain damage), being that inflicted from the administrator who terminated me (maybe due to his cold assertion or claimed prioritization of policy, maybe due to his false reasons, maybe due to recency, maybe due to his being the hardest of the injustices to communicate, beleivably, were equally proportionate injustices).**
 
 <img width="30%" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f">
 
