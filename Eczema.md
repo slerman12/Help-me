@@ -48,7 +48,7 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 ### Blood (summary)
 
-This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that create this skin's system-wide organism disruption.
+Their fascism and ruling practices, which can be reformed, are a source cause of the body's system-wide organism disruptions.
 
 That is, causally, I would not have these wounds and gashes, and would not have had these wounds and gashes in the years that I did if not for the systemic policies of education and medical systems. I was born into persecution, stress, and economic disparity, and the former systems (education and medical) preserved and perpetuated those disorders.
 
