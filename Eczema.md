@@ -60,13 +60,12 @@ That is, causally, I would not have these wounds and gashes, and would not have 
 
 I think something about this might be unconvincing to administrators with no human perspective.
 
-Maybe imagine a person regularly having to crawl to get to the bathroom, as I did, because that person can't unbend their arms and legs, eyes subconsciously squinting with pain, intense pain and itching on every corner of their body, and the body-wide stinging burn if they take a shower. This is a description of me, serving my teachers or employers at the University of Rochester because I had to, by their authority, debug data-cleaning software that I never got credit for, for example, or meet arbitrary requirements to satisfy the slow-to-correct judgements of often-unintelligent faculty.
+Maybe imagine a person regularly having to crawl to get to the bathroom, as I did, because that person can't unbend their arms and legs, eyes subconsciously squinting with pain, intense pain and itching on every corner of their body, and the body-wide stinging burn if they take a shower. This is a description of me, serving my teachers or employers at the University of Rochester because I had to, by their authority, debug data-cleaning software that I never got credit for, for example, or meet arbitrary requirements to satisfy the slow-to-correct judgements of unintelligent faculty.
 
-This was the price I regularly paid to do some soulless debugging work that I never got credit for for them that served no purpose (and the work in question is huge in most cases).
+This was the price I regularly paid to do some soulless debugging work that I never got credit for for them that served no purpose.
 
 The severity shown also isn’t the full height of my eczema, nor how widespread it gets (not shown: the severity that appears on my neck, under-arms, and under-knees that literally physically-cripples me for weeks or months at a time).
-
-In other words, the shown gashes are **FAR** from the full severity that I regularly had to work through, through pure willpower, during my PhD.
+- The shown gashes are **FAR** from the full severity that I regularly had to work through, through pure willpower, during my PhD.
 
 ### Ever better (resolution)
 
