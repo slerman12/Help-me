@@ -6,7 +6,7 @@ Possibly, as a heuristic for the evolutionary process of change towards a more r
 
 $$
 \begin{align}
-{\color{red}\theta_{t+1} = \nabla_{\theta_t} A\log(\pi_{\theta_t}(s)) + \theta_t}, \quad\quad \text{(Policy gradient equation in deep reinforcement learning)}
+{\color{red}\theta_{t+1} = \nabla_{\theta_t} \ \mathcal{A}\log(\pi_{\theta_t}(s)) + \theta_t}, \quad\quad \text{(Policy gradient equation in deep reinforcement learning)}
 \end{align}
 $$
 
@@ -73,7 +73,7 @@ The severity shown also isn’t the full height of my eczema, nor how widespread
 
 $$
 \begin{align}
-{\color{red}\theta_{t+1} = \nabla_{\theta_t} A\log(\pi_{\theta_t}(s)) + \theta_t}
+{\color{red}\theta_{t+1} = \nabla_{\theta_t} \ \mathcal{A}\log(\pi_{\theta_t}(s)) + \theta_t}
 \end{align}
 $$
 
