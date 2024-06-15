@@ -2,7 +2,7 @@
 
 The universe is filled with the blood of people undeserving its red slash. What if this universe had parameters — let’s say neurons and synaptic connections — by which it could optimize? How would those parameters change as those neurons, all connected by dendrites within a single universe brain, bled at each other’s epilepsies, hemorrhages and structural or neurological damages, shared or unheard memories, coercive interventions, and excitations and inhibitions from the thresholded spikes of membrane potentials distributed within and across each neuron, cortical column, hemisphere, cortex, and the grey matter and nerves of all that is known in the larger cosmic-biological body?
 
-Possibly, as a heuristic for the evolutionary process of change towards a more rewarding qualia, something akin to a policy gradient equation in deep reinforcement learning can be allegorically used as reference:
+Possibly, as a heuristic for the evolutionary process of change towards a more rewarding qualia, something akin to a ["policy gradient"](http://www.scholarpedia.org/article/Policy_gradient_methods) equation in deep reinforcement learning can be allegorically used as reference:
 
 $$
 \begin{align}
