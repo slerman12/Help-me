@@ -65,7 +65,7 @@ This was the price I regularly paid to do some soulless debugging work that I ne
 The severity shown also isn’t the full height of my eczema, nor how widespread it gets (e.g., my neck, face, and full torso).
 - The shown gashes are **FAR** from the full severity that I regularly had to work through, through pure willpower, during my PhD.
 
-### Ever better
+### Ever better (resolution)
 
 > "The arc of the moral universe is long, but it bends toward justice.” - Martin Luther King, Jr.
 
