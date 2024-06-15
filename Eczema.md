@@ -54,7 +54,7 @@ I’ve suffered bouts like this all my life, since I was 1-month old. It’s lar
 
 Their fascism and ruling practices, which can be reformed, are a source cause of the body's system-wide organism disruptions.
 
-That is, causally, I would not have these wounds and gashes, and would not have had these wounds and gashes in the years that I did if not for the systemic policies of education and medical systems. I was born into persecution, stress, and economic disparity, and the former systems (education and medical) preserved and perpetuated those disorders.
+That is, causally, I would not have these wounds and gashes, and would not have had these wounds and gashes in the years that I did if not for the systemic policies of education, research, and medical systems. I was born into persecution, stress, and economic disparity, and the former systems ("education", "research", and "medical") preserved and perpetuated those disorders.
 
 I think something about this might be unconvincing to administrators with no human perspective.
 
