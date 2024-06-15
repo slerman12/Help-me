@@ -44,7 +44,9 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 <img width="30%" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/808239ba-c6f8-4096-9a2a-3cc1bf425c4b">
 
-## Blood
+## Resolution
+
+### Blood
 
 This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that create this skin's system-wide organism disruption.
 
@@ -59,11 +61,11 @@ This was the price I regularly paid to do some soulless debugging work that I ne
 The severity shown also isn’t the full height of my eczema, nor how widespread it gets (e.g., my neck, face, and full torso).
 - The shown gashes are **FAR** from the full severity that I regularly had to work through, through pure willpower, during my PhD.
 
-## Towards Ever Better - Policy Gradient
+### Lab animals
 
 I’ve suffered bouts like this all my life, since I was 1-month old. It’s largely stress-induced. Nothing induces it more than prolonged stress periods, especially when heavy debugging is involved. Much of the heavy debugging I did was done out of coercion on behalf of exterior labs, putting me in software-engineer roles, as a PhD student doing orthogonal research, as happened both in the Med Center and the Mechanical Engineering labs, though I made the best of both for my research directions, and my funding depended that I obey their engineering demands in addition to stated PhD requirements. For that reason, the research institution of the University of Rochester, not just education and medical, is guilty for actual, human (not lab-animal, though the distinction might be negligible to their existing policy parameters) bloodshed.
 
-## Resolution
+### Ever better
 
 > "The arc of the moral universe is long, but it bends toward justice.” - Martin Luther King, Jr.
 
