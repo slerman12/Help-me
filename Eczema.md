@@ -73,7 +73,7 @@ $$
 \end{align}
 $$
 
-The symbol on the whiteboard, I would propose, can represent healing, healing from within the education, research, and medical systems like the University of Rochester, as those systems change towards "ever better," mathematically. Let this ["policy gradient"](http://www.scholarpedia.org/article/Policy_gradient_methods) symbolize the optimization of a purpose — objective or teleology — towards which a maximum metric of "good" can be realized "ever better." “Ever better” is the University of Rochester’s school motto — either their motto or policy need optimizing.
+The symbol on the whiteboard, I would propose, can represent healing, healing from within the education, research, and medical systems like the University of Rochester, as those systems change towards "ever better," mathematically. Let this ["policy gradient"](http://www.scholarpedia.org/article/Policy_gradient_methods) symbolize the optimization of a purpose — objective or teleology — towards which a maximum metric of "good" can be realized — "ever better." “Ever better” is the University of Rochester’s school motto — either their motto or policy need optimizing.
 
 <img width="20%" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/167a5106-17a8-4c09-a3aa-1b40604c453c">
 
