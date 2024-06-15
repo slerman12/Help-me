@@ -64,7 +64,7 @@ Maybe imagine a person regularly having to crawl to get to the bathroom, as I di
 
 This was the price I regularly paid to do some soulless debugging work that I never got credit for for them that served no purpose (and the work in question is huge in most cases).
 
-The severity shown also isn’t the full height of my eczema, nor how widespread it gets (not shown: the severity that appears on my neck, under-arms, and under-knees that literally cripples me for weeks or months at a time).
+The severity shown also isn’t the full height of my eczema, nor how widespread it gets (not shown: the severity that appears on my neck, under-arms, and under-knees that literally physically-cripples me for weeks or months at a time).
 - The shown gashes are **FAR** from the full severity that I regularly had to work through, through pure willpower, during my PhD.
 
 ### Ever better (resolution)
