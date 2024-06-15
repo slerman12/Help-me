@@ -12,7 +12,7 @@ $$
 
 What if those parameters depended on the small sometimes-seemingly-innocent policies that one, one's colleagues, and one's bosses have the power to change (take the gradient of and update) for the purpose of an objective bigger than any system, deep in the minds and hearts of people who live enslaved to them?
 
-## Recent Battle Wounds as I Fight Alone Towards Ever Better
+## Recent Battle Wounds as I Fight Alone Towards My Ever Better
 
 Click [here](#resolution) to skip to the summary/resolution.
 
