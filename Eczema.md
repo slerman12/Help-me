@@ -50,7 +50,7 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 I’ve suffered bouts like this all my life, since I was 1-month old. It’s largely stress-induced. Nothing induces it more than prolonged stress periods, especially when heavy debugging is involved. Much of the heavy debugging I did was done out of coercion on behalf of exterior labs, putting me in software-engineer roles, as a PhD student doing orthogonal research, as happened both in the Med Center and the Mechanical Engineering labs, though I made the best of both for my research directions, and my funding depended that I obey their engineering demands in addition to stated PhD requirements. For that reason, the research institution of the University of Rochester, not just education and medical, is guilty for actual, human (not lab-animal, though the distinction might be negligible to their existing policy parameters) bloodshed.
 
-### Blood (summary)
+### Yes, bloodshed (summary)
 
 Their fascism and ruling practices, which can be reformed, are a source cause of the body's system-wide organism disruptions.
 
