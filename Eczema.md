@@ -46,7 +46,7 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 ## Resolution
 
-### Blood
+### Blood (summary)
 
 This blood is on their hands. Their fascism and ruling practices, which can be reformed, are the source cause of the injustice conditions that create this skin's system-wide organism disruption.
 
