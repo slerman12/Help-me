@@ -18,6 +18,8 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 #
 
+**Note: All of these wounds were after my termination as I fought my literal consciousness and linguistics to write Borken Wisdoms.**
+
 <img width="30%" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f">
 
 <img width="30%" src="https://github.com/animal-tree/BrokenWisdoms/assets/142250284/74015537-382e-4686-b751-eaedb1859d52">
