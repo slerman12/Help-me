@@ -14,7 +14,7 @@ What if those parameters depended on the small sometimes-seemingly-innocent poli
 
 ## Recent Battle Wounds as I Fight Alone Towards My Ever Better
 
-Click [here](#resolution) to skip to the summary/resolution.
+Click [here](#summaryresolution) to skip to the summary/resolution.
 
 #
 
