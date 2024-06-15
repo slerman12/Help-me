@@ -18,7 +18,7 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 #
 
-**Note: All of these wounds were after my termination, as I fought my literal consciousness and linguistics to write Broken Wisdoms.**
+**Note: All of these wounds were after my termination, as I fought my literal consciousness and linguistics to write Broken Wisdoms, through lessening but severe trauma re-visitted, the most of intense of which, perhaps surprisingly, being that inflicted from the administrator who terminated me.**
 
 <img width="30%" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a5626beb-b0fd-4862-ae9f-0b03be56e79f">
 
