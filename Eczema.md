@@ -44,7 +44,7 @@ Click [here](#resolution) to skip to the summary/resolution.
 
 <img width="30%" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/808239ba-c6f8-4096-9a2a-3cc1bf425c4b">
 
-## Resolution
+## Summary/Resolution
 
 ### Lab animals (summary)
 
