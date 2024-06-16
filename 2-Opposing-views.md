@@ -161,7 +161,7 @@ Laying on the couch for a year, immobilized, shaking with excruciating agony. No
 
 That Hell from the GABA downregulation didn't go away for more than a year, though the linguistics seem to want to say "for a full year" everytime I type this, even though more than a year and possibly ongoing is more accurate. Every neuron in my brain was behaving as if I was being mauled by a bear, without pause, day and night, every minute.
 
-Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off, and with their attempts to reassure me ultimately having proved to be straight-up lies, all of my predictions being right and all of their self-contradicting plans causing the Hell on me that I warned them of.
+Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off, and with their attempts to reassure me ultimately having proved to be straight-up lies, all of my predictions still holding true and evidenced by the outcome and all of their self-contradicting plans causing the Hell on me that I warned them of.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
