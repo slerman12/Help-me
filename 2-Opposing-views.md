@@ -182,6 +182,8 @@ None of this does me justice. Fuck you. I'm going to sleep.
 >
 > And I showed "Lily" the MHDPA paper in the hospital. She said she could read it. It was unusually readable. She liked it and told me about her mom's writing in a published short story collection with Stephen King. Her mom later reviewed a creative work I wrote (and with "Lily"'s permission, will probably review this — note, I'm still writing fucknuts).
 
+Oh yeah, I think the couch period was in the summer/fall after these situations, after having gotten my master's degree via passing that area exam. So yes, by the way, if the reader meets a master's student, PhD student, doctor, or doctored professor, be aware that what they're dealing with is not necessarily the authority in their field that they are attributed with all of their... haha, my words trailed off. I was gonna say synonyms of "esteem", "prestige", but my memory suddenly forgot what words I was about to say.
+
 Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off by them soon then relatively soon then at least eventually, and with their attempts to reassure me ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of their self-contradicting plans causing the Hell on me that I warned them of.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
