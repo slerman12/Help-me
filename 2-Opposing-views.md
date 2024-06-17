@@ -175,6 +175,8 @@ None of this does me justice. Fuck you. I'm going to sleep.
 > I have text conversations with my friend from that day I could add here to better convey what happened... that might make this section longer than I want but, I described it better to him than here, probably.
 >
 > Also, I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam.
+>
+> And I showed "Lily" the MHDPA paper in the hospital. She said she could read it. It was unusually readable.
 
 Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off by them soon then relatively soon then at least eventually, and with their attempts to reassure me ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of their self-contradicting plans causing the Hell on me that I warned them of.
 
