@@ -151,7 +151,6 @@ The next part of the story conveys some of my trauma, and it's the hardest to wr
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
   <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
 </picture><br><i>Modified AI-generated image via Adobe Express. 
-  <br>Prompt: "Bald kid burning alive on couch in agony in pain on fire bleeding."
 <br>To do: Find a better image that does me more justice.</i>
 </p>
 
