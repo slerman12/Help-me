@@ -30,6 +30,8 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 
 In progress: structure like this:
 
+Can include NSF GRFP documents.
+
 ### Disease Prediction
 **2016 - 2020**
 
