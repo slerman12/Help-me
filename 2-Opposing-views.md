@@ -169,6 +169,8 @@ None of this does me justice. Fuck you. I'm going to sleep.
 
 > [!NOTE]
 > This still doesn't do me justice. Fuck all of you. Write this yourselves and go to Hell.
+>
+> Also, that was the only time in my life I ever took a high dose of benzos by choice, on purpose, and it was during the severe withdrawal, not by choice, though — given that I still had to present in fornt of the fuck-morons — on purpose.
 
 Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off by them soon then relatively soon then at least eventually, and with their attempts to reassure me ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of their self-contradicting plans causing the Hell on me that I warned them of.
 
