@@ -167,6 +167,7 @@ None of this does me justice. Fuck you. I'm going to sleep.
 > 
 > That was all after I'd innovated on MHDPA, the method underlying ChatGPT, 7 years ago, with fully implemented and novel code in hand (from scratch, since that was still Tensorflow 1.0 days and no one was using Pytorch fucknuts), and wrote a paper, just before and in the hospital, finishing the final — successful — experiments for that paper from the hospital because they allowed my mom to bring in my laptop after some insistence due to me being the only one at the time in the entire University of Rochester who heard of MHDPA.
 
+> [!NOTE]
 > This still doesn't do me justice. Fuck all of you. Write this yourselves and go to Hell.
 
 Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off by them soon then relatively soon then at least eventually, and with their attempts to reassure me ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of their self-contradicting plans causing the Hell on me that I warned them of.
