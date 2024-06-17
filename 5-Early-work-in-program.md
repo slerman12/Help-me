@@ -27,3 +27,19 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 > I also proposed these [bio-inspired neurons]( https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) to my semantic parsing class in 2018, to Henry, and again to Chenliang later. But, no one other than me particularly took an interest, despite the extremely original, intuitive formulation.
 
 > TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, how that is still relevant via leveraging foundation model memory, and all the work I did at the medical center that I conveniently excluded here.
+
+In progress: structure like this:
+
+### Disease Prediction
+**2016 - 2020**
+
+### Persistent Biologically-Inspired RNN Cell 
+**2018**
+
+### Long-Term Memory
+**2018 - today**
+
+### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
+**2018**
+
+
