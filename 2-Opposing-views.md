@@ -176,7 +176,7 @@ None of this does me justice. Fuck you. I'm going to sleep.
 >
 > Also, I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam.
 >
-> And I showed "Lily" the MHDPA paper in the hospital. She said she could read it. It was unusually readable.
+> And I showed "Lily" the MHDPA paper in the hospital. She said she could read it. It was unusually readable. She liked it and told me baout her mom's writing in a published short story collection with Stephen King.
 
 Not to mention the paranoia and distrust permanently sowed into me from undergoing coercion, repeatedly being told I was going to be weaned off by them soon then relatively soon then at least eventually, and with their attempts to reassure me ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of their self-contradicting plans causing the Hell on me that I warned them of.
 
