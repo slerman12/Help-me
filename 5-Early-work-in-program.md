@@ -28,9 +28,9 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 
 > TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, how that is still relevant via leveraging foundation model memory, and all the work I did at the medical center that I conveniently excluded here.
 
-In progress: structure like this:
-
 Can include NSF GRFP documents.
+
+In progress: structure like this, and actually elaborate on the enormous work done:
 
 ### Disease Prediction
 **2016 - 2020**
