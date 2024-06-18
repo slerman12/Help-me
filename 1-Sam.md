@@ -33,9 +33,17 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Hospitalization
       - My... trauma
     - Part 3 (University PhD advisors, University PhD committee members, University graduate administrator and Deans)
+      - Charles Venuto
+      - Henry Kautz
+      - Chenliang Xu
+      - Niaz Abdolrahim
+      - Chris Kanan
+      - Tom Howard
+      - Charles Venuto
+      - Michael L. Scott 
       - The University of Rochester
     - Additional details for part 1
-    - Additional details for part 3
+    - Additional details for part 2
   - [Disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
     - Part 4
       - Email: 10/27/2023
@@ -48,7 +56,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Slavery or impossible
       - Why it's fascism
       - Brand new interim committee
-      - Reinstatement
       - Email: 10/31/2023
       - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
@@ -59,6 +66,10 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Synchronicities
       - Deus ex memory
       - Timing of benzodiazepine coercion diagram
+      - "Sam Altman" same-time termination, OpenAI's Q* project
+      - "Life ruined" post
+      - Mikhaila Peterson steak-only diet concurrent recommendation
+      - Jordan Peterson's sensationalized Benzo-brain damage timing
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
       - Part 6
