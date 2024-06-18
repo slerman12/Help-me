@@ -358,7 +358,12 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 ### Tom Howard
 
 <p align="center">
-<img width="380" alt="Screenshot 2024-05-13 at 7 36 05 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e7259bb0-e3aa-4c46-a46e-0bf94739938a">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/289bba76-2a47-4db4-afc1-47d047ff7c18">
+ <picture>
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7da76156-e6d7-4037-ae05-791a37547af1">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/289bba76-2a47-4db4-afc1-47d047ff7c18">
+</picture>
+</a>
 </p>
 
 The independent-room discussion reasonably marked the end of my portion of the meeting, or so I thought. However, after the independent-room discussion, we kept talking, I left, and Chenliang later told me that the committee members thought I dropped the line early. That was a misunderstanding. I really thought the meeting was over since they conveyed everything I had to do next, or at least that they were going to in that discussion. At the very, very end of the discussion, one of the committee members, Tom Howard, said, “I just want to add, I think it’s important.” I actually in my sleep deprivation thought he meant my work (I know he probably meant the chapter-list), so I did a sincere and prolonged “bless you” sign with my hands in the silence and left. I know that this is the least believable part. Chenliang knew I hadn’t slept that whole night, due to insomnia and maybe-nervousness, and I mentioned that I "didn't sleep all night" during the meeting to which I think Tom Howard off-handedly, maybe-non-noticedly said "I know," before resuming his point. 
