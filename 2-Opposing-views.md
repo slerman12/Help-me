@@ -383,7 +383,7 @@ But afterwards, I got an email — I think from Chenliang and perhaps from the g
 
 It's ironic that I'm being asked for remediation.
 
-I don't know who decided these extra requirements, if it was the CS chair Michael Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
+I don't know who decided these extra requirements, if it was the CS chair Michael L. Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
 
 I delivered a 6-page write up, as well as a chapter-list, as well as a 1-page write up summary in the 6-page write up, meeting all the requirements of 1 for this brand new interim committee that effectively never met me. 
 
