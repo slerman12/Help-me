@@ -286,6 +286,14 @@ For context, Henry's average was 1 - 3 across the PhD student's full tenure.
 
 There were further terrors at the University of Rochester Medical Center that I don't want to get into under Chenliang's tenure (one of the easier ones to point out, that happened in the geriatric unit one, was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring). 
 
+### Niaz Abdolrahim
+
+I was transferred to the Mechanical Engineering department.
+
+> in progress
+
+### Chris Kanan
+
 <p align="center">
 <img width="440" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7111bac8-509d-4458-a8b9-1f6912ceaedf">
 </p>
