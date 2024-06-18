@@ -276,7 +276,7 @@ Concurrent with this, while I was still in withdrawal from the benzodiazepines a
 
 Because I was on the steak-only diet and working from dawn to night, I was able to do it.
 
-However, I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend months giving my nights and weekends to achieving this.
+However, I had to work at the Med Center concurrently for funding, since Chenliang wasn't paying me, and had to spend months giving my nights and weekends to achieving this, while still reporting to him and his lab every week.
 
 In defense of Chenliang: he eventually accepted me into his lab (when I succesfully delivered that [paper](https://arxiv.org/abs/2006.08601)), and stayed uneventfully nice throughout the time, while not expressing judgement towards my social anxiety. He sometimes had a good understanding of AI, better than others at the university. His spirit, sometimes, felt extraordinarily supportive. He contradictorily wanted efficiency with somewhat respecting my slower publication pace while I built UnifiedML, and I believed he fully knew that I was intelligent enough to warrant investing faith in. While 2 publications in 3 years is (I think) less than his average student, that was, however, his only reason for terminating me when I was in my sixth year, three years later, an average number of publications.
 
