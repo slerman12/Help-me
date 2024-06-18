@@ -288,7 +288,7 @@ There were further terrors at the University of Rochester Medical Center that I 
 
 ### Niaz Abdolrahim
 
-I was transferred to the Mechanical Engineering department.
+I was transferred to the Mechanical Engineering department. It was there, while working under Chenliang (who symbollically led the deep learning side of the work, with me leading the deep learning side of the work) and Niaz (who was a great PI) that Chenliang informed me I didn't have enough papers, while in the middle of paper-review for a paper with really positive reviews, and he would be deserting as my advisor.
 
 > in progress
 
