@@ -177,10 +177,10 @@ Did I mention these were University of Rochester *psychiatrists*? Okay good, jus
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/82668373-27d1-4e94-b2db-35b1d0b2694b">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f86295df-e11a-42a8-a6a7-d4f948d13060">
  <picture>
-   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/82668373-27d1-4e94-b2db-35b1d0b2694b">
-   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/82668373-27d1-4e94-b2db-35b1d0b2694b">
+   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f86295df-e11a-42a8-a6a7-d4f948d13060">
+   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f86295df-e11a-42a8-a6a7-d4f948d13060">
 </picture>
 </a>
 </p>
@@ -197,11 +197,67 @@ In America, my mom found a low-paying piano teaching job, and got a second degre
 
 Well, thanks to her and my doctoral advisor, Henry.
 
-> This section is still in progress.
+My family moved to the United States as Jewish refugees from the Republic of Uzbekistan when I was four. I faced many challenges: assimilating to American culture, learning English, living in a small apartment with a single mother, poverty, and processing the loss of my grandparents. On one hand, I understand the burden of poverty and the struggle of being an immigrant. Academically, this means being passionate and dedicated; socially, being open minded towards people of different backgrounds. On the other hand, however, I consider myself to be privileged. My mother is the embodiment of compassion. Material wealth is worthless without meaningful relationships, and disadvantaged conditions are made rich with love. 
+
+My mother raised me to understand the importance of looking at the world from another's perspective. As one cannot understand others without first understanding oneself, I have always sought to explore my mind. To me, artificial intelligence is an extension of the rigorous self-analysis I've been doing my entire life. Designing an intelligent machine not only requires an understanding of mathematics and computer science, but also of humanity and of motivation — and this understanding is afforded to me by the empathy I have for others and by the exploration of my consciousness. Not only can I connect the study of intelligence to my lifelong curiosity around the mystery of life, but I can realize these great technologies to affect the world in profoundly positive and meaningful ways. My aspiration in my career was to solve general intelligence, and have a voice in ensuring that it is used in the interest of every living thing.	
+ 
+I joined the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. It was an honor to be entrusted with leading the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?" 
+
+### Charles Venuto
 
 <p align="center">
-<img width="320" alt="Screenshot 2024-03-12 at 8 08 29 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/38c120aa-7b20-4c91-a302-7fad96b52d06">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
+ <picture>
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/548171ea-f5e3-42ec-81a1-4338c8d633c7">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
+</picture>
+</a>
 </p>
+
+Henry recommended me to the position at the Med Center for doing disease modeling, while I was still an undergrad, predating all of this, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. “Neurodegenerative” means when the brain degenerates, for example, by chemical floodbaths of GABA and severe downregulation.
+
+Perhaps Charles or some of his colleagues may find the [above diagram](#benzodiazepine-mechanism-of-action) valuable in their work.
+
+The work I did at the Med Center earned me a recommendation back to Henry Kautz. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, he accepted me into his group as a doctoral student.
+
+While I was working and researching under Charles, I had built a [disease prognostication machine learning model](https://github.com/slerman12/DiseaseModeling) that won top-three in the Michael J. Fox Foundation for Parkinson's Research PPMI  contest, and came up with the idea of building a web app for the prognostication to give clinician's a clean, elegant interface. I had to argue a bit, and convince them, and then they let me, and, as a PhD student (about in my second year, already in benzo withdrawal), I even presented it at a conference in DC in front of reknowned researchers in the Parkinson's research field. Despite that being my idea and my [prototype](https://github.com/slerman12/DiseaseModelingWebApp), they liked it so much that they hired a web development team to build one, and since have never given me credit. They also patented it, and since have given me no proprietary rights or earnings either.
+
+### Henry Kautz
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
+ <picture>
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/56f8de95-6b94-4793-b4a2-45ddb0bfb5d9">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
+</picture>
+</a>
+</p>
+
+I'll elaborate how I passed the area exam in my second year with "flying colors,” since I haven't gotten to the fact that before my hospitalization, I was extremely ahead of every curve already. The hospitalization coincided with when I’d innovated on MHDPA, the method underlying ChatGPT, 6 years ago, with fully implemented and novel code in hand (from scratch, since that was still Tensorflow 1.0 days and no one was using Pytorch), and wrote a paper, just before and in the hospital, finishing the final — successful — experiments for that [paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) from the hospital because they allowed my mom to bring in my laptop after some insistence. I was the only one at the time in the entire University of Rochester, PhD students included, who heard of [MHDPA](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md). It’s funny, knowing them, they might forget, but, yes, in 2018, I was the only student or faculty who heard of [MHDPA](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md), seeing as almost nobody outside of DeepMind heard of [MHDPA](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) then. 
+
+And I showed "Lily" the MHDPA paper in the hospital. She said she could read it. It was unusually readable. She liked it and told me about her mom's writing in a published short story collection with Stephen King. Her mom later reviewed a creative work I wrote (and with "Lily"'s permission, will probably review this — note, I'm still writing fucknuts).
+
+After the hospitalization, it was from that couch during a video call with my advisor (who was in DC) during the peak-period of this withdrawal  that I described that biologically-inspired neuron architecture above.
+
+Besides that, I co-TA’d philosophy of consciousness with my friend, and got straight As in my grad-level classes. The semester ended around the 4 month-benzo mark, just at that precipice of brain damage.
+
+I also passed my [area exam](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing) with flying colors shortly after that semester, and the whole room felt it because I was high off of my fucking balls and presenting genius ideas simpler than they'd ever heard them, not that, in the case of ideas around MHDPA or long-term episodic memory or any other brilliant foresight at the time, they ever heard them.
+
+That was the only time in my life I ever took a high dose of benzos on purpose, and it was during the severe withdrawal, not by choice — though, given that I still had to present in front of the fuck-morons — on purpose. And rightfully, justifiably, unlike every doctor who ever coerced them on me. So yes, that might explain the "flying colors" even more than my advisor realized when he looked me proudly in the eye and told me that I passed with flying colors. Because, let me reiterate: I did.
+
+Also, I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam.
+
+At the area exam, I presented word by word as I rehearsed but with "personality colors" added due to confidence. My mom and uncle knew I was going to take a specific dose of benzos that day. That was the plan. I even rehearsed one day in front of them at a smaller dose. They also knew. That was also the plan. And, when I presented in front of the professors with confidence, they all swooned like idiots because confidence is all that determined the judgements of these top-of-the-crop professors, since they literally are too dumb to appreciate any good ideas unless colorfully presented, and usually only appreciate bad ideas, and when extremely tediously/convolutedly presented. That's usually how it goes. These are the same people who *argued* — many of whom anyway — that deep learning was a fad. None of whom heard of MHDPA. None of them had creative or original ideas by my judgement of their work over their entire careers, and I'm sorry.
+
+My advisor was Henry Kautz, and didn't think deep learning was a fad, and had a sense of intuition about ideas like the biologically-inspired neuron in the diagram above though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor, my machine vision professor from my first year, technically wasn't in the room, because he was answering the Skype call from China. He's the only person in the meeting who asked elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor, who also did and oversaw work in deep learning, from the semester just before my hospitalization) and I went back to the MHDPA slides and re-described MHDPA to all of them again, and the fact that he was the only one of them who showed interest in the most crucial part of the oncoming years of their fields, and not only my confidence, is meaningful since he became my later advisor.  
+
+Henry got an offer to lead the AI division at the National Science Foundation, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me an ultimatum about joining.
+
+Meanwhile I was working at the Med Center, so I secured my funding through that.
+
+> These sections are still in progress
+
+### Chenlaing Xu
 
 There were further terrors at the University of Rochester Medical Center that I don't want to get into (one of the easier ones to point out, that happened later, was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring). Concurrent with this, while I was still in withdrawal from the benzodiazepines and after my third year in the PhD program, I was forced to switch from being Henry Kautz's student because Henry got a prestigious position offer to direct at the NSF that he accepted. In defense of Henry, he'd already done a lot for me, and had no formal background or experience with deep learning to facilitate my research studies compared to, who he recommended, Chenliang Xu, whose lab I had to then fight to get into, with an ultimatum pressed on me to write a top-venue paper, from scratch, by the end of that summer for him or be rejected advisor-less from the PhD program.
 
