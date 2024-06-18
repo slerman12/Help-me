@@ -245,7 +245,7 @@ After the hospitalization, it was from that couch during a video call with my ad
 
 Besides that, I co-TA’d philosophy of consciousness with my friend, and got straight As in my grad-level classes. The semester ended around the 4 month-benzo mark, just at that precipice of brain damage.
 
-I also passed my [area exam](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing) with flying colors shortly after that semester, and the whole room felt it because I was high off of my fucking balls and presenting genius ideas simpler than they'd ever heard them, not that, in the case of ideas around MHDPA or long-term episodic memory or any other brilliant foresight at the time, they ever heard them.
+I also passed my [area exam](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing) with flying colors shortly after that semester, mid-brain damage, and the whole room felt it because I was high off of my fucking balls and presenting genius ideas simpler than they'd ever heard them, not that, in the case of ideas around MHDPA or long-term episodic memory or any other brilliant foresight at the time, they ever heard them.
 
 That was the only time in my life I ever took a high dose of benzos on purpose, and it was during the severe withdrawal, not by choice — though, given that I still had to present in front of the fuck-morons — on purpose. And rightfully, justifiably, unlike every doctor who ever coerced them on me. So yes, that might explain the "flying colors" even more than my advisor realized when he looked me proudly in the eye and told me that I passed with flying colors. Because, let me reiterate: I did.
 
