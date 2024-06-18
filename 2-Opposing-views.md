@@ -288,6 +288,15 @@ There were further terrors at the University of Rochester Medical Center that I 
 
 ### Niaz Abdolrahim
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
+ <picture>
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/18d7f4f7-cce6-406b-8de3-85f5b5c05227">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
+</picture>
+</a>
+</p>
+
 I was transferred to the Mechanical Engineering department. It was there, while working under Chenliang (who symbollically led the deep learning side of the work, with me leading the deep learning side of the work) and Niaz (who was a great PI) that Chenliang informed me I didn't have enough papers, while in the middle of paper-review for a paper with really positive reviews, and he would be deserting as my advisor.
 
 I asked if Niaz could be my advisor, and she said transfering to the Mechanical Engineering department — formally — is hard and that it was unlikely.
