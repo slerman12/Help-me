@@ -247,7 +247,7 @@ Besides that, I co-TA’d philosophy of consciousness with my friend, and got st
 
 I also passed my [area exam](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing) with flying colors shortly after that semester, mid-brain damage, and the whole room felt it because I was high off of my fucking balls and presenting genius ideas simpler than they'd ever heard them, not that, in the case of ideas around MHDPA or long-term episodic memory or any other brilliant foresight at the time, they ever heard them.
 
-That was the only time in my life I ever took a high dose of benzos on purpose, and it was during the severe withdrawal, not by choice — though, given that I still had to present in front of the fuck-morons — on purpose. And rightfully, justifiably, unlike every doctor who ever coerced them on me. So yes, that might explain the "flying colors" even more than my advisor realized when he looked me proudly in the eye and told me that I passed with flying colors. Because, let me reiterate: I did.
+That was the only time in my life I ever took a high dose of benzos on purpose, and it was during the severe withdrawal, not by choice — though, given that I still had to present in front of the fuck-morons — on purpose. And rightfully, justifiably, unlike every doctor who ever coerced them on me. So yes, that might explain the "flying colors" even more than my advisor (who I would not call a fuck-moron) realized when he looked me proudly in the eye and told me that I passed with flying colors. Because, let me reiterate: I did.
 
 Also, I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam.
 
