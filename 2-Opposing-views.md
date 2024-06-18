@@ -472,7 +472,7 @@ This might sound dire, but I actually [disproved all of their alleged reasons](h
 ## Additional details for part 2
 
 1. TO DO: See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
-2. TO DO: Add how Aetna (the University-provided health insurance) did it again, with a photo/chapter of the huge bills they suddenly started sending me 10 months into therapy for my psychologist.
+2. TO DO: Add how Aetna (the University-provided health insurance) did it again, with a photo of the huge bills they suddenly started sending me 10 months into therapy for my psychologist.
 
 ## Additional details for part 3
 
