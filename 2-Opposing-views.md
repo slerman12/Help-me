@@ -379,7 +379,7 @@ But afterwards, I got an email — I think from Chenliang and perhaps from the g
 >
 > 1. ﻿﻿before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters,
 > 2. ﻿﻿﻿before August 30, 2023, re-do and pass a six-month review.
-> > ### $``$
+> ### $``$
 
 I don't know who decided these extra requirements, if it was the CS chair Michael Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
 
