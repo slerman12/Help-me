@@ -414,7 +414,7 @@ Since Charles was the only person on the committee who knew me since I began the
 
 Besides 4 years in undergrad, 5 - 7 years is the average time for a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
 
-In summary, a brand new committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
+In summary, Michael L. Scott and a brand new interim committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
 
 ### Michael L. Scott
 
