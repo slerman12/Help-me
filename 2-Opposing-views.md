@@ -366,7 +366,28 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 </a>
 </p>
 
-The independent-room discussion reasonably marked the end of my portion of the meeting, or so I thought. However, after the independent-room discussion, we kept talking, I left, and Chenliang later told me that the committee members thought I dropped the line early. That was a misunderstanding. I really thought the meeting was over since they conveyed everything I had to do next, or at least that they were going to in that discussion. At the very, very end of the discussion, one of the committee members, Tom Howard, said, “I just want to add, I think it’s important.” I actually in my sleep deprivation thought he meant my work (I know he probably meant the chapter-list), so I did a sincere and prolonged “bless you” sign with my hands in the silence and left. I know that this is the least believable part. Chenliang knew I hadn’t slept that whole night, due to insomnia and maybe-nervousness, and I mentioned that I "didn't sleep all night" during the meeting to which I think Tom Howard off-handedly, maybe-non-noticedly said "I know," before resuming his point. 
+The independent-room discussion reasonably marked the end of my portion of the meeting, or so I thought. However, after the independent-room discussion, we kept talking, I left, and Chenliang later told me that the committee members thought I dropped the line early. That was a misunderstanding. I really thought the meeting was over since they conveyed everything I had to do next, or at least that they were going to in that discussion. At the very, very end of the discussion, one of the committee members, Tom Howard, said, “I just want to add, I think it’s important.” I actually in my sleep deprivation thought he meant my work (I know he probably meant the chapter-list), so I did a sincere and prolonged “bless you” sign with my hands in the silence and left. I know that this is the least believable part. Chenliang knew I hadn’t slept that whole night, due to insomnia and maybe-nervousness, and I mentioned that "I didn't sleep all night" during the meeting to which I think Tom Howard off-handedly, maybe-non-noticedly said "I know," before resuming his point. 
+
+He concluded the meeting saying “I just want to add, I think it’s important” in reference to the chapter-list, and I did a "bless you" sign with my hands, as I'd previous felt the need to do after a robotics-related pitch to Chenliang's group coincidentally, in-person in Chenliang's lab, and robotics is Tom Howard's field. That was a coincidence though. It was just a vivid moment in Chenliang's lab, with all of his students there as witness, when he agreed to buy me one of the $300 Bittle robots that I could use with the robotics software that I was building, that I did a "bless you" sign for in gratitude. I meant it in a similar way to Tom Howard, but I interpreted “I just want to add, I think it’s important” as being in reference to my research, not the chapter-list.
+
+The chapter-list was the only requirement they wanted to make in that meeting. We had the entire after-independent-room discussion and they didn't specify anything other than the chapter-list. I'm sure they weren't going to. Perhaps one of them can even confirm that nothing more than the chapter-list was discussed as extra requirement in their independent-room meeting. That was clear from context.
+
+But afterwards, I got an email — I think from Chenliang and perhaps from the graduate coordinator — specifying two altogether different requirements, with only an auxiliary mention of the chapter-list. Here they were, as apparently decided by the committee (post-hoc) after their chapter-list decision in the actual six-month review:
+
+> As remediation, the committee asks the student to
+>
+> 1. ﻿﻿before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters,
+> 2. ﻿﻿﻿before August 30, 2023, re-do and pass a six-month review.
+
+I don't know who decided these extra requirements, if it was the CS chair Michael Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
+
+I delivered a 6-page write up, as well as a chapter-list, as well as a 1-page write up summary in the 6-page write up, meeting all the requirements of 1 for this brand new interim committee that effectively never met me. 
+
+Subsequently, Chris Kanan suggested that I innovate a new reinforcement learning systems-based algorithm, which I did, as I described [above](#chris-kanan).
+
+These are enormous requirements that I met on their behalf.
+
+The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, more than a month before the six-month review make-up would-be requirement (2) that would've been **August 30, 2023**, and confirmed it by email for the rest of the committee and Michael Scott on **August 10th, 2024**. 
 
 ### Charles Venuto
 
