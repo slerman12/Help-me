@@ -425,8 +425,8 @@ In summary, Michael Scott and a brand new interim committee, who had effectively
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
  <picture>
-   <source width="35%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1fed1e45-99b4-469c-92dc-5198146b9542">
-   <img width="35%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1fed1e45-99b4-469c-92dc-5198146b9542">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
 </picture>
 </a>
 </p>
