@@ -391,7 +391,7 @@ Subsequently, Chris Kanan suggested that I innovate a new reinforcement learning
 
 These are enormous requirements that I met on their behalf.
 
-The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607)) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and confirmed it by email for the rest of the committee and Michael Scott on **August 10th, 2024**, prior to the **August 30, 2023** date of requirement (2).
+The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and confirmed it by email for the rest of the committee and Michael Scott on **August 10th, 2024**, prior to the **August 30, 2023** date of requirement (2).
 
 ### Charles Venuto
 
