@@ -32,7 +32,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Benzodiazepine mechanism of action
       - Hospitalization
       - My... trauma
-    - Part 3 (University PhD advisors, University PhD committee members, University graduate administrator and Deans)
+    - Part 3 (University PhD advisors, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
