@@ -332,6 +332,8 @@ However, that lab is the least of the work I did ([here](https://github.com/sler
 
 They Holocausted me.
 
+They Holocausted me. By whatever legal definition exists, they Holocausted me. Every lawyer agrees, that by whatever legal definition exists, they Holocausted me.
+
 In defense of the committee members who agreed on the decision, most of them didn't know me and hadn't met each other or me previously, and one of them, in a kind of *deus ex machina* (or so I thought, since that should have conclusively settled it), [mis-remembered](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md) the short 30-minute Zoom only meeting that the four of us had, on which these decisions from their end were based, as being 1.5 hours and twice. That is quite a lapse in memory. The meeting was 30 minutes, and once, as the other committee members may recall and confirm. And, the calendar invitation that that committee member, Chris Kanan, accepted, wrote: "Friday May 5, 2023 ⋅ 1pm – 1:45pm (Eastern Time - New York)" (extra lag time added). Also, I have on email to one committee member Tom Howard that we planned half an hour: "Would you be available any of the following dates for a half-hour remote 6-month review?" So, as can be easily confirmed or sufficiently evidenced, it was indeed 30 minutes with our brand new committee in which I had to summarize 6 years of work over Zoom: 20ish minutes spent on my presentation and the remaining on their independent-room discussion and concluding remarks. 
 
 <p align="center">
