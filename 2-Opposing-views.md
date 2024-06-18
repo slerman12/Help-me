@@ -455,7 +455,7 @@ His previous email read:
 
 (Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered materials).
 
-Then I delivered another full research plan, with precision and accuracy, by the specified date **10/06/2023**. 
+Then I delivered another research plan, with precision and accuracy, by the specified date **10/06/2023**. 
 
 This was the only reply I got, of **10/12/2023**:
 
