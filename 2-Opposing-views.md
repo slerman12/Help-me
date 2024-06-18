@@ -208,7 +208,7 @@ I joined the Center for Health and Technology a year into their efforts to model
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/548171ea-f5e3-42ec-81a1-4338c8d633c7">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d07991d2-3993-4775-9385-70d946fc60ce">
    <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
 </picture>
 </a>
@@ -227,7 +227,7 @@ While I was working and researching under Charles, I had built a [disease progno
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/56f8de95-6b94-4793-b4a2-45ddb0bfb5d9">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1618be9e-d693-40a1-80cf-c341467f635f">
    <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
 </picture>
 </a>
