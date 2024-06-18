@@ -358,10 +358,10 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 ### Tom Howard
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a34d9c0e-4b26-48f1-930a-b38a930f9aa8">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d7959d01-1448-405f-8065-e7cdfb237f59">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a34d9c0e-4b26-48f1-930a-b38a930f9aa8">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9edd1736-c414-4737-9a01-29b2df251b02">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
 </picture>
 </a>
 </p>
