@@ -144,6 +144,8 @@ And he was intelligent and respectful and well mannered. There is no way he shou
 
 The next part of the story conveys some of my trauma, and it's the hardest to write about. I might not... Hold on...
 
+> These chapters are still in progress:
+
 ### My... trauma
 
 <p align="center">
@@ -203,8 +205,6 @@ Prior to that, after my family moved to the United States as Jewish refugees fro
 My mother raised me to understand the importance of looking at the world from another's perspective. As one cannot understand others without first understanding oneself, I have always sought to explore my mind. To me, artificial intelligence is an extension of the rigorous self-analysis I've been doing my entire life. Designing an intelligent machine not only requires an understanding of mathematics and computer science, but also of humanity and of motivation — and this understanding is afforded to me by the empathy I have for others and by the exploration of my consciousness. Not only can I connect the study of intelligence to my lifelong curiosity around the mystery of life, but I can realize these great technologies to affect the world in profoundly positive and meaningful ways. My aspiration in my career was to solve general intelligence, and have a voice in ensuring that it is used in the interest of every living thing.	
  
 I joined the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. It was an honor to be entrusted with leading the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?" 
-
-> These chapters are still in progress:
 
 ### Charles Venuto
 
