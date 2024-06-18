@@ -192,7 +192,7 @@ Since I had to switch advisors, and my PI Niaz agreed to be on my defense commit
 
 That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
-### Reinstatement
+### Email: 10/31/2023
 
 > [!IMPORTANT]
 > The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
@@ -216,8 +216,6 @@ Support, as distinct from pay, was withdrawn long before Michael or any faculty 
 Any appearance of the below email as indicating a reinstatement-condition is gaslighting. The referent of what is mentioned is reinstatement, not a reinstatement-condition. Even if that weren't the case, "in writing" cannot be relegated as "in person" (and thereby “off the record”) unless the indicated reinstatement-condition can redefine the clause from which it's necessitated, but the PhD student handbook isn't a rewritable Turing tape (at least not ad lib), making that absurd to such a point that asserting it becomes gaslighting.
 
 Note also: the University of Rochester's CS department doesn't have PhD "reinstatement applications." 
-
-### Email: 10/31/2023
 
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
