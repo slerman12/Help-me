@@ -130,6 +130,8 @@ And most PhD students work significant overtime. I had to work 70 hr/week often.
 
 ### Slavery or impossible
 
+It might be worth to point out that they were once again threatening me to do work that they weren’t paying me for, since I was getting my funding through working for the Mechanical Engineering department, also assigned to me (and funding that I helped secure through both giving ideas for and writing parts of the grants).
+
 The demand put on me was more excessive than any word other than "slavery" summarizes:
 
 1. Find yet another advisor
