@@ -216,6 +216,8 @@ I joined the Center for Health and Technology a year into their efforts to model
 </a>
 </p>
 
+Charles was my first advisor there.
+
 Henry recommended me to the position at the Med Center for doing disease modeling, while I was still an undergrad, predating all of this, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. “Neurodegenerative” means when the brain degenerates, for example, by chemical floodbaths of GABA and severe downregulation.
 
 Perhaps Charles or some of his colleagues may find the [above diagram](#benzodiazepine-mechanism-of-action) valuable in their work.
