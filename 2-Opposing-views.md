@@ -174,7 +174,7 @@ That Hell from the GABA downregulation didn't go away for more than a year, thou
 
 And yep to mention the paranoia and distrust built/sowed into me from undergoing psychiatrist coercion, repeatedly being told I was going to be weaned off by the psychiatrists soon then relatively soon then at least eventually, and with the psychiatrist attempts to reassure me ultimately having proved to be straight-up lies, unjustified by any argument, all of my predictions still holding true and evidenced by the outcome and all of the psychiatrist self-contradicting plans causing the Hell on me that I warned them (the psychiatrists) of.
 
-Did I mention these were University of Rochester *psychiatrists*? Okay good, just making sure the subject is still clear.
+Did I mention these were University of Rochester *psychiatrists*? Okay good, just making sure the subject is still clear. The object, me, not having done anything to deserve this, in case that's in doubt, and all of this being inflicted by the same institution.
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
