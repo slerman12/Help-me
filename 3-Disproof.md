@@ -137,7 +137,7 @@ The demand put on me was more excessive than any word other than "slavery" summa
 1. Find yet another advisor
    - The amount of work to get into Chenliang's group in my 3rd year was huge and far from instantaneous, I had to work for free under him and teach myself a new field in Computer Vision, concurrently with the Med Center (working there, in order to secure funding), until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, involving an insane ultimatum, and had to suddenly again in my 6th year, an unpaid work of indefinite duration forced a second time on a 6th-year student, and both advisors bailed for reasons that were their own fault.
 3. Find new source of funding
-4. Re-take a six-month review
+4. Re-take a six-month review (before even 6 months had passed)
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
 6. According to the brand new interim six-month reviewers, effectively restart my entire research for an altogether different thesis
 7. Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by 10/06/2023, now an added independent requirement to the previously delivered materials
