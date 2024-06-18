@@ -243,7 +243,7 @@ And I showed "Lily" the MHDPA paper in the hospital. She said she could read it.
 
 After the hospitalization, it was from that couch during a video call with my advisor (who was in DC) during the peak-period of the withdrawal  that I described that biologically-inspired neuron architecture [above](#benzodiazepine-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
-I remember having video calls from my office with him too teaching him "sequence-to-sequence attention" and being in a state of misery that I couldn't convey to him. And the believability amid that benzo-brain damage is again an issue because he pretty much just directed me to see a therapist. 
+I remember having video calls from my office with him too, teaching him "sequence-to-sequence attention," and being in a state of misery that I couldn't convey to him. And the believability amid that benzo-brain damage is again an issue because he pretty much just directed me to see a therapist. 
 
 Besides that, I co-TA’d philosophy of consciousness with my friend, and got straight As in my grad-level classes. The semester ended around the 4 month-benzo mark, just at that precipice of brain damage.
 
