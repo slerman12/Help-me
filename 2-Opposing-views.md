@@ -384,7 +384,7 @@ But afterwards, I got an email — I think from Chenliang and perhaps from the g
 
 It's ironic that I'm being asked for remediation.
 
-I don't know who decided these extra requirements, if it was the CS chair Michael L. Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
+I don't know who decided these extra requirements, if it was the CS chair Michael Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
 
 I delivered a 6-page write up, as well as a chapter-list, as well as a 1-page write up summary in the 6-page write up, meeting all the requirements of 1 for this brand new interim committee that effectively never met me. 
 
@@ -415,9 +415,9 @@ Since Charles was the only person on the committee who knew me since I began the
 
 Besides 4 years in undergrad, 5 - 7 years is the average time for a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
 
-In summary, Michael L. Scott and a brand new interim committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
+In summary, Michael Scott and a brand new interim committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
 
-### Michael L. Scott
+### Michael Scott
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
@@ -428,27 +428,76 @@ In summary, Michael L. Scott and a brand new interim committee, who had effectiv
 </a>
 </p>
 
-The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
+> The [eczema this is presently giving me](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md) as I type is severe. My arms are scathing red. I'm itchy and can't sleep, rolling around under my blankets in a burning panic, nails grinding to skin on arms, trying to shed the stress from this inflicted evil of judgement. The reader's possible mixed perceptions in my head, all the ways this could be re-done to be made more convincing and believed haunting the scorching thought rivers. Like ants on my arms literally, burning rivers as blood, my arteries need to be dug of their hidden psychological poison, my brain says; my brain pierces and threatens as it sends those coursing swarms stingingly down the lengths of my typing limbs, even now, as I try to put that burning disturbing pleasure and agony into words, if not the claws of my nails where skin residue bulks and swells. Please reader in the hidden ether, stop doing this to me. Send love, not this terror of threat and divided consciousness that broils as war between my body and the depths of my mind and senses.
+>
+> The torment doesn't stop until I finish this. I'm slave driven by my skin, as I was by my advisors, committees, and professors. I fear that you are all so stupid, that none of you will see the truth of this, that you will act as allies to the contagion that plagues my stress rather than as empathizing people who know the heart no matter the veil or law of land or powers that be.
 
-Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on the committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned/deserted their "posts") last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael L. Scott) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
+Maybe one of the strongest Opposing Views, which the remainder of this book will be devoted to obliterating is the CS department Chair who comes in at this point for the first time in my PhD, Michael L. Scott (The Messenger as he might call himself), or: The Judge.
 
-That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
+His Opposing View is only strong because of its window of context. Unlike Chenliang and Charles, he didn’t know me. Unlike Chris Kanan, he wasn’t in my field. And unlike Tom Howard, he didn’t and couldn’t have even been relevant to a six-month review, since he had no background or expertise whatsoever in anything relevant to the future of his field (to be fair) or mine. The future of his field is my field, for that matter.
 
-Enter Michael L. Scott, the messenger:
+That makes him an extremely strong Opposing View.
+
+Michael made a lot of false allegations prior to and after terminating me, in fact almost entirely false allegations, entirely false or hypocritical allegations. For most of the time, his belief was that he was terminating me for more serious reasons than the six-month review make-up. He believed my research was inadequate, “unviable,” and that I had to propose a new research “plan.” “Plan” — in one’s 6th year when advisor and PI already believed I could defend on the work that I had that month.
+
+My advisor and PI weren’t right, because I needed peace to write my thesis. That’s where Michael’s exercise in unearned ruling authority was the most extreme.
+
+And suspicious.
+
+I call this the Termination Slam.
+
+His previous email read:
+
+> ### $"$
+> If I do not hear from you by 6 Oct., with a plan for successful completion, the department will terminate your stipend and discontinue your enrollment as of 31 Oct. 2023.
+> ### $``$
+> &ensp;&ensp;- **09/25/2023**
+
+(Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered materials).
+
+Then I delivered another full research plan, with precision and accuracy, by the specified date **10/06/2023**. 
+
+This was the only reply I got, of **10/12/2023**:
+
+> ### $"$
+> Dear Sam:
+>
+> Thank you for your note of 6 Oct.  I have conferred with members of your committee.  They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  With regret, we will be terminating your student status and stipend as of the end of October.
+>
+> Yours,
+> 
+> Michael L. Scott (he/him) </br>
+> Arthur Gould Yates Professor and Chair</br>
+> Computer Science Department, University of Rochester</br>
+> \<provided contact info redacted\>
+> ### $``$
+> &ensp;&ensp;- **10/12/2023**
+
+I delivered what was requested and he put his boot down on my sincerity and effort. That boot despite what was threatened and said is why it was a Termination Slam, not just a termination. On personal and highly elaborate work that was sent to him and CC’d member in confidence about all of my research, and the plan to defend after I write my thesis.
+
+Later, he specified the detail he didn’t like. No no, it wasn’t the research-related material, as he later self-contradicted, it was my request for “peace” towards the end.
+
+However, this alone does not damn Michael. He was CC’d on or I sent him, *all* of the context. At first, he got the [medical context]() and only the research “context” from the brand new interim committee, later the research context, and gradually he realized that his only justification for the termination — despite what he previously specified — was a measly six-month review make-up, the one that was post-hoc both with respect to advisor desertion and requirement, and a formalism that isn’t under any ordinary PhD circumstance considered that important.
+
+But at that point he stayed doubled down.
+
+The boss battle was over, and I lost.
 
 Michael doesn't know this, but he bumped my grade up in undergrad once. Now he ultimately relayed the ruling to terminate, on the basis of the committee, and not one, but, as he claimed, [two](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) six-month reviews (and this make-up!). Michael mentioned the possibility of applying for reinstatement, though what that means is unclear, especially as: Did he mean I needed to find yet another advisor, new source of funding, re-take a six-month review, do my thesis, and do all of this amid health issues in my sixth year, for less than New York State's legal living wage, within the next one to few months? 
-
-TO DO: I should add the termination *slam* Michael is definitely very guilty of.
-
-The [eczema this is presently giving me](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md) as I type is severe. My arms are scathing red. I'm itchy and can't sleep, rolling around under my blankets in a burning panic, nails grinding to skin on arms, trying to shed the stress from this inflicted evil of judgement. The reader's possible mixed perceptions in my head, all the ways this could be re-done to be made more convincing and believed haunting the scorching thought rivers. Like ants on my arms literally, burning rivers as blood, my arteries need to be dug of their hidden psychological poison, my brain says, my brain pierces and threatens as it sends those coursing swarms stingingly down the lengths of my typing limbs, even now, as I try to put that burning disturbing pleasure and agony into words, if not the claws of my nails where skin residue bulks and swells. Please reader in the hidden ether, stop doing this to me. Send love, not this terror of threat and divided consciousness that broils as war between my body and the depths of my mind and senses.
-
-The torment doesn't stop until I finish this. I'm slave driven by my skin, as I was by my advisors, committees, and professors. I fear that you are all so stupid, that none of you will see the truth of this, that you will act as allies to the contagion that plagues my stress rather than as empaths who know the heart no matter the veil or law of land or powers that be.
 
 Something I didn't mention or elaborate on here yet: Chenliang lied, as soon as I sent [my first email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee. Here's a story that Chenliang knows is true: After he notified me of his leaving and my income being cut, I reached out my hand to shake his hand, he didn't shake it, and then I said, "I consider you someone I personally hold dear", and patted my heart with my hand as I left his office and another student entered. I meant it. That's why I refrained from telling the other committee members and Michael that Chenliang lied in his reply email until after they had formally notified me of my termination. This was the fabrication, on email: "Dr. Niaz Abdolrahim delivered my message to you [... that] I can continue to provide funding support (Sep, Oct, Nov)." No, she did not. She didn't say anything about continued funding support. She can confirm, though she didn't risk their professional relationship by replying either when I CC'd her. Even if she had offered any words of financial security for between then and November, November time limit before losing my funding and having to find my — what, fourth? After Charles, Henry, and Chenliang — PhD advisor, in my sixth year, on short-notice, in the context of the extreme work I did across many labs including mostly uncredited work, and what that same institution induced, would still be Kafkaesque and unacceptable.
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of hard work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own, and extremely unreasonable grad school action, that goes in contrast to how much I actually did and how hard I worked more than they'll ever realize. I mentioned that in the second 3 years, I had to work for the Mechanical Engineering department, on research independent from my AI research. I can throw away that in the first 3, I had to work in the Medical Center for funding, even for a time as I worked for Chenliang for free. I built a whole machine learning web app for them, professional and beautiful, a web app that prognosticated a patient's Parkinson's disease progression based on inputs using machine learning models that I trained, that they later outsourced to other much-higher-paid programmers who could scale it, and patented it, then ignored the fact that it was my idea, that I had to convince them of the idea, prove that it gets good reception by presenting it to major researchers at a conference in DC in front of them (uncredited), and that I literally built a fully functioning and elegant prototype, concluding with all of them pretending that I had no involvement as they were handing it over to build from scratch to a hired professional web dev team with me trying to chime in and getting ignored at the table as if it was a brand new idea that they didn't realize was in any way affiliated with me, and perhaps that was necessary for the patent. That's a throw-away. Keep reading, just wait (especially the next paragraph). There's really no end to the egregiousness of what the University of Rochester has bureaucratically instituted in their learning and healing centers, against every principle both of those institutions have ever claimed to hold. 
 
 $\color{green}\text{This}$ $\color{green}\text{might}$ $\color{green}\text{sound}$ $\color{green}\text{dire,}$ $\color{green}\text{but}$ $\color{green}\text{I}$ $\color{green}\text{actually}$ [disproved all of Michael L. Scott's and the committee's alleged reasons](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)$\color{green}\text{,}$ [twice](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md)$\color{green}\text{,}$ $\color{green}\text{including}$ $\color{green}\text{mathematically}$ $\color{green}\text{(conclusively)}$ $\color{green}\text{disproving}$ $\color{green}\text{the}$ $\color{green}\text{make-up}$ $\color{green}\text{review}$ $\color{green}\text{one,}$ [believe it or not](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) $\color{green}\text{(see}$ $\color{green}\text{the}$ $\color{green}\text{Epilogue).}$
+
+### Recap
+
+The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
+
+Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on the committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned/deserted their "posts") last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
+
+That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
 ### The University of Rochester
 
