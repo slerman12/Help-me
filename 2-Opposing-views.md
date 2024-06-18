@@ -425,7 +425,13 @@ In summary, a brand new committee, who had effectively never met me, decided to 
 </a>
 </p>
 
-Now, in defense of Dr. Michael L. Scott, the messenger:
+The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
+
+Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on the committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned/deserted their "posts") last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael L. Scott) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
+
+That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
+
+Enter Michael L. Scott, the messenger:
 
 Michael doesn't know this, but he bumped my grade up in undergrad once. Now he ultimately relayed the ruling to terminate, on the basis of the committee, and not one, but, as he claimed, [two](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) six-month reviews (and this make-up!). Michael mentioned the possibility of applying for reinstatement, though what that means is unclear, especially as: Did he mean I needed to find yet another advisor, new source of funding, re-take a six-month review, do my thesis, and do all of this amid health issues in my sixth year, for less than New York State's legal living wage, within the next one to few months? 
 
@@ -474,10 +480,3 @@ This might sound dire, but I actually [disproved all of their alleged reasons](h
 1. TO DO: See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
 2. TO DO: Add how Aetna (the University-provided health insurance) did it again, with a photo of the huge bills they suddenly started sending me 10 months into therapy for my psychologist.
 
-## Additional details for part 3
-
-The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
-
-Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on the committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned/deserted their "posts") last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
-
-That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
