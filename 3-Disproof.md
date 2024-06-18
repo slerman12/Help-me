@@ -135,7 +135,7 @@ It might be worth to point out that they were once again threatening me to do wo
 The demand put on me was more excessive than any word other than "slavery" summarizes:
 
 1. Find yet another advisor
-   - The amount of work to get into Chenliang's group was huge and far from instantaneous, I had to work for free under him until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, proven a huge undertaking, and had to suddenly again in my 6th year, an unpaid work of indefinite undignifying duration forced a second time on a 6th-year student, and both advisors bailed for reasons that were their own fault.
+   - The amount of work to get into Chenliang's group in my 3rd year was huge and far from instantaneous, I had to work for free under him concurrently with the Med Center (working there) until I submitted a top-venue conference paper and some time after as well, while in the middle of recovering from the benzo-brain damage and chemical waterboarding torture. So I already had to find a new advisor once in my 3rd year, proven a huge undertaking, and had to suddenly again in my 6th year, an unpaid work of indefinite undignifying duration forced a second time on a 6th-year student, and both advisors bailed for reasons that were their own fault.
 3. Find new source of funding
 4. Re-take a six-month review
 5. Do my thesis (since my advisor and PI both said I was ready, even though I said I wasn't), or:
