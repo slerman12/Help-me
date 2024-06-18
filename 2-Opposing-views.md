@@ -305,7 +305,7 @@ The paper ended up getting acepted, after my termination and on the day before m
 
 Chenliang put me on the Mechanical Engineering lab as the source of my funding, on a project which I led, which was funded by two pretty-major grants that I helped write, which included my ideas, which somehow, by Chenliang's and very-much-not-Niaz's decision, wouldn't fund me any longer.
 
-#NotEnoughPapers
+Makes me want to go #NotEnoughPapers.
 
 Niaz, perhaps an "opposing view," though someone I really like, was my other Principle Investigator next to Chenliang. Oh but to be clear, I was still in Chenliang's lab and reporting to that lab as well every week. I was doing extreme amounts of work for both. 
 
