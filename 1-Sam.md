@@ -40,7 +40,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Chris Kanan
       - Tom Howard
       - Charles Venuto
-      - Michael L. Scott 
+      - Michael L. Scott
+      - Recap
       - The University of Rochester
     - Additional details for part 1
     - Additional details for part 2
