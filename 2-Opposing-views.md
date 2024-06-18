@@ -218,7 +218,7 @@ I joined the Center for Health and Technology a year into their efforts to model
 
 Charles was my first advisor there.
 
-Henry recommended me to the position at the Med Center to do disease modeling, while I was still an undergrad, predating all of this, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. “Neurodegenerative” means when the brain degenerates, for example, by chemical floodbaths of GABA and severe downregulation.
+Henry recommended me to the position at the Med Center to do disease modeling, while I was still an undergrad, predating all of the medical trauma, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. “Neurodegenerative” means when the brain degenerates, for example, by chemical floodbaths of GABA and severe downregulation.
 
 The work I did at the Med Center earned me a recommendation back to Henry Kautz. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, he accepted me into his group as a doctoral student.
 
