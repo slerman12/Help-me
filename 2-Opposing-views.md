@@ -241,7 +241,7 @@ Henry told me I passed my area exam in my second PhD year with "flying colors." 
 
 And I showed "Lily" the MHDPA paper in the hospital. She said she could read it. It was unusually readable. She liked it and told me about her mom's writing in a published short story collection with Stephen King. Her mom later reviewed a creative work I wrote (and with "Lily"'s permission, will probably review this — note, I'm still writing fucknuts).
 
-After the hospitalization, it was from that couch during a video call with my advisor (who was in DC) during the peak-period of this withdrawal  that I described that biologically-inspired neuron architecture above.
+After the hospitalization, it was from that couch during a video call with my advisor (who was in DC) during the peak-period of the withdrawal  that I described that biologically-inspired neuron architecture above.
 
 Besides that, I co-TA’d philosophy of consciousness with my friend, and got straight As in my grad-level classes. The semester ended around the 4 month-benzo mark, just at that precipice of brain damage.
 
