@@ -220,11 +220,11 @@ Charles was my first advisor there.
 
 Henry recommended me to the position at the Med Center to do disease modeling, while I was still an undergrad, predating all of this, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. “Neurodegenerative” means when the brain degenerates, for example, by chemical floodbaths of GABA and severe downregulation.
 
-Perhaps Charles or some of his colleagues may find the [above diagram](#benzodiazepine-mechanism-of-action) valuable in their work.
-
 The work I did at the Med Center earned me a recommendation back to Henry Kautz. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, he accepted me into his group as a doctoral student.
 
 While I was working and researching under Charles, I had built a [disease prognostication machine learning model](https://github.com/slerman12/DiseaseModeling) that won top-three in the Michael J. Fox Foundation for Parkinson's Research PPMI  contest, and came up with the idea of building a web app for the prognostication to give clinician's a clean, elegant interface. I had to argue a bit, and convince them, and then they let me, and, as a PhD student (about in my second year, already in benzo withdrawal), I even presented it at a conference in DC in front of reknowned researchers in the Parkinson's research field. Despite that being my idea and my [prototype](https://github.com/slerman12/DiseaseModelingWebApp), they liked it so much that they hired a web development team to build one, and since have never given me credit. They also patented it, and since have given me no proprietary rights or earnings either.
+
+Perhaps Charles or some of his colleagues may find the [above diagram](#benzodiazepine-mechanism-of-action) valuable in their work, this time ideally with credit attribution.
 
 ### Henry Kautz
 
