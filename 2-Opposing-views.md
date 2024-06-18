@@ -435,6 +435,11 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 
 This might sound dire, but I actually [disproved all of their alleged reasons](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md), [twice](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md), including mathematically (conclusively) disproving the make-up review one, [believe it or not](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) (see the Epilogue).
 
+> [!WARNING]
+> Radical idea:
+>
+> If somebody gets into a PhD program, you should give them a license for 7 years to kill if they want. They can go to jail, but you shouldn’t fire them for going to jail. That might be part of their research as far as you know. It’s not your job to enforce the law, it’s your job to be selective about who you accept into PhD programs. And once you do, their research is their research. The incentive to work, if nothing else (e.g. to change the world for the better), is getting the PhD, passing the defense ultimately, employability, and potentially legacy. That’s more than enough incentive without adding punishment to the mix. After the 7 years, then rules can start to apply. In the middle, *offer* your services. If your university is poor (e.g. not a multi-billion dollar conglomerate, though I can’t speak for the conditions in such, since, despite the University of Rochester’s conditions, it is a multi-billion dollar conglomerate), then cut it down to 5 years so that science can still take priority over your profits. For the existing salary given to PhD students of less-than-living-wage, at least in New York and the multi-billion University of Rochester, it should be 100 years, per acceptee jailtime included. 
+
 ### The University of Rochester
 
 <p align="center">
