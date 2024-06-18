@@ -368,8 +368,15 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 
 The independent-room discussion reasonably marked the end of my portion of the meeting, or so I thought. However, after the independent-room discussion, we kept talking, I left, and Chenliang later told me that the committee members thought I dropped the line early. That was a misunderstanding. I really thought the meeting was over since they conveyed everything I had to do next, or at least that they were going to in that discussion. At the very, very end of the discussion, one of the committee members, Tom Howard, said, “I just want to add, I think it’s important.” I actually in my sleep deprivation thought he meant my work (I know he probably meant the chapter-list), so I did a sincere and prolonged “bless you” sign with my hands in the silence and left. I know that this is the least believable part. Chenliang knew I hadn’t slept that whole night, due to insomnia and maybe-nervousness, and I mentioned that I "didn't sleep all night" during the meeting to which I think Tom Howard off-handedly, maybe-non-noticedly said "I know," before resuming his point. 
 
+### Charles Venuto
+
 <p align="center">
-<img width="300" alt="Screenshot 2024-05-13 at 7 37 59 PM" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/79897898-f394-4ce3-bd0c-649adc6e51dc">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
+ <picture>
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5e699ce6-7758-4544-ab33-684b27b848fa">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
+</picture>
+</a>
 </p>
 
 Charles was my Med Center advisor. Since Henry was busy, Charles had to do most of the work of overseeing me in those first 3 years, before Henry's departure meant I had to switch into Chenliang's lab and start an altogether new Computer Vision-branch focus of research, with an ultimatum to submit a top-venue paper that summer *in* Computer Vision, literally a brand new field to me. And I did. Amazingly. Though that seems to be unappreciated. However, the paper would not have been my preferred research area, since I was working on MHDPA and long-term episodic memory methods for Charles in the Med Center prior to that, and wrote [my novel MHDPA method paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) before MHDPA had any popularity or reknown outside of small groups at DeepMind. MHDPA, for the uninitiated, became the backbone, 5 years later, of foundation models like ChatGPT. Henry doubted my obsession with the method back in 2018. No one at the university heard of it. And when switching to Chenliang's lab, he wasn't too thrilled with the idea of applying it to Semantic Image Segmentation, in what would've been one of the first Vision Transformers. So instead, I co-wrote my [Taylor-CAM](https://arxiv.org/abs/2006.08601) paper under Chenliang with Henry and Charles.
