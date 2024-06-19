@@ -211,8 +211,8 @@ I joined the Center for Health and Technology a year into their efforts to model
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d07991d2-3993-4775-9385-70d946fc60ce">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d07991d2-3993-4775-9385-70d946fc60ce">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
 </picture>
 </a>
 </p>
@@ -265,10 +265,10 @@ Meanwhile I was working at the Med Center, so I secured my funding through that.
 ### Chenliang Xu
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/16f92b2b-8c20-498c-9ed8-929d31781f86">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/fc94f161-f4c5-4669-9bf0-5cfab19119a9">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2e8fcf2c-f112-4b9d-bd25-b5f15063b517">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/16f92b2b-8c20-498c-9ed8-929d31781f86">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/3da982a4-d1ec-4053-9c72-20ff79e1a853">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/fc94f161-f4c5-4669-9bf0-5cfab19119a9">
 </picture>
 </a>
 </p>
