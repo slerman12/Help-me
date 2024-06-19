@@ -283,7 +283,7 @@ In defense of Chenliang: he eventually accepted me into his lab (when I succesfu
 
 For context, Henry's average was 1 - 3 across the PhD student's full tenure.
 
-Henry is a more esteemed researcher than Chenliang, but Computer Vision is one of the most competetive fields in "science." It's a paper factory. His students are expected to publish several papers per year, which as far as science goes, means quality always has to be traded for quantity. In AI, that's pretty dangerous.
+Henry is a more esteemed researcher than Chenliang, but Computer Vision is one of the most competetive fields in "science." It's a paper factory. His students are expected to publish several papers per year, which as far as science goes, means quality always has to be traded for quantity. In AI, that's pretty dangerous, the more talented a researcher gets.
 
 There were further terrors at the University of Rochester Medical Center that I don't want to get into under Chenliang's tenure (one of the easier ones to point out, that happened in the geriatric unit one, was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring). 
 
