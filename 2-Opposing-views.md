@@ -476,7 +476,7 @@ This was the only reply I got, of **10/12/2023**:
 > ### $``$
 > &ensp;&ensp;- **10/12/2023**
 
-I delivered what was requested and he put his boot down on my sincerity and effort. That boot despite what was threatened and said is why it was a Termination Slam, not just a termination. On personal and highly elaborate work that was sent to him in confidence about all of my research, and the plan to defend after I write my thesis.
+I delivered what was requested and he put his boot down on my sincerity and effort. That boot despite what was threatened and said is why it was a Termination Slam, not just a termination. On personal and highly elaborate work that was sent to him (and CC'd Chenliang) in confidence about all of my research, and the plan to defend after I write my thesis.
 
 Later, he specified the detail he didn’t like. No no, it wasn’t the research-related material, as he later self-contradicted, it was my request for “peace” towards the end.
 
