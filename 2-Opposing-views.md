@@ -344,7 +344,7 @@ In defense of the committee members who agreed on the decision, most of them did
 I should add details about the work that Chris Kanan asked me to do, or suggested rather, that I followed through on. Maybe in this [chapter](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) and [this one](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md), but see terminator-bubble-diagram immediately above and I'll summarize below.
 
 Long-term memory is what I was working on longest. From the Spring semester of my Freshman year, 
-- when I built a long-term episodic memory reinforcement learning controller using image features from Felzenshwalb segmentation in Chenliang Xu's machine vision class,
+- when I built a long-term episodic memory reinforcement learning controller on top of image features from Felzenshwalb segmentation in Chenliang Xu's machine vision class,
 - to that semester where I actually did meet Tom Howard for 5 minutes and told him about using the idea for robotics when we went to his robotics lab because he took an interest (and that short exchange is the only time I talked to him prior to this),
 - to plenty of email-record (e.g. with Prof. Len Schubert),
 - as well as my area exam,
