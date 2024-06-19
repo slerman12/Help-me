@@ -505,7 +505,7 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 </a>
 </p>
 
-### Recap
+### Summary of why interim
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
 
