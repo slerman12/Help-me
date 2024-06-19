@@ -412,11 +412,9 @@ Charles was my Med Center advisor. Since Henry was busy, Charles had to do most 
 
 I credited Charles as co-author on that paper, however they at the Med Center did not credit me for the prototype of the disease prognostication [model]((https://github.com/slerman12/DiseaseModeling)) (since developed since that original version mentioned [above](#charles-venuto)) and [website]((https://github.com/slerman12/DiseaseModelingWebApp)) I came up with, had to argue for, built, and presented in DC in front of reknowned Parkinson's disease researchers, a poster and live demo presentation that also wasn't credited (and not to mention was still amid the very peak of my benzo withdrawal).
 
-Since Charles was the only person on the committee who knew me since I began the program, when I worked for him in the Med Center in my undergrad and in the [first 3 years](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md) of my PhD, including at one point as my funding source for my PhD even as I worked for free for Chenliang, I reassured him via email, without prompt, not to worry. I [informed the grad school of everything](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) and missed the make-up review, matching another time, as Michael will illucidate, that I missed a review due to excused, highly extenuating circumstances. After multiple contradictory reasons, they [finally decided](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) this (the missed August 30th make-up review) was the reason for terminating me in my 6th year as a PhD student (and tenth at the University of Rochester). 
+Since Charles was the only person on the committee who knew me since I began the program, chronology seems sufficiently relevant to mention here.
 
 Besides 4 years in undergrad, 5 - 7 years is the average time for a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
-
-In summary, Michael Scott and a brand new interim committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
 
 ### Michael L. Scott
 
@@ -495,6 +493,8 @@ Michael doesn't know this, but he bumped my grade up in undergrad once. Now he u
 See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) (in the next chapters) for elaboration on what was demanded on me *together with* the six-month review make-up.
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of hard work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I mentioned that in the second 3 years, I had to work for the Mechanical Engineering department, on research independent from my AI research. I can throw away that in the first 3, I had to work in the Medical Center for funding, even for months as I worked for Chenliang for free.
+
+In summary, Michael Scott and a brand new interim committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
 
 ### Recap
 
