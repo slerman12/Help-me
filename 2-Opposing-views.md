@@ -393,7 +393,7 @@ Subsequently, Chris Kanan suggested that I innovate a new reinforcement learning
 
 These are enormous requirements that I met on their behalf.
 
-Tom Howard didn't make any tangible suggestions, nor did my advisor or Charles. (The committee consisted of 4 people, my advisor Chenliang, Charles, Chris Kanan, and Tom Howard).
+Tom Howard didn't make any tangible suggestions, nor did my advisor or Charles. (The committee consisted of 4 people, my advisor Chenliang, Chris Kanan, Tom Howard, and Charles).
 
 The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and Chenliang confirmed the desertion by email for the rest of the committee and Michael Scott on **August 10th, 2024**, prior to the **August 30, 2023** date of requirement (2).
 
@@ -499,10 +499,10 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 ### Interim
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2551b555-e073-4527-bbac-b17e246b82ee">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/3d209aa4-8c3a-433c-aa69-895fa3cc718e">
  <picture>
-   <source width="30%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2551b555-e073-4527-bbac-b17e246b82ee">
-   <img width="30%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2551b555-e073-4527-bbac-b17e246b82ee">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/3d209aa4-8c3a-433c-aa69-895fa3cc718e">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/3d209aa4-8c3a-433c-aa69-895fa3cc718e">
 </picture>
 </a>
 </p>
