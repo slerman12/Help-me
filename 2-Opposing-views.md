@@ -414,6 +414,8 @@ I credited Charles as co-author on that paper, however they at the Med Center di
 
 I haven't spoken to Charles since and he didn't say a word during the six-month review. I mean not a word, except maybe hi, and his video was off. That's 1/4 of the deciding committee, whose decision hinged on that meeting (on whose decision around that meeting determined my termination). The other two were brand new interim replacements for other committee members who were absent. So that just leaves my advisor, Chenliang, who didn't want to terminate me, just cut off my funding due to not enough papers, and who believed my research was satisfactory enough to defend that month (of my termination), if I just "followed [his] formatting instructions" for the thesis that I hadn't started writing, that he thought I could write quickly.
 
+So in other words: Chris Kanan and Tom Howard fully determined my termination.
+
 Since Charles was the only person on the committee who knew me since I began the program, chronology/duration seems sufficiently relevant to mention here:
 
 Besides the 4 years that people usually do in undergrad, 5 - 7 years is the average time for a person to do a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
