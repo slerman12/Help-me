@@ -494,6 +494,8 @@ $\color{green}\text{At}$ $\color{green}\text{this}$ $\color{green}\text{time,}$ 
 
 Michael doesn't know this, but he bumped my grade up in undergrad once. Now he ultimately relayed the ruling to terminate, on the basis of the committee, and not one, but, as he claimed, [two](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) six-month reviews (and this make-up!). Michael mentioned the possibility of applying for reinstatement, though what that means is unclear, especially as: Did he mean I needed to find yet another advisor, new source of funding, re-take a six-month review, do my thesis, and do all of this amid health issues in my sixth year, for less than New York State's legal living wage, within the next one to few months? 
 
+See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) (in the next chapters) for elaboration on what was demanded on me *together with* the six-month review make-up.
+
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of hard work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I mentioned that in the second 3 years, I had to work for the Mechanical Engineering department, on research independent from my AI research. I can throw away that in the first 3, I had to work in the Medical Center for funding, even for a time as I worked for Chenliang for free.
 
 ### Recap
