@@ -496,25 +496,15 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I mentioned that in the second 3 years, I had to work for the Mechanical Engineering department, on research independent from my AI research. I can throw away that in the first 3, I had to work in the Medical Center for funding, even for months as I worked for Chenliang for free.
 
-### Brand new interim committee
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/74a5f171-c37e-4b38-9c13-3742f75c69cc">
- <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/74a5f171-c37e-4b38-9c13-3742f75c69cc">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/74a5f171-c37e-4b38-9c13-3742f75c69cc">
-</picture>
-</a>
-</p>
+### Brand new interim committee and Michael
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
 
 Since I had to switch advisors, and my PI Niaz agreed to be on my defense committee (by my advisor’s suggestion just prior to the six-month review), and another committee member was returning, and assuming my old advisor would still remain on the committee, that means the entire brand new committee (3/4 members) — all of the ones who made the termination decision and ruled that I needed a new research “plan” in my 6th year — were leaving. After that one 20-minute video call, they assumed all governing power over my studies, labor, and employment, simply because other faculty members left without warning (abandoned/deserted their "posts") last-minute. More egregiously, in case that doesn’t stress it, 2/4 of them (3/5 if you count Michael) aren’t in my field and have no background or expertise in my field. The only 1/4 who did, next to my advisor, was Chris Kanan, the one who provided the [Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) in which he forgot the meeting, and on whose behalf I invented a new RL systems algorithm in less than 2 months during this 3 month period. 
-- If they appreciated my research, they wouldn't be interim. I wouldn't have notified them on **08/10/2023** that I would be returning their positions to the previously planned committee. I would've wanted to include all of them on my committee and give them credit and attribution for my thesis.
 
 That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
-### The University of Rochester
+### The Deans
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
@@ -545,4 +535,5 @@ That’s the whole story, and where in there is even the slightest administrativ
 1. Besides the 4 years that people usually do in undergrad, 5 - 7 years is the average time for a person to do a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
 2. Something I didn't mention or elaborate on here yet: Chenliang lied, as soon as I sent [my first email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee. Here's a story that Chenliang knows is true: After he notified me of his leaving and my income being cut, I reached out my hand to shake his hand, he didn't shake it, and then I said, "I consider you someone I personally hold dear", and patted my heart with my hand as I left his office and another student entered. I meant it. That's why I refrained from telling the other committee members and Michael that Chenliang lied in his reply email until after they had formally notified me of my termination. This was the fabrication, on email: "Dr. Niaz Abdolrahim delivered my message to you [... that] I can continue to provide funding support (Sep, Oct, Nov)." No, she did not. She didn't say anything about continued funding support. She can confirm, though she didn't risk their professional relationship by replying either when I CC'd her. Even if she had offered any words of financial security for between then and November, November time limit before losing my funding and having to find my — what, fourth? After Charles, Henry, and Chenliang — PhD advisor, in my 6th year, on short-notice, in the context of the extreme work I did across many labs including mostly uncredited work, and what that same institution induced, would still be Kafkaesque and unacceptable.
 3. I built a whole machine learning web app for the Med Center, professional and beautiful, a web app that prognosticated a patient's Parkinson's disease progression based on inputs using machine learning models that I trained, that they later outsourced to other much-higher-paid programmers who could scale it, and patented it, then ignored the fact that it was my idea, that I had to convince them of the idea, prove that it gets good reception by presenting it to major researchers at a conference in DC in front of them (uncredited), and that I literally built a fully functioning and elegant prototype, concluding with all of them pretending that I had no involvement as they were handing it over to build from scratch to a hired professional web dev team with me trying to chime in and getting ignored at the table as if it was a brand new idea that they didn't realize was in any way affiliated with me, and perhaps that was necessary for the patent.
+4. If they appreciated my research, I would not want the brand new interim committe to be interim. I would've wanted to include all of them on my committee and give them credit and attribution for my thesis.
 
