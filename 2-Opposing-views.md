@@ -418,15 +418,6 @@ I haven't spoken to Charles since and he didn't say a word during the six-month 
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
- <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
-</picture>
-</a>
-</p>
-
 ### Michael L. Scott
 
 <p align="center">
@@ -503,7 +494,16 @@ Michael doesn't know this, but he bumped my grade up in undergrad once. Now he u
 
 See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) (in the next chapters) for elaboration on what was demanded on me *together with* the six-month review make-up.
 
-For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free. 
+For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free.
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/961c4b43-695e-4b53-99fd-47778843f9d7">
+ <picture>
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/961c4b43-695e-4b53-99fd-47778843f9d7">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/961c4b43-695e-4b53-99fd-47778843f9d7">
+</picture>
+</a>
+</p>
 
 ### Recap
 
