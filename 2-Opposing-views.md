@@ -496,6 +496,19 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free.
 
+> ### $"$
+> Hi Sam -
+>
+> I've received multiple emails from you over the past few days, which I wanted to acknowledge. I will not try to address each claim separately, but I disagree with many things you have said about the process of dismissing you from your academic program, including your characterization of your academic progress and of communications with you on that topic. 
+>
+> Yours,
+>
+> Michael
+> ### $``$
+> &ensp;&ensp;- **10/18/2023**
+
+These were just words. He didn't acknowledge anything I said, separately or together. He repeatedly only said that he disagreed with the characterization, and made no argument why. In comparison, I replied to every single allegation he made against me, point by point. And currently, as he did on [multiple](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) emails that discredited his judgement, [he's ghosting me](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md).
+
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
  <picture>
