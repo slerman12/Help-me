@@ -507,7 +507,7 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 > ### $``$
 > &ensp;&ensp;- **10/18/2023**
 
-These are just words. He didn't acknowledge anything I said, separately or together. He repeatedly only said that he disagreed with the characterization, and made no argument why. In comparison, I replied to every single allegation he made against me, point by point. And currently, as he did on [multiple](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) emails that discredited his judgement, [he's ghosting me](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md).
+These are just words. He didn't acknowledge anything I said, separately or together. He repeatedly only wrote that he disagreed with the characterization, and made no argument as to why. I replied to every single allegation he made against me, point by point, and currently, as with [multiple](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) emails that discredited his judgement, [he's ghosting me](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md).
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
