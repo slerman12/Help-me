@@ -496,7 +496,7 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I mentioned that in the second 3 years, I had to work for the Mechanical Engineering department, on research independent from my AI research. I can throw away that in the first 3, I had to work in the Medical Center for funding, even for months as I worked for Chenliang for free.
 
-### Interim
+### Brand new interim committee
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/74a5f171-c37e-4b38-9c13-3742f75c69cc">
