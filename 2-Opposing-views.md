@@ -179,10 +179,10 @@ Did I mention these were University of Rochester *psychiatrists*? Okay good, jus
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f86295df-e11a-42a8-a6a7-d4f948d13060">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
  <picture>
-   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f86295df-e11a-42a8-a6a7-d4f948d13060">
-   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f86295df-e11a-42a8-a6a7-d4f948d13060">
+   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
 </picture>
 </a>
 </p>
