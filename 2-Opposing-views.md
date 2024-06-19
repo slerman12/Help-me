@@ -263,10 +263,10 @@ Meanwhile I was working at the Med Center, so I secured my funding through that.
 ### Chenliang Xu
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/fc94f161-f4c5-4669-9bf0-5cfab19119a9">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/b43b4fac-8737-48df-86b1-68c92adbb963">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/3da982a4-d1ec-4053-9c72-20ff79e1a853">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/fc94f161-f4c5-4669-9bf0-5cfab19119a9">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/0bd0dcaa-c8cc-4fdd-82d0-18ce06a1e678">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/b43b4fac-8737-48df-86b1-68c92adbb963">
 </picture>
 </a>
 </p>
@@ -321,10 +321,10 @@ However, that lab is the least of the work I did ([here](https://github.com/sler
 ### Chris Kanan
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc741b1-7e5f-484a-bd01-94158fcb1d39">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c2d781ac-90e2-4f78-9b12-655fec5c1acb">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/08f1f768-3058-462d-a066-b6cc4fda7e3c">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc741b1-7e5f-484a-bd01-94158fcb1d39">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7ebb2cf7-49af-4d6a-bc9f-03059bf6393f">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c2d781ac-90e2-4f78-9b12-655fec5c1acb">
 </picture>
 </a>
 </p>
@@ -398,10 +398,10 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 ### Charles Venuto
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7efafb8-f9a5-4f9e-b60b-2f8620330ff7">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/faea876a-9196-4625-8ef2-24eae964a6b7">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/afeae487-0978-4665-8a1d-1c55e698f7d8">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7efafb8-f9a5-4f9e-b60b-2f8620330ff7">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7c0148d5-de1d-4512-bd70-17afcbffb97c">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/faea876a-9196-4625-8ef2-24eae964a6b7">
 </picture>
 </a>
 </p>
