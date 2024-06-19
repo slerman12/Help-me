@@ -416,8 +416,6 @@ I haven't spoken to Charles since and he didn't say a word during the six-month 
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
-In law, there is such a thing as reliability of evidence. The six-month review that Michael thinks I failed was determined by people who had no opinion.
-
 ### Michael L. Scott
 
 <p align="center">
