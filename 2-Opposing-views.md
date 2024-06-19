@@ -414,7 +414,7 @@ I credited Charles as co-author on that paper, however they at the Med Center di
 
 I haven't spoken to Charles since and he didn't say a word during the six-month review. I mean not a word, except maybe hi, and his video was off. That's 1/4 of the deciding committee, whose decision hinged on that meeting (on whose decision around that meeting determined my termination). The other two were brand new interim replacements for other committee members who were absent. So that just leaves my advisor, Chenliang, who didn't want to terminate me, just cut off my funding due to not enough papers, and who believed my research was satisfactory enough to defend that month (of my termination), if I just "followed [his] formatting instructions" for the thesis that I hadn't started writing, that he thought I could write quickly.
 
-So in other words: [Chris Kanan](#chris-kanan) (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and [Tom Howard](#tom-howard) fully determined my termination, besides Michael L. Scott. 
+So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
 ### Michael L. Scott
 
