@@ -418,6 +418,17 @@ I haven't spoken to Charles since and he didn't say a word during the six-month 
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
+### Recap
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
+ <picture>
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
+</picture>
+</a>
+</p>
+
 ### Michael L. Scott
 
 <p align="center">
@@ -508,15 +519,6 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 > &ensp;&ensp;- **10/18/2023**
 
 These are just words. He didn't acknowledge anything I said, separately or together. He occasionally wrote that he disagreed with the characterization, and made no argument as to why.
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
- <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
-</picture>
-</a>
-</p>
 
 ### Summary of why interim
 
