@@ -211,8 +211,8 @@ I joined the Center for Health and Technology a year into their efforts to model
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d07991d2-3993-4775-9385-70d946fc60ce">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d07991d2-3993-4775-9385-70d946fc60ce">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
 </picture>
 </a>
 </p>
@@ -232,8 +232,8 @@ Perhaps Charles or some of his colleagues may find the [above diagram](#benzodia
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1618be9e-d693-40a1-80cf-c341467f635f">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1618be9e-d693-40a1-80cf-c341467f635f">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
 </picture>
 </a>
 </p>
@@ -262,13 +262,13 @@ Henry got an offer to lead the AI division at the National Science Foundation, w
 
 Meanwhile I was working at the Med Center, so I secured my funding through that.
 
-### Chenlaing Xu
+### Chenliang Xu
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/16f92b2b-8c20-498c-9ed8-929d31781f86">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2e8fcf2c-f112-4b9d-bd25-b5f15063b517">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/16f92b2b-8c20-498c-9ed8-929d31781f86">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/2e8fcf2c-f112-4b9d-bd25-b5f15063b517">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/16f92b2b-8c20-498c-9ed8-929d31781f86">
 </picture>
 </a>
 </p>
@@ -292,8 +292,8 @@ There were further terrors at the University of Rochester Medical Center that I 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/18d7f4f7-cce6-406b-8de3-85f5b5c05227">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/18d7f4f7-cce6-406b-8de3-85f5b5c05227">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/93e5513c-604f-4f07-aa9f-8d8e9f61fd9c">
 </picture>
 </a>
 </p>
@@ -325,8 +325,8 @@ However, that lab is the least of the work I did ([here](https://github.com/sler
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc1133c-ec4c-422a-bfc4-0626aa42a07b">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cd7a43ca-6baf-4e9f-8462-d40cbf68cbc5">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc1133c-ec4c-422a-bfc4-0626aa42a07b">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cd7a43ca-6baf-4e9f-8462-d40cbf68cbc5">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc1133c-ec4c-422a-bfc4-0626aa42a07b">
 </picture>
 </a>
 </p>
@@ -361,8 +361,8 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9edd1736-c414-4737-9a01-29b2df251b02">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9edd1736-c414-4737-9a01-29b2df251b02">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
 </picture>
 </a>
 </p>
@@ -402,8 +402,8 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5e699ce6-7758-4544-ab33-684b27b848fa">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5e699ce6-7758-4544-ab33-684b27b848fa">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
 </picture>
 </a>
 </p>
@@ -425,8 +425,8 @@ In summary, Michael Scott and a brand new interim committee, who had effectively
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
  <picture>
-   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1fed1e45-99b4-469c-92dc-5198146b9542">
-   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1fed1e45-99b4-469c-92dc-5198146b9542">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
 </picture>
 </a>
 </p>
