@@ -480,7 +480,7 @@ I delivered what was requested and he put his boot down on my sincerity and effo
 
 Later, he specified the detail he didn’t like. No no, it wasn’t the research-related material, as he later self-contradicted, it was my request for “peace” towards the end.
 
-However, this alone does not damn Michael. He was CC’d on or I sent him, *all* of the context. At first, he got the [medical context]() and only the research “context” from the brand new interim committee, later the research context, and gradually he realized that his only justification for the termination — despite what he previously specified — was a measly six-month review make-up, the one that was post-hoc both with respect to advisor desertion and requirement (which I warned on **08/10/2023**](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) I wasn't going to attend, and Michael was CC'd), and a formalism that isn’t under any ordinary PhD circumstance considered that important.
+However, this alone does not damn Michael. He was CC’d on or I sent him, *all* of the context. At first, he got the [medical context]() and only the research “context” from the brand new interim committee, later the research context, and gradually he realized that his only justification for the termination — despite what he previously specified — was a measly six-month review make-up, the one that was post-hoc both with respect to advisor desertion and requirement (which I warned [on **08/10/2023**](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) I wasn't going to attend, and Michael was CC'd), and a formalism that isn’t under any ordinary PhD circumstance considered that important.
 
 But at that point he stayed doubled down.
 
