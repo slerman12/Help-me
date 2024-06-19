@@ -357,10 +357,10 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 ### Tom Howard
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85a04ddb-b8f6-4d0c-abac-3e407d34b7a0">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9edd1736-c414-4737-9a01-29b2df251b02">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7a3072f0-939b-4178-854c-ca091377e168">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/729c7861-768d-4562-aa28-7bc505205e13">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85a04ddb-b8f6-4d0c-abac-3e407d34b7a0">
 </picture>
 </a>
 </p>
@@ -398,10 +398,10 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 ### Charles Venuto
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7efafb8-f9a5-4f9e-b60b-2f8620330ff7">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5e699ce6-7758-4544-ab33-684b27b848fa">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e5683ed4-9b54-4ef0-9e56-ed1b8d9c2bf0">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/afeae487-0978-4665-8a1d-1c55e698f7d8">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7efafb8-f9a5-4f9e-b60b-2f8620330ff7">
 </picture>
 </a>
 </p>
