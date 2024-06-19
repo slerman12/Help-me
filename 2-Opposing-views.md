@@ -1,4 +1,4 @@
-# Opposing views
+<img width="589" alt="Kanan-light-3" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc741b1-7e5f-484a-bd01-94158fcb1d39"># Opposing views
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
@@ -323,10 +323,10 @@ However, that lab is the least of the work I did ([here](https://github.com/sler
 ### Chris Kanan
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc1133c-ec4c-422a-bfc4-0626aa42a07b">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc741b1-7e5f-484a-bd01-94158fcb1d39">
  <picture>
-   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cd7a43ca-6baf-4e9f-8462-d40cbf68cbc5">
-   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc1133c-ec4c-422a-bfc4-0626aa42a07b">
+   <source width="50%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/08f1f768-3058-462d-a066-b6cc4fda7e3c">
+   <img width="50%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc741b1-7e5f-484a-bd01-94158fcb1d39">
 </picture>
 </a>
 </p>
