@@ -452,7 +452,7 @@ His previous email read:
 > ### $``$
 > &ensp;&ensp;- **09/25/2023**
 
-(Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered materials).
+(Send the department my "new research plan" (despite the advisor and PI believing I was ready to defend) by **10/06/2023**, now an added independent requirement to the previously delivered materials to the independent six-month review committee).
 
 Then I delivered another research plan, with precision and accuracy, by the specified date **10/06/2023**. 
 
