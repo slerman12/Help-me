@@ -421,10 +421,10 @@ So in other words: Chris Kanan (who [didn't remember the meeting](https://github
 ### Michael L. Scott
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a3d6987c-3e7a-4923-b311-cd0e323fe911">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e4938352-3a54-450f-9fc7-0a58c3530b34">
  <picture>
    <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a3d6987c-3e7a-4923-b311-cd0e323fe911">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a3d6987c-3e7a-4923-b311-cd0e323fe911">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e4938352-3a54-450f-9fc7-0a58c3530b34">
 </picture>
 </a>
 </p>
