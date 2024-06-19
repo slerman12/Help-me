@@ -497,10 +497,10 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free.
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/dd67261d-adc3-4afd-9aaa-821d5526c017">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
  <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/dd67261d-adc3-4afd-9aaa-821d5526c017">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/dd67261d-adc3-4afd-9aaa-821d5526c017">
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/59c6d568-7714-44d3-a67a-830cd600933b">
 </picture>
 </a>
 </p>
