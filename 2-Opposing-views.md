@@ -418,7 +418,7 @@ Besides 4 years in undergrad, 5 - 7 years is the average time for a PhD (I was i
 
 In summary, Michael Scott and a brand new interim committee, who had effectively never met me, decided to add to my advisor's decision, [for altogether different "reasons"](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) than this six-month review make-up, then had to change their minds when they realized every research-related reason they gave on record was wrong. At the end, this make-up became their only recourse.
 
-### Michael Scott
+### Michael L. Scott
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/30df7cc7-ed34-4cb2-85eb-69868c96c69b">
