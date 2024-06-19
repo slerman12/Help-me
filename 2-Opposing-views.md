@@ -1,5 +1,3 @@
-<img width="589" alt="Kanan-light-3" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/9fc741b1-7e5f-484a-bd01-94158fcb1d39"># Opposing views
-
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
 <picture>
