@@ -418,6 +418,15 @@ I haven't spoken to Charles since and he didn't say a word during the six-month 
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
+ <picture>
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
+</picture>
+</a>
+</p>
+
 ### Michael L. Scott
 
 <p align="center">
@@ -496,16 +505,7 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free. 
 
-### Brand new interim committee and Michael
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
- <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/444c031c-30c9-4a9e-9b12-a8901a643c41">
-</picture>
-</a>
-</p>
+### Recap
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
 
@@ -513,7 +513,7 @@ Since I had to switch advisors, and my PI Niaz agreed to be on my defense commit
 
 That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
-### The Deans
+### The University of Rochester
 
 <p align="center">
 <a href="https://www.rochester.edu/college/deans/">
