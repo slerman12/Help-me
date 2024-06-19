@@ -499,10 +499,10 @@ For all of the aforementioned reasons, and final, I was terminated without degre
 ### Interim
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1b4ba5bf-7448-4b34-90b6-61e01c3ba079">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5776165e-2ce4-4a51-8cb4-f8980314f2f5">
  <picture>
-   <source width="30%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1b4ba5bf-7448-4b34-90b6-61e01c3ba079">
-   <img width="30%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1b4ba5bf-7448-4b34-90b6-61e01c3ba079">
+   <source width="30%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5776165e-2ce4-4a51-8cb4-f8980314f2f5">
+   <img width="30%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5776165e-2ce4-4a51-8cb4-f8980314f2f5">
 </picture>
 </a>
 </p>
