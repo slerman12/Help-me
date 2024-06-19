@@ -412,7 +412,7 @@ Charles was my Med Center advisor. Charles and Henry both oversaw me in those fi
 
 I credited Charles as co-author on that paper, however they at the Med Center did not credit me for the prototype of the disease prognostication [model]((https://github.com/slerman12/DiseaseModeling)) (since developed since that original version mentioned [above](#charles-venuto)) and [website]((https://github.com/slerman12/DiseaseModelingWebApp)) I came up with, had to argue for, built, and presented in DC in front of reknowned Parkinson's disease researchers, a poster and live demo presentation that also wasn't credited (and not to mention was still amid the very peak of my benzo withdrawal).
 
-Since Charles was the only person on the committee who knew me since I began the program, chronology/durations seems sufficiently relevant to mention here:
+Since Charles was the only person on the committee who knew me since I began the program, chronology/duration seems sufficiently relevant to mention here:
 
 Besides the 4 years that people usually do in undergrad, 5 - 7 years is the average time for a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
 
