@@ -494,8 +494,6 @@ See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/bl
 
 For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I mentioned that in the second 3 years, I had to work for the Mechanical Engineering department, on research independent from my AI research. I can throw away that in the first 3, I had to work in the Medical Center for funding, even for months as I worked for Chenliang for free.
 
-In summary, Michael Scott and a brand new interim committee, who had effectively never met me, decided to terminate me on the basis of a six-month review that one of the committee members didn't say a word in or have video on, another one of the committee members didn't remember, another one of the committee members had concluded the requirements of, and the last committee member being my advisor who didn't want to terminate me, only cut off my funding due to not enough papers.
-
 ### Recap
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
