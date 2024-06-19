@@ -414,7 +414,7 @@ I credited Charles as co-author on that paper, however they at the Med Center di
 
 Since Charles was the only person on the committee who knew me since I began the program, chronology/duration seems sufficiently relevant to mention here:
 
-Besides the 4 years that people usually do in undergrad, 5 - 7 years is the average time for a person to do a PhD (I was in my 6th year), with other students in the University of Rochester CS department going into their 7th year or more.
+Besides the 4 years that people usually do in undergrad, 5 - 7 years is the average time for a person to do a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
 
 ### Michael L. Scott
 
