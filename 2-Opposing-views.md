@@ -514,7 +514,7 @@ Since I had to switch advisors, and my PI Niaz agreed to be on my defense commit
 That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
 > ### $"$
-> I have conferred with members of your committee. They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree.  
+> I have conferred with members of your committee. They confirm that the plan you outline is neither consistent with what you originally proposed for the PhD nor a viable path to completion of the degree. With regret, we will be terminating [...]
 > ### $``$
 > &ensp;&ensp;- Michael Scott
 
