@@ -207,10 +207,10 @@ I joined the Center for Health and Technology a year into their efforts to model
 ### Charles Venuto
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
  <picture>
-   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d07991d2-3993-4775-9385-70d946fc60ce">
-   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/146b3dec-6d21-402d-b281-0d35becd77c8">
+   <source width="40%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/0492d0ae-d9cc-40ec-b86d-8af1b12c7a13">
+   <img width="40%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
 </picture>
 </a>
 </p>
@@ -219,8 +219,6 @@ Charles was my first advisor there.
 
 Henry recommended me to the position at the Med Center to do disease modeling, while I was still an undergrad, predating all of the medical trauma, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. “Neurodegenerative” means when the brain degenerates, for example, by chemical floodbaths of GABA and severe downregulation.
 
-The work I did at the Med Center earned me a recommendation back to Henry Kautz. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, he accepted me into his group as a doctoral student.
-
 While I was working and researching under Charles, I had built a [disease prognostication machine learning model](https://github.com/slerman12/DiseaseModeling) that won top-three in the Michael J. Fox Foundation for Parkinson's Research PPMI  contest, and came up with the idea of building a web app for the prognostication to give clinicians a clean, elegant interface. I had to argue a bit, and convince them, and then they let me, and, as a PhD student (about in my second year, already in benzo withdrawal), I even presented it at a conference in DC in front of reknowned researchers in the Parkinson's research field. Despite that being my idea and my [prototype](https://github.com/slerman12/DiseaseModelingWebApp), they liked it so much that they hired a web development team to build one, and since have never given me credit. They also patented it, and since have given me no proprietary rights or earnings either.
 
 Perhaps Charles or some of his colleagues may find the [above diagram](#benzodiazepine-mechanism-of-action) valuable in their work, this time ideally with credit attribution.
@@ -228,13 +226,15 @@ Perhaps Charles or some of his colleagues may find the [above diagram](#benzodia
 ### Henry Kautz
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/49c4a7a0-86d0-4808-b695-bb544790c829">
  <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/1618be9e-d693-40a1-80cf-c341467f635f">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c7b8e28b-5439-45f0-8dd2-c9e3aa878e14">
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/f62c915e-5152-439d-8a72-cad0866bffb8">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/49c4a7a0-86d0-4808-b695-bb544790c829">
 </picture>
 </a>
 </p>
+
+The work I did at the Med Center earned me a recommendation back to Henry Kautz. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, he accepted me into his group as a doctoral student.
 
 Henry told me I passed my area exam in my second PhD year with "flying colors." I haven't gotten to the fact that before my hospitalization, I was extremely ahead of every curve already, not the mentioned research. The hospitalization coincided with when I’d innovated independently on MHDPA, the method underlying ChatGPT, 6 years ago, with fully implemented and novel code in hand (from scratch, since that was still Tensorflow 1.0 days and no one was using Pytorch), and wrote a [paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9), just before and in the hospital, finishing the final — successful — experiments for that paper from the hospital because they allowed my mom to bring in my laptop after some insistence. I was the only one at the time in the entire University of Rochester, PhD students included, who heard of [MHDPA](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md). It’s funny, knowing them, they might forget, but, yes, in 2018, I was the only student or faculty who heard of [MHDPA](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md), seeing as almost nobody outside of DeepMind heard of [MHDPA](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Conv-is-all-you-need.md) then. 
 
