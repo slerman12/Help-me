@@ -433,10 +433,10 @@ So in other words: Chris Kanan (who [didn't remember the meeting](https://github
 ### Recap
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5290be0b-5b0b-4d26-a0ed-bc6d1f7e1abd">
  <picture>
-   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
-   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
+   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5290be0b-5b0b-4d26-a0ed-bc6d1f7e1abd">
+   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5290be0b-5b0b-4d26-a0ed-bc6d1f7e1abd">
 </picture>
 </a>
 </p>
