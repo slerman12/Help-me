@@ -287,7 +287,7 @@ Henry is a more esteemed researcher than Chenliang, but Computer Vision is one o
 
 It's ironic also that when he announced his desertion, I was in the middle of a paper review with positive reviews, that got accepted [on **10/30/2023**](https://www.nature.com/articles/s41524-023-01164-8) while I was still a working student.
 
-There were further terrors at the University of Rochester Medical Center that I don't want to get into, but during Chenliang's tenure (one of the easier ones to point out, that happened in the geriatric unit hospitalization (referenced [here](#hospitalization)) was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring as the one behind me kept wheeling me off). 
+There were further terrors at the University of Rochester Medical Center that I don't want to get into, but during Chenliang's tenure (one of the easier ones to point out, that happened in the geriatric unit hospitalization (referenced [here](#hospitalization)) was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring my screaming ("My toe! My toe! Ahh!") as the one behind me kept wheeling me off). 
 
 ### Niaz Abdolrahim
 
