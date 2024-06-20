@@ -356,7 +356,7 @@ I should add details about the work that Chris Kanan asked me to do, or suggeste
 Long-term memory is what I was working on longest. From the Spring semester of my Freshman year, 
 - when I built a long-term episodic memory reinforcement learning controller on top of image features from Felzenshwalb segmentation in Chenliang Xu's machine vision class,
 - to that semester where I actually did meet Tom Howard for 5 minutes and told him about using the idea for robotics when we went to his robotics lab because he took an interest (and that short exchange is the only time I talked to him prior to this),
-- to when I impressed a researcher at DeepMind at NeurIPS (then called "NIPS") 2018 about it (and still have the conversation with Jürgen Schmidhuber that I got to have at that conference evdienced in my email record, whose hand I'm glad I shook at the end of his presentation),
+- to when I impressed a researcher at DeepMind at NeurIPS (then called "NIPS") 2018 about it in Montreat (and still have the different conversation with Jürgen Schmidhuber that I got to have at that conference evidenced in our email record, whose hand I'm glad I shook at the end of his presentation),
 - to plenty of email-record (e.g. with Prof. Len Schubert),
 - as well as my area exam,
 - as well as my thesis proposal,
