@@ -289,6 +289,8 @@ It's ironic also that when he announced his desertion, I was in the middle of a 
 
 There were further terrors at the University of Rochester Medical Center that I don't want to get into, but during Chenliang's tenure (one of the easier ones to point out, that happened in the geriatric unit hospitalization (referenced [here](#hospitalization)) was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring my screaming ("My toe! My toe! Ahh!"), as the one behind me kept wheeling me off). TO DO: Describe this short vignette more believably 
 
+During those 3 years, Chenliang wasn't directly funding me. He put me on a Mechanical Engineering lab for funding, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the committee members who agreed on my termination addressed that I was working for and eceiving funding for my work from the Mechanical Engineering department.
+
 ### Niaz Abdolrahim
 
 <p align="center">
