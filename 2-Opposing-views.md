@@ -291,7 +291,7 @@ There were further terrors at the University of Rochester Medical Center that I 
 
 During those 3 years, Chenliang wasn't directly funding me. He put me on a Mechanical Engineering lab for funding, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael L. Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work).
 
-With respect to Chenliang, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else due to me not providing a high enough quantity of publications in his Computer Vision group.
+With respect to Chenliang, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else due to me not providing enough publications in his Computer Vision group.
 
 ### Niaz Abdolrahim
 
