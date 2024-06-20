@@ -411,15 +411,15 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 ### Charles Venuto
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/faea876a-9196-4625-8ef2-24eae964a6b7">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/13879811-283f-4d3c-ba60-c55233d06f7a">
  <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/7c0148d5-de1d-4512-bd70-17afcbffb97c">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/faea876a-9196-4625-8ef2-24eae964a6b7">
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e69ebe79-e2ec-4e01-bb8f-c17cf3451bf5">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/13879811-283f-4d3c-ba60-c55233d06f7a">
 </picture>
 </a>
 </p>
 
-First, some elaboration on Charles since he was on my committee:
+I have to elaborate more on Charles since he was on my six-month review committee.
 
 Charles was my Med Center advisor. Charles and Henry both oversaw me in those first 3 years, before Henry's promotion meant I had to switch into Chenliang's lab and start an altogether new Computer Vision-branch focus of research, with an ultimatum to submit a top-venue paper that summer *in* Computer Vision, literally a brand new field to me. And I did. Amazingly. Though that seems to be unappreciated (the benchmarks and conventions for actual acceptance, though not necessarily substance, are more elaborate than just plopping MHDPA on top of a CNN). However, the explainability-centric paper that I came up with, derived, wrote, and programmed would not have been my preferred research area, since I was working on MHDPA and long-term episodic memory methods for Charles in the Med Center (and Henry) prior to that, and wrote [my novel MHDPA method paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) before MHDPA had any popularity or reknown outside of small groups at DeepMind. MHDPA, for the uninitiated, became the backbone, 5 years later, of foundation models like ChatGPT. Henry doubted my obsession with the method back in 2018. No one at the university heard of it. And when switching to Chenliang's lab, he wasn't too thrilled with the idea of applying it to Semantic Image Segmentation, in what would've been perhaps (with some rarely-credited DeepMind experiments at the time having already done it on CNNs) the first Vision Transformer (since it would've had to convincingly beat baseline scores on Computer Vision benchmarks). So instead, under an employment-contingent ultimatum, I co-wrote my ICCV [Taylor-CAM](https://arxiv.org/abs/2006.08601) paper under Chenliang with Henry and Charles. Charles and I managed to sneak biomedical modeling into the appendix (see Appendix J, rather understated and invisible).
 
