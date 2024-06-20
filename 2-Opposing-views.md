@@ -285,6 +285,8 @@ For context, Henry's average was 1 - 3 across the PhD student's full tenure.
 
 Henry is a more esteemed researcher than Chenliang, but Computer Vision is one of the most competetive fields in "science." It's a paper factory. His students on average are often expected to publish several papers per year, which as far as science goes, means quality always has to be traded for quantity. In AI (especially Computer Vision, where innovations can be used for things like facial recognition in mass surveillance or human location tracking), that's pretty dangerous, the more talented a researcher gets. Not every one of Chenliang's students was as brilliant as Oppenheimer, but imagine if they were. Chenliang puts the blame on the standard conference deadline schedule in Computer Vision (e.g. CVPR, ICCV), and maybe this is an overly specialized/esoteric radical idea, but venues like TMLR, a relatively new venue that has rolling year-round submissions and allows continuous revisions, should be the standard kind of venue in AI.
 
+It's ironic also that when he announced his desertion, I was in the middle of a paper review.
+
 There were further terrors at the University of Rochester Medical Center that I don't want to get into under Chenliang's tenure (one of the easier ones to point out, that happened in the geriatric unit one, was my big toe getting running over by the wheelchair I was in as the nurse pushed it, me screaming in pain, and with the nurse rolling me off and other nurses all ignoring). 
 
 ### Niaz Abdolrahim
