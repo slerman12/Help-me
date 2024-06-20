@@ -424,7 +424,7 @@ I haven't spoken to Charles since and he didn't say a word during the six-month 
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
-### Recap (PhD committee)
+### Recap
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/55a5d2b8-bcbf-4846-a0b2-8b3e5dedd941">
