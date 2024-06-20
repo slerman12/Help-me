@@ -293,7 +293,7 @@ During those 3 years, Chenliang wasn't directly funding me. He put me on a Mecha
 
 With respect to Chenliang, Chenliang wanted to allocate that Mechanical Engineering-work funding to someone else due to me not providing enough publications in his Computer Vision group.
 
-Meanwhile, under Niaz, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
+Meanwhile, under Niaz, in the Mechanical Engineering department, specicially Material Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
 ### Niaz Abdolrahim
 
