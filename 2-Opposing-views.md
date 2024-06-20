@@ -345,7 +345,7 @@ They Holocausted me. By whatever legal definition exists, they Holocausted me. E
 
 Now rewind in time a bit. Not to the days of the Canaanites, but to the days before Chris Kanan.
 
-Two of my advisors and two of my committee members deserted, for funsies, e.g. sabbaticals (I barely had time for Sabbath), promotions, funding reallocation, etc., and I was left with a brand new interim committee, consisting of Chenliang Xu, who had just announced his desertion, Charles Venuto, who worked in the Med Center and had no expertise in AI, Chris Kanan, last-minute added interim committee member, and Tom Howard, last-minute added interim committee member.
+Two of my advisors and two of my committee members deserted, for funsies, e.g. sabbaticals (I barely had time for Sabbath), promotions, retirement, funding reallocation, etc., and I was left with a brand new interim committee, consisting of Chenliang Xu, who had just announced his desertion, Charles Venuto, who worked in the Med Center and had no expertise in AI, Chris Kanan, last-minute added interim committee member, and Tom Howard, last-minute added interim committee member.
 
 I never effectively met half of my committee, we had one 20-minute Zoom call in which I presented, and then an after-room discussion.
 
