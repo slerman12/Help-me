@@ -291,6 +291,8 @@ There were further terrors at the University of Rochester Medical Center that I 
 
 During those 3 years, Chenliang wasn't directly funding me. He put me on a Mechanical Engineering lab for funding, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael L. Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work).
 
+Chenliang didn't want to allocate Mech-E funding for me anymore due to not enough papers for his CS group.
+
 ### Niaz Abdolrahim
 
 <p align="center">
@@ -431,8 +433,8 @@ So in other words: Chris Kanan (who [didn't remember the meeting](https://github
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
  <picture>
-   <source width="60%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
-   <img width="60%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
+   <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
+   <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85352371-afc9-4cc0-a998-5c20f9d68fbd">
 </picture>
 </a>
 </p>
