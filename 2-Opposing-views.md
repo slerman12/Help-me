@@ -556,6 +556,12 @@ That’s the whole story, and where in there is even the slightest administrativ
 > – mls
 > ### $``$
 
+#
+
+> ### $"$
+> Michael, I have had several committees during my duration here. The one you are referring to doesn’t even include my original PhD advisor.
+> ### $``$
+
 ### The University of Rochester
 
 <p align="center">
