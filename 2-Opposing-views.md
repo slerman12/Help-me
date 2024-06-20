@@ -541,6 +541,21 @@ That’s the whole story, and where in there is even the slightest administrativ
 > ### $``$
 > &ensp;&ensp;- Michael L. Scott
 
+#
+
+> ### $"$
+> Michael, which committee is that?
+> ### $``$
+> &ensp;&ensp;- Sam Lerman
+
+#
+
+> ### $"$
+> Your PhD committee.
+>
+> – mls
+> ### $``$
+
 ### The University of Rochester
 
 <p align="center">
