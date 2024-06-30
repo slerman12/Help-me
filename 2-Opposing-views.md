@@ -522,7 +522,7 @@ Michael doesn't know this, but he bumped my grade up in undergrad once. Now he u
 
 See "Slavery or impossible" [here](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md) (in the next chapters) for elaboration on what was demanded on me *together with* the six-month review make-up.
 
-For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free.
+For all of the aforementioned reasons, and final, I was terminated without degree. 6 years of the hardest work the university has ever seen thrown away and spit on, with no accountability, from the same single monopoly and institution that induced multiple medical malpractices on me, mutilated me into looking like Gollum literally, and put me through a literal physiological coerced burning hellfire for more than a year that can't be described. Meanwhile, those years in the program involved two advisors leaving due to no fault of my own. I had to work in the Medical Center and Mechanical Engineering department for funding, even for a quarter to a half a year as I worked for Chenliang for free.
 
 > ### $"$
 > Hi Sam -
