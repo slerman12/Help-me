@@ -263,10 +263,10 @@ Meanwhile I was working at the Med Center, so I secured my funding through that.
 ### Chenliang Xu
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d6ec8e-8978-4694-8057-8b6915f5e8ea">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
  <picture>
-   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/3619399e-880e-43fc-8934-3054564f0af3">
-   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d6ec8e-8978-4694-8057-8b6915f5e8ea">
+   <source width="45%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaed8423-9fbb-4533-9d59-8500b620fed8">
+   <img width="45%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
 </picture>
 </a>
 </p>
