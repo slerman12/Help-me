@@ -316,7 +316,7 @@ The paper ended up getting acepted, after my termination and on the day before m
 
 Chenliang put me on the Mechanical Engineering lab as the source of my funding, on a project which I led, which was funded by two pretty-major grants that I helped write, which included my ideas, which somehow, by Chenliang's and very-much-not-Niaz's decision, wouldn't fund me any longer.
 
-Niaz, perhaps an "opposing view," though someone I really like, was my other Principle Investigator next to Chenliang. Oh but to be clear, I was still in Chenliang's lab and reporting to that lab as well every week. I was doing extreme amounts of work for both. 
+Niaz, perhaps an "opposing view," though someone I really like, was my other Principle Investigator next to Chenliang. Oh but to be clear, I was still in Chenliang's lab and reporting to that lab as well every week. I was doing extreme amounts of work for both, teh latter of which I haven't started describing yet. 
 
 For Niaz's group whose group, I did a lot of programming, serving in a software engineering-type role despite having gotten some strong credibility as understanding more than that; data generation and pipeline-optimizing; schematic-creating; and grant-idea-providing-and-writing work. 
 
