@@ -318,7 +318,7 @@ Chenliang put me on the Mechanical Engineering lab as the source of my funding, 
 
 Niaz, perhaps an "opposing view," though someone I really like, was my other Principle Investigator next to Chenliang. Oh but to be clear, I was still in Chenliang's lab and reporting to that lab as well every week. I was doing extreme amounts of work for both, the latter of which I haven't started describing yet. 
 
-For Niaz's group, I did a lot of programming, data generation and pipeline-optimizing; idea invention and schematic designing; all of the model building and experiment running; and grant-idea-providing-and-writing-and-diagram-designing work. 
+For Niaz's group, I did a lot of programming, data generation and pipeline-optimizing; idea invention and schematic designing; grant-idea-providing-and-writing-and-diagram-designing; and all of the model building and experiment running.
 
 In Chenliang's group, I was still trying to do my own research, which was pretty heavily bottlenecked. That's part of why I stayed up days and nights then, too, practicing every discipline imaginable — from Transcendental Meditation to yoga to freezing cold ice baths — to achieve the [full scope](https://github.com/AGI-init/UnifiedML-legacy) of what I wanted to do for [both](https://github.com/AGI-init/XRDs).
 
