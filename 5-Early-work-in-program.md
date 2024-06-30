@@ -2,6 +2,22 @@
 
 ## Part 6
 
+In progress: structure like this, and actually elaborate on the enormous work done:
+
+### Disease Prediction
+**2016 - 2020**
+
+### Persistent Biologically-Inspired RNN Cell 
+**2018**
+
+### Long-Term Memory
+**2018 - today**
+
+### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
+**2018**
+
+#
+
 > This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
 >
 > It mainly shows how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md) for work I did throughout my PhD.
@@ -29,19 +45,5 @@ I should add: I got an [honorable mention](https://www.research.gov/grfp/Awardee
 > TO DO: Describe disease modeling in its own section, as well as the Keras-type framework I built for medical modeling with long-term episodic memory, how that is still relevant via leveraging foundation model memory, and all the work I did at the medical center that I conveniently excluded here.
 
 Can include NSF GRFP documents.
-
-In progress: structure like this, and actually elaborate on the enormous work done:
-
-### Disease Prediction
-**2016 - 2020**
-
-### Persistent Biologically-Inspired RNN Cell 
-**2018**
-
-### Long-Term Memory
-**2018 - today**
-
-### ChatGPT Underlying Method Innovation (Long Before Time Innovation of Underlying Method of MHDPA)
-**2018**
 
 
