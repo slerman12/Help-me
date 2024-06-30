@@ -164,7 +164,7 @@ Laying on the couch for a year, immobilized, shaking with excruciating agony. No
 
 The nightmare I mentioned earlier was a waking one for a year.
 
-You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. For some reason my teeth had calcified during the time I was on the benzos. She diagnosed it, by whatever authority she has, as that. This was already when I was starting to recover to some extent about 10 months after withdrawing, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos.
+You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. For some reason my teeth had calcified during the time I was on the benzos. She diagnosed it, by whatever authority she has, as that. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos.
 
 The steak-diet saved my ass.
 
