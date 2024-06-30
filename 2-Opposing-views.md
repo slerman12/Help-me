@@ -398,7 +398,7 @@ But afterwards, I got an email — I think from Chenliang and perhaps from the g
 > 2.    before August 30, 2023, re-do and pass a six-month review.
 > ### $``$
 
-It's ironic that I'm being asked for remediation.
+It's ironic that I'm being asked for remediation. The university should remediate to me.
 
 I don't know who decided these extra requirements, if it was the CS chair Michael Scott, or Tom Howard, or Chris Kanan, or even Chenliang.
 
