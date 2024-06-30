@@ -57,7 +57,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - You should probably protest
       - Slavery or impossible
       - Why it's fascism
-      - Brand new interim committee
+      - Summary of why interim
       - Email: 10/31/2023
       - Conclusive disproof
   - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
@@ -72,6 +72,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - "Life ruined" post
       - Mikhaila Peterson steak-only diet concurrent recommendation
       - Jordan Peterson's sensationalized Benzo-brain damage timing
+      - Physics
   - Thesis
     - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
       - Part 6
