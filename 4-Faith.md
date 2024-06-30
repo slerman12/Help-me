@@ -69,10 +69,6 @@ Description
 
 Description
 
-### Maybe the Pawlicki synchronicity
-
-Description
-
 ### Physics
 
 Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination returning to me regularly and intensely thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a theory of everything (involving a differentiable, intelligence-optimizable, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments.
