@@ -25,11 +25,11 @@ Here's a personal story, since I was fixated with Taoism at the time:
 
 To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
 
-The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness", as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: “Difficulty at the beginning” (as Richard Wilhelm described: “The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.”) $\rightarrow$ (changes to) “Fellowship with man” (e.g., baldness). That answer about whether my hair’d grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could “sprout” out of the earth, my head, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
+The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: “Difficulty at the beginning” (as Richard Wilhelm described: “The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.”) $\rightarrow$ (changes to) “Fellowship with man” (e.g., baldness). That answer about whether my hair’d grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could “sprout” out of the earth, my head, like blades of grass, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
 
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
 
-Another time I did the steak-only diet, my pubic hair grew back — temporarily.
+Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
 
 Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
@@ -62,7 +62,7 @@ Eczema leads to hair loss leads to depression and worsening psychiatric state. I
 
 Damn. I'm sorry. This is hard. 
 
-Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced eczema, and social anxiety. And I remember carefully tabulating when I could take one, but I only took them rarely, mostly for social events. I knew they were dangerous. I warily took a quarter to a half of a milligram before, less than once per every two weeks, if that much, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and my cognition feeling blurred. That was before the hospitalization, at a once-at-most-two-weeks rate. The hospital rate was beyond unprecedented for me, a 5'5" 110lb guy.
+Clinicians come in, telling me I have to keep taking the benzos. It's not my choice. In the hospital, it was either that or court order. The dose is huge, bigger than I'd ever taken. And I'm familiar with benzo dose calculations because I had a prescription before, for stress-induced eczema, and social anxiety. And I remember carefully tabulating when I could take one, but I only took them rarely, mostly for social events. I knew they were dangerous. I warily took a quarter to a half of a milligram before, less than once per every two weeks, if that often, and that much left hangover symptoms. Not major hangovers, not like alcohol, but noticeable, next-day drowsiness and my cognition feeling blurred. That was before the hospitalization, at a once-at-most-two-weeks rate. The hospital rate was beyond unprecedented for me, a 5'5" 110lb guy.
 
 I had to stay there for a month and they forced me to take 48x that dosage reduced later to 12x that dosage, over the course of 3 times per day, every day. Think about that. $\frac{1}{4}$ to $\frac{1}{2}$ of a milligram, once every two weeks at most, had side effects. $48\text{x}$ $-$ $12\text{x}$ that dosage, but every day.
 
@@ -394,8 +394,8 @@ But afterwards, I got an email — I think from Chenliang and perhaps from the g
 > ### $"$
 > As remediation, the committee asks the student to
 >
-> 1. ﻿﻿before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters,
-> 2. ﻿﻿﻿before August 30, 2023, re-do and pass a six-month review.
+> 1.   before June 5, 2023, provide a 1-page write up that addresses the problem statement, hypothesis, and approaches of the thesis and give an outline of thesis chapters,
+> 2.    before August 30, 2023, re-do and pass a six-month review.
 > ### $``$
 
 It's ironic that I'm being asked for remediation.
