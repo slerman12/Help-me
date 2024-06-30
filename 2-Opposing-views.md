@@ -575,7 +575,7 @@ That’s the whole story, and where in there is even the slightest administrativ
 
 ## Additional details for part 2
 
-1. TO DO: See if I can locate the discharge papers that said the outpatient doctor would wean me off the benzos.
+1. TO DO: See if I can locate the discharge papers that said the outpatient doctor will wean me off the benzos.
 2. TO DO: Add how Aetna (the University-provided health insurance) did it again, with a photo of the huge bills they suddenly started sending me 10 months into therapy for my psychologist.
 
 ## Additional details for part 3
