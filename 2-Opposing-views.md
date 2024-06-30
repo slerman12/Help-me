@@ -404,7 +404,7 @@ I don't know who decided these extra requirements, if it was the CS chair Michae
 
 I delivered a 6-page write up, as well as a chapter-list, as well as a 1-page write up summary in the 6-page write up, meeting all of the requirements of (1) for this brand new interim committee that effectively never met me. 
 
-Subsequently, Chris Kanan suggested that I innovate a new reinforcement learning systems-based algorithm, which I did, as I described [above](#chris-kanan).
+Subsequently, Chris Kanan suggested that I innovate a new reinforcement learning systems-based algorithm (also suggesting it post-hoc), which I did, as I described [above](#chris-kanan).
 
 These are enormous requirements that I met on their behalf.
 
