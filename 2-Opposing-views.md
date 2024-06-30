@@ -283,8 +283,6 @@ In defense of Chenliang: he eventually accepted me into his lab (when I succesfu
 
 For context, Henry's average was 1 - 3 across the PhD student's full tenure.
 
-5 - 7 years is the average time for a person to do a PhD (I was doing my 6th). Other students in the University of Rochester CS department were going beyond their 7th year.
-
 Henry is a more esteemed researcher than Chenliang, but Computer Vision is one of the most competetive fields in "science." It's a paper factory. Chenliang's students are often, though to his credit with some adaptation, individually expected to publish several papers per year, which as far as science goes, means quality has to be traded for quantity. And in Computer Vision, where innovations can be directly used for facial recognition in mass surveillance technology or human location tracking or drone geographical perception for military uses, that's pretty dangerous the more talented a researcher gets. Not every one of Chenliang's students was as brilliant as Oppenheimer, but imagine if they were, and kept at that pace without pausing to question their advancements. Chenliang puts the blame on the standard conference deadline schedule in Computer Vision (e.g. CVPR, ICCV), and maybe this is an overly specialized/esoteric radical idea, but venues like TMLR, a relatively new venue that has rolling year-round submissions and allows continuous revisions, should be the standard over venues like CVPR and NeurIPS.
 
 It's ironic also that when he announced his desertion, I was in the middle of a [paper review with positive reviews, that got accepted on **10/30/2023**](https://www.nature.com/articles/s41524-023-01164-8) while I was still a working student.
