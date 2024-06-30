@@ -75,5 +75,5 @@ Description
 
 ### Physics
 
-Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination burgeoning and increasing. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (a physicist, about applying deep learning models to his work for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and me coming up with a theory of everything (involving a differentiable, meaning intelligent, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit light diffraction experiments since being terminated.
+Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination burgeoning and increasing. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (a physicist, about applying deep learning models to his work for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and me coming up with a theory of everything (involving a differentiable, meaning intelligent, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (e.g., "XRD") experiments since being terminated.
 
