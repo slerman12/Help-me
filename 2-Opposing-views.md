@@ -413,10 +413,10 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 ### Charles Venuto
 
 <p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d1df71e2-bbdb-455d-b271-8103bd6d72bc">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/88057836-9605-4d4a-86b1-00e8bcc86148">
  <picture>
-   <source width="38%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/4f4e3881-68ce-417c-8ae5-2937baf2b7d4">
-   <img width="38%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/d1df71e2-bbdb-455d-b271-8103bd6d72bc">
+   <source width="38%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/4496d2b4-98ee-43e8-9324-64e680bd9d35">
+   <img width="38%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/88057836-9605-4d4a-86b1-00e8bcc86148">
 </picture>
 </a>
 </p>
