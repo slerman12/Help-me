@@ -38,7 +38,7 @@ Screenshots
 
 ## Synchronicities
 
-Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) were happening that I will list below and leave for your judgement on their metaphysical or coincidental nature.
+Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.org/wiki/Synchronicity) happened that can be listed below and I leave for your judgement on their metaphysical or coincidental nature.
 
 ### Deus ex memory
 
