@@ -8,7 +8,7 @@
 
 [name redacted] messages.
 
-### Allies 
+### Allies
 
 Message about preferring to die than legal action
 
@@ -42,14 +42,14 @@ Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.
 
 ### Deus ex memory
 
-- Indeed, my faith regarding sending my sincere description of the traumas, despite the difficulty of doing so, was somewhat rewarded, though probably not by their conscious intent, rather by a lucky [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md), wherein one of the 3 committee members (accidentally) recorded to official record that he really-extraordinarily didn’t remember the details of the meeting on which all of this was based. 
- - Following this [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) exchange with Chris Kanan, I had yet another reply I wanted to send afterwards that would’ve ruined the conclusive punctuation of the previous, and by chance my internet went down or some disruption to the internet happened after hitting send and I was really lucky that it didn’t go through, leaving this exchange on the note of “we all know what just happened,” and a strong discredit to the committee's judgement-making thoughtfulness and memory.
+- Indeed, my faith regarding sending my sincere description of the traumas, despite the difficulty of doing so, was somewhat rewarded, though probably not by their conscious intent, rather by a lucky [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md), wherein one of the 3 committee members (accidentally) recorded to official record that he really-extraordinarily didn’t remember the details of the meeting on which all of this was based.
+- Following this [“Deus Ex Memory”](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md) exchange with Chris Kanan, I had yet another reply I wanted to send afterwards that would’ve ruined the conclusive punctuation of the previous, and by chance my internet went down or some disruption to the internet happened after hitting send and I was really lucky that it didn’t go through, leaving this exchange on the note of “we all know what just happened,” and a strong discredit to the committee's judgement-making thoughtfulness and memory.
 - This is the same Chris Kanan who gave the [one and only concrete research suggestion](), which I ended up following [exceptionally and on proven GitHub record]() before the termination decisions, and didn't just get no credit, but also the judgement that I “refused to follow” committee advice as the justification for the termination decision, despite the advice being disproportionately hard and intense (“invent a new RL systems algorithm before the next meeting”, [paraphrasing]()), and having done it quite extraordinarily really via a novel accelerated parallel priority experience replay with sampling-without-replacement algorithm with memory-mapping, and truly-shared RAM. There was nothing like it, still isn’t, and it’s by far the best RL implementation of experience replay and adjacent sampling algorithms, as well as being novel as an algorithm itself via the sampling-without-replacement, which I described to my advisor’s satisfaction in literally the meeting in which he next notified me of my stipend and advisor-cut, since that was his intent for the meeting.
 - The theme of memory is a big coincidence in itself since what I implemented was a large-scale, dynamically growable, rewritable, truly shared RAM and adaptive memory-mapping across devices parallelized lifelong replay memory. [TO DO: Stress this way more]
 - There was also [one more synchronicity]() involving Chris Kanan that I’ll leave for Ancillary.
 - I never met Chris Kanan in person and my advisor suggested him as one of the last-minute replacement committee members. Note: I don't think he should be punished for this. I think whatever powers-that-be that regulate his consciousness proved stronger than the ones that facilitate the atmosphere/landscape of the formal University of Rochester, and did good amid impossible programming.
 
-### "Sam Altman" same-time termination, OpenAI's Q* project  
+### "Sam Altman" same-time termination, OpenAI's Q* project
 
 Description
 
@@ -72,4 +72,3 @@ I finished making this [benzo-timeline diagram](https://github.com/slerman12/Det
 ### Physics
 
 Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination returning to me regularly and intensely thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a theory of everything (involving a differentiable, intelligence-optimizable, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments.
-
