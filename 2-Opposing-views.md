@@ -312,7 +312,7 @@ I was transferred to the Mechanical Engineering department. It was there, while 
 
 I asked if Niaz could be my advisor, and she said transfering to the Mechanical Engineering department — formally — is hard and that it was unlikely.
 
-The paper ended up getting acepted, after my termination and on the day before my last day as an employed student.
+The paper ended up getting accepted, after my termination and on the day before my last day as an employed student.
 
 Chenliang put me on the Mechanical Engineering lab as the source of my funding, on a project which I led, which was funded by two pretty-major grants that I helped write, which included my ideas, which somehow, by Chenliang's and very-much-not-Niaz's decision, wouldn't fund me any longer.
 
