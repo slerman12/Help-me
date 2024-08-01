@@ -578,6 +578,15 @@ That’s the whole story, and where in there is even the slightest administrativ
 1. TO DO: See if I can locate the discharge papers that said the outpatient doctor will wean me off the benzos.
 2. TO DO: Add how Aetna (the University-provided health insurance) did it again, with a photo of the huge bills they suddenly started sending me 10 months into therapy for my psychologist.
 
+add details about vision and dental coverage in the student insurance policy, and therapist
+- Those details include that I had to see the dentist for the damage the university did to me (the tooth chunks falling out from benzo-induced teeth calcification), and the university’s health insurance didn’t cover dental
+- And that I had to pay out of pocket for glasses, but with deadlines from the university, I missed the prescription filing deadline for the prescription I got for those glasses, and had to pay the full sum anyway, without even receiving the glasses I needed
+- I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was years after any medical event or hospitalization, and unjustified by any reason. Not to mention, the severest of the traumas were induced by the university who was providing the health insurance as part of my employment.
+
+#
+
+I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was years after any medical event or hospitalization, and unjustified by any reason.
+
 ## Additional details for part 3
 
 1. Besides the 4 years that people usually do in undergrad, 5 - 7 years is the average time for a person to do a PhD (I was in my 6th), with other students in the University of Rochester CS department going into their 7th year or more.
