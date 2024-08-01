@@ -8,7 +8,7 @@
 
 [name redacted] messages.
 
-### Allies 
+### Allies
 
 Message about preferring to die than legal action
 
@@ -67,20 +67,20 @@ CMT (the portal that was used to submit to the "NIPS" 2018 conference, today cal
 
 And not only foretold to my university's professors, but innovated on and executed successful experiments verifying the early innovation — and formal paper submission, later derailed by me having to switch advisors, fields, and put on deadlines, not to mention all of their doubt, skepticism, and lack of enthsuiasm (oh but enthusiasm came later when MHDPA exploded, with Henry even telling me on email record, after he was no longer my advisor, that I should work on vision transformers!).
 
-### "Sam Altman" same-time termination, OpenAI's Q* project
+### Sam "Altman"
 
-The head of OpenAI, the company that invented ChatGPT (that used the same method I was still uncredited for by my university for foretelling to them), whose name is "Sam Altman" (mine is Sam Lerman), and "Altman" does not mean "teacher," was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination, then was brought back.
+The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose name is "Sam Altman" (mine is Sam Lerman) — "Altman" — was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination.
 
-They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/Bad-Synchronicities/blob/main/Synchronicity-Paranoias.md).
+### "Life ruined" post, entire-forum being deleted 5 months after I emailed it to the faculty/administrators 
 
-### The “life ruined” entire-forum being deleted 5 months after I emailed it to the faculty/administrators, after having shown it to Niaz who commented in person about it, and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running
+Description [after having shown it to Niaz who commented in person about it, and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running]
 
-Description
+### House on May St. 
 
-### House on May St. where I came up with my long-term memory research ideas, and realized that stochasticism in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature
+I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo) disciplines, while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
 
-Description (this was in my 2nd semester, Spring, 2018) 
+I was sleeping, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight standard deviations by an intelligence — like the biological or artificial kind — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
 
 ### Physics
 
-Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination returning to me regularly and intensely thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a theory of everything (involving a differentiable, intelligence-optimizable, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments.
+Description [Revelatory insights about the universe as a differentiable brain in my 2nd year, with that fascination returning to me regularly thereafter. Then in my 3rd/4th year, a 5-minute but-urgent/vivid/visceral conversation with my uncle (an optics physicist, about applying deep learning models to his work, involving optics, including behavior of light, for my PhD) just before — by chance — being put on the XRD (meaning, light diffraction) project by Chenliang, and, since being terminated, me coming up with a theory of everything (involving a differentiable, intelligence-optimizable, simulation of the universe) showing the agreement of my wave theory with measurement primarily through light multi-slit diffraction (analogous to XRD) experiments]
