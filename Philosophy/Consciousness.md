@@ -28,9 +28,9 @@ Finally, there is the mystery why the universe has these qualia and entanglement
 
 And that is, rather than a mystery, quite an answer.
 
-Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" 
+Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" The least assuming assumption is the most reasonable default one.
 
-However, the only reason for assuming "nothing" in the very question is that "nothing" is the most general assumption, and the most general assumption is the most default one. However, there is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
+However, "least assuming" means "without loss in generality" and there is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
 
 Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise from nothing, a function that transforms nothing into something must exist. But that function is in itself something, so our "nothing" assumption is contradicted as soon as any such function is introduced.
 
