@@ -30,7 +30,7 @@ And that is, rather than a mystery, quite an answer.
 
 Cosmologists have asked for centuries, *"How did something arise from nothing?"* It's a good question. After all, it assumes the most general origin state: nothing. If it assumed *something*, as in, something specific, e.g. "God" or "the universe pretty much as it is," we'd have to ask, "Well, how did we get *that* extremely specific thing?" "Nothing" is assumed to be the most reasonable default assumption because it appears to be the least assuming, most general. “Least assuming” mathematically means “without loss in generality.”
 
-However, there is another assumption tied to nothing in generality: and that's everything, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.here is another assumption tied to nothing in generality: and that's *everything*, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
+However, there is another assumption tied to nothing in generality: and that's everything, including grief, bliss, misery, agony, and suffering. Infinite amounts of everything, all at once. Infinite joy and infinite peace and infinite pain.
 
 Now, "nothing" succumbs to a pretty apparent fallacy. For something to arise from nothing, a function that transforms nothing into something must exist. But that function is in itself something, so our "nothing" assumption is contradicted as soon as any such function is introduced.
 
