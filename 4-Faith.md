@@ -16,7 +16,7 @@ Message about preferring to die than legal action
 
 Screenshot
 
-I almost said “It makes me want to die” in the [mass email of 10/30/23](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10302023). Thankfully a friend in a group chat of several people suggested otherwise, or else the University of Rochester might’ve been responsible for doing another coerced hospitalization of me, and a repeat of the cycle of unforeseen consequences from involuntary invasive and drug interventions on me. Either way, however, they could have *plausibly* been responsible for a student and worker's suicide.
+I almost said “It makes me want to die” in the [mass email of 10/30/23](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10302023). Thankfully a friend in a group chat of several people suggested otherwise, or else the University of Rochester might’ve been responsible for doing another coerced hospitalization of me, and a repeat of the cycle of unforeseen consequences from involuntary interventions on me. Either way, however, they could have *plausibly* been responsible for a student and worker's suicide.
 
 > Date: **10/30/23**
 
