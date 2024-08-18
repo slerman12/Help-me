@@ -27,25 +27,33 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
 
   - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
-    - Part 2 (University-hospital psychiatrists, University outpatient doctor, University psychiatric ward janitor, University-hospital police officers)
-      - Psychiatrists
+    - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
+      - House on May St.
+      - Psychiatrists at the University of Rochester’s Strong Hospital
       - Benzodiazepine mechanism of action
       - Hospitalization
-      - My... trauma
-    - Part 3 (University PhD advisors, University PhD committee members, University CS department Chair, University Deans)
+      - My trauma
+    - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
-      - Niaz Abdolrahim
+      - More Seriously
+        - I didn't mention fingernails (fingernails regrowth)
+        - How my grandma got dementia
+        - How my grandpa died
+        - Another old Jew helps transition the times
+        - Geriatric unit hospitalization
+        - Warmth, nature, and organic-type foods
+        - Schools
+        - Intimacy healing
+        - The artificial and synthetic
+        - AI
+      - Niaz Abdolrahim (okay, some more not-tragedy)
       - Chris Kanan
       - Tom Howard
       - Charles Venuto
-      - Michael L. Scott
       - Recap
-      - The University of Rochester
-    - Additional details for part 1
-    - Additional details for part 2
-    - Additional details for part 3
+      - Michael L. Scott
   - [Disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
     - Part 4
       - Email: 10/27/2023
@@ -54,6 +62,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Hardest worker - literally.
       - My termination had nothing to do with my work
       - Hypocrisy
+      - Dental, Therapy, Vision Charges - Health insurance provided by University of Rochester’s CS department’s grad program
       - You should probably protest
       - Slavery or impossible
       - Why it's fascism
@@ -71,7 +80,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Mikhaila Peterson
       - Timing of benzodiazepine coercion diagram
       - CMT deletion of record
-      - "Sam Altman" same-time termination, OpenAI's Q* project
+      - Sam "Altman"
+      - Michael Scott’s paper factory
       - "Life ruined" post
       - House on May St.
       - Physics
