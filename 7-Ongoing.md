@@ -3,8 +3,8 @@
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
 <picture>
-  <source width="55%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
-  <img width="55%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
+  <source width="70%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
+  <img width="70%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
 </picture>
 </a>
 </p>
@@ -121,7 +121,7 @@ Gloria: **Gandalf**
 
 Josh: **Aragorn**
 
-Ukrainian Neighbor Gurgen: **Bilbo, or Tom Bombadil**
+Ukrainian Neighbor Goergen: **Bilbo, or Tom Bombadil**
 
 Marina, Dave, Aunt Jhena, Aunt Rosa, other Aunt Jhena, Edgar: **Other Hobbits, or pivotal players of good in the Battle of Helms Deep and the Battle of Isengard**
 
@@ -152,7 +152,7 @@ The University of Rochester: **Saruman**
 > - in writing
 > - when support is withdrawn
 
-- The only time reinstatement was mentioned was by Michael [on **10/31/2024**](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10312023). No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing).
+- The only time reinstatement was mentioned was by Michael [on **10/31/2024**](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#email-10312023). No details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty, nor in writing).
 - I replied to that reinstatement-mentioning email when it was sent on **10/31/2024**, that is, on my last day of being an employed PhD student, [asking for evidence for the termination reasons](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md#hypocrisy) and my reply was ignored. It was the last message sent between us, prior to [these ones](#email-02072024) above that I resumed also currently being ignored. In the [above email](#email-02072024) (the latest of the ignored), I brought up that the reinstatement-condition wasn't indicated to me.
 - In that reinstatement-mentioning email that Michael ignored my replies to, Michael had reached out to meet in person, but that wouldn't suffice for reinstatement nor secure my future as an employee with a salary, advisor, and a basic standard of living. The reason for wanting to meet was "mutual understanding." The reinstatement-clause explicitly specifies "in writing."
   - It's taking me a year to write this book. "Mutual understanding" requires at least a book's-worth of traumatic context, that according to Michael, would somehow be better conveyable off-the-record via a meeting while I had no salary or income to an authority in a threatening position, who ignored my replies, hid away from my emailed questions, and disrespected me via a sudden termination email (the Termination Slam) on **10/12/2024** immediately following sending him my sincere research proposal that his previous email specified as the condition for staying in the program (of research that I'd already done, and according to two PIs and former advisor was ready to defend)... and the idea of "proposing" a research "plan" in one's 6th year — already having done the substance of the PhD — is ridiculous, not to mention my advisor's only caveat to graduation that month being that I follow his formatting instructions, ridiculous in itself since I hadn't started writing the thesis yet. Michael didn't approve my plan due to contradictory opinions from a brand new interim committee, despite everything that was communicated and verified to him by email, such as my advisor's opinion that I was ready to defend, the confirmation that my advisor was leaving (second advisor to do so, and again for no particular reason), Chris Kanan's forgetting of details about the meeting ("[Deus Ex Memory](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)"), and all of the [aforementioned trauma](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md) condensed as much as I could've, communicated and re-visited for him elaborately in real-time in writing.
