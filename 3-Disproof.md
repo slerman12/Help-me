@@ -25,7 +25,7 @@ Computer Science Department, University of Rochester</br>
 
 Subject line: **Re: [Grads] Supporting students**</br>
 To: **CS grad department students**</br>
-From: **Sam Lerman**
+From: **Sam Lerman**</br>
 
 Michael, can you clarify where in the PhD handbook it says that a student with two publications (one pending) may be dismissed, last-minute and without prior warning, for “not enough papers” in their 6th year? In the middle of a paper-review response, by the way. Pending, with positive reviews. And having had no begrudging or otherwise “tacit” negative relationship with their advisor. Purely on that reason: “not enough papers”.
 
@@ -66,7 +66,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 - Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon.
 - Daily early morning jogs.
 - Daily calisthenics, morning and afternoon.
-- Daily freezing cold ice baths in the morning.
+- Daily Wim Hof method and freezing ice-cold baths in the morning.
 - No movies, tv shows, or social media... or even for a long time music.
   - Only reading, usually non-fiction or philosophical texts, and nature walks.
 - Organic grassfed grass-finished pasture-raised steak, Himalayan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage for a student with no financial safety net, a family that immigrated here without money as refugees (including me), and that New York State officially classifies the University of Rochester's salary for PhD students as being below official living wage. Noting again: three times my hair grew back on this diet, and it very noticeably expedited my brain damage recovery, and those were the reasons I had to do it (besides work demand, a friend biasing me more towards recognizing the dietary value of eating more meat, and Mikhaila Peterson recommendation).
@@ -94,13 +94,20 @@ The University gave false reasons for why they were terminating me, and didn't c
 
 There’s a difficult-to-state hypocrisy about the University of Rochester being the ones to terminate me. Professor Florian Jaeger’s termination was called for by the entire student body, [and me](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl)). The scandal sensationalized to national prominence, the University spent millions of dollars in defense of, well, evidence-based termination, and then ultimately a dean resigned and not that professor.
 
-After this 10/30/2023 email, replying to the false accusation of "declining to follow research advice", I said:
+After this 10/30/2023 email, replying to the false accusation of "declining to follow research advice" (see below, [Email: 10/31/2023](#email-10312023) from them), I wrote in reply:
 
 > "Please provide evidence of research (not thesis-formatting) advice that was provided and not followed."
 
 None of them provided any evidence of anything, or replied for that matter. They made an exceptionally untrue accusation. It's not even funny how much I followed research advice and did what I was told.
 
 Another point of their hypocrisy is that their concluding termination reason was, as their last recourse of justification, that I "skipped" a make-up review, from a committee where every single one of my advisors and most of my committee members had previously skipped or altogether left without notice or warning.
+
+### Dental, Therapy, Vision Charges - Health insurance provided by University of Rochester’s CS department’s grad program
+
+add details about vision and dental coverage in the student insurance policy, and therapist:
+- Those details include that I had to see the dentist for the damage the university did to me (the tooth chunks falling out from benzo-induced teeth calcification), and the university’s health insurance doesn’t cover dental
+- And that I had to pay out of pocket for glasses, but with deadlines from the university, I missed the prescription filing deadline for the prescription I got for those glasses, and had to pay the full sum anyway, without even receiving the glasses I needed
+- I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was already after all of my hospitalizations, and unjustified by any reason. Not to mention, the severest of the traumas were all induced by the university who was providing the health insurance as part of my employment. [add link to photo of bills with charges suddenly hiked by hundreds of dollars per session]
 
 ### You should probably protest
 
@@ -201,7 +208,7 @@ That’s the whole story, and where in there is even the slightest administrativ
 > - in writing
 > - when support is withdrawn
 
-In the email shown below, the possibility of reinstatement was mentioned, but no details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty in writing).
+In the email shown below, the possibility of reinstatement was mentioned, but no details were given how, on what conditions, and whether any advisor or source of income would be provided, and if not, how to go about obtaining those without any further connections or resources to do so. Having emailed the individual faculty members who might have served as replacements, and met with one and suggested another to the department, there wasn't a path (and none of these things were suggested by the faculty, nor in writing).
 
 Also, I replied to this email below when it was sent, that is, on my last day of being an employed PhD student, [asking for evidence for the termination reasons](#hypocrisy) and my reply was ignored. It was the last message sent between us, after [the ones above](#email-10272023) and prior to [these ones](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md) that I resumed also currently being ignored. In that last of the ignored emails mentioned, I brought up that the reinstatement-condition wasn't indicated to me.
 
@@ -217,11 +224,12 @@ Support, as distinct from pay, was withdrawn long before Michael or any faculty 
 
 Any appearance of the below email as indicating a reinstatement-condition is gaslighting. The referent of what is mentioned is reinstatement, not a reinstatement-condition. Even if that weren't the case, "in writing" cannot be relegated as "in person" (and thereby “off the record”) unless the indicated reinstatement-condition can redefine the clause from which it's necessitated, but the PhD student handbook isn't a rewritable Turing tape (at least not ad lib), making that absurd to such a point that asserting it becomes gaslighting.
 
-Note also: the University of Rochester's CS department doesn't have PhD "reinstatement applications." 
+Note also: the University of Rochester's CS department doesn't have PhD reinstatement applications.
 
 Subject line: **Re: Supporting students**</br>
 To: **Sam Lerman**</br>
-From: **CS department chair**
+From: **CS department chair**</br>
+CC: **Wendi Heinzelman, Nick Vamivakas, Chenliang Xu, Robin Clark**
 
 Dear Sam,
 
