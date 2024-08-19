@@ -81,7 +81,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Timing of benzodiazepine coercion diagram
       - CMT deletion of record
       - Sam "Altman"
-      - Michael Scott’s paper factory
       - "Life ruined" post
       - House on May St.
       - Physics
