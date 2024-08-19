@@ -474,7 +474,6 @@ I'm anti-prohibition. My message is only this: the best experiences of a person'
 And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
 
 Intimacy healing is a step towards that, starting with medical institutions.
-- And doubly note, via humans.
 
 #### AI
   
