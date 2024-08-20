@@ -1,5 +1,7 @@
 # Early work in program
 
+> To do: Early work in program should go into the human spirit’s fight to achieve, metric level of intelligence as referenced in the benzo mechanism, and area exam and master’s degree amid crux of benzo trauma
+
 ## Part 6
 
 > This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
