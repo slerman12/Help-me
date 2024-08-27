@@ -335,7 +335,7 @@ My grandpa survived two heart attacks previously, one in Uzbekistan and one in A
 
 They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office in a different location.
 
-My grandpa was a self-reliant man, but the stress of moving from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that grueling trial to get to his heart doctor's office (they resorted to using an elevating machine that lifted him, an almost 88 year old man, up from his bed), and my mom witnessed how big a toll that transfer of locations took. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
+My grandpa was a self-reliant man, but the transit from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. He died that night of heart failure, after that grueling trial to get to his heart doctor's office (they resorted to using an elevating machine that lifted him, an almost 88 year old man, up from his bed), and my mom witnessed how big a toll that transfer of locations took. That doctor had even asked, "Why was he discharged from the hospital? In this condition, he should be in the hospital." 
 
 My grandpa's heart failed, at least sooner than it would've, due to the trial of getting him to the bus from the Jewish home that took him to his heart doctor. His official death date is the night (morning) after that appointment, January 22, 2016.
 
