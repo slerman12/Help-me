@@ -45,6 +45,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
         - Schools
+        - Future hair losses
         - Intimacy healing
         - The artificial and synthetic
         - AI
@@ -128,11 +129,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Existence of Definitions
       - Cosmogenesis Myth
       - Alternative Set of Definitions of Math and Philosophy
-  - [Does Nature Endorse?](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Does-Nature-Endorse%3F.md)
-    - Synchronicities in Presidential Elections
-      - Examples of a Plausible Universe-Endorsement
-      - Meaning
-      - Political Manipulation via Manufactured Signs
   - [Dormant Communications](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Dormant-Communications.md)
   - [Fire](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Fire.md)
   - [Imagination Theory](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Imagination-Theory.md)
