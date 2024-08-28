@@ -19,13 +19,13 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
 ## $\mathfrak{Chapters}$
 
 - **Sam**
-  - [Sam](https://github.com/slerman12/BrokenWisdoms/blob/main/1-Sam.md)  
+  - [Sam](1-Sam.md)  
     - Prologue
     - Chapters
 
 - **Opposing Views**
 
-  - [Opposing views](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md)
+  - [Opposing views](2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
       - House on May St.
@@ -55,7 +55,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Recap
       - Michael L. Scott
-  - [Disproof](https://github.com/slerman12/BrokenWisdoms/blob/main/3-Disproof.md)
+  - [Disproof](3-Disproof.md)
     - Part 4
       - Email: 10/27/2023
       - Email: 10/30/2023
@@ -70,7 +70,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Summary of why interim
       - Email: 10/31/2023
       - Conclusive disproof
-  - [Faith](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md)
+  - [Faith](4-Faith.md)
     - Part 5
       - Friends
       - Allies
@@ -86,11 +86,11 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - House on May St.
       - Physics
   - Thesis
-    - [Early work in program](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md)   
+    - [Early work in program](5-Early-work-in-program.md)   
       - Part 6
-    - [Indebted](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md)   
+    - [Indebted](6-Indebted.md)   
       - Part 6 (Continued)
-  - [Ongoing](https://github.com/slerman12/BrokenWisdoms/blob/main/7-Ongoing.md)
+  - [Ongoing](7-Ongoing.md)
     - Part 7
       - Email: 02/07/2024
       - Email: 02/07/2024
@@ -111,8 +111,8 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Dialogue of the Congress 2
 
 - **Philosophy**
-  - [Consciousness](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Consciousness.md)
-  - [Cosmogenesis Myth](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Cosmogenesis-Myth.md)
+  - [Consciousness](Philosophy/Consciousness.md)
+  - [Cosmogenesis Myth](Philosophy/Cosmogenesis-Myth.md)
     - Archetypal Madness
     - Math
       - Deduction
@@ -129,12 +129,12 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - Existence of Definitions
       - Cosmogenesis Myth
       - Alternative Set of Definitions of Math and Philosophy
-  - [Dormant Communications](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Dormant-Communications.md)
-  - [Fire](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Fire.md)
-  - [Imagination Theory](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Imagination-Theory.md)
+  - [Dormant Communications](Philosophy/Dormant-Communications.md)
+  - [Fire](Philosophy/Fire.md)
+  - [Imagination Theory](Philosophy/Imagination-Theory.md)
     - A philosophical breakdown of simulation theory
-  - [My Spirituality](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/My-Spirituality.md)
-  - [Velocity Addition Formula](https://github.com/slerman12/BrokenWisdoms/blob/main/Philosophy/Velocity-Addition-Formula.md)
+  - [My Spirituality](Philosophy/My-Spirituality.md)
+  - [Velocity Addition Formula](Philosophy/Velocity-Addition-Formula.md)
     - Practice and principle
       - Velocity-addition formula
         - Deriving the velocity-addition formula
