@@ -41,6 +41,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
+        - When my grandma died
         - Another old Jew helps transition the times
         - Geriatric unit hospitalization
         - Warmth, nature, and organic-type foods
