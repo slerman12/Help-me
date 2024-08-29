@@ -209,11 +209,11 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 ### Samarkand, Uzbekistan and subjugation
 
-Many Jews, fled the Nazis. Anti-semitism was so severe in Ukraine, that Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maná and his younger sister Rósa, and my grandpa, Yury. 
+Many Jews, fled the Nazis. Anti-semitism was so severe in Ukraine, that Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maña and his younger sister Rosá, and my grandpa, Yury. 
 
 Jews in large numbers evacuated, and during the evacuations, my grandpa chased a train in Kazakhstan that was already moving, that his mom and sister were already boarded on. 
 
-Rósa was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, to make the grueling journey from the breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
+Rosá was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, to make the grueling journey from the breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
 
 I heard that story for the first time while in the severest point of my benzo withdrawal. I was told, as a kind of reassuring love wisdom about what I was certain was going to be permanent brain damage, "Lermans are strong."
 
