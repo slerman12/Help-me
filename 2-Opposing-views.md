@@ -209,7 +209,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 ### Samarkand, Uzbekistan and subjugation
 
-Many Jews, were tortured by, or had to flee or fight, Nazis during their occupation of Ukraine. Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maña and his younger sister Rosá, and my grandpa, Yury.
+Many Jews, were tortured by, or had to flee or fight, Nazis, when the Nazis occupied Ukraine. Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge for Jews, including for my grandpa’s mom Maña and his younger sister Rosá, and my grandpa, Yury.
 
 Jews in large numbers evacuated, and during the evacuations, my grandpa chased a train in Kazakhstan that was already moving, that his mom and sister were already boarded on. 
 
