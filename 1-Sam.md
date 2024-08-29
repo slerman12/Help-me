@@ -34,6 +34,7 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Hospitalization
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+      - Samarkand, Uzbekistan and subjugation
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
