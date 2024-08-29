@@ -207,8 +207,6 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
-### Samarkand, Uzbekistan and subjugation
-
 Many Jews, were executed or tortured, or left with PTSD, when the Nazis occupied Ukraine. Muslim nations, like Kazakhstan or Uzbekistan, were often the best available refuge, including for my grandpa’s mom Maña and his younger sister Rosá, and my grandpa, Yury.
 
 Jews in large numbers evacuated, and during the evacuations, my grandpa chased a train in Kazakhstan that was already moving, that his mom and sister were already boarded on. 
@@ -219,9 +217,13 @@ I heard that story for the first time while in the severest point of my benzo wi
 
 After the war, my grandpa and family returned from Kazakhstan and the warfront, to Ukraine.
 
+### Samarkand, Uzbekistan
+
 My grandma and grandpa had known each other as children, and met again in Ukraine while in college. They were getting degrees from two different colleges, one analogous to a chemical engineering degree, another in teaching. The Soviet Union then assigned my grandpa to move to Samarkand, Uzbekistan. At that point, he was already married to my grandma, and they had to move together to Samarkand, Uzbekistan. The job my grandpa was assigned to was to work as a leather technology engineer, at a leather manufacturing plant/factory that made leathers from sheepskin furs. Meanwhile, my grandma worked as a teacher of German language. His sister Rosá also joined them later, to live with them, and studied sales in Samarkand at an institute. 
 
 My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. My name is Sam, but I wasn’t born "Sam.” I was actually born "Siímyon,” after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam” sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. I was born last of my family. First, my mom Nélya and uncle Slava were born. Then my older cousins, Lena and Irina. And then my older sister Marina, and me.
+
+### Subjugation in Uzbekistan
 
 My grandparents, uncle’s family, and mom all applied to immigrate to America. My mom was the only one not approved. Probably because my grandma had a sister (Tsilia) with son Sasha in America, and my uncle Slava was a physicist, whereas for some reason my mom's status wasn't satisfactory. When my grandparents immigrated, they were able to send an invitation to my mom through the Embassy. My mom then had to do an interview with the American Embassy in Moscow to convince them that she was subjugated. There was actually less anti-semitism in Uzbekistan than in Ukraine, according to my mom, always, from the war when my grandpa was still young, to when my mom was an adult. One proof of subjugation she had is that, by custom, Jews weren’t allowed into PhD programs in Uzbekistan. She had a Master’s degree in music theory, was a great student, and taught at a music college, but wasn’t allowed to do a PhD due to being Jewish. Jews also were getting less teaching hours at her college. And more generally, Jews weren’t allowed to hold higher offices.
 
@@ -233,7 +235,9 @@ The interviewer laughed. "No, you’re absolutely right. Usually moms bring thei
 
 From the Republic of Uzbekistan, more than half a year later, we flew to Rochester, New York, immigrating officially as Jewish refugees. I was 3 and two thirds.
 
-In America, my mom found a low-paying piano teaching job, and got an associate's degree at a community college (MCC) in Computer Information Systems, hoping to earn more money. Later, she worked two jobs, as a piano teacher giving individual lessons for a piano studio and tutoring students at MCC as a part-time computer tutor in two different labs. She actually taught me how to program when I took my first ever computer science class, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming. 7 semesters later, I double majored in Computer Science and Mathematics, and thanks to work ethic and intelligence that I inherited from her, and some luck, got into a doctoral program at the same institution, the University of Rochester, an achievement that at the time was really good news.
+### PhD program
+
+In America, my mom found a low-paying piano teaching job, and got an associate's degree at a community college (Monroe Community College, or MCC) in Computer Information Systems, hoping to earn more money. Later, she worked two jobs, as a piano teacher giving individual lessons for a piano studio and tutoring students at MCC as a part-time computer tutor in two different labs. She actually taught me how to program when I took my first ever computer science class, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming. 7 semesters later, I double majored in Computer Science and Mathematics, and thanks to work ethic and intelligence that I inherited from her, and some luck, got into a doctoral program at the same institution, the University of Rochester, an achievement that at the time was really good news.
 
 Well, thanks to those things and my doctoral advisor, Henry.
 
