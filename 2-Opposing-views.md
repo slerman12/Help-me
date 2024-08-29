@@ -233,7 +233,11 @@ In America, my mom found a low-paying piano teaching job, and got an associate's
 
 Well, thanks to those things and my doctoral advisor, Henry.
 
-Henry recommended me to the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. It was an honor to be entrusted with leading the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?" 
+Prior to that, after my family moved to the United States as Jewish refugees from the Republic of Uzbekistan when I was three and two thirds, I faced many challenges: living in a small apartment with a single mother, poverty, learning English, assimilating to American culture, and processing the loss of my grandparents. On one hand, I understand the burden of poverty and the struggle of being an immigrant. Academically, this means being passionate and dedicated; socially, being open minded towards people of different backgrounds. On the other hand, however, I consider myself to be privileged. My mother is the embodiment of compassion. Material wealth is worthless without meaningful relationships, and disadvantaged conditions are made rich with love. 
+
+My mother raised me to understand the importance of looking at the world from another's perspective. As one cannot understand others without first understanding oneself, I have always sought to explore my mind. To me, artificial intelligence is an extension of the rigorous self-analysis I've been doing my entire life. Designing an intelligent machine not only requires an understanding of mathematics and computer science, but also of humanity and of motivation — and this understanding is afforded to me by the empathy I have for others and by the exploration of my consciousness. Not only can I connect the study of intelligence to my lifelong curiosity around the mystery of life, but I can realize these great technologies to affect the world in profoundly positive and meaningful ways. My aspiration in my career was to solve general intelligence, and have a voice in ensuring that it is used in the interest of every living being.	
+ 
+I joined the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. It was an honor to be entrusted with leading the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?" 
 
 ### Charles Venuto
 
