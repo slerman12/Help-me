@@ -215,7 +215,7 @@ Jews in large numbers evacuated, and during the evacuations, my grandpa chased a
 
 Rosá was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, to make the grueling journey from the market breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
 
-I heard that story for the first time while in the severest point of my benzo withdrawal. I was told, as a kind of reassuring love wisdom about what I was certain was going to be permanent brain damage, "Lermans are strong."
+I heard that story for the first time while in the severest point of my benzo withdrawal. I was told, as a kind of reassuring love about what I was certain was going to be permanent brain damage, "Lermans are strong."
 
 After the war, my grandpa and family returned from Kazakhstan and the warfront, to Ukraine.
 
