@@ -219,9 +219,9 @@ After the war, my grandpa and family returned from Kazakhstan and the warfront, 
 
 ### Samarkand, Uzbekistan
 
-My grandma and grandpa had known each other as children, and met again in Ukraine while in college. They were getting degrees from two different colleges, one analogous to a chemical engineering degree, another in teaching. After they got married, the Soviet Union then assigned my grandpa to move to Samarkand, Uzbekistan, and my grandpa and grandma moved together. The job my grandpa was assigned to was to work as a leather technology engineer, at a leather manufacturing plant/factory that made leathers from sheepskin furs. Meanwhile, my grandma worked as a teacher of German language. His sister Rosá also joined them later, to live with them, and studied sales in Samarkand at an institute. 
+My grandma and grandpa had known each other as children, and met again in Ukraine while in college. They were getting degrees from two different colleges, one analogous to a chemical engineering degree, another in teaching. The Soviet Union then assigned my grandpa to move to Samarkand, Uzbekistan. The job my grandpa was assigned to was to work as a leather technology engineer, at a leather manufacturing plant/factory that made leathers from sheepskin furs. Meanwhile, my grandma worked as a teacher of German language. His sister Rosá also joined them later, to live with them, and studied sales in Samarkand at an institute. 
 
-My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. My name is Sam, but I wasn’t born "Sam.” I was actually born "Siímyon,” after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam” sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. I was born last of my family. First, my mom Nélya and uncle Slava were born. Then my older cousins, Lena and Irina. And then my older sister Marina, and me.
+My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. I was born last of my family. First, my mom Nélya and uncle Slava were born. Then my older cousins, Lena and Irina. And then my older sister Marina, and me.
 
 ### Subjugation in Uzbekistan
 
@@ -229,9 +229,9 @@ My grandparents, uncle’s family, and mom all applied to immigrate to America. 
 
 So my mom had to fly to Moscow, with my sister and me, to do the interview at the Moscow embassy. My aunt’s brother’s family lived in Moscow, and my mom was able to leave us with them there. The interviewer interrogated: "Your form said you have kids. Where are they?" 
 
-My mom was at the Embassy from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep.” 
+My mom was at the Embassy from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep." 
 
-The interviewer laughed. "No, you’re absolutely right. Usually moms bring their kids here in order to show them to us. They think by proving, they’d get sympathy.”
+The interviewer laughed. "No, you’re absolutely right. Usually moms bring their kids here in order to show them to us. They think by proving, they’d get sympathy."
 
 From the Republic of Uzbekistan, more than half a year later, we flew to Rochester, New York, immigrating officially as Jewish refugees. I was 3 and two thirds.
 
