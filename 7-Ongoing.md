@@ -121,7 +121,7 @@ Gloria: **Gandalf**
 
 Josh: **Aragorn**
 
-Ukrainian Neighbor Goergen: **Bilbo, or Tom Bombadil**
+Ukrainian Neighbor Gorgen: **Bilbo, or Tom Bombadil**
 
 Marina, Dave, Aunt Jhena, Aunt Rosa, other Aunt Jhena, Edgar: **Other Hobbits, or pivotal players of good in the Battle of Helms Deep and the Battle of Isengard**
 
