@@ -215,6 +215,8 @@ Jews in large numbers evacuated, and during the evacuations, my grandpa chased a
 
 Rósa was crying in fear, thinking my grandpa wasn’t going to make it. He ran and jumped, just at the edge of the moment, into their arms, to make the grueling journey from the breads he was getting, to the transit. At that time, my grandpa’s father, Yacob, wasn’t with them. Yacob, also an Ashkenazi Jew, was drafted and was mandatorily fighting in the warfront, for Ukraine. 
 
+I heard that story for the first time while in the severest point of my benzo withdrawal. I was told, as a kind of reassuring love wisdom about what I was certain was going to be permanent benzo brain damage, "Lermans are strong."
+
 After the war, my grandpa and family returned from Kazakhstan and the warfront, to Ukraine.
 
 My grandma and grandpa had known each other as children, and met again in Ukraine while in college. They both were getting degrees from two different colleges, one analogous to a chemical engineering degree, another in teaching. The Soviet Union then assigned my grandpa to move to Samarkand, Uzbekistan. At that point, he was already married to my grandma, and they had to move together to Samarkand, Uzbekistan. The job my grandpa was assigned to was to work as a leather technology engineer, at a leather manufacturing plant/factory that made leathers from sheepskin furs. Meanwhile, my grandma worked as a teacher of German language. His sister Rosá also joined them later, to live with them, and studied sales in Samarkand at an institute. 
