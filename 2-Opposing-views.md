@@ -281,7 +281,7 @@ I rehearsed that area exam in front of my mom and uncle for a week every day bef
 
 My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through impossible circumstances of brain damage on will alone, and a big dose of benzos. 
 
-Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me a grueling ultimatum about joining. I worked under him for 3 years, at which time he deserted.
+Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted and I had to find a new advisor. He directed me to switch to Chenliang Xu, who gave me an ultimatum about joining. I worked under him for 3 years, at which time he deserted.
 
 ### Chenliang Xu
 
