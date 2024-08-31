@@ -315,6 +315,8 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 </a>
 </p>
 
+I lost my hair in the summer after my first year, I went into benzo withdrawal in the next summer after my second year, and I switched to Chenliang Xu’s lab in the next summer after my third year.
+
 For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
 Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and most likely, would've been terminated.
