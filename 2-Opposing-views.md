@@ -221,11 +221,11 @@ My mom was at the Embassy from early morning to night. "I left them with relativ
 
 "I’m going to meet with family, mom, dad, brother is already there. And I’m stranded."
 
-He just listened. He asked questions, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. There was actually less anti-semitism in Uzbekistan than in Ukraine, according to my mom, always, from the war when my grandpa was still young, to when my mom was an adult.
+He just listened. He asked questions, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. 
 
 "What, in Uzbekistan, it was bad?"
 
-She said, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They stopped giving me hours. Uzbeks they gave many. They stopped giving me hours. I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish." My mom had a master's degree in music theory. Jews generally weren't allowed to hold higher offices in Uzbekistan.
+She said, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They stopped giving me hours. Uzbeks they gave many. They stopped giving me hours. I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish." My mom had a master's degree in music theory. Jews generally weren't allowed to hold higher offices in Uzbekistan. Anti-semitism was bad in other Soviet countries as well. There was actually less anti-semitism in Uzbekistan than in Ukraine, according to my mom, always, from the war when my grandpa was still young, to when my mom was an adult.
 
 My mom continued, "Then when I was professor teaching at music college, I had to stop working there, I dropped out in 1998, I had to go there like 10 times with my kids to get record that I was working there and not working there anymore. I had to come there like 10 times. They were like, 'Oh director’s not here, director’s not here, he’s busy right now.' I had to walk, like a mile, with my kids, to get the documentation. They stopped giving me hours, and not just me, but other Jewish people."
 
