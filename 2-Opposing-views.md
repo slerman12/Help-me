@@ -225,6 +225,8 @@ He just listened. He asked questioned, she answered. It wasn’t a conversation.
 
 "What, in Uzbekistan, it was bad?"
 
+Jews generally weren't allowed to hold higher offices in Uzbekistan.
+
 She said, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions openly there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They stopped giving me hours. Uzbeks they gave many. They stopped giving me hours. I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish.
 
 "Then when I was professor teaching at music college, I had to stop working there, I dropped out in 1998, I had to go there like 10 times with my kids to get record that I was working there and not working there anymore. I had to come there like 10 times. They were like, ‘Oh director’s not here, director’s not here, he’s busy right now.’ I had to walk, like a mile, with my kids, to get the documentation. They stopped giving me hours, and not just me, but other Jewish people."
@@ -234,8 +236,6 @@ He asked again why she didn’t bring kids there.
 "I thought I didn’t have to bring them, the documentation said we didn’t."
 
 "Yes yes, you’re right, you didn’t have to and it’s good you didn’t."
-
-Jews generally weren't allowed to hold higher offices in Uzbekistan.
 
 From the Republic of Uzbekistan, we flew to Rochester, New York, immigrating officially as Jewish refugees. More than half a year passed since the Embassy interview. I was 3 and two thirds. My mom found a low-paying piano teaching job, and got an associate's degree at a community college in Computer Information Systems, hoping to earn more money. Later, she worked two jobs, as a piano teacher giving individual lessons for a piano studio, and tutoring students at MCC, the community college she got her associate’s degree from, as a part-time computer tutor in two different labs. She actually taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java.
 
