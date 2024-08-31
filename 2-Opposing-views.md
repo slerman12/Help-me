@@ -408,7 +408,7 @@ I suppose she’d’ve had to forestall her death as well, then, seeing she died
 
 She couldn’t have died on a more perfect day, except if my grandpa lived a many, many years longer.
 
-My grandpa also gets two claims to rhythmic numerical timing: (1) He entered the hospital on December 22, 2015, spent two weeks in the hospital, two weeks in the Jewish home, and then died exactly a month after, on January 22, 2016, (2) He, Yury Lerman, was born "Izya," but during the war, as documents were lost and "Izya" was a Jewish name amid an extremely anti-semitic Ukraine, he called himself "Yura," or the full name, "Yury," and that became his new name with the new documents when he was about 16, the same age (16 again) as my name was officially changed to "Sam" actually, by amazing ancestral-but-unintended rhyme.
+My grandpa also gets two claims to rhythmic numerical timing: (1) He entered the hospital on December 22, 2015, spent two weeks in the hospital, two weeks in the Jewish home, and then died exactly a month after, on January 22, 2016, (2) He, Yury Lerman, was born "Izya"; but during the war, as documents were lost and "Izya" was a Jewish name amid an extremely anti-semitic Ukraine, he called himself "Yura," or the full name, "Yury," and that became his new name with the new documents when he was about 16, the same age (16 again) as my name was officially changed to "Sam" actually, by amazing ancestral-but-unintended rhyme.
 
 Now for some stretchier synchronicities:
 
