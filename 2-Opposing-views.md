@@ -213,15 +213,27 @@ My grandpa was a leather technology engineer, my grandma worked as a teacher of 
 
 My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. I was born last of my family. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. First, my mom Nélya and uncle Slava were born. Then my older cousins, Lena and Irina. And then my older sister Marina, and me. 
 
-All of the adults applied for us to immigrate to America. My grandma had a sister (Tsilia) with adult son Sasha in America, and my uncle Slava was a physicist, whereas for some reason my mom's status wasn't satisfactory. We (my mom and her two kids) were the only ones not approved. When my grandparents immigrated, they sent an invitation to my mom through the Embassy. My mom then had to do an interview with the American Embassy in Moscow to convince them that she was subjugated. So my mom had to fly to Moscow, with my sister and me, to do the interview at the Moscow Embassy. My aunt’s brother’s family lived in Moscow, and my mom was able to leave us with them there. The interviewer interrogated: "Your form said you have kids. Where are they?" 
+All of the adults applied for us to immigrate to America. My grandma had a sister (Tsilia) with adult son Sasha in America, and my uncle Slava was a physicist, whereas for some reason my mom's status wasn't satisfactory. We (my mom and her two kids) were the only ones not approved. When my grandparents immigrated, they sent an invitation to my mom through the Embassy. My mom then had to do an interview with the American Embassy in Moscow to convince them that she was subjugated. So my mom had to fly to Moscow, with my sister and me, to do the interview at the Moscow Embassy. My aunt’s brother’s family lived in Moscow, and my mom was able to leave us with them there. The interviewer interrogated: "Your form said you have kids. Where are they?"
 
-My mom was at the Embassy from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep." 
+My mom was at the Embassy from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
 
-The interviewer laughed. "No, you’re absolutely right. Usually moms bring their kids here in order to show them to us. They think by proving, they’d get sympathy."  [edit]
+“A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity. Why ‘America you going’?
 
-Then he asked for proof of subjugation.
+“I’m going to meet with family, mom, dad, brother is already there. And I’m stranded in Uzbekistan.”
 
-There was actually less anti-semitism in Uzbekistan than in Ukraine, according to my mom, always, from the war when my grandpa was still young, to when my mom was an adult. One proof of anti-semitism she had about Uzbekistan was that, by custom, Jews weren’t allowed into PhD programs in Uzbekistan, despite her having a master’s degree and having been a great student, and being a well-loved teacher of Music Theory at a music college. She wasn’t allowed to get a PhD. Secondly, at her college specifically, Jews were getting less teaching hours. And Jews generally in Uzbekistan weren’t allowed to hold higher offices. 
+He just listened. He asked questioned, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. 
+
+“What, in Uzbekistan, it was bad?”
+
+She said, “Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions openly there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They stopped giving me hours. Uzbeks they gave many. They stopped giving me hours. I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was a Jewish.
+
+“Then when I was professor teaching at music college, I had to stop working there, I dropped out in 1998, I had to go there like 10 times with my kids to get record that I was working there and not working there anymore. I had to come there like 10 times. They were like, ‘Oh director’s not here, director’s not here, he’s busy right now.’ I had to walk, like a mile, with my kids, to get the documentation. They stopped giving me hours, and not just me, but other Jewish people.”
+
+He asked again why she didn’t bring kids there.
+
+“I thought I didn’t have to bring them, the documentation said we didn’t.”
+
+“Yes yes, you’re right, you didn’t have to and it’s good you didn’t.”
 
 More than half a year later from that interview, my mom learned that we were approved. From the Republic of Uzbekistan, we flew to Rochester, New York, immigrating officially as Jewish refugees. I was 3 and two thirds. Then, my mom found a low-paying piano teaching job, and got an associate's degree at a community college in Computer Information Systems, hoping to earn more money. Later, she worked two jobs, as a piano teacher giving individual lessons for a piano studio, and tutoring students at MCC, the community college she got her associate’s degree from, as a part-time computer tutor in two different labs. She actually taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java.
 
