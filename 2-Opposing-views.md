@@ -260,13 +260,13 @@ Before accepting me into his doctoral candidacy, Henry connected me to Charles V
 </a>
 </p>
 
-Charles was my first advisor there.
+Charles was my Med Center advisor.
 
-Henry recommended me to the position at the Med Center to do disease modeling, while I was still an undergrad, predating all of the medical trauma, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. "Neurodegenerative" means when the brain degenerates, for example, by chemical floodbaths of GABA from benzodiazepines and severe downregulation.
+Henry recommended me to the position to do disease modeling, while I was still an undergrad, predating all of the medical trauma, specifically, and entirely by coincidence, doing research in neurodegenerative disease modeling. "Neurodegenerative" means when the brain degenerates, for example, by chemical floodbaths of GABA from benzodiazepines and severe downregulation.
 
 While I was working and researching under Charles, I had written most of, come up with, programmed, and ran the experiments for the paper/contest-submission for a [disease prognostication machine learning model](https://github.com/slerman12/DiseaseModeling) that won top-three in the Michael J. Fox Foundation for Parkinson's Research PPMI  contest, and came up with the idea of building a web app for the prognostication to give clinicians a clean, elegant interface. I had to argue a bit, and convince them, and then they let me, and, as a PhD student (about in my third year, already in post-benzo withdrawal), I even presented it at a conference in DC in front of reknowned researchers in the Parkinson's research field. Despite that being my idea and my [prototype](https://github.com/slerman12/DiseaseModelingWebApp), that I had to argue for, build, and present to make credible, all by myself, they liked it so much that they hired a web development team to build one, and since have never given me credit. Charles also said they were going to patent it having even contacted a patent lawyer, and since have given me no information or updates about that either, or attributions or royalties.
 
-Perhaps Charles or some of his colleagues may find the above diagram ("5 Computational Neurons") valuable in their work, this time ideally with at least some credit attribution to me.
+Perhaps Charles or some of his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-benzos-mechanism-of-action)) valuable in their work, this time ideally with at least some credit attribution to me.
 
 But before we come to the conclusion that Charles is caught "red-handed," he was very supportive; and he was left-handed, I recall, like my grandpa.
 
@@ -283,7 +283,7 @@ But before we come to the conclusion that Charles is caught "red-handed," he was
 
 The Parkinson's disease progression models I built at the Med Center as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests, he accepted me into his PhD group as a doctoral student.
 
-After the hospitalization, it was from that couch (in early 2019) during a video call with my advisor (who was in DC) during the peak-period of the withdrawal  that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
+After the hospitalization, it was from that couch (in Spring, 2019) during a video call with my advisor (who was in DC) while on benzos that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
 I remember having video calls from my office with him too, teaching him "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
 
