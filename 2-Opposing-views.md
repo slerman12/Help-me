@@ -229,7 +229,7 @@ She said, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep the
 
 "Then when I was professor teaching at music college, I had to stop working there, I dropped out in 1998, I had to go there like 10 times with my kids to get record that I was working there and not working there anymore. I had to come there like 10 times. They were like, ‘Oh director’s not here, director’s not here, he’s busy right now.’ I had to walk, like a mile, with my kids, to get the documentation. They stopped giving me hours, and not just me, but other Jewish people."
 
-Jews customarily weren't allowed to hold higher offices in Uzbekistan.
+Jews generally weren't allowed to hold higher offices in Uzbekistan.
 
 He asked again why she didn’t bring kids there.
 
