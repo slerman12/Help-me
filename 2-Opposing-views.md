@@ -219,7 +219,7 @@ My mom was at the Embassy from early morning to night. "I left them with relativ
 
 "A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity. Why America you going?"
 
-"I’m going to meet with family, mom, dad, brother is already there. And I’m stranded." My uncle Slava helped my mom find her most recent employment and helped her a lot.
+"I’m going to meet with family, mom, dad, brother is already there. And I’m stranded." Her brother, my uncle Slava, helped my mom find her most recent employment and helped her a lot.
 
 The interviewer listened. He asked questions, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. 
 
