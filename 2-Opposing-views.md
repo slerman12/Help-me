@@ -217,7 +217,7 @@ All of the adults applied for us to immigrate to America. My grandma had a siste
 
 My mom was at the Embassy from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
 
-“A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity. Why ‘America you going’?
+“A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity. Why America you going?
 
 “I’m going to meet with family, mom, dad, brother is already there. And I’m stranded in Uzbekistan.”
 
