@@ -221,7 +221,7 @@ My mom was at the Embassy from early morning to night. "I left them with relativ
 
 "I’m going to meet with family, mom, dad, brother is already there. And I’m stranded."
 
-He just listened. He asked questions, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. 
+He just listened. He asked questions, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. There was actually less anti-semitism in Uzbekistan than in Ukraine, according to my mom, always, from the war when my grandpa was still young, to when my mom was an adult.
 
 "What, in Uzbekistan, it was bad?"
 
