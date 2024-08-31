@@ -424,7 +424,7 @@ I had severe eczema, and my grandma when I was a kid helped by giving the best m
 
 #### Ascent of a Jewish old grandpa
 
-In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for.
+In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and voted for.
 
 I wanted to donate to his campaign early, from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
 
