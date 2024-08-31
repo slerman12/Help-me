@@ -302,7 +302,7 @@ My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did.
 
 My family besides me also had higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in medical fields. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (medicine) but in another city. All were proud of me. None knew the details of the psychosis that led to the RGH hospitalization. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
 
-Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, after some time had to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining. I worked under Chenliang for 3 years, at which time he deserted.
+Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, after some time had to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu, who gave me an ultimatum about joining. I worked under Chenliang for 3 years, at which time he deserted.
 
 ### Chenliang Xu
 
@@ -315,7 +315,7 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 </a>
 </p>
 
-I lost my hair in the summer after my first year, I went into benzo withdrawal in the next summer after my second year, and I switched to Chenliang Xu’s lab in the next summer after my third year.
+I lost my hair in that first summer after my first year, I went into benzo withdrawal in my second year, and I switched to Chenliang Xu’s lab nearing the end of my third year.
 
 For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
