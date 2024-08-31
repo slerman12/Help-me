@@ -243,6 +243,8 @@ Well, thanks also to my doctoral advisor, Henry.
 
 Well, thanks also-also to my best friend, same one I mentioned before. He helped me edit together my statement of purpose and encouraged me as I took and re-took the GRE. 
 
+Unlike my mom was able to in Uzbekistan, I got in, to a PhD program; I was gonna be a Doctor! I was gonna be the first Doctor of all of *my ancestors*, as far as we knew!
+
 Before accepting me into his doctoral candidacy, Henry connected me to Charles Venuto at the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. Charles hired me as an undergrad researcher to work with another student, a friend of mine from a (non-frat) on-campus living community, in the UR Medicine Saunders Research Building, where I took on the responsibility of modeling Parkinson's disease for the next several years, including having co-led with that friend the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?"
 
 ### Charles Venuto
