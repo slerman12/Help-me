@@ -119,7 +119,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I got her to do yoga, since I was still doing all my yoga and meditation regimen there.
 
-My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. I really did not need to be inoculated against my will with floodbaths of benzos for the next >6 months. I was doing meditation and yoga, and my health practices were far too healthy for their professional practices, and needed inhibition more than my neurons.
+My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. I really did not need to be inoculated against my will with floodbaths of benzos for the next >6 months. Their health practices needed neural inhibition more than mine.
 
 While she and I were in the hospital, our third companion was Hudson. When I was being discharged, he wrote me this long letter that included the line, "I hope you remember me when your an Icon of the world." He was electroshocked weekly during my stay there for depression, electrovolts of lightning in an electric chair for depression. 
 
@@ -127,13 +127,15 @@ While she and I were in the hospital, our third companion was Hudson. When I was
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-Amazing he could write at all after the electrocution. I guess pharmaceuticals didn't seem sufficiently crucial to the core of his depression, so hook him up to a car battery.
+It's amazing he could write at all after the electrocution they put him through. I guess pharmaceuticals didn't seem sufficiently crucial to the core of his depression that they believed hooking him up to a car battery would make more sense.
 
 I was being brain damaged and chemically waterboarded, little did I know — actually quite a lot, since I made the case articulately.
 
-My friend Jeremiah, someone so kind it's not even funny, went through something different while he was there. He told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure, as benzos are known to be able to cause. 
+My friend Jeremiah, someone so kind it's not even funny, told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure, which benzos are known to do.
 
-Finally, Mobi. He actually braided Lily's hair, I later found out. Mobi was 16, also prescribed benzos like I was, but he was there much longer. Years, in and out, a kid. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder, they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, one's brain is going to feel deprived of GABA and will want drugs. Benzos are a hard drug, and at least as addictive as alcohol. He was a 16-year-old drug addict, actually really sober-personality and intelligent, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
+Finally, Mobi. He actually braided Lily's hair, I later found out. Mobi was 16, also prescribed benzos like I was, but he was there for years, a kid. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder, they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, one's brain is going to feel deprived of GABA and will want drugs. Benzos are a hard drug, and are addictive. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
+
+He was intelligent and respectful and well mannered. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
 
 The next part of the story conveys some of my trauma, and it's goun be hard to write about.
 
