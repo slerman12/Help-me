@@ -207,7 +207,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
-Many Jews had to evacuate to Muslim nations when the Nazis attacked Ukraine. Ukraine was already sympathetic to Nazi anti-semitism before the occupation, but under Nazi occupation, Jews were being raped, executed, and piles of bodies were being tossed in the streets. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Mañá, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, evacuated to Kazakhstan. At the end of the war, they returned and reunited in Ukraine with Yakob. My grandparents married, the Soviet Union assigned my grandpa to work in a sheepskin manufacturing plant/factory, and so my grandparents emigrated near to there in Samarkand, Uzbekistan.
+Many Jews had to evacuate to Muslim nations when the Nazis attacked Ukraine. Ukraine was already sympathetic to Nazi anti-semitism before the occupation, but under Nazi occupation, Jews were being raped, executed, and piles of bodies were being tossed in the streets. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Mañá, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, evacuated to Kazakhstan. At the end of the war, they returned and reunited in Ukraine with Yakob. My grandparents married, the Soviet Union assigned my grandpa to work in a sheepskin manufacturing plant/factory, and so my grandparents went to where he was assigned, to Samarkand, Uzbekistan.
 
 My grandpa worked as a leather technology engineer at that plant/factory, my grandma a teacher.
 
