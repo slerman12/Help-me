@@ -117,27 +117,29 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization
 
-Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I got her to do yoga, since I was still doing all my yoga and meditation regimen there.
+I was still doing all my yoga and meditation regimen there. I also remember sharing some of my food with Lily, since my mom, uncle, aunt, and even cousin were bringing in my Paleo diet food, which I ate instead of the hospital’s unhealthy processed type food, and which helped with my cognition and eczema.
 
-My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* would be the kilotonne-feather that heals the camel's back.
+Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
 
-While she and I were in the hospital, our third companion was Hudson. When I was being discharged, he wrote me this long letter that included the line, "I hope you remember me when your an Icon of the world." He was electroshocked weekly during my stay there for depression, electrovolts of lightning in an electric chair for depression. 
+Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. 
+
+When I was being discharged, Hudson wrote me this letter. 
 
 <p align="center">
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-It's amazing he could write at all after the electrocution they put him through. I guess pharmaceuticals didn't seem sufficiently crucial to the core of his depression that they believed hooking him up to a car battery would make more sense.
+He was electroshocked weekly during my stay there, which by all accounts should’ve been *after* the 19th century, for depression, electrovolts of lightning in an electric chair for depression, after which I’m impressed he was able to write at all. I guess if the core of a person’s depression isn’t “lack of pills,” the evidence-backed next step is to try and jumpstart his happiness with a car battery.
 
-I was being brain damaged and chemically waterboarded, little did I know — actually quite a lot, since I made the case articulately.
+Meanwhile, I was being chemically waterboarded and brain damaged via benzos, but who could’ve predicted that? Oh wait, I did, because I made the case articulately to my psychiatrists about why I wanted them to wean me off from the pills, which I took since they told me they would have to get a court order otherwise. I probably should’ve called that bluff, since they had no basis that they knew about, nor any basis for benzos, period.
 
-My friend Jeremiah, someone so kind it's not even funny, told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure, which benzos are known to do.
+My friend Jeremiah, someone so kind it's not even funny, told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement. Benzos once caused him to have a seizure.
 
-Finally, Mobi. He actually braided Lily's hair, I later found out. Mobi was 16, also prescribed benzos like I was, but he was there for years, a kid. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder, they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, one's brain is going to feel deprived of GABA and will want drugs. Benzos are a hard drug, and are addictive. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
+Finally, Mobi. He actually braided Lily's hair, I later found out. Mobi was 16, also prescribed benzos like I was, but he was there for years, a kid. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder, they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, one's brain is going to be deprived of GABA and will want drugs. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
 
-He was intelligent and respectful and well mannered. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
+He was intelligent and kind. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
 
-The next part of the story conveys some of my trauma, and it's goun be hard to write about.
+The next part of the story conveys some of my trauma, and issa be hard to write about.
 
 ### My trauma
 
