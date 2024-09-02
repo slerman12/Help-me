@@ -119,25 +119,21 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I got her to do yoga, since I was still doing all my yoga and meditation regimen there.
 
-My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. I really did not need to be inoculated against my will with floodbaths of benzos for the next >6 months. In combination with meditation and yoga, I only include this to make the point that my health practices were far too healthy for psychiatrists to be dictating what potent psychoactive drugs go into my body. If anything, I should've been dictating their professional practices.
+My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. I really did not need to be inoculated against my will with floodbaths of benzos for the next >6 months. I was doing meditation and yoga, and my health practices were far too healthy for their professional practices, that if anything I should've been medicating.
 
-While she and I were in the hospital, our third companion was Hudson. When I was being discharged, he wrote me this long letter that included the line, "I hope you remember me when your an Icon of the world." He was electroshocked weekly during my stay there. For depression. Electrovolts of lightning in an electric chair for his depression. 
+While she and I were in the hospital, our third companion was Hudson. When I was being discharged, he wrote me this long letter that included the line, "I hope you remember me when your an Icon of the world." He was electroshocked weekly during my stay there for depression, electrovolts of lightning in an electric chair for depression. 
 
 <p align="center">
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-It's amazing he could write at all after the electrocution they put him through. I guess pharmaceuticals didn't seem sufficiently crucial to the core of his depression that they believed hooking him up to a car battery would make more sense.
+Amazing he could write at all after the electrocution. I guess pharmaceuticals didn't seem sufficiently crucial to the core of his depression, so hook him up to a car battery.
 
-Meanwhile, little did I know — and actually quite a lot since I made the case quite articulately — I was being brain damaged and chemically waterboarded.
+I was being brain damaged and chemically waterboarded, little did I know — actually quite a lot, since I made the case articulately.
 
-My friend Jeremiah, someone so kind it's not even funny, went through something different while he was there. He told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure. Having undergone physical assaults from the university-hospital police myself, once in the grass outside, and burned alive in the downregulation nightmare, I can say it’s unpleasant. 
+My friend Jeremiah, someone so kind it's not even funny, went through something different while he was there. He told me the university-hospital police officers held him down and choked him for trying to escape, tackled and pinned him down violently on pavement, and that his medications once caused him to have a seizure. 
 
-Those events are listed in the reverse chronological order by the way, combative effort to escape only appearing in later hospitalization that followed and probably was contributed to from this one with the multi-year benzo nightmare.
-
-Finally, Mobi, this guy I met there at a different hospitalization. He actually braided Lily's hair, I later found out. When you have people in there with you, it's actually palatable. But when you're alone, kept hostage, for prolonged periods, against your will, under constant overwatch and coercion, it's not the same story. Mobi was 16, also prescribed benzos like I was, but he was there much longer. Years, in and out. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder: they were feeding him the most potent addictive chemicals on the known planet by force. Yes: to be clear: they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, yes, your brain is going to feel deprived of GABA and you will want drugs. A 16-year-old drug addict who they kept institutionalizing periodically and made take benzos.
-
-And he was intelligent and respectful and well mannered. There is no way he should've been in the hospital. He could've been a revolution leader or some shit.
+Finally, Mobi. He actually braided Lily's hair, I later found out. Mobi was 16, also prescribed benzos like I was, but he was there much longer. Years, in and out, a kid. This is the part I can't even believe as I write: he was in there for drug problems and addiction. No wonder, they'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of 14. Acclimating to benzos, one's brain is going to feel deprived of GABA and will want drugs. Benzos are at least as addictive as any other hard drug. A 16-year-old drug addict who they kept institutionalizing periodically and treated with prolonged prescriptions of daily benzos.
 
 The next part of the story conveys some of my trauma, and it's goun be hard to write about.
 
