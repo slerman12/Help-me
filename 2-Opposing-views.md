@@ -444,7 +444,7 @@ Speaking of the elderly...
 > [!WARNING]
 > In December, 2020, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
 >
-> The ambulance drove me to the hospital, where first, they brought me to a lobby.
+> My family was visiting and my mom called the ambulance because I was acting strangely. The ambulance drove me to the hospital, where first, they brought me to a lobby.
 >
 > In the lobby, the nurse pulled me behind a curtain and made me change clothes, and I didn't want to (was slightly reluctant), but she told me I had to. Then she sat me in a wheelchair. A nurse pushed it forward, it ran over my big toe, and I screamed out specifically that my toe was run over. The nurse kept rolling me off, as she and the other nurses all ignored my screaming, in what, surprisingly, didn't break my toe. 
 >
