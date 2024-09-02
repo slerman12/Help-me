@@ -129,7 +129,7 @@ When I was being discharged, Hudson wrote me this letter:
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-He was electroshocked weekly during my stay there, which by all accounts should’ve been *after* the 19th century, for depression, electrovolts of lightning in an electric chair for depression, after which I’m impressed he was able to write at all. I guess if the core of a person’s depression isn’t “lack of pills,” the evidence-backed next step is to try and jumpstart his happiness with a car battery.
+He was electroshocked weekly during my stay there, which by all accounts should’ve been *after* the 20th century, for depression, electrovolts of lightning in an electric chair for depression, after which I’m impressed he was able to write at all. I guess if the core of a person’s depression isn’t “lack of pills,” the evidence-backed next step is to try and jumpstart his happiness with a car battery.
 
 Meanwhile, I was being chemically waterboarded and brain damaged via benzos, but who could’ve predicted that? Oh wait, I did, because I made the case articulately to my psychiatrists about why I wanted them to wean me off from the pills, which I took since they told me they would have to get a court order otherwise. I probably should’ve called that bluff, since they had no basis that they knew about, nor any basis for benzos, period.
 
