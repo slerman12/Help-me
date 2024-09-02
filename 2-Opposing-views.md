@@ -121,9 +121,9 @@ I was still doing all my yoga and meditation regimen there. I also remember shar
 
 Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
 
-Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. 
+Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I also showed her my MHDPA innovation paper, and had described relational reasoning to my brother-in-law and sister in my room in the psychiatric unit.
 
-When I was being discharged, Hudson wrote me this letter. 
+When I was being discharged, Hudson wrote me this letter:
 
 <p align="center">
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
