@@ -121,7 +121,7 @@ I was still doing all my yoga and meditation regimen there. I also remember shar
 
 Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* was the missing ingredient. 
 
-Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I showed her my MHDPA innovation paper, and had described relational reasoning to my brother-in-law and sister in my room in the psychiatric unit. As if my lucidity needed any more evidence, I explained the methods of ChatGPT to my psychiatric ward visitors in Winter, 2019.
+Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I showed her my MHDPA innovation paper, and had described relational reasoning to my brother-in-law and sister in my ward. As if my lucidity needed any more evidence, I explained the methods of ChatGPT to my visitors, in Winter, 2019.
 
 When I was being discharged, Hudson wrote me this letter:
 
