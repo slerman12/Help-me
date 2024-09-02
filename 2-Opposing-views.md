@@ -207,37 +207,39 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
-Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupied Ukraine. My grandpa’s father, Yacob, was drafted to mandatorily fight in the warfront, as other Jews evacuated to Muslim nations, like Kazakhstan or Uzbekistan, including my grandpa’s mom Mañá and his younger sister Rosá, and my grandpa, Yury. They evacuated back to Ukraine at the end of the war, and my grandpa and grandma married, before he was assigned by the Soviet Union to work in a sheepskin manufacturing plant/factory, near to which my grandparents had to move, emigrating subsequently once more, this time to Samarkand, Uzbekistan, rather than Kazakhstan.
+Many Jews had to evacuate to Muslim nations when the Nazis attacked Ukraine. Ukraine was already sympathetic to Nazi anti-semitism before the occupation, but under Nazi occupation, Jews were being raped, executed, and piles of bodies were being tossed in the streets. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Mañá, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, evacuated to Kazakhstan. At the end of the war, they returned and reunited in Ukraine with Yakob. My grandparents married, the Soviet Union assigned my grandpa to work in a sheepskin manufacturing plant/factory, and so my grandparents emigrated near to there in Samarkand, Uzbekistan.
 
-My grandpa was a leather technology engineer, my grandma worked as a teacher of German language. 
+My grandpa worked as a leather technology engineer at that plant/factory, my grandma a teacher.
 
-My mom, uncle, sister, and I were all born in Samarkand, all of us also Ashkenazi Jews. I was born last of my family. My name is Sam, but I wasn’t born "Sam." I was actually born "Siímyon," after my great aunt’s (from my grandma's side, "Tsotya Tsilia"'s) late husband, and "Sam" sort of fell on me through multiple mistranslations, starting with a really bad one that would happen when we immigrated to America. First, my mom Nélya and uncle Slava were born. Then my older cousins, Lena and Irina. And then my older sister Marina, and me. 
+My uncle Slava, mom Nélya, older cousins Lena and Irina, older sister Marina, and I were all born in Samarkand, all of us also Ashkenazi Jews. 
 
-All of the adults applied for us to immigrate to America. My grandma had a sister (Tsilia) with adult son Sasha in America, and my uncle Slava was a physicist, whereas for some reason my mom's status wasn't satisfactory. We (my mom and her two kids) were the only ones not approved. When my grandparents immigrated, they sent an invitation to my mom through the Embassy. My mom then had to do an interview with the American Embassy in Moscow to convince them that she was subjugated. So my mom had to fly to Moscow, with my sister and me, to do the interview at the Moscow Embassy. My aunt’s brother’s family lived in Moscow, and my mom was able to leave us with them there. The interviewer interrogated: "Your form said you have kids. Where are they?"
+I was born last of my family. My name is Sam, but I wasn’t born "Sam." I was born "Siímyon," after my grandma’s sister’s (Tslia’s) late husband, and "Sam" fell on me through multiple mistranslations, starting with a really bad one that happened when we immigrated to America. 
 
-My mom was at the Embassy from early morning to night. "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
+"Tsotya" Tsilia and her son, my uncle Sasha, immigrated first. My grandma, uncle, and mom applied to immigrate as well. My grandparents and uncle’s family were approved for refugee status, whereas my mom, my sister, and I, weren’t. So when my grandparents immigrated, they sent an invitation to my mom through the Embassy and my mom had to fly with us to Moscow, to do an interview at the American Embassy in Moscow. My uncle’s wife’s (Jenya’s) brother’s family lived in Moscow, so my mom was able to leave us with them while she went to the Embassy. To get refugee status, she had to argue to the interviewer that she deserved refugee status from Uzbekistan, a Muslim country, a Jewish woman with a master's degree whose parents and brother already immigrated from Uzbekistan and were already approved by the same consulate for refugee status. 
 
-"A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity. Why America you going?"
+"Your form said you have kids. Where are they?"
 
-"I’m going to meet with family, mom, dad, brother is already there. And I’m stranded." Her brother, my uncle Slava, helped my mom find her most recent employment and helped her a lot.
+She had spent the whole day at the Embassy, from early morning to night. She said, "I left them with relatives. I cannot bring them here. They would be suffering here. My youngest is 3. It would be torture for them here, without food, without sleep."
 
-The interviewer listened. He asked questions, she answered. It wasn’t a conversation. It was an interview, with her, to figure out if she deserved refugee status. Her goal was to get refugee status. 
-
-"What, in Uzbekistan, it was bad?"
-
-She said, "Yes, bad it was. Anti-semitism, Jewish people don’t openly keep their traditions there, they’re embarrassed, they don’t get good jobs/positions, they don’t enroll. They stopped giving me hours. Uzbeks they gave many. They stopped giving me hours. I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish.
-
-As my mom described to me: "Then when I was professor teaching at music college, I had to stop working there, I dropped out in 1998, I had to go there like 10 times with my kids to get record that I was working there and not working there anymore. I had to come there like 10 times. They were like, 'Oh director’s not here, director’s not here, he’s busy right now.' I had to walk, like a mile, with my kids, to get the documentation. They stopped giving me hours, and not just me, but other Jewish people." She had a master's degree in music theory.
-
-He asked again why she didn’t bring kids there.
+"A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity."
 
 "I thought I didn’t have to bring them, the documentation said we didn’t."
 
-"Yes yes, you’re right, you didn’t have to and it’s good you didn’t."
+"Yes yes, you’re right. Why, to America, you're going?" 
 
-Jews generally weren't allowed to hold higher offices in Uzbekistan, and anti-semitism was bad in other Soviet countries as well. There was actually less anti-semitism in Uzbekistan than in Ukraine, according to my mom, always, from the war when my grandpa was still young, to when my mom was an adult. Like my grandpa from Ukraine to Kazakhstan or Uzbekistan, she would be evacuating the Republic of Uzbekistan to America.
+"I’m going to meet with my family, mom, dad, my brother is already there. I’m the only one left, with my children. My cousin, my brother, everyone is already there. And, second, because there is anti-semitism in Uzbekistan."
 
-We flew to Rochester, New York, immigrating officially as Jewish refugees. More than half a year passed since the Embassy interview. I was 3 and two thirds, and am told I was crying on the plane. The Uzbek government mistranslated my name, legally, like on legal record, as "Semen," which we didn't yet know the meaning of, the story around which won't be elaborated on for many more chapters, not until [Part 5](4-Faith.md) ("Faith"), except a short reference regarding my grandpa's name change in ["When my grandma died"](#when-my-grandma-died) in Part 3, and my name change to "Sam." My mom found a low-paying piano teaching job, and got an associate's degree at a community college in Computer Information Systems, hoping to earn more money. Later, she worked two jobs, as a piano teacher giving individual lessons for a piano studio, and tutoring students at MCC, the community college she got her associate’s degree from. She was a part-time computer tutor there in two different labs. My mom's students loved her, both in Uzbekistan at the music college where she taught and here. She actually taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java.
+"What, in Uzbekistan, you suffered persecution?"
+
+Anti-semitism in Uzbekistan wasn’t as bad as in other countries, she told me. In Ukraine, anti-semitism was always worse, from the war when my grandpa was young, to when my mom was an adult. However, she told me, Jews customarily weren’t allowed to hold higher offices in Uzbekistan. 
+
+"I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish." 
+
+She wanted to do a doctoral, but wasn’t allowed to, despite having been a good student in Music Theory who earned a master's degree.
+
+She continued, "Jewish people don’t openly keep their traditions there, they don’t get good jobs/positions. I was professor teaching at music college. I had to stop working there in 1998, because they reduced my hours, and not just me, but other Jewish people. Uzbeks they gave many." My uncle found her a temporary job for an American firm, that had originally been offered to him, where she did indexing, tabulating, and auditing, nothing to do with music theory, and she was well liked by her students when she was a professor.
+
+We flew to Rochester, New York, immigrating officially as Jewish refugees. More than half a year passed since the Embassy interview. I was 3 and two thirds, and had cried, perhaps foretellingly, on the plane. My name, was legally mistranslated to "Semen." My mom (whose name was translated "Nellya") found a low-paying piano teaching job, and hoped to earn more money, so she got another degree, an associate's degree, at Monroe Community College in Computer Information Systems. Later, she worked an additional job, one as a piano teacher giving individual lessons for a piano studio, and another as a part-time computer tutor in two different labs at the community college where she received her associate’s degree. My mom's students loved her in America, too. My mom taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java.
 
 7 semesters later, I graduated with dual bachelors degrees, one in Computer Science and one in Mathematics. Thanks to work ethic and intelligence, that I inherited from my mom, and some luck, I got into a doctoral program.
 
