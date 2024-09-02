@@ -235,7 +235,7 @@ Anti-semitism in Uzbekistan wasn’t as bad as in other countries, she told me. 
 
 "I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish." 
 
-She wanted to do a doctoral, but wasn’t allowed to, despite having been a good student with master's degree.
+She wanted to do a doctoral, but wasn’t allowed to, despite having been a good student in Music Theory who earned a master's degree.
 
 She continued, "Jewish people don’t openly keep their traditions there, they don’t get good jobs/positions. I was professor teaching at music college. I had to stop working there in 1998, because they reduced my hours, and not just me, but other Jewish people. Uzbeks they gave many." My uncle found her a temporary job for an American firm, that had originally been offered to him, where she did indexing, tabulating, and auditing, nothing to do with music theory, and she was well liked by her students when she was teaching Music Theory as a professor at the music college.
 
