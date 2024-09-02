@@ -119,7 +119,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 Lily was 24 when we met, a year older than me. While I was there, we played Guitar Hero with our friend Hudson and another guy. I got her to do yoga, since I was still doing all my yoga and meditation regimen there.
 
-My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. I really did not need to be inoculated against my will with floodbaths of benzos for the next >6 months. Their health practices needed neural inhibition more than mine.
+My mom was even bringing in my Paleo-diet food as a substitute for the food the hospital had, that I shared with Lily as well since she really liked that food, and the hospital had no real substitute for the processed drug they served out. Amid meditation, yoga, and a Paleo diet, I was being inoculated against my will with floodbaths of benzos, as if *that* would be the kilotonne-feather that heals the camel's back.
 
 While she and I were in the hospital, our third companion was Hudson. When I was being discharged, he wrote me this long letter that included the line, "I hope you remember me when your an Icon of the world." He was electroshocked weekly during my stay there for depression, electrovolts of lightning in an electric chair for depression. 
 
