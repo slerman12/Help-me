@@ -398,6 +398,8 @@ I was on a mostly-steak-only diet since at least April, 2020 (with wild caught s
 
 I was eating one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water. Most of my income was going towards recovering from the benzo brain damage — and it caused hair regrowth. 
 
+See [here](#mikhaila-peterson) for what inspired me to do that diet.
+
 In the hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
 
 I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
@@ -566,7 +568,7 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 #### Warmth, nature, and organic-type foods
 -->
 
-I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book, and might be getting one.
+I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book.
 
 #### Kids
 
