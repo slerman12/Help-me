@@ -29,24 +29,27 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
     - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
       - House on May St.
-      - Psychiatrists at the University of Rochester’s Strong Hospital
+      - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
-      - Hospitalization
+      - Hospitalization at the University of Rochester's Strong Hospital
+        - Sarah
+        - Hudson
+        - Jeremiah
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
       - Chenliang Xu
-      - More Seriously
+      - Aside
         - I didn't mention fingernails (fingernails regrowth)
         - How my grandma got dementia
         - How my grandpa died
         - When my grandma died
+          - Medical system diet arguments
         - Ascent of a Jewish old grandpa
         - Geriatric unit hospitalization
-        - Warmth, nature, and organic-type foods
-        - Schools
-        - Future hair losses
+        - Kids
+          - Mobi
         - Intimacy healing
         - The artificial and synthetic
         - AI
@@ -73,6 +76,9 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Conclusive disproof
   - [Faith](4-Faith.md)
     - Part 5
+      - Right to talk about suicide seriously 
+        - Academia & medicine
+        - Love & loneliness
       - Friends
       - Allies
       - Enemies
@@ -83,9 +89,9 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Timing of benzodiazepine coercion diagram
       - CMT deletion of record
       - Sam "Altman"
+      - Michael Scott’s paper factory
       - "Life ruined" post
       - House on May St.
-      - Physics
   - Thesis
     - [Early work in program](5-Early-work-in-program.md)   
       - Part 6
@@ -110,47 +116,3 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
         - (2) Proposition 3.
       - Conclusion
       - Dialogue of the Congress 2
-
-- **Philosophy**
-  - [Consciousness](Philosophy/Consciousness.md)
-  - [Cosmogenesis Myth](Philosophy/Cosmogenesis-Myth.md)
-    - Archetypal Madness
-    - Math
-      - Deduction
-        - Proofs
-        - Existence and Cause
-      - Nothing and the Universe  
-        - Nothing... and a Physics of Information Patterns
-      - Something From Nothing
-        - Go:
-    - Critiques
-    - Conclusion
-    - Afterward
-      - Confusion About Existence Operator
-        - Existence of Definitions
-      - Cosmogenesis Myth
-      - Alternative Set of Definitions of Math and Philosophy
-  - [Dormant Communications](Philosophy/Dormant-Communications.md)
-  - [Fire](Philosophy/Fire.md)
-  - [Imagination Theory](Philosophy/Imagination-Theory.md)
-    - A philosophical breakdown of simulation theory
-  - [My Spirituality](Philosophy/My-Spirituality.md)
-  - [Velocity Addition Formula](Philosophy/Velocity-Addition-Formula.md)
-    - Practice and principle
-      - Velocity-addition formula
-        - Deriving the velocity-addition formula
-        - Utility of the velocity-addition formula
-    - Formally
-      - Definitions
-        - (1) Speed of light constant *in vacuo*, reference frame, and spacetime.
-        - (2) Lorentz transformation.
-        - (3) Velocity-addition formula.
-      - Assumptions
-        - (1) Lorentz transformation.
-        - (2) Uniform motion.
-      - Theorems
-        - (1) Velocity-addition formula.
-      - Disproofs
-        - (1) Joint Einstein's second postulate and velocity-addition formula usefulness.
-        - (2) Joint Einstein's second postulate and below-light-speed usefulness.
-    - Conclusion   
