@@ -334,7 +334,7 @@ The Parkinson's disease progression models I built at the Med Center as an under
 
 It was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
-It was from my office I remember, during benzo withdrawal, that I taught him "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
+It was from my office, I remember, during benzo withdrawal, that I taught him "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
 
 I passed my area exam, in my second PhD year, "with flying colors" according to Henry.
 
