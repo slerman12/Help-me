@@ -218,6 +218,7 @@ Symptoms from taking the benzos as prescribed included:
 - Severe physiological dependence, which benzos cause more so, at least neurologically, than Dupilumab, which also causes/caused a physiological dependence
 - PTSD from all of these symptoms and the recurrence of a malpractice-induced perhaps-permanent trauma
 - [Scientifically-backed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/) fear of permanent damage
+- [More than a year of all of this](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 
 I tried to kill myself, and my family took the helium tank away.
 
