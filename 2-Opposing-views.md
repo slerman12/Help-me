@@ -63,13 +63,13 @@ My hair fell out while I rented a room in a *house on May St.*
 
 I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many aesceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease.
 
+In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The meditation and disciplines helped to reduce stress and anxiety, as I continued a heavy workload from the University of Rochester, something I had prior to my PhD years, also.
+
 I also grew out a full beard (except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college) and full mustache in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) at that house and encouraged me to shave it, some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
 
 <!--
 The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyebrows, eyelashes, armpits, and pubic hair weren't.
 -->
-
-In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The meditation and disciplines helped to reduce stress and anxiety, as I continued a heavy workload from the University of Rochester, something I had prior to my PhD years, also.
 
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
