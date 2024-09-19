@@ -375,7 +375,7 @@ But a strong interest or fascination with MHDPA, in 2018, didn't come by acciden
 > 
 > Buffy was my favorite show all through high school and college, and probably still is today.
 >
-> Henry was a youthful elderly man with a lot of wisdom, and like Giles, Buffy's "Watcher," was my advisor/"Watcher." Actually, he resembled Joss Whedon, the way he quipped, but acted to me like Giles in his manner and support.
+> Henry was a youthful elderly man with a lot of wisdom, very-much a Giles figure, and like Giles, Buffy's "Watcher," was my advisor/"Watcher." Actually, he resembled Joss Whedon, the way he quipped, but acted to me like Giles in his manner and support.
 
 Henry and I both didn't have experience with deep learning prior to when I entered the PhD program. Up until that summer before my first year as a PhD student, I had been working with random forest models. I had to teach myself — really quickly —  and through hard-to-believe intuition, the full state of the art and then some as I started the program, as I took grad-level depth and "breadth" courses, none of which at the University of Rochester were especially helpful, and my professors and students around me had very little to offer.
 
