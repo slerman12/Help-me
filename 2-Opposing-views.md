@@ -447,7 +447,7 @@ I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to pu
 
 For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. 
 
-Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to prevent me from subsequently getting terminated.
+Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me out of pocket (though not as my advisor) if Chenliang refused.
 
 ### Chenliang Xu
 
