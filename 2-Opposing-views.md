@@ -373,7 +373,7 @@ But a strong interest or fascination with MHDPA, in 2018, didn't come by acciden
 >
 > But it wasn't.
 > 
-> Buffy was my favorite show all through high school and college.
+> Buffy was my favorite show all through high school and college, and probably still is today.
 >
 > Henry was a youthful elderly man with a lot of wisdom, and like Giles, Buffy's "Watcher," was my advisor/"Watcher." Actually, he resembled Joss Whedon, the way he quipped, but acted to me like Giles in his manner and support.
 
