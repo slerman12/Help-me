@@ -443,7 +443,11 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 
 Henry thought Chenliang would be better due to his having more experience in deep learning, but may have overestimated how much any professor at our CS department could offer me in terms of anything related to research and methods. Chenliang, for example, who was working on state of the art Computer Vision, had about as much familiarity with MHDPA in 2020 as Dan Gildea had in 2018, perhaps a little more. Before I was his student, in 2020, I presented using MHDPA on image features as an encoder architecture for Semantic Segmentation to him, on his whiteboard, with an explanatory diagram in my journal for what MHDPA was that I showed him, and a diagram on the whiteboard for my proposed Semantic Segmentation method. In 2020, one of Chenliang's students, I remember, was applying a transformer to a sequence-to-sequence problem (not as an encoder architecture), but Chenliang didn't know much what MHDPA and transformers were until Vision Transformers came out in 2021.
 
-I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice, and no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had an intention to prevent me from subsequently getting terminated.
+I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice.
+
+For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. 
+
+Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to prevent me from subsequently getting terminated.
 
 ### Chenliang Xu
 
@@ -458,7 +462,7 @@ I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to pu
 
 I started losing my hair in my 1st year, I started taking benzos in my 2nd year, and I started working in Chenliang Xu’s lab nearing the end of my 3rd year.
 
-For context, Henry's average paper count was 1 - 3 across the PhD student's full tenure. At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
+At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
 Chenliang gave me an ultimatum: Submit a top-venue paper by end of summer, without pay, or no acceptance. Had I failed to do that, I wouldn't have an advisor or pay, and most likely, would've been terminated.
 
