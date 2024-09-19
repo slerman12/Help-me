@@ -403,7 +403,7 @@ I was wearing a hat all through the conference, to cover up my baldness, that I 
 
 When I returned, my work-based isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
 
-This period was an extremely isolated time of work and esoteric in-the-weeds revelation. Besides stacks of printed academic papers, I was reading Lord of the Rings, and there was one chapter that I read precisely in this narrow time span, "The Passage of the Marshes," that resonated for its eerie imagery. 
+This period was an extremely isolated time of work and esoteric in-the-weeds revelation. Besides stacks of printed academic papers, I was reading The Lord of the Rings, and there was one chapter that I read precisely in this narrow time span, "The Passage of the Marshes," that resonated for its eerie imagery. 
 
 Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie chapter, as Gollum's world seems to be the ruling one now, and Frodo and Sam are navigating at his back through the boggy peril.
 
