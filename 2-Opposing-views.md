@@ -417,7 +417,7 @@ I spent every day of that semester writing a little bit towards my area exam pap
 
 #### Area exam
 
-I passed my area exam, in my second PhD year, "with flying colors" according to Henry.
+I passed my area exam, shortly after this Spring 2019 semester, "with flying colors" according to Henry.
 
 My advisor, Henry, didn't think deep learning was a fad, and had a sense of intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action) though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor, my machine vision professor from my first year Chenliang Xu, technically wasn't in the room during the area exam, because he was answering the Skype call from China. He's the only person in the meeting who asked elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor, who also did and oversaw work in deep learning, from the semester just before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is meaningful since he became my later advisor.  
 
