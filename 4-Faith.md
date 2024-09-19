@@ -192,7 +192,7 @@ $\text{\color{green}[2.]:}$ My Rabbi, who I hadn't met before 2022, actually tol
 
 Description 
 
-[5 months after sending them the above [linked email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md), referencing that post, the whole forum is deleted, my last thorough time-stamped record of that trauma, and the only one that was the top post in the whole forum since I made it in 2018, with dozens or hundreds of comments also saying "I went through something like this because of benzos too."]
+[5 months after sending them the above [linked email](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md), referencing that post, the whole forum is deleted, my last thorough time-stamped record of that trauma, and the only one that was the top post in the whole forum since I made it in 2019, with dozens or hundreds of comments also saying "I went through something like this because of benzos too."]
 
 [after having shown it to Niaz who commented in person about it (and to faculty/administrators), and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running]
 
