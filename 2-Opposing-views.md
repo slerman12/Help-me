@@ -419,7 +419,7 @@ It was from my office, I remember, during benzo cognitive decline, in the Spring
 
 I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material in one class due to missing the good early chunk of that semester, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
 
-Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, and (as will be evidenced by Henry's upcoming decision, and [tenuous status working from DC](#giles)) perhaps would've had to drop out.
+Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, and (as will be evidenced by [Henry's upcoming decision, and tenuous status working from DC](#giles)) perhaps would've had to drop out.
 
 #### Area exam
 
