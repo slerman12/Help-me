@@ -40,7 +40,6 @@ $$\mathcal{a \ Sam \ Lerman \ hobbit's \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
-          - Buffy
         - Matt-Damon-potatoes-on-Mars
         - Area exam
           - Giles
