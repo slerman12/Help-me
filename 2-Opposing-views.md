@@ -421,7 +421,7 @@ I spent every day of that semester writing a little bit towards my area exam pap
 
 Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least, and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've had to drop out.
 
-#### Early summer, 2019 area exam
+#### Area exam
 
 I passed my area exam, within a couple weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
 
