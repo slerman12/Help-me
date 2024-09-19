@@ -421,7 +421,7 @@ I spent every day of that semester writing a little bit towards my area exam pap
 
 Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least, and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've had to drop out.
 
-#### Area exam
+#### Early summer, 2019 area exam
 
 I passed my area exam, within a couple weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
 
@@ -445,7 +445,7 @@ My family besides me also had higher-level degrees. My mom, a master's degree in
 >
 > In season 6 of Buffy, her Watcher Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I..."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) A demon had possessed Sunnydale into a musical, my favorite episode of the show, "Once More, with Feeling."
 
-Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, after some time had to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
+Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
 Henry thought Chenliang would be better due to his having more experience in deep learning, but may have overestimated how much any professor at our CS department could offer me in terms of anything related to research and methods. Chenliang, for example, who was working on state of the art Computer Vision, had about as much familiarity with MHDPA in 2020 as Dan Gildea had in 2018, perhaps a little more. Before I was his student, in 2020, I presented using MHDPA on image features as an encoder architecture for Semantic Segmentation to him, on his whiteboard, with an explanatory diagram in my journal for what MHDPA was that I showed him, and a diagram on the whiteboard for my proposed Semantic Segmentation method. In 2020, one of Chenliang's students, I remember, was applying a transformer to a sequence-to-sequence problem (not as an encoder architecture), but Chenliang, a Computer Vision professor, didn't know much what MHDPA and transformers were until Vision Transformers came out in 2021.
 
