@@ -413,7 +413,7 @@ I was going deeper and deeper into a psychotic state, both of (a) brilliant awar
 
 It was from my office, I remember, during benzo withdrawal, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
 
-I spent every day of that semester writing a little bit towards my area exam paper, asking professors and other PhD students for help with any difficult material, and scoring straight A's in my grad-level classes. This took extreme spirit and Herculean will, e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, to do amid brain damage impairment of benzos.
+I spent every day of that semester writing a little bit towards my area exam paper, visitng professors and asking other PhD students for help on difficult course material, and scoring straight A's in my grad-level classes. This took extreme spirit and Herculean will, e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, to do amid brain damage impairment of benzos.
 
 #### Area exam
 
