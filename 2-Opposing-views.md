@@ -369,7 +369,9 @@ But a strong interest or fascination with MHDPA, in 2018, didn't come by acciden
 >
 > I didn't meet too many Buffy fans thereafter, actually, for the remainder of my undergrad years. 
 >
-> I didn't know Henry was one of them. 
+> I didn't know Henry was one of them.
+>
+> Buffy appreciation, quite honestly in high school, was how I measured intelligence.
 >
 > It was a huge coincidence that his favorite show was Buffy. I joined his PhD program not knowing that. I found out 2 years in, and gave him my "Philosophy of Buffy" book as a gift. I had no idea he liked it. Apparently, he was "obsessed with it," which he added, "might be kind of weird."
 >
