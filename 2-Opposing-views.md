@@ -272,7 +272,7 @@ He didn’t take money. He just said, "I couldn’t heal him. I can’t."
 
 The shaman somehow knew that we were immigrating, maybe Shafkad told him, somehow he knew, my mom didn’t know how.
 
-My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents immigrated, and sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. 
+My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, a mathematics professor at the Rochester Institute of Technology (RIT), were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents immigrated, and sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. 
 
 "Your form said you have kids. Where are they?"
 
