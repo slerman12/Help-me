@@ -408,13 +408,15 @@ I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December.
 
-When I returned, my work-based isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
+When I returned, my work-based<sup>$^\text{\color{green}1.}$</sup> isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
 
 This period was an extremely isolated time of work and esoteric in-the-weeds revelation. Besides stacks of printed academic papers, I was reading The Lord of the Rings, and there was one chapter that I read precisely in this narrow time span after I returned from Montreal, "The Passage of the Marshes," that resonated for its eerie imagery. 
 
 Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie chapter, as Gollum's world seems to be the ruling one now, and Frodo and Sam are navigating at his back through the boggy peril.
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
+
+$^\text{\small\color{green}1.:}$ <sup>In my mind’s activated acute-intense intuitions, something brought me, as my work actualized into a paper and my body came to look ever more like Gollum’s, from extreme intelligence to extreme stupidity.</sup>
 
 #### Matt-Damon-potatoes-on-Mars
 
