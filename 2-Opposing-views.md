@@ -409,7 +409,7 @@ I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December.
 
-When I returned, my work-based / desperation-based<!--<sup>$^\text{\color{green}1.}$</sup>--> isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
+When I returned, my work-based <!--/ desperation-based--><!--<sup>$^\text{\color{green}1.}$</sup>--> isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
 
 This period was an extremely isolated time of work and esoteric in-the-weeds revelation. Besides stacks of printed academic papers, I was reading The Lord of the Rings, and there was one chapter that I read precisely in this narrow time span after I returned from Montreal, "The Passage of the Marshes," that resonated for its eerie imagery. 
 
