@@ -389,7 +389,7 @@ After the house on May St., I was coming up with and seeking a method that could
 >
 > Henry was a youthful elderly man with a lot of wisdom, very-much a Giles figure, and like Giles, Buffy's "Watcher," was my advisor/"Watcher." Actually, he resembled Joss Whedon, the way he quipped, but acted to me like Giles in his manner and support.
 -->
-
+<!--
 Henry and I both didn't have experience with deep learning prior to when I entered the PhD program. Up until that summer before my first year as a PhD student, I had been working with random forest models. I had to teach myself — really quickly —  and through hard-to-believe intuition, the full state of the art and then some as I started the program, as I took grad-level depth and "breadth" courses, none of which at the University of Rochester were especially helpful, and my professors and students around me had very little to offer.
 
 That being said, and most CS students can relate to this: in college, most of what I learned was self-taught. That of course didn't change in the PhD program, as the professors were still bad teachers, except also didn't know anything about the material that would need to be taught, the state of the art of their own fields, yet. 
@@ -399,6 +399,7 @@ I'm not trying to be mean to anybody. This is the truth. It's hard to express, b
 Most people get into those positions through natural memorization ability, or obsessive memorization, and then make some minor deviations from what was taught to them that they call research, and that combination of memorization and very-linear tinkering gets esteemed if they're able to write it up with formal academic jargon. That last part — jargon — is most of what academia beyond the memorization-stage requires. Even those professors who make a dent, often get there by luck, usually around a really simple idea well executed.
 
 In med school, the ability to memorize which prescriptions correspond to which diagnoses, and which diagnoses correspond to which symptoms, and which anatomical events correspond to which symptoms, is something ChatGPT-like AIs can pass [exceptionally](https://arxiv.org/abs/2404.18416), with [even better bedside manner](https://www.nature.com/articles/d41586-024-00099-4).
+-->
 
 I went to a conference that year, NeurIPS, 2018, in Montreal. At the time it was called "NIPS, 2018." I met the DeepMind researcher Ryan Faulkner, who co-authored the [RNN memory](https://arxiv.org/abs/1806.01822) paper, that innovated on the RNN cell by applying internally the MHDPA method, who was so impressed with me that he invited me to lunch, and during lunch, as we were talking, he said he would recommend me to a position at DeepMind if I applied, back in 2018. 
 
@@ -408,7 +409,7 @@ I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December.
 
-When I returned, my work-based<!--<sup>$^\text{\color{green}1.}$</sup>--> isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
+When I returned, my work-based / desperation-based<!--<sup>$^\text{\color{green}1.}$</sup>--> isolation deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
 
 This period was an extremely isolated time of work and esoteric in-the-weeds revelation. Besides stacks of printed academic papers, I was reading The Lord of the Rings, and there was one chapter that I read precisely in this narrow time span after I returned from Montreal, "The Passage of the Marshes," that resonated for its eerie imagery. 
 
