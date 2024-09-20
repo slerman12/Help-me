@@ -459,7 +459,7 @@ Henry thought Chenliang would be better due to his having more experience in dee
 I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time.
 <!-- , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
-For context, Henry's average paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
+For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
 <!--
 Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
 -->
