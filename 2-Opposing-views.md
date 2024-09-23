@@ -240,6 +240,8 @@ Around Fall, 2019, I tried to kill myself. The helium tank connected to tubing w
 
 A deeper summary of my benzo trauma can be found [here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).
 
+The nightmare I mentioned earlier was a waking one for a year.
+
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
 <p align="center">
