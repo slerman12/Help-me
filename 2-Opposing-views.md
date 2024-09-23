@@ -349,7 +349,7 @@ But before we come to the conclusion that Charles is caught "red-handed," he was
 </a>
 </p>
 
-The contest-winning Parkinson's disease progression models I built at the Med Center as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests, he accepted me into his PhD group as a doctoral student.
+The contest-winning Parkinson's disease progression models I built at the Med Center as an undergrad earned me a recommendation back to Henry Kautz, [as well as a news article](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/) interview I did around my 21st birthday. On top of that, I built [a sleek website API for Twitter GNIP data mining](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result, combined with my eclectic interests, he accepted me into his PhD group as a doctoral student.
 
 #### Fall, 2018 semester, and the Dead Marshes
 
