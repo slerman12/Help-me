@@ -494,7 +494,9 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 </a>
 </p>
 
-I started losing my hair in my 1st year, I started taking benzos in my 2nd year, and I started working in Chenliang Xu’s lab nearing the end of my 3rd year.
+- I started losing my hair in my 1st year
+- I started taking benzos in my 2nd year
+- I started working in Chenliang Xu’s lab nearing the end of my 3rd year
 
 At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
