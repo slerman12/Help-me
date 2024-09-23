@@ -55,10 +55,6 @@ That can’t be a coincidence, so I leave this story here both for medical utili
 - **University outpatient doctor**
 - **University-hospital police officers**
 
-This is going to be hard. What the fuck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
-
-Eczema leads to hair loss leads to depression and worsening psychiatric state…
-
 ### House on May St.
 
 My hair fell out while I rented a room in a *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
