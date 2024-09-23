@@ -237,7 +237,7 @@ Symptoms from taking the benzos as prescribed included:
 
 Around Fall, 2019, I tried to kill myself. The helium tank connected to tubing was found by my mom, and my family hid it from me.
 
-The nightmare I mentioned earlier was a waking one for a year.
+<!-- The nightmare I mentioned earlier was a waking one for a year. -->
 
 A deeper summary of my benzo trauma can be found [here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).
 
