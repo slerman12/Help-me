@@ -73,7 +73,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
   - No other foods, or drinks besides water.
 - Daily walks in parks and on trails.
 - Camping regularly, sometimes with just sleeping bag and no tent.
-- Desperate attempts to still socialize every week, usually via Meetup.
+- Desperate attempts to still socialize every week, usually via [Meetup](https://www.meetup.com).
 - 70-hour work weeks on average, always across two labs, including usually ones where I did essentially the job of a software engineer minus the pay.
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days and ~15 days, respectively, in that time period at least) and intermittent fasting (16:8, for maybe about one consecutive month) as trials (prolonged fasting gets rid of my [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md); intermittent fasting hasn't seriously helped me), as well as prolonged fasts for religious observances such as Yom Kippur.
 
