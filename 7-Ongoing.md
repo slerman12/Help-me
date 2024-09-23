@@ -219,7 +219,7 @@ $\quad \quad \ \ \not> 0$. &nbsp; $\square$
 - The Alderman initially tried to invoke other reasons for the atrocity, but the reality didn't support him.
 - The Alderman is the only ruling judge charged by the University of Rochester to me as the representative of the policies behind those atrocities.
 
-## $\mathbf{Dialogue \ of \ the \ Congress \ 2}$
+## $\mathbf{Dialogue \ of \ the \ Congress \ \text{2}}$
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/91d5132a-117c-41a2-9d87-264375521cba">
