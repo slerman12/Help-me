@@ -131,7 +131,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 ### Hospitalization at the University of Rochester's Strong Hospital
 
-#### Sarah
+#### Alternatives
 
 I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
 
@@ -145,7 +145,7 @@ Not that my lucidity needed evidence, but I explained the methods of late-2022 C
 
 $^\text{\small\color{green}1.:}$ <sup>Imagine where I would’ve gotten without these malpractices hereafter.</sup>
 
-#### Hudson
+#### Electroshock
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
