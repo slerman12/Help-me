@@ -61,9 +61,9 @@ I did everything advised and required, amid hospitalizations, medical trauma, an
 
 Aside from fasting for the sake of my [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md), I did all of the following listed disciplines for at least a year consecutively without interruption concurrently, some of these things for many years. That might sound voluntary, or unreasonable. No, I had to both to do PhD work and to recover from the [Medical Center's severe damages](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md). I'm a 5'5" nerdy guy who weighs 110lb and these kinds of disciplines aren't natural to me. Medical leaves aren't paid and I could've lost the subsidization for my student loans and potentially health insurance. Those disciplines are the only thing that made it possible to meet the requirements of the program, while literally mutilated, brain damaged, and burning alive. Those damages were induced by the University of Rochester Medical Center's malpractices, while they profited from that Med Center's research (where I also worked concurrently), big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the health of its students and workers.
 
-- Daily yoga in the morning.
-- Daily Pranayama in the morning.
-- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon.
+- Daily yoga in the morning on a yoga mat or the floor, of my apartment, or wherever I was living.
+- Daily pranayama in the morning on a meditation mat.
+- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon, on a meditation mat, seated comfortably, sometimes in lotus pose.
 - Daily early morning jogs.
 - Daily calisthenics, morning and afternoon.
 - Daily Wim Hof method and freezing cold baths in the morning.
@@ -72,6 +72,7 @@ Aside from fasting for the sake of my [eczema](https://github.com/slerman12/Brok
 - Organic grassfed grass-finished pasture-raised steak, Himalayan sea salt, and wild-caught salmon only (allowing my hair to grow back). TO DO: Point out how expensive this was on less than a living wage for a student with no financial safety net, a family that immigrated here without money as refugees (including me), and that New York State officially classifies the University of Rochester's salary for PhD students as being below official living wage. Noting again: three times my hair grew back on this diet, and it very noticeably expedited my brain damage recovery, and those were the reasons I had to do it (besides work demand, a friend biasing me more towards recognizing the dietary value, and Mikhaila Peterson recommendation).
   - No other foods, or drinks besides water.
 - Daily walks in parks and on trails.
+- Camping regularly, sometimes with just sleeping bag and no tent.
 - Desperate attempts to still socialize every week.
 - 70-hour work weeks on average, always across two labs, including usually ones where I did essentially the job of a software engineer minus the pay.
 - After the benzo brain damage but before the year(s) when I did all that, prolonged fasting (8 days and ~15 days, respectively, in that time period at least) and intermittent fasting (16:8, for maybe about one consecutive month) as trials (prolonged fasting gets rid of my [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md); intermittent fasting hasn't seriously helped me), as well as prolonged fasts for religious observances such as Yom Kippur.
