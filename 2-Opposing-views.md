@@ -473,7 +473,7 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 
 Henry thought Chenliang would be better due to his having more experience in deep learning, but may have overestimated how much any professor at our CS department could offer me in terms of anything related to research and methods. Chenliang, for example, who was working on state of the art Computer Vision, had about as much familiarity with MHDPA in 2020 as Dan Gildea had in 2018, perhaps a little more. Before I was his student, in 2020, I presented using MHDPA on image features as an encoder architecture for Semantic Segmentation to him, on his whiteboard, with an explanatory diagram in my journal for what MHDPA was that I showed him, and a diagram on the whiteboard for my proposed Semantic Segmentation method. In 2020, one of Chenliang's students, I remember, was applying a transformer to a sequence-to-sequence problem (not as an encoder architecture), but Chenliang, a Computer Vision professor, didn't know much what MHDPA and transformers were until Vision Transformers came out in 2021.
 
-I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time.
+I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time and could've published far more if something about his group didn't constrict my more philosophical interests.
 <!-- , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
 For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
