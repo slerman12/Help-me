@@ -735,6 +735,8 @@ Those environments are where we learn that some people are inferior to others, n
 >
 > Maybe he was such a big alcoholic at the age of 14 that the benzos were the inescapable treatment that the psychiatrists had to resort to, but I doubt it. When it gets to the point that kids are being inoculated with benzos, psychiatrists should ask themselves whether they have a problem, some kind of addiction maybe, to prescribing benzos, and seek help. There is a path to recovery, a 12-step program, starting with (1) stop. (2) Ask yourself, "Will society really be ruined if this kid is helped in some more-substantive way?" The next 10 steps involve reforming society, so I leave that as an exercise to the reader.
 
+These traumas are inflicted on kids, in hospitals and schools alike. Schools, today, are where kids give the best hours of their day. It's where, today, kids obey authority and follow merciless programs. It's where, amid concentration camp standards, kids bully and/or suffer bullying. Hospitals and schools should take spiritual inspiration from: summer camps (no coercion, social, nature), monasteries (connection to wisdoms, nature), and the fact that YouTubers make better educational content through their channels than what most schools offer, except way faster and (often) more truthfully/deeper/intelligently/respectfully-to-audience/entertainingly when it comes to the learning curriculum, from the intuitions to the in-the-weeds material specifics.
+
 #### Future hair losses
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
