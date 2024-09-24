@@ -58,7 +58,7 @@ $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things
 - **University outpatient doctor**
 - **University-hospital police officers**
 
-This is going to be hard. What the **** can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
+This is going to be hard. What the heck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state…
 
