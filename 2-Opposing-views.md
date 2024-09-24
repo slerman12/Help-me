@@ -476,8 +476,6 @@ Henry thought Chenliang would be better due to his having more experience in dee
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
 
-Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure [yet.](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8)
-
 I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests.
 <!-- , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
@@ -500,6 +498,8 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 - I started losing my hair in my 1st year
 - I started taking benzos in my 2nd year
 - I started working in Chenliang Xu’s lab nearing the end of my 3rd year
+
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, but would obtain tenure in 2022.
 
 At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
