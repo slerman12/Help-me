@@ -148,9 +148,9 @@ Our other companion was Hudson, who caught me as I was being discharged and hand
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, lightning bolts of happiness, for depression. I guess if the core of a patient’s depression isn’t "lack of pills," the evidence-backed next step is to get some jumper cables to their ears.
+I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
 
-Meanwhile, now checking my phone to make sure we are indeed in the 21st century, I was being chemically waterboarded and brain damaged via benzos, but who could’ve known that? Oh wait, I did, because I made the case articulately to my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering. 
+Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
 
 I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
 
