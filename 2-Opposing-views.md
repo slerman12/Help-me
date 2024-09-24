@@ -167,7 +167,7 @@ When I first arrived, as I first left my psychiatric unit room, and turned right
 > [!NOTE]
 > ### Jeremiah
 >
-> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. Combined with benzos, if I took my prescription for social anxiety that day, I suppose the effect would've been much the same, neurologically and physically, if not worse.
+> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
 >
 > That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/), perhaps another almost-preternatural-seeming omen that preceded the [very vivid nightmare that I had](#part-1).
 >
