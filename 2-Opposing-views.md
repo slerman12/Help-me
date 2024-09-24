@@ -33,12 +33,14 @@ Another time I did the steak-only diet, my pubic hair fully grew back — tempor
 
 Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
-That can’t be a coincidence<sup>$^\text{\color{green}1.}$</sup>, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+That can’t be a coincidence<!--<sup>$^\text{\color{green}1.}$</sup>-->, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
+<!--
 $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things are not physically possible, interpreted as not-coincidence, without some kind of preternatural explanation. That's the point. One of many as this book progresses.</sup>
+-->
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
