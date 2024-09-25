@@ -612,7 +612,7 @@ My hair was falling into my hands again in the [geriatric unit in December, 2020
 
 That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Even more medically rare/unprecedented: the full head hair regrowth in alopecia universalis was with comorbid eczema.
 
-### I didn't mention fingernails (fingernails regrowth)
+### My grandma's fingernails
 
 <!-- In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].-->
 
