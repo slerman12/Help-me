@@ -436,7 +436,7 @@ I was walking around Montreal with headphones in my ears, listening to Of Montre
 
 I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in line, had to wait longer than everybody, then talked to him a bit, he was friendly, and he shook my hand. I sent him a followup email, he replied, and it meant a lot to me.
 
-I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, weeks before my psychosis.
+I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, weeks before my RGH hospitalization.
 
 The hair loss had driven me to a place of yet more dependence, at least for what I perceived as my social future, on the energy-consciousness fates, since my physical appearance [couldn't be relied on](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [with and without](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) my body dysmorphia, to those social futures whatsoever.
 
