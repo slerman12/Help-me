@@ -202,8 +202,8 @@ The experience of losing my hair has cost me relationships and worsened my socia
 # Part 3
 
 - **University PhD advisors**
-- **University hospital police officers**
-- **University hospital janitor**
+- **University-hospital police officers**
+- **University psychiatric ward janitor**
 - **University PhD committee members**
 - **University CS department Chair**
 - **University Deans**
