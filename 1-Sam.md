@@ -31,18 +31,19 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
-      - Hospitalization at the University of Rochester's Strong Hospital
-        - Sarah
-        - Hudson
-        - Jeremiah
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
-        - Area exam
-        - The Martian
-        - Giles
+        - University of Rochester's Strong Hospital
+          - Sarah
+          - Hudson
+          - Jeremiah
+        - Spring, 2019 semester
+          - Area exam
+          - The Martian
+          - Giles
       - Chenliang Xu
       - Aside
         - Hair regrowth
