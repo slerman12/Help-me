@@ -450,13 +450,7 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
-#### Matt-Damon-potatoes-on-Mars
-
-It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
-
-I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material in one class due to missing the good early chunk of that semester, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
-
-Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
+### Spring, 2019 semester
 
 #### Area exam
 
@@ -464,18 +458,43 @@ I passed my area exam, within a few weeks of the close of this Spring 2019 semes
 
 Henry, compared to other professors of similar rank and background, deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicitiy, because he became my later advisor.  
 
-The other faculty were mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take that day to function, but that’s not how Henry meant it.
+The other faculty were probably mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that day to function, but that’s not how Henry meant it.
 
 [My slides for that area exam were quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
 
-I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo grey-out that I had to take an irregular dose of benzos to do something, 
+I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo torture-out that I had to take an irregular/much higher dose of benzos to do something, 
 
 > [!NOTE]
-> the other being the poster presentation for the Med Center, since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
+> the other being [the poster presentation for the Med Center](#charles-venuto), since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
 
 My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through impossible circumstances of brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the early summer of 2019. 
 
-My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in  physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
+My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
+
+#### The Martian
+
+[TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] <!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
+
+It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
+
+I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
+
+Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
+
+#### Giles
+
+<!--
+> [!NOTE]
+> ### Giles
+>
+> In season 6 of Buffy, her Watcher Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I..."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) A demon had possessed Sunnydale into a musical, my favorite episode of the show, "Once More, with Feeling."
+-->
+<!--
+> [!NOTE]
+> ### Giles
+>
+> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
+-->
 
 > [!NOTE]
 > ### Giles
@@ -489,8 +508,13 @@ Henry thought Chenliang would be better due to his having more experience in dee
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
 
+<!--
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure [yet.](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8)
+-->
+
 I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests such as those that brought about my early implementation innovating on MHDPA.
-<!-- , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
+<!-- I worked under Chenliang for the next 3 years, 2020 - 2023, managed to publish 2 papers in that time, and could've published far more if something about his group, which went strongly against Henry's hands-off and pressure-free approach, didn't constrict my more philosophical interests.
+, at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
 For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
 <!--
