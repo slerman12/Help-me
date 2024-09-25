@@ -15,11 +15,11 @@
 
 In the summer prior to my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that you inject into your stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
 
-Still telling the truth.
+<!-- Still telling the truth. -->
 
 Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring, a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. She and her nurse took pictures and stored them in the university-hospital computers. 
 
-Yes, I'm still telling the truth. I know this is dark.
+<!-- Yes, I'm still telling the truth. I know this is dark. -->
 
 Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
 
@@ -31,7 +31,7 @@ To help me weigh the difficult decision — and it was difficult because that me
 
 The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair’d grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could "sprout" out of the earth, my head, like blades of grass, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
 
-Not per everybody's tastes, but mysticism is an interesting context to read and write in.
+<!-- Not per everybody's tastes, but mysticism is an interesting context to read and write in. -->
 
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
 
@@ -39,7 +39,7 @@ Another time I did the steak-only diet, my pubic hair fully grew back — tempor
 
 Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
-That, unlike uncontextualized mysticism, really probably isn't a coincidence<!--<sup>$^\text{\color{green}1.}$</sup>-->, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+That<!--, unlike uncontextualized mysticism, really probably isn't,--> can't be a coincidence<!--<sup>$^\text{\color{green}1.}$</sup>-->, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
