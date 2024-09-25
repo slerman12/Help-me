@@ -7,7 +7,7 @@
 </a>
 </p>
 
-## Part 1 
+# Part 1 
 
 - **University-provided health insurance (Aetna)**
 - **University-hospital doctor**
@@ -58,7 +58,7 @@ $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things
 </a>
 </p>
 
-## Part 2
+# Part 2
 
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
@@ -69,7 +69,7 @@ This is going to be hard. What the heck can I say? I was going to exclude this w
 
 Eczema leads to hair loss leads to depression and worsening psychiatric state…
 -->
-### House on May St.
+## House on May St.
 
 My hair fell out while I rented a room in a *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
 
@@ -99,7 +99,7 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 
 After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
 
-### Psychiatry at the University of Rochester's Strong Hospital
+## Psychiatry at the University of Rochester's Strong Hospital
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
 
@@ -117,7 +117,7 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
-### Benzodiazepine ("benzos") mechanism of action
+## Benzodiazepine ("benzos") mechanism of action
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
@@ -141,52 +141,7 @@ Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance
 
 Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
 
-### Hospitalization at the University of Rochester's Strong Hospital
-
-I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
-
-So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
-
-My brother-in-law came in with my sister and I explained to him relational reasoning and the paper I submitted, the method of MHDPA. I explained to him the method underlying ChatGPT from my hospital ward 5 years before ChatGPT. And at the time, he thought my explanation was cool, but it’d’ve been hard to predict would be such a big thing, one that others in my field and the world would have heard of or have anywhere to as much belief in the utility in AI of, in the near-term or in the years to come. It was hard to predict for my professors and faculty, too. At the time, 2018/early-2019, most at the University of Rochester still thought deep learning was a fad. None of the professors or other PhD students were doing research on MHDPA, let alone had heard of MHDPA. [They might claim otherwise](4-Faith.md#academia--medicine). Besides the paper that proposed MHDPA itself, my innovation to MHDPA, was the first innovation to MHDPA ever, in the world/history. A small handful of others applied it, from research groups in DeepMind, none literally innovated *on* the method.
-
-I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable. 
-
-Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
-
-Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
-
-<p align="center">
-<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
-</p>
-
-I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
-
-Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
-
-I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
-
-<!--
-#### Guy whose name I don’t remember 
-
-When I first arrived, as I first left my psychiatric unit room, and turned right, I followed the music, as it followed in pace with me. The music was playing exactly in tune with my steps. From the open-area lounge area far ahead to the left, with big doors, honestly beautifully, he was there playing the piano.
--->
-
-> [!NOTE]
-> ### Jeremiah
->
-> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
->
-> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/), perhaps another almost-preternatural-seeming omen that preceded the [very vivid nightmare that I had](#part-1).
->
-> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
->
-> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!--of his--> he was referring to.
->
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a “breakdown,” I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters of ambiguity. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of the pharmaceutical drug, wherein the medical system is commiting physical violence in order to reenforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
->
-> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
-
-### My trauma
+## My trauma
 
 My trauma revolves around three psychiatrists.
 
@@ -258,7 +213,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 </a>
 </p>
 
-## Part 3
+# Part 3
 
 - **University PhD advisors**
 - **University hospital janitor**
@@ -322,7 +277,7 @@ Unlike my mom not being able to in Uzbekistan, I got into the PhD program. I was
 
 Before accepting me into his doctoral candidacy, Henry connected me to Charles Venuto at the Center for Health and Technology a year into their efforts to model Parkinson’s disease (PD) progression. Charles hired me as an undergrad researcher to work with another student, a friend of mine from an on-campus living community, in the UR Medicine Saunders Research Building, where I took on the responsibility of modeling Parkinson's disease for the next several years, including having co-led with that friend the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?"
 
-### Charles Venuto
+## Charles Venuto
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
@@ -343,7 +298,7 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 
 But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.
 
-### Henry Kautz
+## Henry Kautz
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/b828d43e-ba12-4f4f-b130-fa3acbac8009">
@@ -360,7 +315,7 @@ The top-three contest-winning Parkinson's disease progression models I built at 
 $^\text{\small\color{green}1.:}$ <sup>But, as I was talking in that interview, I knew I didn’t like my words, and today can say for sure I disagree with the last two quotes shared, in the sense that I don't want to contribute to the further automation and de-humanization of medicine. I mean, it's nuanced. If these tools can actually help, that would be good. But before such tools are optimized according to the existing metrics, those metrics have to be known without a measure of doubt as being good metrics for the fundamental health of humanity. Before such tools make the existing standards "streamlined," the existing standards should be made good. They're not currently good, and I don't want mindless bots to make a human take benzos for >6 months, again.</sup>
 -->
 
-#### Fall, 2018 semester, and the Dead Marshes
+### Fall, 2018 semester, and the Dead Marshes
 
 - I first injected Dupilumab summer, 2017
 - My first semester in the PhD program began in Fall, 2017, with Henry as advisor
@@ -450,6 +405,124 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
+### University of Rochester's Strong Hospital
+
+I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
+
+So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
+
+My brother-in-law came in with my sister and I explained to him relational reasoning and the paper I submitted, the method of MHDPA. I explained to him the method underlying ChatGPT from my hospital ward 5 years before ChatGPT. And at the time, he thought my explanation was cool, but it’d’ve been hard to predict would be such a big thing, one that others in my field and the world would have heard of or have anywhere to as much belief in the utility in AI of, in the near-term or in the years to come. It was hard to predict for my professors and faculty, too. At the time, 2018/early-2019, most at the University of Rochester still thought deep learning was a fad. None of the professors or other PhD students were doing research on MHDPA, let alone had heard of MHDPA. [They might claim otherwise](4-Faith.md#academia--medicine). Besides the paper that proposed MHDPA itself, my innovation to MHDPA, was the first innovation to MHDPA ever, in the world/history. A small handful of others applied it, from research groups in DeepMind, none literally innovated *on* the method.
+
+I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable. 
+
+Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
+
+Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
+</p>
+
+I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
+
+Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
+
+I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
+
+> [!NOTE]
+> ### Jeremiah
+>
+> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
+>
+> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/), perhaps another almost-preternatural-seeming omen that preceded the [very vivid nightmare that I had](#part-1).
+>
+> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
+>
+> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
+>
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a “breakdown,” I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters of ambiguity. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of the pharmaceutical drug, wherein the medical system is commiting physical violence in order to reenforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
+>
+> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
+
+### Flying colors
+
+The first psychiatrist and I walked together in the hall and he thought I was bright. The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. Let's call this luminescence "flying colors," a term I'm borrowing from Henry. The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge. He reassured, I would be weaned off before discharge.
+
+The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances in that regard. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off, but this time, she gave the reassurance, that I'd be tapered right after discharge.
+
+They didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic.
+
+I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The Christmas, 2018 trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded. <!--Depending on which version of this book you are reading, that crisis might not be described at all, here.-->
+
+None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester’s psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about.
+
+The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive impairment and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year. The color film had faded, the "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third click of the third "healer," the tornado had begun. The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 yellow-brick-manual definition for bad, it would just be a picture of him. In the second month with him, 3 months into the benzos, my cognition was not just grey but Requiem For A Dream-grey, anxiety constant. [My memory, speech, and imagination were gone](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d). From his disbelieving clinical authority, all of my symptoms were, wrongly, attributed to the earlier diagnoses. I told him I thought I was brain damaged, and that I was in physical pain, that I had [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the scientific studies I mentioned, because every word I said was devoid of believability — not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose, which I had to submit my position on, out of fear that he would. 
+
+He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation. In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to [(many) studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I found and the fact that nobody understands neurodegeneration. 
+
+I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, or better yet, immediately, as soon as I could've started weaning. The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. By the next month with that doctor, around month 4 of the benzos, I wasn't able to recall well even important personal memories or easily do basic math, grey cognition, non-stop anxiety, non-stop torture. My writing quality went extremely down on anything that was social or creative or new. What I suffered was physiologically brain damage. 
+
+My cognition and perception deteriorated severely, and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), mouth dryness, and [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) added to the mounting evidence of damages happening not just to my psyche, but to my brain and body. I was in severe pain and agony. He responded with only authority, no reasoning, and no sensitivity. He didn't believe any of my arguments. He made no consideration to the possibility that I was right or he was wrong. His clinical authority meant more to him than my agony. His perpetuation and amplification of my suffering, attributed reasons (despite good arguments that I made, but which were too agitated for the foolish authority), and fears was afforded to him only by his disbelief and my drug-induced insecurity about weaning off by myself. The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. I saw him for about 4 or 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.
+
+- The drug empire was disguised as the University of Rochester.
+- The drug dealers were disguised as the University of Rochester's psychiatrists.
+- The benzo drug market is a $3 billion industry disguised as the University of Rochester's medicine. 
+
+Suspiciously, there were even contradictions in recent studies from previous decades, on the same drugs: ["the Medical Research Council (MRC) in Britain agreed in 1982 that there should be large-scale studies to examine the long-term impact of benzodiazepines after research by a leading psychiatrist showed brain shrinkage in some patients similar to the effects of long-term alcohol abuse."](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light) The study was buried: ["The only problem with the MRC's response to such warnings about benzos? It appears to have sat for thirty years on the very documents that warned about the risks of brain shrinkage in patients taking them. Moreover, the MRC appears to have marked the documents 'closed until 2014,' despite their obvious importance to public health. [...] 'Members of Parliament and lawyers,' she continues, 'described the recently revealed documents as a scandal, and predicted they could lead the way to a class action costing millions.'"](https://www.psychologytoday.com/intl/blog/side-effects/201011/pharmaceutical-scandal-in-britain-sheds-disturbing-new-light)
+
+What could've caused three psychiatrists, with zero consensus between each other, and zero consent from the patient, to cause so much damage? I suspect the >5 months of inconsistent psychiatrist and doctor plans were due to the self-reinforcing biases clinicians (in the general sense) can create in themselves as they change a patient's personality through chemical interventions. My personality started very charming and cheerful due to the benzos, at which point they still planned to wean me off within the hospital. Then fear and anxiety rose due to increasing downregulation. As those induced neurological changes "doctored" my perception and psyche, my believability lessened (due solely to reduced neurological function, not any fundamental behavioral change aside from mental impairment, and no catatonia, or mania, or delusion), and each changing shift of psychiatrists extended the asserted duration of the coerced prescription of the previous, changing the plans of the previous psychiatrists, culminating with the outpatient doctor only willing to increase, with no taper schedule on the planned horizon. Doctors are aggressively playing Gods, and have no understanding of the severe bias that their own interventions produce in their own or each other's clinical decision-making. Measurement-bias is a known problem in science. Detection can result in a change in the state of the physical system (or organism or body) being detected. In medicine, this problem is less widely understood since the subjects being observed, detected, analyzed, judged, and changed are people.
+
+As these months progressed, my [facial structure changed, wrinkled and my face rapidly lost a healthy appearance](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), so much so as even my advisor remarked, empathetically, "You look terrible." Measuring damages to an intelligent person's intelligence fully is impossible. I was able to get straight A’s in my grad level classes, TA a class, and pass an area exam in the time that I was brain damaged, even worse than I'm describing now. And that took a lot of resourcefulness, will, and spirit, like Matt-Damon-potatoes-on-Mars kind of human spirit, that can't be underestimated. But if *those* grad-level metrics can’t measure the damage to my cognitive functioning, how could the tests that psychiatric researchers who believe benzos "can be safely taken for years" have? My grandma, in her early and later dementia, passed every test, like picking between two index cards about a color previously shown or reciting numbers that the doctor had just cited, and unambiguously to both family *and doctors* had dementia, dementia, the worst possible case scenario of this, and one that [studies have also shown benzos contribute to the likelihood of in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/) — and for that matter, how have any psychiatric research protocols evaluated whether somebody taking benzos in their 20s doesn't contribute to the likelihood of their dementia in their 80s? My family is intelligent, and we have a lot of will to work really hard. My friend, who was triple-majoring at the University of Rochester, told me she was driving once on acid. I was like, "Really, how?" and she said, "It's mostly muscle memory..." In other words, even under an extraordinarily altered state of consciousness, like the kind induced by acid, she would still plausibly be able to pass a driving test, and the same is true for drugs that alter one's consciousness, body, and neurology harmfully. No existing set of tests can measure how much an intelligent person's life, personality, cognition, and everything by which they live by, can be destroyed by the damages that psychiatric drugs cause which are hard to articulate and express in the midst of subjectively, even when those damages are extremely overt, and are incredibly insidious to the "more objective" tests that psychiatric researchers have, tests that try to come up with a metric for intelligence, the solution to which (used as a label source for a differentiable discriminator) would literally solve all of AI. 
+
+ChatGPT, perhaps itself a wizard behind the curtain — an artificial program — could pass their human cognition or psychiatric tests with flying pixels, probably better than a human in good health.
+
+Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by medicine as barbaric.
+
+<!--
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
+
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (not just flexing egocentrically here, but something I found from experience both Jeremiah and Sarah did, also having not-coincidentally [in-not-just-my-opinion](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) presented symptoms similar to mine), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
+-->
+
+<!--
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn, besides me, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
+-->
+<!--
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn from their direct healing effects on me in contrast to the ones never measured from any of the professional doctors, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did, myself included), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
+-->
+
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn from direct undeniable experience with them, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did, myself included), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
+
+<p align="center">
+<picture>
+  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+  <img width="20%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
+</picture><br><i>Modified AI-generated image via Adobe Express. 
+<br>To do: Find a better image that does me more justice.</i>
+</p>
+
+At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
+
+Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower comparative doses than what I took](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
+
+I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different herbs and chemicals they had with probably way more knowledge than they expected, the person at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then she stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording/thinking was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), due to literal brain damage from the benzos. The personality consequences of the extreme [anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [brain fog](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), and [impaired speech](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d), plus total hair loss, harmed my social life more than can be stated, and lasting trauma regarding people from the interactions with the psychiatrists and medical staff coercions.
+
+My symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year, and the trauma persists. <!-- I've read former cocaine and heroin addicts anecdotally report that long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. --> I saw anecdotes in [this forum](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports elsewhere, e.g., [here](https://qr.ae/p2Phzv) <!-- as far as those that I've stumbled to and recall from memory or my bookmarks (I'm sure there are plenty more, e.g.,--> and [here](https://www.reddit.com/r/benzorecovery/)). I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). 
+
+<!-- The nightmare I mentioned earlier was a waking one for a year. -->
+
+You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
+
+I tried to kill myself, and my family took the helium tank away.
+
+I had to buy waist straps to finally start to recover because I couldn't sit up from the debilitated position I shook with anxiety in on the couch.
+
+The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my cognitive/energy/mood recovery.
+
+And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
+
+### Spring, 2019 semester
+
 #### Area exam
 
 I passed my area exam, within a few weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
@@ -471,11 +544,11 @@ My family besides me also have higher-level degrees. My mom, a master's degree i
 
 #### The Martian
 
-[TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] <!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
+<!-- [TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] --><!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
 
 It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
 
-I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/porn), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
+I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/etc.), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
 
 Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
 
@@ -519,7 +592,7 @@ For context, Henry's average student paper count was 1 - 3 across the PhD studen
 Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
 -->
 
-### Chenliang Xu
+## Chenliang Xu
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
@@ -558,9 +631,9 @@ Last-minute, and with almost no notice, and without Niaz's approval, Chenliang w
 
 As Niaz said, "I don't know what he was thinking."
 
-### Aside
+## Aside
 
-#### Hair regrowth
+### Hair regrowth
 
 Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare/unprecedented. 
 
@@ -582,7 +655,7 @@ My hair was falling into my hands again in the [geriatric unit in December, 2020
 
 That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Even more medically rare/unprecedented: the full head hair regrowth in alopecia universalis was with comorbid eczema.
 
-#### I didn't mention fingernails (fingernails regrowth)
+### I didn't mention fingernails (fingernails regrowth)
 
 In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].
 
@@ -601,11 +674,11 @@ Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes �
 
 Without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads.
 
-#### How my grandma got dementia
+### How my grandma got dementia
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the list goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the year my grandpa died, 2016, when she died as well.
 
-#### How my grandpa died
+### How my grandpa died
 
 When I was a kid, I listed off my favorite family members once, in my order of favorite, in front of all of them who were in our apartment living room, either standing or eating at the table. Maybe I was 5 or so. I remember they all looked big and I was standing. Grandpa was sitting in his bigger chair at the table and I started, "Babula" ("Grandma"), "Máma," "Marina," ... and then after all the others who I listed, I listed my grandpa. I still remember that. He wasn’t offended, and I love and loved my grandpa a lot. In maybe 16 years, I would be standing by his bedside in the hospital, after a heart surgery he had, when he'd tell me: "Ti moy lyubimey v'nuk" ("You are my favorite grandson."). He has 4 grandkids: Irina, Lena, Marina, and me. I'm his only grandson... 
 
@@ -629,7 +702,7 @@ This time, my grandpa arrived a little before my grandma, despite being a little
 
 In Uzbekistan, it was custom for doctors to visit patients. Physicians always came to patient homes, or wherever the patient was, standardly, in Uzbek healthcare. But America and Uzbekistan had something in common, regarding their healthcare systems: cardiologists (heart doctors) specifically, didn’t visit patient homes. In our neighboring apartment units, my grandpa was having trouble breathing, but could still walk, and had survived three heart attacks previous to his death. Perhaps the heart doctor was right, and he'd keep having heart attacks and eventually die, but eventually was the night of their appointment, after a heroic ordeal to get to that office that my grandpa, with heavy strain, survived, and made it back in time to the Jewish home for his final destination, earlier than had he never gotten off the first train for some bread and kielbasa.
 
-#### When my grandma died
+### When my grandma died
 
 My grandma, Asya Lerman (Hebrew/American: "Esya") always cooked, healthy and really well, but she had type-2 diabetes at old age.
 I remember, for herself, she had to use artificial sweeteners because she couldn’t eat pure sugar.
@@ -670,7 +743,7 @@ My grandma’s numerical timing of when she died is a proof symbol in my opinion
 
 I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
 
-#### Ascent of a Jewish old grandpa
+### Ascent of a Jewish old grandpa
 
 In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and I voted for him.
 
@@ -684,7 +757,7 @@ But I bring him up now because the rest of this book is going to point to some s
 
 Speaking of the elderly...
 
-#### Geriatric unit hospitalization
+### Geriatric unit hospitalization
 
 > [!WARNING]
 > In December, 2020, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
@@ -740,7 +813,7 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book.
 
-#### Kids
+### Kids
 
 <!--
 Let's now regress back to childhood.
@@ -759,7 +832,7 @@ Those environments are where we learn that some people are inferior to others, n
 
 These traumas are inflicted on kids, in hospitals and schools alike. Schools, today, are where kids give the best hours of their day. It's where, today, kids obey authority and follow merciless programs. It's where, amid concentration camp standards, kids bully and/or suffer bullying. Hospitals and schools should take spiritual inspiration from: summer camps (no coercion, social, nature), monasteries (connection to wisdoms, nature), and the fact that YouTubers make better educational content through their channels than what most schools offer, except way faster and (often) more truthfully/deeper/intelligently/respectfully-to-audience/entertainingly when it comes to the learning curriculum, from the intuitions to the in-the-weeds material specifics.
 
-#### Future hair losses
+### Future hair losses
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
 
@@ -769,7 +842,7 @@ However, adding this seems to undermine just how severe the injustice we're talk
 
 The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgements, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
 
-#### Intimacy healing
+### Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
 
@@ -797,7 +870,7 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
-#### The artificial and synthetic
+### The artificial and synthetic
 
 I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
 - And note, via humans.
@@ -816,11 +889,11 @@ And that must be understood as distinct from capitalistic drug-like fixes that p
 
 Intimacy healing is a step towards that, starting with medical institutions.
 
-#### AI
+### AI
   
 AI is a field with a lot of ethics questions, and the [militaristic](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), [survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) uses out there, in combination with this paper factory progress and pressure to turn out papers, is a boding sign that those questions are being answered extraordinarily incorrectly by the people giving the grades.
 
-### Niaz Abdolrahim (okay, some not-tragedy)
+## Niaz Abdolrahim (okay, some not-tragedy)
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/e4288579-4f0b-4ac3-a8f2-ddbbf728128d">
@@ -851,7 +924,7 @@ Makes me want to go #NotEnoughPapers, for the many thousands of dollars reverse-
 
 However, that lab is the least of the work I did ([here](5-Early-work-in-program.md)/[here](6-Indebted.md)/[here](https://github.com/AGI-init/UnifiedML-legacy)/[here](https://github.com/AGI-init/XRDs)/[here](https://github.com/slerman12/Builder)/[here](https://github.com/AGI-init/Tributaries)/[here](https://docs.google.com/presentation/d/1ZQFeiOKSU2teVGg5EHlgREAi8pJY_Mr1CJ3H2pfFBfI/edit?usp=sharing)), at sometimes slave wage by force, with PhD requirements that were usually uniquely put on me, from the same institution that mutilated the hair and youth from my body and face, and neurochemically gassed my brain, then terminated me and scapegoated me for their 6 years of atrocities, negligences, and greed.
 
-### Chris Kanan
+## Chris Kanan
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/c2d781ac-90e2-4f78-9b12-655fec5c1acb">
@@ -890,7 +963,7 @@ Coincidentally, they all had evidence that this is something I was trying to do 
 
 It is the first rewritable DataLoader that serves as a Replay for supervised, generative, and reinforcement learning as well as the novel algorithm for sampling without replacement, something that is standardly done in the former two but had never been done for priority experience replays in the latter, especially not in combination with lifelong storage capacity via [dynamic device allocation](https://github.com/slerman12/Builder/blob/64c92d7bf5c09642e161548c36625739884b01f7/UnifiedML/src/ML/World/Memory.py#L103-L107), [hard disk memory mapping](https://github.com/slerman12/Builder/blob/64c92d7bf5c09642e161548c36625739884b01f7/UnifiedML/src/ML/World/Memory.py#L524-L543), and [truly-shared in-RAM adaptive memory](https://github.com/slerman12/Builder/blob/64c92d7bf5c09642e161548c36625739884b01f7/UnifiedML/src/ML/World/Memory.py#L59-L150), in other words though extremely reductive: an accelerated parallelized DataLoader whose contents can be changed by the agent, and which include generalized sampling methods even when the dataset size is growing such as in a priority experience replay for DataLoader, and all of this added with a truly state of the art reinforcement learning algorithm/system DrQV2 as well as others with support for continuous and discrete domains, online or offline learning, and on-policy or off-policy, all of which — yes, all of which — I generalized into a unified API and framework to fully support supervised, generative, and reinforcement learning, the most general DataLoader/Experience Replay/Memory ever built, capable also of storing and updating parameters, not just data, meaning all of this with support for deep neural Memory, not just dataset-centric. Nothing like it exists — I’m afraid PyTorch or somebody will try to copy it upon reading this. The value of it was so immense and this brand new interim committee — all except Chris Kanan — had not the faintest scent of that — well, that's not true, Chenliang thought I could start a business and just cared about papers, but note, I needed his GPUs to finish. By the way, pretty much fully implemented, [and elegantly so](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Memory.py) (but with no GPUs to finalize the small amount of work left on the library/framework as a whole, nor funding or undestroyed-human-spirit left to write the immense amount of documentation still needed, and personally, I think this book takes priority, not to mention, I've released all the code open-source under the MIT license, so traditional funding routes aren't an option anyway, plus I have other interconnected plans for my research, if given the reigns/money-rains to make it happen). Since I started building it for my PhD (from about 2021, in Chenliang's lab, onwards), some similar works have come out, like PyTorch’s entire reinforcement learning library, but none compare (the system was being built within a GATO/JEPA-type framework before either of those were published/announced). And has an [interface that plug-and-play substitutes the normal PyTorch DataLoader](https://github.com/slerman12/Builder/blob/main/UnifiedML/src/ML/World/Replay.py). It’s also accelerated and faster in every substantive way for supervised, too, at least Pytorch's default DataLoader, but possibly the more intricate accelerators, and was the first infrastructure in Chenliang Xu’s Computer Vision lab [capable of training ImageNet efficiently from scratch](https://github.com/slerman12/Builder/blob/main/tributaries-ml/src/tributaries/Examples/Sweeps/ImageNet.py), something not one other student in his Computer Vision lab — even with the most published papers — had (and probably "has" as of time of writing) ever done. To be clear, I was the first student in his PhD lab’s history — officially ranked one of the [top in the world in Computer Vision](https://csrankings.org/#/fromyear/2020/toyear/2024/index?vision&us) — to use any infrastructure (his or otherwise) for training ImageNet from scratch (meaning, not via fine-tuning an ImageNet-pre-trained model, nor just using a subset of the ImageNet dataset), the gold standard of his field, all within a GATO/JEPA type generalized (and more general than either of them) framework (whose construction also preceded both of those, by the way). That being said, his students, perhaps more so than Chenliang, appreciated what I was doing, though Chenliang knew it could've been valuable, and was good enough for a PhD. Both him and Niaz said I was ready to defend. Chenliag wanted me to write my thesis before he cut his funding, yet again on an impossible deadline. But a thesis is more important than a conference paper, and I couldn't have.
 
-### Tom Howard
+## Tom Howard
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/85a04ddb-b8f6-4d0c-abac-3e407d34b7a0">
@@ -933,7 +1006,7 @@ Tom Howard didn't make any tangible, explicit, or otherwise suggestions, nor did
 
 The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and Chenliang confirmed by email the desertion for the rest of the committee and Michael Scott on **August 10th, 2024**, the same day as my [early in-advance-of notice](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee and Michael Scott that, on account of that, I wouldn't attend the requirement (2), notified to them without their "no" prior to the **August 30, 2023** date, with Chenliang even specifying that I was ready to defend a thesis within the next few months.
 
-### Charles Venuto
+## Charles Venuto
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/88057836-9605-4d4a-86b1-00e8bcc86148">
@@ -956,7 +1029,7 @@ I haven't spoken to Charles since we added that biomedical component to my [Tayl
 
 So in other words: Chris Kanan (who [didn't remember the meeting](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Deus-Ex-Memory.md)) and Tom Howard fully determined my termination, besides Michael L. Scott. 
 
-### Recap
+## Recap
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/5290be0b-5b0b-4d26-a0ed-bc6d1f7e1abd">
