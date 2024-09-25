@@ -450,8 +450,6 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
-### Spring, 2019 semester
-
 #### Area exam
 
 I passed my area exam, within a few weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
