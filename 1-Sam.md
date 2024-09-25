@@ -40,8 +40,9 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
-        - Matt-Damon-potatoes-on-Mars
-        - Area exam
+        - Spring, 2019 semester
+          - Area exam
+          - The Martian
           - Giles
       - Chenliang Xu
       - Aside
