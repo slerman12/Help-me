@@ -45,7 +45,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Chenliang Xu
       - Aside
         - Hair regrowth
-        - I didn't mention fingernails (fingernails regrowth)
+        - My grandma's fingernails
         - How my grandma got dementia
         - How my grandpa died
         - When my grandma died
