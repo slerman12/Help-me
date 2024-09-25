@@ -610,7 +610,9 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization).
 
-That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. Even more medically rare/unprecedented: the full head hair regrowth in alopecia universalis was with comorbid eczema.
+That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. 
+
+Had Henry not left, hair probably would’ve stayed regrown, I probably would’ve finished PhD (hair did regrow actually; it just fell out), meaning re-instigating Dupilumab, if Henry didn’t leave, which I had no way of knowing he would, wasn’t my moral responsibility; giving me peace as a worker and patient, which they [objectively didn’t do](#geriatric-unit-hospitalization) was the University of Rochester’s, to achieve their aims and mine.
 
 ### My grandma's fingernails
 
