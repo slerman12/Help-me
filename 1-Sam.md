@@ -37,8 +37,6 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
         - University of Rochester's Strong Hospital
-          - Sarah
-          - Hudson
           - Jeremiah
         - Spring, 2019 semester
           - Area exam
