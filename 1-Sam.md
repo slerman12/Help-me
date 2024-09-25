@@ -27,12 +27,12 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
 
   - [Opposing views](2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
-    - Part 2 (University-hospital psychiatrists, University outpatient doctor, University-hospital police officers)
+    - Part 2 (University-hospital psychiatrists, University outpatient doctor)
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
       - My trauma
-    - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+    - Part 3 (University PhD advisors, University-hospital police officers, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
