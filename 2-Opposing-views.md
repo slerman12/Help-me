@@ -15,11 +15,7 @@
 
 In the summer prior to my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that you inject into your stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
 
-<!-- Still telling the truth. -->
-
 Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring, a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. She and her nurse took pictures and stored them in the university-hospital computers. 
-
-<!-- Yes, I'm still telling the truth. I know this is dark. -->
 
 Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
 
@@ -31,21 +27,19 @@ To help me weigh the difficult decision — and it was difficult because that me
 
 The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair’d grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair could "sprout" out of the earth, my head, like blades of grass, again… which it did, temporarily but covering my entire head except for an unnoticeable patch at the top of my scalp.
 
-<!-- Not per everybody's tastes, but mysticism is an interesting context to read and write in. -->
-
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
 
 Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
 
 Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
 
-That<!--, unlike uncontextualized mysticism, really probably isn't,--> can't be a coincidence<!--<sup>$^\text{\color{green}1.}$</sup>-->, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 <!--
-$^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things are not physically possible, interpreted as not-coincidence, without some kind of preternatural explanation. That's the point. One of many as this book progresses.</sup>
+$^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things are not physically possible, interpreted as not-coincidence, without some kind of preternatural explanation. That's the point.</sup>
 -->
 
 <p align="center">
@@ -64,11 +58,6 @@ $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things
 - **University outpatient doctor**
 - **University-hospital police officers**
 
-<!--
-This is going to be hard. What the heck can I say? I was going to exclude this whole section. This is night-marish and you should be scared. Oh friendly psychiatrist pops in to tell me that they can't stop the benzodiazapine coercion. No, that's not the beginning...
-
-Eczema leads to hair loss leads to depression and worsening psychiatric state…
--->
 ## House on May St.
 
 My hair fell out while I rented a room in a *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
@@ -92,7 +81,7 @@ Later, after some time without that "Kundalini" sensation, I described how I the
 -->
 
 <!--
-The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyebrows, eyelashes, armpits, and pubic hair weren't.
+The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
 -->
 
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
@@ -197,8 +186,6 @@ Symptoms from taking the benzos as prescribed included:
 - [More than a year of all of this, no sleep, non-stop persisting neurochemical torture](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/)
 
 Around Fall, 2019, I tried to kill myself. The helium tank connected to tubing was found by my mom, and my family hid it from me.
-
-<!-- The nightmare I mentioned earlier was a waking one for a year. -->
 
 A deeper summary of my benzo trauma can be found [here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).
 
@@ -310,10 +297,6 @@ But before we come to the conclusion that Charles is caught "red-handed," he was
 </p>
 
 The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill and intelligence, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
-
-<!--
-$^\text{\small\color{green}1.:}$ <sup>But, as I was talking in that interview, I knew I didn’t like my words, and today can say for sure I disagree with the last two quotes shared, in the sense that I don't want to contribute to the further automation and de-humanization of medicine. I mean, it's nuanced. If these tools can actually help, that would be good. But before such tools are optimized according to the existing metrics, those metrics have to be known without a measure of doubt as being good metrics for the fundamental health of humanity. Before such tools make the existing standards "streamlined," the existing standards should be made good. They're not currently good, and I don't want mindless bots to make a human take benzos for >6 months, again.</sup>
--->
 
 ### Fall, 2018 semester, and the Dead Marshes
 
@@ -478,20 +461,7 @@ ChatGPT, perhaps itself a wizard behind the curtain — an artificial program �
 
 Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-history-of-the-lobotomy) and [conversion therapies](https://time.com/6344824/how-common-is-conversion-therapy-united-states/) were standard psychiatric practice. Coercion in psychiatric medicine, especially long-term, especially of benzos will be recognized by medicine as barbaric.
 
-<!--
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
-
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (not just flexing egocentrically here, but something I found from experience both Jeremiah and Sarah did, also having not-coincidentally [in-not-just-my-opinion](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) presented symptoms similar to mine), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
--->
-
-<!--
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn, besides me, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
--->
-<!--
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn from their direct healing effects on me in contrast to the ones never measured from any of the professional doctors, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did, myself included), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
--->
-
-As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn from direct undeniable experience with them, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did, myself included), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
+As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. There's a disorder *of* the system, and it's not one that's classified in the DSM-5.
 
 <p align="center">
 <picture>
@@ -508,8 +478,6 @@ Starting some months [(maybe 4th month) into taking the benzos](https://www.redd
 I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different herbs and chemicals they had with probably way more knowledge than they expected, the person at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then she stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording/thinking was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), due to literal brain damage from the benzos. The personality consequences of the extreme [anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [brain fog](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), and [impaired speech](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d), plus total hair loss, harmed my social life more than can be stated, and lasting trauma regarding people from the interactions with the psychiatrists and medical staff coercions.
 
 My symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year, and the trauma persists. <!-- I've read former cocaine and heroin addicts anecdotally report that long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. --> I saw anecdotes in [this forum](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports elsewhere, e.g., [here](https://qr.ae/p2Phzv) <!-- as far as those that I've stumbled to and recall from memory or my bookmarks (I'm sure there are plenty more, e.g.,--> and [here](https://www.reddit.com/r/benzorecovery/)). I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). 
-
-<!-- The nightmare I mentioned earlier was a waking one for a year. -->
 
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
 
@@ -554,19 +522,6 @@ Had I taken a medical leave, I would've lost my salary, and wouldn't have been a
 
 #### Giles
 
-<!--
-> [!NOTE]
-> ### Giles
->
-> In season 6 of Buffy, her Watcher Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I..."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) A demon had possessed Sunnydale into a musical, my favorite episode of the show, "Once More, with Feeling."
--->
-<!--
-> [!NOTE]
-> ### Giles
->
-> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
--->
-
 > [!NOTE]
 > ### Giles
 >
@@ -577,7 +532,7 @@ Henry got an offer to direct the AI division at the National Science Foundation 
 Henry thought Chenliang would be better due to his having more experience in deep learning, but may have overestimated how much any professor at our CS department could offer me in terms of anything related to research and methods. Chenliang, for example, who was working on state of the art Computer Vision, had about as much familiarity with MHDPA in 2020 as Dan Gildea had in 2018, perhaps a little more. Before I was his student, in 2020, I presented using MHDPA on image features as an encoder architecture for Semantic Segmentation to him, on his whiteboard, with an explanatory diagram in my journal for what MHDPA was that I showed him, and a diagram on the whiteboard for my proposed Semantic Segmentation method. In 2020, one of Chenliang's students, I remember, was applying a transformer to a sequence-to-sequence problem (not as an encoder architecture), but Chenliang, a Computer Vision professor, didn't know much what MHDPA and transformers were until Vision Transformers came out in 2021.
 
 <!--
-Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab. ]() -->
 
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure [yet.](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8)
@@ -586,6 +541,8 @@ Chenliang was younger than Henry, a good amount closer to my age than Henry's, a
 I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests such as those that brought about my early implementation innovating on MHDPA.
 <!-- I worked under Chenliang for the next 3 years, 2020 - 2023, managed to publish 2 papers in that time, and could've published far more if something about his group, which went strongly against Henry's hands-off and pressure-free approach, didn't constrict my more philosophical interests.
 , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
+
+<!-- He got tenure in that time, and had his son in that time. -->
 
 For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
 <!--
