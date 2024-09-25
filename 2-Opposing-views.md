@@ -489,7 +489,7 @@ Henry thought Chenliang would be better due to his having more experience in dee
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
 
-I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests.
+I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests such as those that brought about my early realization about MHDPA.
 <!-- , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
 For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
