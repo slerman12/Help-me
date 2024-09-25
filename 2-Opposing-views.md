@@ -56,7 +56,6 @@ $^\text{\small\color{green}1.:}$ <sup>I am aware that some other of these things
 
 - **University-hospital psychiatrists**
 - **University outpatient doctor**
-- **University-hospital police officers**
 
 ## House on May St.
 
@@ -203,6 +202,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 # Part 3
 
 - **University PhD advisors**
+- **University-hospital police officers**
 - **University hospital janitor**
 - **University PhD committee members**
 - **University CS department Chair**
