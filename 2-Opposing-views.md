@@ -487,7 +487,7 @@ I had to buy waist straps to finally start to recover because I couldn't sit up 
 
 The steak diet, which I began after all of these symptoms and withdrawing from benzos, helped my cognitive/energy/mood recovery.
 
-And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
+And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let arbitrary doctors take authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
 
 ### Spring, 2019 semester
 
