@@ -514,7 +514,7 @@ My family besides me also have higher-level degrees. My mom, a master's degree i
 
 <!-- [TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] --><!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
 
-It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey.
+It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey, despite some trying.
 
 I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/etc.), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
 
