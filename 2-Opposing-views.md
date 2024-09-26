@@ -493,7 +493,7 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 
 #### Area exam
 
-I passed my area exam, within a few weeks of the close of this Spring 2019 semester, "with flying colors" according to Henry.
+I passed my area exam, within a few weeks of the close of the Spring 2019 semester, "with flying colors" according to Henry.
 
 Henry, compared to other professors of similar rank and background, deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicitiy, because he became my later advisor.  
 
