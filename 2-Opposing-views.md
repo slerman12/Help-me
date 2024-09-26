@@ -520,6 +520,8 @@ I spent every day of that semester writing a little bit towards my area exam pap
 
 Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
 
+#### Giles
+
 > [!NOTE]
 > ### Giles
 >
