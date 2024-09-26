@@ -538,7 +538,7 @@ Chenliang was younger than Henry, a good amount closer to my age than Henry's, a
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure [yet.](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8)
 -->
 
-I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict my more philosophical interests such as those that brought about my early implementation innovating on MHDPA.
+I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict me.
 <!-- I worked under Chenliang for the next 3 years, 2020 - 2023, managed to publish 2 papers in that time, and could've published far more if something about his group, which went strongly against Henry's hands-off and pressure-free approach, didn't constrict my more philosophical interests.
 , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
