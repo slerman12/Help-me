@@ -32,7 +32,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
       - My trauma
-    - Part 3 (University PhD advisors, University-hospital police officers, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+    - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
@@ -52,6 +52,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
           - Medical system diet arguments
         - Ascent of a Jewish old grandpa
         - Geriatric unit hospitalization
+        - Nurses
         - Kids
           - Mobi
         - Future hair losses
