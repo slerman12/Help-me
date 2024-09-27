@@ -203,6 +203,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 - **University PhD advisors**
 - **University-hospital police officers**
+- **University-hospital nurses**
 - **University psychiatric ward janitor**
 - **University PhD committee members**
 - **University CS department Chair**
@@ -769,6 +770,10 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 -->
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book.
+
+### Nurses
+
+The nurses had threatened the court order. The nurses didn’t let me keep my clothes. The nurses had run over my toe. 
 
 ### Kids
 
