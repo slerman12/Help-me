@@ -551,7 +551,20 @@ I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to pu
 
 <!-- He got tenure in that time, and had his son in that time. -->
 
-For context, Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
+Chenliang's real contribution was having GPUs, something I missed the deadline for while under Henry, as I had been given access to the NSF's for my honorable mention in the GRFP I applied to, but only if I made an account within a specified time window, right in the middle of my benzo withdrawal, that I missed.
+
+<!--
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
+
+<!--
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure [yet.](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8)
+-->
+
+I worked under Chenliang for the next 3 years, 2020 - 2023, "only" managed to publish 2 papers in that time, and could've published far more if something about his group didn't constrict me. 
+<!-- I worked under Chenliang for the next 3 years, 2020 - 2023, managed to publish 2 papers in that time, and could've published far more if something about his group, which went strongly against Henry's hands-off and pressure-free approach, didn't constrict my more philosophical interests.
+, at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
+
+I managed to publish 2 papers. Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
 <!--
 Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
 -->
