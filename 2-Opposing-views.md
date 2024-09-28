@@ -613,7 +613,7 @@ I was on a mostly-steak-only diet since at least April, 2020 (with wild caught s
 
 Beginning initially from Paleo, I transitioned into beef-only. The beef-only phase was about a month and caused watery bowel movement symptoms and decreased stool rate, as were expected from what I'd heard and read about the diet. By the end of that month, I think my energy and mood, and probably cognition, had massively improved. Gradually, the majority of my beef came from organic, grass fed, grass finished steak and not long after, perhaps in that month as well, I added daily salmon in the morning. So, my diet converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water. I used lots of salt and fried the fat from the steak. I was experiencing big improvements to my cognition, energy, and mood. In particular, I recall my writing, such as poems and visual creative writing, had improved beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.
 
-See [here](4-Faith.md#mikhaila-peterson) for who inspired this diet.
+See [here](4-Faith.md#mikhaila-peterson) for who/where I heard about this diet from.
 
 In the October, 2020 hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
 
