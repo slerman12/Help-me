@@ -20,7 +20,7 @@
 
 > This isn't meant as a resume. It illustrates the university's lack of standing as a credible institution, having opposed and been late to every idea that turned out to be the next major leap in the field, including some I don't have the energy to elaborate on.
 >
-> It tries to show how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. I did more than would be expected for a top PhD student. See [here](https://github.com/slerman12/BrokenWisdoms/blob/main/6-Indebted.md) for work I did in the next 3 years of my PhD.
+> It tries to show how much I did in the first 3 years, amid the extreme terror, tragedy, and obstruction with the same institution on me concurrently. I did more than would be expected for a top PhD student. See [here](6-Indebted.md) for work I did in the next 3 years of my PhD.
 > 
 > I under-stress how much they argued, pre-emptively judged, and disagreed.
 
