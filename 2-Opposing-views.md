@@ -491,7 +491,7 @@ I tried to kill myself, and my family took the helium tank away.
 
 I had to buy waist straps to finally start to recover because I couldn't sit up from the debilitated position I shook with anxiety in on the couch.
 
-The steak diet, which I began after the severest of these symptoms and withdrawing from benzos, around spring or early summer, 2020, helped my cognitive/energy/mood recovery.
+The steak diet, which I began after the severest of these symptoms and withdrawing from benzos, in spring, 2020, helped my cognitive/energy/mood recovery.
 
 And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/), and I still had the wisdom to never let doctors take arbitrary authority over my own intelligence in how to gauge my own health, what's lucid vs. "disorder," and which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense.
 
@@ -512,7 +512,7 @@ I rehearsed that area exam in front of my mom and uncle for a week every day bef
 > [!NOTE]
 > the other being [the poster presentation for the Med Center](#charles-venuto), since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
 
-My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the early summer of 2019. 
+My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the late spring of 2019. 
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
 
@@ -611,7 +611,7 @@ Full head hair regrowth in alopecia universalis, especially with comorbid eczema
 
 I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well).
 
-I transitioned into the diet from Paleo, to more than a month of beef-only, and converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water, as my diet. The beef-only phase involved about a month of watery bowel movement symptoms, as were expected from what I'd heard and read, that I'd characterize as "detoxification." Then, and by the time I was eating wild caught salmon and organic steak, I was experiencing big improvements to my cognition, energy, and mood, possibly even improving from before the benzo brain damage, and most of my income was going towards this experimental method of recovering from that brain damage — and, unexpectedly, it's most likely what caused the hair regrowth.
+Beginning initially from Paleo, I transitioned into beef-only. The beef-only phase was about a month and caused watery bowel movement symptoms, as were expected from what I'd heard and read, that I'd characterize as "detoxification." By the end of that month, I think my energy and mood, and probbaly cognition, had massively improved. Gradually, the majority of my beef came from organic, grass fed, grass finished steak and not long after, perhaps in that month as well, I added daily salmon. So, my diet converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water. I was experiencing big improvements to my cognition, energy, and mood. In particular, I recall my writing, such as poems and visual creative writing, had improved beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started growing back.
 
 See [here](4-Faith.md#mikhaila-peterson) for what inspired that diet.
 
@@ -625,7 +625,7 @@ But, in case the detail was missed ("since chunks of it were falling out again i
 
 My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization).
 
-That sudden hair regrowth was 2 years after the summer of the Dupilumab cessation that induced the alopecia universalis. 
+That sudden hair regrowth was more than 2 years after the Dupilumab cessation that induced the alopecia universalis. 
 
 ### My grandma's fingernails
 
