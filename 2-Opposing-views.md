@@ -611,7 +611,7 @@ Full head hair regrowth in alopecia universalis, especially with comorbid eczema
 
 I was on a mostly-steak-only diet since at least April, 2020 (with wild caught salmon as well).
 
-I transitioned into the diet from Paleo, to more than a month of beef-only, and converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water, as my diet. The beef-only phase involved about a month of watery bowel movement symptoms, as were expected from what I'd heard and read, that I'd characterize as "detoxification." Then I was eating wild caught salmon and organic steak, with big improvements to my cognition, energy, and mood in the post-benzo state, and most of my income was going towards this experimental recovery from the benzo brain damage — and, unexpectedly, it plausibly is what caused the hair regrowth.
+I transitioned into the diet from Paleo, to more than a month of beef-only, and converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, organic black pepper and salt, and water, as my diet. The beef-only phase involved about a month of watery bowel movement symptoms, as were expected from what I'd heard and read, that I'd characterize as "detoxification." Then, and by the time I was eating wild caught salmon and organic steak, I was experiencing big improvements to my cognition, energy, and mood, possibly even improving from before the benzo brain damage, and most of my income was going towards this experimental method of recovering from that brain damage — and, unexpectedly, it's most likely what caused the hair regrowth.
 
 See [here](4-Faith.md#mikhaila-peterson) for what inspired that diet.
 
