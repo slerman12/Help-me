@@ -61,9 +61,9 @@ I did everything advised and required, amid hospitalizations, medical trauma, an
 
 Aside from fasting for the sake of my [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md), I did all of the following listed disciplines for at least a year consecutively without interruption concurrently, some of these things for many years. That might sound voluntary, or unreasonable. No, I had to both to do PhD work and to recover from the [Medical Center's severe damages](https://github.com/slerman12/BrokenWisdoms/blob/main/2-Opposing-views.md). I'm a 5'5" nerdy guy who weighs 110lb and these kinds of disciplines aren't natural to me. Medical leaves aren't paid and I could've lost the subsidization for my student loans and potentially health insurance. Those disciplines are the only thing that made it possible to meet the requirements of the program, while literally mutilated, brain damaged, and burning alive. Those damages were induced by the University of Rochester Medical Center's malpractices, while they profited from that Med Center's research (where I also worked concurrently), big-pharma drug agreements, and coercive psychoactive-drug prescriptions/administrations on me. The University of Rochester is literally a monopoly, both financially as a Rochester-wide power-center and over the health of its students and workers.
 
-- Daily yoga in the morning on a yoga mat or the floor, of my apartment, or wherever I was living.
-- Daily pranayama in the morning on a meditation mat.
-- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon, on a meditation mat, seated comfortably, sometimes in lotus pose.
+- Daily yoga in the morning.
+- Daily Pranayama in the morning.
+- Twice-daily [Transcendental Meditation](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), morning and afternoon.
 - Daily early morning jogs.
 - Daily calisthenics, morning and afternoon.
 - Daily Wim Hof method and freezing cold baths in the morning.
