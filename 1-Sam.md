@@ -21,6 +21,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
 - **Sam**
   - [Sam](1-Sam.md)  
     - Prologue
+      - Dialogue of the Congress 1
     - Chapters
 
 - **Opposing Views**
