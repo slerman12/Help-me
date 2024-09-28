@@ -140,8 +140,6 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
     - Critiques
     - Conclusion
     - Afterward
-      - Confusion About Existence Operator
-        - Existence of Definitions
       - Cosmogenesis Myth
       - Alternative Set of Definitions of Math and Philosophy
   - [Dormant Communications](Philosophy/Dormant-Communications.md)
