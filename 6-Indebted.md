@@ -1,6 +1,6 @@
 # Indebted
 
-## Part 6 ([Continued](https://github.com/slerman12/BrokenWisdoms/blob/main/5-Early-work-in-program.md))
+## Part 6 ([Continued](5-Early-work-in-program.md))
 
 > This chapter is in progress.
 
@@ -12,7 +12,7 @@ Not to mention, the later benzodiazepine coercions and lies that induced brain d
 
 "What is it you want?" - I ask on your behalf, talking to myself, a bit too much like Gollum.
 
-I want the university to apologize for its actions, take accountability, and remediate the damages of their own volitions by their own proclaimed principles. More generally, my faith in humanity, a reason to want to live, [restored](https://github.com/slerman12/BrokenWisdoms/blob/main/4-Faith.md), and for the many things that happened to me to not be possible in this world anymore.
+I want the university to apologize for its actions, take accountability, and remediate the damages of their own volitions by their own proclaimed principles. More generally, my faith in humanity, a reason to want to live, [restored](4-Faith.md), and for the many things that happened to me to not be possible in this world anymore.
 
 Here is some of the work I did or had to do for them at less than minimum wage:
 
