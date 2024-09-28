@@ -622,7 +622,7 @@ I was walking around bravely sometimes, past all the nurses and patients, from m
 
 But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
 
-My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices of that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
+My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
 
 That sudden hair regrowth was more than 2 years after the Dupilumab cessation that induced the alopecia universalis. 
 
