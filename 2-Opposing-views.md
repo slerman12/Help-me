@@ -404,7 +404,7 @@ I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, weeks before my RGH hospitalization.
 
-The hair loss had driven me to a place of yet more dependence, at least for what I perceived as my social future, on the energy-consciousness fates, since my physical appearance [couldn't be relied on](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [with and without](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) the severest stage of my body dysmorphia, to those social futures, so it at least seemed.
+The hair loss had driven me to a place of yet more dependence, at least for what I perceived as my social future, on the energy-consciousness fates, since my physical appearance [couldn't be relied on](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [with and without](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) the severest stage of my body dysmorphia, to those social futures, so at least my doom seemed.
 
 When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
 
