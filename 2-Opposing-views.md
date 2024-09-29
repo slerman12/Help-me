@@ -293,10 +293,10 @@ It was the [first time I grew out my beard](https://github.com/user-attachments/
 ## Henry Kautz
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/b828d43e-ba12-4f4f-b130-fa3acbac8009">
+<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
  <picture>
-   <source width="57%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/92cbcc44-680b-46d9-813e-789c7bb3de74">
-   <img width="57%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/b828d43e-ba12-4f4f-b130-fa3acbac8009">
+   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
+   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
 </picture>
 </a>
 </p>
