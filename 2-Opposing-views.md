@@ -211,7 +211,7 @@ The experience of losing my hair has cost me relationships and worsened my socia
 
 Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Maná, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
 
-At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost, he went by the less-semitic name, "Yury," or the nickname "Yura."
+At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost in the war, he went by the less-semitic name, "Yury," in Ukraine, or the nickname, "Yura."
 
 My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job in a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
 
