@@ -207,9 +207,13 @@ The experience of losing my hair has cost me relationships and worsened my socia
 - **University CS department Chair**
 - **University Deans**
 
+## Sam of Samarkand
+
 Many Jews, were executed or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Mañá, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job in a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
 
-My uncle Slava was the first one born, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America. I was "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
+My uncle Slava was the first one born, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, Sam of Samarkand," happened entirely by chance, and in America. I was "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
+
+## Eczema at the beginning
 
 I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, baby’s cloths to cover my hands, so I don't scratch to blood. 
 
@@ -220,6 +224,8 @@ They were waiting and after some time, maybe 20 minutes, they brought me back, t
 He didn’t take money. He just said, "I couldn’t heal him. I can’t." 
 
 The shaman somehow knew that we were immigrating, maybe Shafkad told him, somehow he knew, my mom didn’t know how.
+
+## PhD program
 
 My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, a mathematics professor at the Rochester Institute of Technology (RIT), were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents immigrated, and sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. 
 
