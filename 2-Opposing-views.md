@@ -257,9 +257,11 @@ She wanted to do a doctoral, but wasn’t allowed to, despite having graduated w
 
 She continued, "Jewish people don’t openly keep their traditions there, they don’t get good jobs/positions. I was professor teaching at music college. I had to stop working there last year [in 1998], because they reduced my hours, and not just me, but other Jewish people. Uzbeks they gave many." My uncle found her a temporary job for an American firm, that had originally been offered to him, where she did indexing, tabulating, and auditing, nothing to do with music theory, despite having been a professor at the music college, respected and loved by her students.
 
+<!--
 To get refugee status, she had to argue to the interviewer that she deserved refugee status from Uzbekistan, a Muslim country, a Jewish woman with a master's degree whose parents and brother already immigrated from Uzbekistan and were already approved by the same consulate for refugee status.
 
 The interview ended.
+-->
 
 ### Immigration
 
