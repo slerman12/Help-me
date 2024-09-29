@@ -35,7 +35,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - My trauma
     - Part 3 (University PhD advisors, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - Sam of Samarkand
-      - Eczema at the beginning
+      - Difficulty at the beginning (eczema)
       - PhD program
         - Embassy interview
         - Immigration
