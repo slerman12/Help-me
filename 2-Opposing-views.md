@@ -613,48 +613,26 @@ As Niaz said, "I don't know what he was thinking."
 
 ## Aside
 
-### Hair regrowth
-
-Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare. 
-
-I was on a mostly-steak-only diet since at least as far back as April, 2020 (with wild caught salmon as well), at which time I was working on my Taylor-CAM paper as well.
-
-Beginning initially from Paleo, I transitioned into beef-only. The beef-only phase was about a month and caused watery bowel movement symptoms and decreased stool frequency, as were expected from what I'd heard and read about the diet. By the end of that month, I think my energy and mood, and probably cognition, had massively improved. Gradually, the majority of my beef came from organic, grass fed, grass finished steak and not long after, perhaps in that month as well, I added daily salmon in the morning. So my diet converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, and organic black pepper and salt, and water. I used lots of salt and fried the fat from the steak. 
-
-I experienced big improvements to my cognition, energy, and mood. In particular, I recall my writing, such as poems and visual creative writing, had improved beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.
-
-See [here](4-Faith.md#mikhaila-peterson) for where I'd initially heard about this diet from.
-
-In the October, 2020 hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
-
-I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
-
-[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was a guy my age. I sat with him every day towards my last days there at the window. He and I talked. We were talking about deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me. *My head hair had fully grown back.*
-
-But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back, and I have to shave it to maintain the bald upper bound of my current mutilated appearance.
-
-My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
-
-That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the alopecia universalis. 
+<!-- In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].-->
 
 ### My grandma's fingernails
 
-<!-- In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].-->
-
 > ### $\Huge &#8220;$
-> Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory children [factory of defense], climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire.
+> Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory, children [children working at the factory of defense], climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire.
 > ### $\Huge &#8221;$
-> &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions by my mom.
+> &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions by my mom. 
+
+My grandma was 13 and my great Aunt Tsilia was 18. Their dad was fighting in the war front. Their mother had died when my grandma was 5 and her sister was 10, from typhus. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs.
 
 My grandma was about 24 when she and my grandpa arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principle of a school and continued teaching.
 
 My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.
 
-She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at JCC, that I had her fingernails, perhaps unusual. I also take her eyes, and my mom's eyes. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles. I didn't know what those were, but apparently I didn't cut them. Also an unusual remark, at an important juncture involving my grandma, that I remember. 
+She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at the Jewish Community Center, that I had her fingernails, perhaps unusual. I also take her eyes, and my mom's eyes. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles (thin layer at the nail beds). I didn't know what those were, but apparently I didn't cut them (is cutting them normal?). The timing of that unusual remark was pretty synchronistic at an important juncture involving my grandma.
 
-Anyway, in addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in Fall, 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
-Without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
+Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and social isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
 ### How my grandma got dementia
 
@@ -696,15 +674,6 @@ My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing m
 
 I really think had the hospital recommended my grandpa an organic steak/salmon-only diet, and nothing more, they possibly could’ve saved his main artery from being blocked, without a surgery. Then no stents would be put into his healthier narrow arteries, no damaged kidneys, no grueling transit to heart doctor. Just physical therapy and rehabilitation. And maybe many more years, living beyond my grandma.
 
-> [!TIP]
-> ### High quality food in the medical system
->
-> - Inorganic factory-sourced industries, whose practices treat animals inhumanely, in compartments in a factory where they never see the light of day and bloat fat with antibiotics, grains, corn, and soy, can be out-competed by organic sources where the cows can graze and live with other cows on pastures, under the sun, ethically, if medical institutions specifically sourced only and more, as part of their patient care, from the latter and generally organic highest-end sources. Living on a grassy pasture with other cows is a good life and not inhumane, in fact better than most hospital environments.
-> - Currently, hospitals provide 4 - 5 types of services: tests, drugs, surgeries, personal care (e.g., helping with walking to the bathroom), therapies. High quality food, is not an insignificant omission. Hospitals and health insurances should pay for high quality food. Doctors should gear more towards making high quality food prescriptions (and anti-prescriptions), which should be covered by health insurance.
-> - 2.4 million years of human evolution in the Ice Age, wherein even Africa had winters and some glacial ice, were followed by the last 11,500 years of the modern epoch. I know nutritionists aren't mathematicians, but 2.4 million is a slightly bigger number than 11,500. On principle, though it may not be the standard consensus, the evolution history that produced our biological consciousness and cognition deserves our reverance. My grandma, my grandma's grandma, her grandma's grandma and so on — yes, back into the Ice Age — are all ancestral roots of wisdom, from whose evolutionary conditions were born our metabolism systems.
-> - I haven't found any hypothetical risks of my trialled diet to be an issue, but that's why latitudinal studies are needed. I ate fresh rather than frozen, grass fed grass-finished organic, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper, and water. The idea that red meat causes anything, has not yet had a standard scientific investigation in the context of organic, grass fed, grass-finished, and wild-caught meat, and controlled for for other interactions, e.g., sauces, sugars, and so on.
-> - A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money, not so much that the medical system can't afford it, and not so much that humanity's health should have to be sacrificed to scrounge on, but more than usual nutrition studies are funded and invest), rarely accounted for in nutrition studies. This inadvertent study, on a population of me (low-socioeconomic family background, limited to a PhD student income of less-than-official-New-York-State-living-wage), longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years, and other breakthrough-type results harder to measure around energy, mood, cognition, and neurological functioning, besides hair.
-
 She shortly outlived my grandpa, and died the same year as him **three days before** his April 16 birthday, on April 13, 2016.
 
 I suppose she’d’ve had to forestall her death as well, then, seeing she died just a few months after he died, in the same year, as if on purpose, joining him exactly 3 days before his April 16 birthday, on April 13, 2016, where 13 both symbolizes a death kind of day and has the number 3, as in 3 days before, and 2016 has the number 16, the upcoming day of my grandpa’s birthday.
@@ -735,7 +704,7 @@ I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N
 The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
 -->
 
-But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong or capable of translating that heart into a universal language. How to transition into this? Well...
+But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong, or capable of translating that heart into a universal language. How to transition into this? Well...
 
 Speaking of the elderly...
 
@@ -758,7 +727,7 @@ Speaking of the elderly...
 >
 > After a week of sleeping in a chair, they transferred me to the geriatric unit (a facility for the elderly) on a different floor, their regular psychiatric units being full.
 >
-> Finally, they specified a reason for why they were holding me. Apparently my mom said I wasn't eating enough, which she later denied saying. Ironically, I was eating a lot. Usually 5 organic steaks and a salmon every day, about half of my income. I was lectured pretty heavily by a fat woman specialist about how carbs are a necessary part of a healthy diet. That was Winter, 2020/2021, perhaps just before diets like the keto diet gained scientific support, or maybe already after. During that hospitalization, chunks of my hair fell out. The rapid timing was extremely coincidental, so maybe the onset of the hair loss was independent to the hospitalization, or maybe a synchronicity, but most likely exacerbated, because I thought I was in Hell.
+> Finally, they specified a reason for why they were holding me. Apparently my mom said I wasn't eating enough, which she later denied saying. Ironically, I was eating a lot. Usually 5 organic steaks and a salmon every day, about half of my income. I was lectured pretty heavily by a fat woman specialist about how carbs are a necessary part of a healthy diet. That was Winter, 2020/2021, perhaps just before diets like the keto diet gained scientific support, or maybe already after. During that hospitalization, chunks and strands of my newly regrown hair (see ["Hair regrowth"](#hair-regrowth) below) fell out. The rapid timing was extremely coincidental, so maybe the onset of the hair loss was independent to the hospitalization, or maybe a synchronicity, but most likely exacerbated, because I thought I was in Hell. 
 > 
 > The anxiety was so extreme that my eczema became itchy just from that, if not the food. I ate all of their garbage food. I made special requests, but the diet they provided wasn't more than what you'd expect from hospital food, and always came with an abundance of chocolate Ensures, enough to probably buy a steak honestly.
 > 
@@ -794,6 +763,41 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 -->
 
 I didn’t eat steak, because of course they couldn’t afford it. Could you imagine if hospitals served grassfed, grass-finished organic steak? I was on a PhD student budget and spent my salary, despite savings, on mostly just steak/fish (with some Paleo leniency) and gas each month. But hospitals spend their wealth on drugs and chocolate Ensures. And that’s when my hair fell out, and my eczema started returning. That's point 2. (Glossing over the environment-setting point, nature, fresh air, hiking, camping, etc.). That last point, hidden in the parenthetical, deserves its own book.
+
+### Hair regrowth
+
+Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare. 
+
+I was on a mostly-steak-only diet since at least as far as June, 2020 (with wild caught salmon as well), at which time I was working on my Taylor-CAM paper.
+
+Previous to that, beginning initially from Paleo, I transitioned into beef-only. The beef-only phase was about a month and caused watery bowel movement symptoms and decreased stool frequency, as were expected from what I'd heard and read about the diet. By the end of that month, I think my energy and mood, and probably cognition, had massively improved. Gradually, the majority of my beef came from organic, grass fed, grass finished steak and not long after, perhaps in that month as well, I added daily salmon in the morning. So my diet converged to one wild caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, and organic black pepper and salt, and water. I used lots of salt and fried the fat from the steak. 
+
+I experienced big improvements to my cognition, energy, and mood. In particular, I recall my writing, such as poems and visual creative writing, had improved beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.
+
+See [here](4-Faith.md#mikhaila-peterson) for where I'd initially heard of this diet from.
+
+In the October, 2020 hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
+
+I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
+
+[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was a guy my age. I sat with him every day towards my last days there at the window. He and I talked. We were talking about deep things. I told him about my self consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me. *My head hair had fully grown back.*
+
+But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back. I have to shave it from my head, something I don't like doing, to maintain the bald upper bound of my current mutilated appearance, that otherwise now grows in in patches, with more bald skin than hairy skin. That is exponentially worse than the first time they caused my hair to fall out.
+
+My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
+
+That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the alopecia universalis, and covered my head. 
+
+### Food
+
+> [!TIP]
+> ### High quality food in the medical system
+>
+> - Inorganic factory-sourced industries, whose practices treat animals inhumanely, in compartments in a factory where they never see the light of day and bloat fat with antibiotics, grains, corn, and soy, can be out-competed by organic sources where the cows can graze and live with other cows on pastures, under the sun, ethically, if medical institutions specifically sourced only and more, as part of their patient care, from the latter and generally organic highest-end sources. Living on a grassy pasture with other cows is a good life and not inhumane, in fact better than most hospital environments.
+> - Currently, hospitals provide 4 - 5 types of services: tests, drugs, surgeries, personal care (e.g., helping with walking to the bathroom), therapies. High quality food, is not an insignificant omission. Hospitals and health insurances should pay for high quality food. Doctors should gear more towards making high quality food prescriptions (and anti-prescriptions), which should be covered by health insurance. Organic food is more closely tied to healthcare than prescription pills, and in the government, food stamps are an independent program linked to poverty, from which organic-food stamps might be inspired as part of healthcare coverage.
+> - 2.4 million years of human evolution in the Ice Age, wherein even Africa had winters and some glacial ice, were followed by the last 11,500 years of the modern epoch. I know nutritionists aren't mathematicians, but 2.4 million is a slightly bigger number than 11,500. On principle, though it may not be the standard consensus, the evolution history that produced our biological consciousness and cognition deserves our reverance. My grandma, my grandma's grandma, her grandma's grandma and so on — yes, back into the Ice Age — are all ancestral roots of wisdom, from whose evolutionary conditions were born our metabolism systems.
+> - I haven't found any hypothetical risks of my trialled diet to be an issue, but that's why latitudinal studies are needed. I ate fresh rather than frozen, grass fed grass-finished organic, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper, and water. The idea that red meat causes anything, has not yet had a standard scientific investigation in the context of organic, grass fed, grass-finished, and wild-caught meat, and controlled for for other interactions, e.g., sauces, sugars, and so on.
+> - A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money, not so much that the medical system can't afford it, and not so much that humanity's health should have to be sacrificed to scrounge on, but more than usual nutrition studies are funded and invest), rarely accounted for in nutrition studies. This inadvertent study, on a population of me (low-socioeconomic family background, limited to a PhD student income of less-than-official-New-York-State-living-wage), longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years, and other breakthrough-type results harder to measure around energy, mood, cognition, and neurological functioning, besides hair.
 
 ### Nurses
 
