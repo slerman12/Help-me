@@ -253,7 +253,7 @@ Jenya’s brother’s family lived in Moscow, so my mom was able to leave us wit
 
 "What, in Uzbekistan, you suffered persecution?"
 
-Anti-semitism in Uzbekistan wasn’t as bad as in other countries, she told me. In Ukraine, anti-semitism was always worse, from the war when my grandpa was young, to when my mom was an adult. However, she told me, Jews customarily weren’t allowed to hold higher offices in Uzbekistan.
+Anti-semitism in Uzbekistan wasn’t as bad as in other countries, she told me. In Ukraine, anti-semitism was always worse, from the war when my grandpa was young, to when my mom was an adult. <!--However, she told me, Jews customarily weren’t allowed to hold higher offices in Uzbekistan.-->
 
 "I was at the conservatory, I wanted to study in a PhD program, I couldn’t. First, when I was a student, I wanted to continue my studies as a PhD student, but there wasn’t a chance for me, because I was Jewish."
 
