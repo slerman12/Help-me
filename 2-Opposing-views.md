@@ -221,7 +221,7 @@ At the age of 16, my grandpa officially became "Yury," having been born with the
 
 My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
 
-My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
+My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I'm named "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
 
 ## Eczema at infancy (*difficulty at the beginning*)
 
