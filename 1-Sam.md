@@ -37,6 +37,8 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Sam of Samarkand
       - Eczema at the beginning
       - PhD program
+        - Embassy interview
+        - Immigration
       - Charles Venuto
       - Henry Kautz
         - Fall, 2018 semester, and the Dead Marshes
