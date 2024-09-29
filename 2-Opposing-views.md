@@ -227,7 +227,7 @@ They were waiting and after some time, maybe 20 minutes, they brought me back, t
 
 He didn’t take money. He just said, "I couldn’t heal him. I can’t."
 
-The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew — he said, "Are you going to America? Maybe they can heal him. They have better doctors there."
+The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew. He said, "Are you going to America? Maybe they can heal him. They have better doctors there."
 
 <!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.-->
 
