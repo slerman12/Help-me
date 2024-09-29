@@ -215,15 +215,15 @@ My uncle Slava was the first one born, then my mom Nélya, both in Samarkand. Th
 
 ## Difficulty at the beginning (eczema at infancy)
 
-I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, baby’s cloths to cover my hands, so I don't scratch to blood. 
+I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies’ cloths to cover my hands, so I’d not scratch to blood.
 
-When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, we went to some village, outside-of-civilization looking. A man (different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer, no you stay here"; my mom wanted to go. "No you not allowed"; they didn’t let her go there, maybe because she was a woman and it was Muslim. She was worried; Shafkad assured that everything is alright either way. He knows these people. "No no, they good people, they heal." 
+When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, and we went to some village, not-civilized-looking village. There, a man (a different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer. No you stay here.” My mom wanted to go. "No. You not allowed.” Maybe because she was a woman and it was Muslim, they didn’t let her go there. She was worried. Shafkad assured that everything is alright either way. He knows these people. "No no. They good people. They heal."
 
-They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it.  "Sorry, I couldn’t, I don’t know how to, I couldn’t help your son, I don’t know how to fix it." And he said, "Are you going to America? Maybe they can heal him. They have better doctors there." 
+They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native-Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it. "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." 
 
-He didn’t take money. He just said, "I couldn’t heal him. I can’t." 
+He didn’t take money. He just said, "I couldn’t heal him. I can’t."
 
-The shaman somehow knew that we were immigrating, maybe Shafkad told him, somehow he knew, my mom didn’t know how.
+The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew. He said, "Are you going to America? Maybe they can heal him. They have better doctors there."
 
 <!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.-->
 
