@@ -223,7 +223,7 @@ They were waiting and after some time, maybe 20 minutes, they brought me back, t
 
 He didn’t take money. He just said, "I couldn’t heal him. I can’t." 
 
-The shaman somehow knew that we were immigrating, maybe Shafkad told him, somehow he knew, my mom didn’t know how.
+The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.
 
 ## PhD program
 
