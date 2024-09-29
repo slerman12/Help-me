@@ -803,7 +803,7 @@ That sudden hair regrowth was, miraculously, more than 2 years after the Dupilum
 
 ### Nurses
 
-Somebody had threatened a court order, perhaps a nurse. The nurses didn’t let me keep my clothes, but perhaps that isn't a standard practice, and was only done then due to Covid risk. The nurses had run over my toe. 
+Somebody had threatened a court order, perhaps a nurse. The nurses didn’t let me keep my clothes, but perhaps that isn't a standard practice, and was only made a requirement then due to Covid risk. The nurses had run over my toe. 
 
 ### Kids
 
