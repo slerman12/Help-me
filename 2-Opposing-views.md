@@ -630,7 +630,7 @@ My grandma had long grey hair, down to almost her waist or hips. She curled it u
 
 She told me when we were sitting in the backseat of the car, perhaps when we were going with my mom and grandpa to the pool at the Jewish Community Center, that I had her fingernails, perhaps unusual. I also take her eyes, and my mom's eyes. I got a girlfriend temporarily in 2016, the semester that my grandma died, who remarked on my cuticles (thin layer at the nail beds). I didn't know what those were, but apparently I didn't cut them (is cutting them normal?). The timing of that unusual remark was pretty synchronistic to my grandma's remark, which was perhaps unusual, at an important juncture involving my grandma.
 
-In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in Fall, 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
 Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and social isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
