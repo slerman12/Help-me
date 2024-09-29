@@ -229,6 +229,8 @@ The shaman somehow knew that we were immigrating, maybe Shafkad told him, someho
 
 ## PhD program
 
+### Embassy interview
+
 My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, a mathematics professor at the Rochester Institute of Technology (RIT), were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents immigrated, and sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. 
 
 "Your form said you have kids. Where are they?"
@@ -258,6 +260,8 @@ She continued, "Jewish people don’t openly keep their traditions there, they d
 To get refugee status, she had to argue to the interviewer that she deserved refugee status from Uzbekistan, a Muslim country, a Jewish woman with a master's degree whose parents and brother already immigrated from Uzbekistan and were already approved by the same consulate for refugee status.
 
 The interview ended.
+
+### Immigration
 
 We flew to Rochester, New York, immigrating officially as Jewish refugees, half a year since the embassy interview. I was 3 and two thirds, and had cried, perhaps foretellingly, on the plane. My name, was legally mistranslated to "Semen." My mom (whose name was translated "Nellya") found a low-paying piano teaching job, and hoped to earn more money, so she got another degree, an associate's degree, at Monroe Community College, in Computer Information Systems, again [graduating with distinction](https://github.com/user-attachments/assets/f6183641-3c06-4c82-ba4d-662d0be0dbba). Later, she worked an additional job, one as a piano teacher giving individual lessons for a piano studio, and another as a part-time computer tutor in two different labs at the community college where she received her associate’s degree. My mom's students loved her in America, too. My mom taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java. 
 
