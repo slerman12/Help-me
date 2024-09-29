@@ -245,7 +245,7 @@ Jenya’s brother’s family lived in Moscow, so my mom was able to leave us wit
 
 "A lot of people bring their children here. They think that showing children to us will gain them sympathy, and pity."
 
-"I thought I didn’t have to bring them, the documentation said we didn’t."
+"I thought I didn’t have to bring them. The documentation said we didn’t."
 
 "Yes yes, you’re right," the interviewer said. "Why, to America, you're going?"
 
