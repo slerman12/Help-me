@@ -217,7 +217,7 @@ My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met b
 
 My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
 
-## Eczema at infancy (difficulty at the beginning)
+## Eczema at infancy ("difficulty at the beginning")
 
 I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies’ cloths to cover my hands, so I’d not scratch to blood.
 
