@@ -143,11 +143,11 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 My trauma revolves around three psychiatrists.
 
-**Psychiatrist 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
+**PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
 > ``Psychiatrist 1 reassured, I'll be weaned off from the benzos,`` *before* ``discharge from the hospital.``
 
-**Psychiatrist 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
+**PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
 > ``Psychiatrist 2  came in on the momentum of her previous post (to replace Psychiatrist 1), and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
 >
@@ -155,7 +155,7 @@ My trauma revolves around three psychiatrists.
 >
 > ``But she reassured, I'll be weaned off from the benzos,`` *right after* ``discharge from the hospital.``
 
-**Psychiatrist 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
+**PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
 > ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He argued that benzos could be safely taken for years. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.``
 > 
