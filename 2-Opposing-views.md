@@ -357,7 +357,7 @@ The top-three contest-winning Parkinson's disease progression models I built at 
 ### Fall, 2018 semester, and the Dead Marshes
 
 - I first injected Dupilumab summer, 2017
-- My first semester in the PhD program began in Fall, 2017, with Henry Kautz as advisor
+- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
 - I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
 
 After the house on May St., it was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
