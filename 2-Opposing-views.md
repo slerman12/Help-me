@@ -641,7 +641,7 @@ In addition to losing all of my hair — head, eyebrows, and eyelashes — due t
 
 ### How my grandma got dementia
 
-Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and social isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
+Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
 As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
 
