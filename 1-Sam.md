@@ -34,7 +34,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
       - Benzodiazepine mechanism of action
       - My trauma
     - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
-      - "Sam of Samarkand"
+      - Samarkand
       - Eczema at infancy (*difficulty at the beginning*)
       - PhD program
         - Embassy interview
