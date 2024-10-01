@@ -329,7 +329,7 @@ While I was working and researching under Charles, I had come up with, programme
 I hope Charles and his colleagues may find the above diagram (["5 Computational Neurons"](#benzodiazepine-benzos-mechanism-of-action)) valuable in their work, ideally attributing credit. It elucidates original mechanisms of neurodegeneration biologically, computationally, and in psychiatric practice. 
 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
-Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, technically, red-handed.
+Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, <!--technically,--> red-handed.
 
 <!--
 ### Uncanny beard premonition
