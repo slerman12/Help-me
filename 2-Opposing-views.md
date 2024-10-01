@@ -618,8 +618,6 @@ Last-minute, and with almost no notice, and without Niaz's approval, Chenliang w
 
 As Niaz said, "I don't know what he was thinking."
 
-## Aside
-
 <!-- In Moscow, during the Nazi attack, my grandma and her older sister, while they were little girls (my grandma was 13 and my great Aunt Tsilia was 18), threw fire bombs off the roof of their dad's and step mother's house, that the Nazi planes were dropping fire bombs on, meant to burn the houses. Their dad was fighting in the war front; their mother had died when my grandma was 5 and her sister was 10, from typhus, a very bad infectious disease. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs. [Note: This description came from memory. A primary source description is quoted below. I'll add a link to the rest of the interview later.].-->
 
 ### I didn't mention fingernails (fingernails regrowth)
