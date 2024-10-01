@@ -59,10 +59,12 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
           - Medical system diet arguments
         - Ascent of a Jewish old grandpa
         - Geriatric unit hospitalization
+        - Hair regrowth
+        - Food
         - Nurses
         - Kids
           - Mobi
-        - Future hair regrowtha
+        - Future hair regrowths
         - Intimacy healing
         - The artificial and synthetic
         - AI
