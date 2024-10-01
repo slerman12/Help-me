@@ -62,7 +62,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
         - Nurses
         - Kids
           - Mobi
-        - Future hair losses
+        - Future hair regrowtha
         - Intimacy healing
         - The artificial and synthetic
         - AI
