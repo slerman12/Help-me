@@ -1043,7 +1043,7 @@ So in other words: Chris Kanan (who [didn't remember the meeting](https://github
 </a>
 </p>
 
-### Michael L. Scott
+## Michael L. Scott
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e4938352-3a54-450f-9fc7-0a58c3530b34">
