@@ -631,9 +631,9 @@ As Niaz said, "I don't know what he was thinking."
 > ### $\Huge &#8221;$
 > &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions.
 
-My grandma was 13 and my great Aunt Tsilia was 18. Their dad was fighting in the war front. Their mother had died when my grandma was 5 and her sister was 10, from typhus. Their step mother was sick with tuberculosis; and their little younger step-brother Yura was too young to help with throwing the fire bombs.
+My grandma was 13 and my great Aunt Tsilia was 18. Their dad was fighting in the war front. Their mother had died when my grandma was 5 and her sister was 10, from typhus. Their step mother was sick with tuberculosis; and their little younger step-brother Yura, 10 years younger than my grandma, was too young to help with throwing the fire bombs.
 
-My grandma was about 24 when she and my grandpa (different "Yura") arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principal of a school and continued teaching.
+My grandma was about 24 when she and my grandpa (different Yura) arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principal of a school and continued teaching.
 
 My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.
 
