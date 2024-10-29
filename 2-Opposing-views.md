@@ -371,7 +371,7 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 <!--Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, red-handed.-->
 Charles was very supportive as my advisor. He was left-handed. My grandpa was also left-handed. On the website, though, Charles was red-handed.
 
-> To do: Different image
+<!-- > To do: Different image -->
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
@@ -777,6 +777,7 @@ Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 
 
 # Part 3
 
+<!--
 <p align="center">
 <a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
  <picture>
@@ -785,6 +786,7 @@ Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 
 </picture>
 </a>
 </p>
+-->
 
 ## Red light at Clover St. (advisor leaves)
 
