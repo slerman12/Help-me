@@ -514,7 +514,7 @@ My sister's car was big and red, like a giant Dirt Devil, and before we got into
 
 But at this time, we were stopped on Clover St. And there was my doctoral advisor's big house, on this street, that I could've, hypothetically, run to, in one of the many other worlds. 
 
-My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
+My advisor, Henry Kautz, was the most successful man I knew, and his house, I <!--thought-->think, was a mansion (though honestly the one I had on May St. probably would've been preferable).
 
 As my sister must've thought, I'd be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
