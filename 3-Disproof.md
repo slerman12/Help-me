@@ -1,8 +1,8 @@
 # <p align='center'> Book 3. Disproof </p> 
 
-## Part 4
+# Part 4
 
-### Email: 10/27/2023
+## Email: 10/27/2023
 
 Subject line: **Supporting students**</br>
 To: **CS grad department**</br>
@@ -21,7 +21,7 @@ Arthur Gould Yates Professor and Chair</br>
 Computer Science Department, University of Rochester</br>
 \<provided contact info redacted\>
 
-### Email: 10/30/2023
+## Email: 10/30/2023
 
 Subject line: **Re: [Grads] Supporting students**</br>
 To: **CS grad department students**</br>
@@ -47,7 +47,7 @@ I was notified by Chenliang of the termination on July 24th, specifically that h
 
 #
 
-### 10/30/2023 - 10/31/2023, and 7 years ago - now
+## 10/30/2023 - 10/31/2023, and 7 years ago - now
 
 Following this, one person in Chenliang's lab replied directly to me describing a similar experience, and asked me to convey it to the CS department chair, but didn't feel comfortable talking to the CS department chair directly about it. Despite the amorality of advisor-pressure on students to publish faster, the power structure of a grad student's employers unionizes them against the student and any public protest against that hierarchy's presumed ranges of authority is a danger to the student's status in the program, which sometimes determines many other facets of their life such as immigration status and finance situations, not to mention the PhD degree to which one's most precious years in life were invested with hard work for little pay.
 
@@ -55,7 +55,7 @@ Outside of the student who asked me to convey to the CS department chair that he
 
 That's well-intentioned! I replied thankfully, but to clarify: I hadn't written a thesis to modify. They wanted me to write my whole thesis in ~1 month when I needed more time. I also went through Covid, following and concurrent with all the medical traumas I went through. He also used past tense ("happened" and "had to") when what I described was happening then, and is, at its full height at that/this present moment. Also, my thesis wasn't ever their reason for my termination. The final specified reason, on 10/31/2023 after the decision to dismiss and terminate me, was (eventually) formally the six-month review make-up, in the known light and context of everything, that chronologically followed after notifying me of my stipend cut and 2nd advisor leaving and giving multiple provably false reasons. The reason it matters is because this is 6 years of a person's life that were discarded over a bullshit reason by the perpetrators of life-altering injustices on that same student. I recall I stood up for students when I heard of injustice: I [made the website for the original UR Grad Student Union effort](https://github.com/URGSU), rallied PhD students for that effort before unionization could've uniquely helped me, [protested the university's harassment, assault, and retaliations against grad students](https://www.facebook.com/sam.lerman.75/posts/pfbid022WLFEEXSzfq6mj9vogGdMW6pb5sjDYtyxzzjDBmWAv8ucHK63UumWree68bCQiBAl) in the Florian Jaeger scandal, and in my first year as a PhD student defended three other PhD students on email record against a shared professor's project-related mistreatment of one of them while in that professor's class. During that time: I lost my hair for having [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md), I got brain damaged for being coerced against my will into taking benzodiazepines ("GABA down-regulated hellfire" as I described), and was far and away their hardest worker probably ever.
 
-### Hardest worker - literally.
+## Hardest worker - literally.
 
 I did everything advised and required, amid hospitalizations, medical trauma, and between bouts of severe [eczema](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Eczema.md). I exerted unthinkable discipline to stay functional during those times.
 
@@ -83,13 +83,13 @@ For a small idea of the work I did, see these [slides](https://docs.google.com/p
 
 And see [here](5-Early-work-in-program.md) and [here](6-Indebted.md). I was consistently on the cutting-edge of AI, and my research was probably some of the most important.
 
-### My termination had nothing to do with my work
+## My termination had nothing to do with my work
 
 The decision to cut off my funding occurred arbitrarily, before the formality they ultimately used to justify the termination. This decision also followed two of my advisors and most of my committee members leaving, arbitrarily and in no way related to me, and almost all of the deliberations were made entirely by people who literally had never met me during my 10 years in undergrad or PhD. I had to switch advisors in my 3rd year (of my PhD) because my original advisor Henry Kautz was promoted to lead the AI division at the NSF. I switched to Chenliang Xu, who also decided to leave after 3 years due to me not having as many papers as he considered standard, despite my publication rate being about the same as or better than my original advisor’s average doctoral student (I [published 2 papers in the 3 years under Chenliang](https://scholar.google.com/citations?user=3xy30K0AAAAJ&hl=en), [one in a top venue](https://arxiv.org/abs/2006.08601)). Besides what should be considered a perfectly reasonable publication rate, they had extreme evidence of my research [talent](5-Early-work-in-program.md) and [skill](6-Indebted.md). From successfully innovating on the methods behind ChatGPT 5 years ago before anyone outside of a small niche handful of researchers heard of MHDPA to predicting and painstakingly teaching the professors at my university about every recent and impending research innovation that developed in deep learning during (and after) my fascination in those areas during my PhD, with my predictions always proving true even when those advisors and faculty argued or doubted. All of this got forgotten and discarded ultimately in the decision made by total strangers in my final year.
 
 Prior to all of that, I was assigned to a lab that my advisor didn't know was related to my research, and had to program for them for funding (in addition to regular PhD work). I also wrote the ideas for their grants later and wasn't credited.
 
-### Hypocrisy
+## Hypocrisy
 
 The University gave false reasons for why they were terminating me, and didn't care about evidence.
 
@@ -103,14 +103,14 @@ None of them provided any evidence of anything, or replied for that matter. They
 
 Another point of their hypocrisy is that their concluding termination reason was, as their last recourse of justification, that I "skipped" a make-up review, from a committee where every single one of my advisors and most of my committee members had previously skipped or altogether left without notice or warning.
 
-### Dental, Therapy, Vision Charges - Health insurance provided by University of Rochester’s CS department’s grad program
+## Dental, Therapy, Vision Charges - Health insurance provided by University of Rochester’s CS department’s grad program
 
 add details about vision and dental coverage in the student insurance policy, and therapist:
 - Those details include that I had to see the dentist for the damage the university did to me (the tooth chunks falling out from benzo-induced teeth calcification), and the university’s health insurance doesn’t cover dental
 - And that I had to pay out of pocket for glasses, but with deadlines from the university, I missed the prescription filing deadline for the prescription I got for those glasses, and had to pay the full sum anyway, without even receiving the glasses I needed
 - I was seeing my therapist who I'd seen since 12th grade of high school, and Aetna (the university's health insurance policy) was charging me about $10 per session. Without warning, they stopped covering my therapist's regular prices and I ended up getting multiple bills in the hundreds of dollars from them. So I couldn't afford to see him anymore. This price gouging was already after all of my hospitalizations, and unjustified by any reason. Not to mention, the severest of the traumas were all induced by the university who was providing the health insurance as part of my employment. [add link to photo of bills with charges suddenly hiked by hundreds of dollars per session]. Nothing on my therapist's end changed. According to him, "[...] they started adding a coinsurance amount."
 
-### You should probably protest
+## You should probably protest
 
 Protest my unjust firing, negotiate for the dignity of graduate employees (higher pay, basic healthcare including vision and dental, parking, resuming the pre-Trump W2 tax statement form status), and bring back to spotlight the student loan debt cancellation plan that was passed, then unconstitutionally shut down by the Republican-dominated Supreme Court.
 
@@ -136,7 +136,7 @@ And most PhD students work significant overtime. I had to work 70 hr/week often.
 >
 > By the time students graduate, if they graduate, they risk having no savings in their late-20s or early-30s, despite having contributed and worked at the highest level and proven their skill and talent within that setting. If they don’t graduate, or God forbid they do something that upsets the “bridges” who are in charge of them, they can lose all of that in a split second.  
 
-### Slavery or impossible
+## Slavery or impossible
 
 It might be worth to point out that they were once again threatening me to do work that they weren’t paying me for, since I was getting my funding through working for the Mechanical Engineering department, also assigned to me (and funding that I helped secure through both giving ideas for and writing parts of the grants).
 
@@ -176,7 +176,7 @@ The PhD student handbook has one clause of accountability for the grad school, a
 
 This is simultaneously slavery, humanly impossible, and fascism all wrapped into one.
 
-### Why it's fascism
+## Why it's fascism
 
 The medical and learning systems of the University of Rochester have disproven large parts of themselves. But the learning system of the University of Rochester has proven something: that they are fascist. I don't mean to invoke Godwin's law here. This isn't exaggeration or hyperbole, but in a moment will be a proof, as much as there can be, that they are fascist. By themselves, these policies might not seem like fascism. Agglomerated, the University of Rochester has ran fascism above that claimed vision, values, and principles above.
 
@@ -194,7 +194,7 @@ The demands were not reasonable, and in agglomeration inhumane — gavels slamme
 
 They cherrypick the policies, vision, and values (e.g., "bad standing" in department), but instead of doing so with the purpose of creating love (e.g., helping find a new advisor), they do so without thought or empathy to the difference between what's at stake for them (e.g., the high stake of their billion-dollar institution getting to pay less than New York State's living wage) vs. what's at stake for someone else (e.g., losing at least 6 years of his life undeservedly despite good work after enormous injustice inflicted and unaddressed by the institution), what will have to be done by them (e.g., not make a termination decision), and what will have to be done by the person ruled on (e.g., the [13 items](#slavery-or-impossible) listed above). They are bad rulers (e.g., aforementioned and elaborated on practices). And promote the policy of fascism when any ambiguity lets them, e.g.: They promote greed (e.g., saving money by not paying an employee and justifying it by "not enough papers") and efficiency over humanity (e.g., rushing paper publications even at the expense of safety and publication quality) and self-serving decisions (e.g., sabbaticals and promotions over responsibilities to students and employees, with no such breaks excused for their subordinates) and impartial rulings (e.g., by a 6-month review from a brand new committee) when reward or laziness is at stake (e.g., no calling on witnesses or cross-referencing of accusations) and hypocritically (e.g., demanding evidence with respect to the accusations against Florian Jaegar and in deciding not to terminate him and offering none themselves to defend the reasons for terminating me when terminating me had no justification). Meanwhile, they are literally a city-wide monopoly, unaccounted for and unchecked. Greed is the root of economic domination, self-serving decisions are the root of systematized nationalism and ethnocentrism, and impartial rulings are the root of blind loyalty to systems. Those roots, in combination with hypocritical rulership, unchecked power, and prioritization of efficiency over principles and humanity (not to mention mutilation and coercive chemical measures of torture) sufficiently meet the definition of fascism in my opinion, though I am not a PhD in political philosophy. 
 
-### Summary of why interim
+## Summary of why interim
 
 The committee that terminated me was a brand new *interim* committee, for just one meeting, for which they post-hoc wanted a make-up before the next one that they wouldn’t even attend. 
 
@@ -202,7 +202,7 @@ Since I had to switch advisors, and my PI Niaz agreed to be on my defense commit
 
 That’s the whole story, and where in there is even the slightest administrative sense or rational mandate to make life-altering decisions?
 
-### Email: 10/31/2023
+## Email: 10/31/2023
 
 > [!IMPORTANT]
 > The PhD student handbook has **only one clause of accountability** for the grad school, and it's to specify what the PhD student would need to do (without pay or support) for reinstatement:
@@ -242,7 +242,7 @@ Yours,
 
 Michael
 
-### Conclusive disproof
+## Conclusive disproof
 
 Propositions:
 
