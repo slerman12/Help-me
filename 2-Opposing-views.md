@@ -247,7 +247,7 @@ My trauma revolves around three psychiatrists.
 
 **PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
-> `I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He said that benzos could be safely taken for years, and didn't counterargue my points against that. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.`
+> `I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He said that benzos could be safely taken for years, and didn't counterargue my points against that that I made to him. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.`
 > 
 > `He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system did, the one that was now making me answer repeatedly whether I did.`
 > 
