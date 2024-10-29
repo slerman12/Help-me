@@ -28,48 +28,64 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
 
   - [Opposing views](2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
-      - [Sam of Samarkand](2-Opposing-views.md#sam--of-samarkand)
+      - Sam of Samarkand
       - Eczema at infancy (*difficulty at the beginning*)
+      - Induced hair loss (*fellowship with man*)
+      - Premonitions
+      - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
     - Part 2 (University-hospital psychiatrists (two), University outpatient doctor)
+      - Electric razor (more premonitions)
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
       - My trauma
-    - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
-      - Samarkand
-      - Eczema at infancy (*difficulty at the beginning*)
       - PhD program
         - Embassy interview
         - Immigration
       - Charles Venuto
-      - Henry Kautz
+      - Henry Kautz (Limitations of Western philosophy)
         - Fall, 2018 semester, and the Dead Marshes
+        - Psychosis crisis
+        - Rochester General Hospital (RGH)
+          - Christmas Eve/Day, 2018
+          - Catatonia, or "swallowing my tongue"
+          - Discharge from RGH
+          - The unsampled world at Clover St.
         - University of Rochester's Strong Hospital
+          - Sarah
+          - Hudson
           - Jeremiah
-        - Spring, 2019 semester
-          - Area exam
-          - The Martian
-          - Giles
-            - Giles
+        - Flying colors
+        - Area exam (and all As)
+        - Hell
+        - Wizard behind the curtain
+        - Suicide attempt
+        - B-
+    - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+      - Red light at Clover St. (advisor leaves)
+        - Giles
       - Chenliang Xu
-      - Aside
-        - Hair regrowth
-        - My grandma's fingernails
-        - How my grandma probably got dementia
-        - How my grandpa died
-        - When my grandma died
-          - Medical system diet arguments
-        - Ascent of a Jewish old grandpa
-        - Geriatric unit hospitalization
-        - Hair regrowth
-        - Food
-        - Nurses
-        - Kids
+      - Comedic Aside: Sexier moments during Chenliang advising:
+        - Psyche hospitalization
+      - My grandma's childhood
+      - Nails
+      - The probable cause of my grandma's dementia
+      - How my grandpa died
+      - When my grandma died
+      - Ascent of a Jewish old grandpa
+      - Geriatric unit hospitalization
+      - Second induced hair loss
+      - Kids
+        - Harry
+      - Future hair regrowths
           - Mobi
-        - Future hair regrowths
-        - Intimacy healing
-        - The artificial and synthetic
-        - AI
+      - Food
+        - High quality food in the medical system
+      - On the note of synchronicities
+      - Intimacy healing
+      - The artificial and synthetic
+      - AI
+      - Dyada Slava
       - Niaz Abdolrahim (okay, some not-tragedy)
       - Chris Kanan
       - Tom Howard
