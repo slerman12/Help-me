@@ -650,6 +650,18 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he's cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.
 
+### Flying colors
+
+The first psychiatrist and I walked together in the hall and he thought I was bright. The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. Let's call this luminescence "flying colors," a term I'm borrowing from Henry. The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge. He reassured, I would be weaned off before discharge.
+
+The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances in that regard. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off, but this time, she gave the reassurance, to me, that I'd be tapered right after discharge.
+
+They didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic.
+
+I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The preceding trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded. Depending on which version of this book you are reading, that crisis might not be described at all, here.
+
+None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester's psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about more than what was known by RGH (essentially just the two diagnoses, as perceived).
+
 ### Area exam (and all As)
 
 As I was working on my area exam, in the Spring 2019 semester, a big 60-ish page paper, amid the first months of the course of benzos, as my cognition was fading and world was turning utmost gray, but not yet at my most severe, my uncle told me, "step by step." Each day I worked, a little at a time.
@@ -675,18 +687,6 @@ I rehearsed that area exam in front of my mom and uncle for a week every day bef
 My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the late spring of 2019. 
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
-
-### Flying colors
-
-The first psychiatrist and I walked together in the hall and he thought I was bright. The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. Let's call this luminescence "flying colors," a term I'm borrowing from Henry. The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge. He reassured, I would be weaned off before discharge.
-
-The second psychiatrist, an Asian woman, looked stern and astute, came in on the momentum of her previous post, and without much thought just changed the schedule. She was standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried, but she was dismissive, about the original plan and our preferances in that regard. She said the tapering schedule was too fast and the outpatient doctor, the psychiatrist after the hospitalization, would wean me off, but this time, she gave the reassurance, to me, that I'd be tapered right after discharge.
-
-They didn't question if the diagnoses, in particular "catatonia," were actually what I went through. I didn't know the specific definition of catatonia, which is what the benzos were meant to treat, but adherence to yogic-type senses, delusional or not, safe to intervene on with drugs or not, isn't the same as catatonia. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic.
-
-I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania" were the only description needed, indubitably exhaustive. Were I asked, I'm not sure I'd have been able to explain it to them, necessarily. The preceding trauma took the last 5 years for me to process into a form that I could write, let alone speak, let alone boil down into a spoonful under pressure, and the pressure was higher with each subsequent psychiatrist because my "flying colors" were increasingly faded. Depending on which version of this book you are reading, that crisis might not be described at all, here.
-
-None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester's psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about more than what was known by RGH (essentially just the two diagnoses, as perceived).
 
 ### Hell
 
