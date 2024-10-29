@@ -927,11 +927,11 @@ Got to message someone named Psyche a week after my Psyche-CAM paper who reached
 >
 > I recall the prayer included the word "vitzivanu," but it was longer and ended differently than [this one](https://doingjewish.blog/2022/02/18/the-shabbat-candle-lighting-blessing-and-calling-on-the-ancestors-for-connection-and-wisdom/#:~:text=Baruch%20ata%20Adonai%2C%20Eloheinu%20Melech,commandment%20of%20lighting%20Shabbat%20candles.). Her dad (who did this of his and that inpatient's own accord) was actually Christian but he knew I was Jewish and the prayer he brought was Hebrew. Later, he came to visit that woman again, where he wanted me to recite it in front of him, and I did, from memory, as they'd wanted.
 >
+> - They let me out after about two weeks.
+>
 > In that hospitalization, I learned a tongue trick that I'm still impressed with myself by that allowed me to circumvent any medications, even though the nurses made you open your mouth and stick your tongue out both above and below. I got damn fast at making the switch of the pill from under my tongue to roof of my mouth. I'm gonna add an exclamation point, because that was worthy of some awe: !. Oh no, I sense a judgemental reader looming. Hello judgemental reader. Try 12 - 2.5 mg of Ativan every day for >6 months and then come back to me with your judgements. But to emphasize, they literally made you show your mouth above your tongue and below, and somehow I flipped the medications fast enough to keep both "ahhhh"s from betraying my dexterous deceit / sleight of hand. 
 >
 > It was also one of the last hospitalizations for me, ever. And it was a good one because — controversially or not, this did make a difference: I got to escape taking too many synthetic medicines via the tongue trick, and the nurses were all my age and beautiful, which is an understated human medical need, and I was severely lacking that kind of warmth through almost all of my PhD.
->
-> - They let me out after about two weeks.
 >
 > That other inpatient who looked like an older Sarah, who narrativized it via her dad, made the experience a sacred non-delusion, and neither of us made the connection that that Hebrew prayer might've been a Bar Mitzvah (perhaps that's stupid of me) until I kind of connected the dots of this context years later.
 >
