@@ -28,6 +28,8 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
 
   - [Opposing views](2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
+      - [Sam of Samarkand](2-Opposing-views.md#sam--of-samarkand)
+      - Eczema at infancy (*difficulty at the beginning*)
     - Part 2 (University-hospital psychiatrists (two), University outpatient doctor)
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
