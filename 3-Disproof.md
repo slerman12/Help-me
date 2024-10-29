@@ -1,6 +1,4 @@
-# <p align='center'> Book 3. Opposing Views </p> 
-
-# Disproof
+# <p align='center'> Book 3. Disproof </p> 
 
 ## Part 4
 
