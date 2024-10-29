@@ -466,7 +466,7 @@ The nurse remarked on some damages I had.
 
 #### Catatonia, or "swallowing my tongue"
 
-Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
+Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen," although actually it was the physical inner sensation that moved through different parts of my body, that in the house on May St., through meditation, I had full control of, acutely — like look in a puppy's eyes — and that I actually brought down consciously, since I found, and still think was, that to be the ideal, more natural state of consciousness. 
 
 I went into a conscious yogic surrender of all muscle due to a command from those [yogic grace guidances](#sarah) to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine.
 
