@@ -1,10 +1,12 @@
-# Faith
+# <p align='center'> Book 4. Faith </p> 
+
+<p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> 
 
 > Chapters in progress
 
-## Part 5
+# Part 5
 
-### Sonnet 66
+## Sonnet 66
 
 Here is my favorite Shakespeare sonnet:
 
@@ -101,13 +103,13 @@ Here is my favorite Shakespeare sonnet:
 >
 > Every other interpretation, besides this literal one, is wrong in some way that I can specify if they're listed. In short, they diverge from the commentary of the sonnet and undermine the narrator's struggle.
 
-### Friends
+## Friends
 
 > Date: **10/29/23**
 
 [name redacted] messages.
 
-### Allies
+## Allies
 
 Message about preferring to die than legal action
 
@@ -121,7 +123,7 @@ I almost said "It makes me want to die" in the [mass email of 10/30/23](3-Dispro
 
 Screenshot
 
-### Enemies
+## Enemies
 
 Rewind to August, before the six-month review deadline and after I was notified of my stipend and advisor-cut. I took my best friend into this, asking for his advice on an email that I sent, and stating my plans (or lackthereof) regarding legal action:
 
@@ -147,31 +149,31 @@ Meanwhile, before and after, astonishing [synchronicities](https://en.wikipedia.
 - The theme of memory is a big coincidence in itself since what I implemented was a large-scale, dynamically growable, rewritable, truly shared RAM and adaptive memory-mapping across devices parallelized lifelong replay memory. [TO DO: Stress this way more]
 - I never met Chris Kanan in person and my advisor suggested him as one of the last-minute replacement committee members. Note: I don't think he should be punished for this. I think whatever powers-that-be that regulate his consciousness proved stronger than the ones that facilitate the atmosphere/landscape of the formal University of Rochester, and did good amid impossible programming.
 
-### Jordan Peterson
+## Jordan Peterson
 
 My benzo trauma was with a [comparatively](https://www.mdcalc.com/calc/10091/benzodiazepine-conversion-calculator) higher dose than what Jordan Peterson took (he took approximately 12% - 80% the dose I did, and that's when I was taking them at the lowest dose the psychiatrists had reduced to), and preceded the situation Mikhaila Peterson, his daughter, described ([originally on her channel](https://youtu.be/laheAXdZK7w)), about how the professional psychoanalyst was caught off guard by the severe damages that the drugs caused, wherein he took [0.5 mg](https://ashnavabi.com/2022/01/19/jordan-peterson-was-not-addicted-to-benzos/) of [Clonazepam](https://windwardway.com/rehab-blog/jordan-peterson-finishes-lengthy-treatment-for-addiction/) per day as prescribed, reportedly, and unlike him I didn’t have the entire Russian army brigade bringing me into health (he went to Russia, where they were the first to have the medicine and specialized treatment to help him).
 
-### Mikhaila Peterson
+## Mikhaila Peterson
 
 Prior to that, by coincidence, his daughter Mikhaila (thankfully) recommended the steak-only diet (for an independent thing), which is where I heard it from, a clip from her podcast. That’s a global-level synchronicity involving them that happened after I was put through all of this crisis, which contributed to bringing me out, as well as my hair growing back, thanks to her diet recommendation.
 
-### Timing of benzodiazepine coercion [diagram](https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505)
+## Timing of benzodiazepine coercion [diagram](https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505)
 
 I finished making this [benzo-timeline diagram](https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505) just as Pink Floyd's [Comfortably Numb](https://youtu.be/_FrOQC-zEog?si=riY-TNigVjimQ_iT) started playing on my Spotify's radio on shuffle, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was Psycho Killer which I'll interpret as psychiatric killer. Oh and then Alabama  Song (Whisky Bar). Not bad. Regarding Whiskey Bar, any song about alcohol is fitting for the topic of benzos, since they both work by GABA as the mechanism of action. In fact, I introduced a fellow hospital-inmate Sarah to Elliott Smith for the first time in the hospital with the song [Between the Bars](https://youtu.be/2FmYzACF-kg?si=DLaBako9OolIYuVx) (about alcohol... not about Xanax bars, though Xanax is another benzo and "bars" is the colloquially and sometimes clinically used term for pills of them) while we were in the hospital (linguistically like: between the bars of confinement). It was the only song I thought to show her in the one situation when we were allowed to pick our own music, and she remembered and liked it. Also coincidentally, she was keeping a synchronicity list while we were there. While some of these are clearly just linguistic, the timing of [Comfortably Numb](https://youtu.be/_FrOQC-zEog?si=riY-TNigVjimQ_iT) and the next two songs seems worth noting since many people, like Sarah and myself, appreciate synchronicities. Two more: (1) speaking of timing, the [diagram](https://github.com/slerman12/Detective-Sam/assets/9126603/497f6d9b-ff12-4e6a-97c5-e5230c05e505) is about a chronology (not of songs, but of benzo trauma), and (2) Sarah’s last name is phonetically pronounced "Jung," the depth psychologist who coined synchronicities.
 
-### CMT deletion of record
+## CMT deletion of record
 
 CMT (the portal that was used to submit to the "NIPS" 2018 conference, today called NeurIPS) deleted their record of my MHDPA innovation paper, the one that foretold ChatGPT to my university's professors (or tried to), the same month when I was terminated (CMT’s deleting of that record at around that time can be verified, since they sent out a notification email on 10/20/23 to everybody that they were updating their data retention policy). But in 2018, the paper was sent out to Henry Kautz and Daniel Gildea by email, and submitted to the class as that class’s end of semester project also via email. So the digital record does remain to verify the paper and its being written in 2018 with the first initial successful experiments, and email record of Henry and Dan's respective advice on how to linguistically or mathematically describe MHDPA, claiming that "relational reasoning" is the wrong term and more math was needed and (though what I had and stuck with is now the convention, and already had some precedent then). That’s not to insult Henry or Dan. There’s also clear record that, most deep learning and natural language processing researchers, even outside of the University of Rochester, [weren't too abundantly "foretelling" of MHDPA's importance](https://scholar.google.com/scholar?q=mhdpa&hl=en&as_sdt=0%2C33&as_ylo=2017&as_yhi=2018) (the link is to two papers that were, the earliest papers to use MHDPA at all, also from 2018, and others that just directly referenced it) at the time of my paper. Both of those two papers used MHDPA for something fundamentally new, but neither innovated directly on MHDPA, meaning mine was probably the first to do so, ever. While I was finishing up the code for my MHDPA innovation in Montreal during NeurIPS (called "NIPS" at the time) 2018, I met one of the authors of [one of those two papers](https://proceedings.neurips.cc/paper/2018/hash/e2eabaf96372e20a9e3d4b5f83723a61-Abstract.html), Ryan Faulkner, and we got lunch and he said he'd recommend me to a position at DeepMind (he was miraculously impressed with me). 
 
 And not only foretold to my university's professors, but innovated on and executed successful experiments verifying the early innovation — and formal paper submission, later derailed by me having to switch advisors, fields, and put on deadlines, not to mention all of their doubt, skepticism, and lack of enthsuiasm (oh but enthusiasm came later when MHDPA exploded, with Henry even telling me on email record, after he was no longer my advisor, that I should work on vision transformers!). Oh, and benzos.
 
-### Sam "Altman"
+## Sam "Altman"
 
 The head of OpenAI, the company that invented ChatGPT (that used MHDPA), whose name is "Sam Altman" (mine is Sam Lerman) — "Altman," which is not German Ashkenazi for "teacher" — was terminated as the head of OpenAI in an unusually sensationalized situation exactly 17 days after my termination as PhD student, just in time for my birthday (exactly one day before), then was brought back.
 
 They were working on some AGI project called Q*, and the synchronicity may have been meant to give me hope, but [it didn't](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Synchronicity-Paranoias.md).
 
-### Michael Scott’s paper factory
+## Michael Scott’s paper factory
 
 Michael’s name [is mockable](https://youtu.be/ZPKdJGY0YyE?si=ja-odwAD_z7G98ZK) (that links to a story arc from The Office, where the main character, Michael Scott, starts his own paper company, much like the academic factory that I was being pressured to publish faster in, except regular papers). 
 
@@ -195,7 +197,7 @@ $\text{\color{green}[1.]:}$ I think "Siímyon" might be the best spelling.
 
 $\text{\color{green}[2.]:}$ My Rabbi, who I hadn't met before 2022, actually told me this. He designated me as "Shimon," and told me that "Shimon" means "to hear" in Kabbalistic teachings. In Kabbalistic teachings, "to hear" is the complement to "to see." It's the second way of knowing. To hear is to understand, it's to fine out the meaning from the varied knowings, whereas "to see" is to know — it’s the sense or awareness of truth; no teaching needed. My mom being a music theory professor in Samarkand when I was born, I find it meaningful if this was my birth name, though really it had nothing to do with the Kabbalistic interpretation. My great-aunt’s late husband was named Siímyon. When my kindergarten teacher truncated my mistranslated name to "Sem," it became "Sam," which is also synchronistic to where I was born, Samarkand. 
 
-### "Life ruined" post, entire-forum being deleted 5 months after I emailed it to the faculty/administrators 
+## "Life ruined" post, entire-forum being deleted 5 months after I emailed it to the faculty/administrators 
 
 Description 
 
@@ -203,6 +205,6 @@ Description
 
 [after having shown it to Niaz who commented in person about it (and to faculty/administrators), and writing BrokenWisdoms as a result of the depression and fear that came from losing my only description of those events, one I hadn’t backed up anywhere, with comments from others about having experienced similar things, the trauma of benzodiazepine addiction/coercion, and expressing extreme sympathy, and it was the top post in that for 4-ish years running]
 
-### House on May St. 
+## House on May St. 
 
 Description
