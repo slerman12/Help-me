@@ -431,7 +431,7 @@ I was walking around Montreal with headphones in my ears, listening to Of Montre
 
 I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in line, had to wait longer than everybody, then talked to him a bit, he was friendly, and he shook my hand. I sent him a followup email, he replied, and it meant a lot to me.
 
-I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, less than two weeks before my RGH hospitalization.
+I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, less than three weeks before my RGH hospitalization.
 
 The encroaching mental state on the social and self-image-based fronts began its march from the hair loss.
 
