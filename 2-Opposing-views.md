@@ -1073,7 +1073,7 @@ It didn’t take long before she could see he was a serious and sincere "politic
 
 My mom donated to him, too.
 
-"Bernie Sanders" is a household name today, so much so that some people might roll their eyes, call me a "Bernie bro." But unlike the "Bernie bros" across the Democratic party leadership who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing those views into the mainstream all his life, I’m a Bernie "supporter," not bro.
+"Bernie Sanders" is a household name today, so much so that some people might roll their eyes, call me a "Bernie bro." But unlike the "Bernie bros" across the Democratic party leadership who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing those views into the mainstream all his life, I’m a [Bernie "supporter,"](https://github.com/slerman12/Governance/blob/main/Does-Nature-Endorse%3F.md) not bro.
 
 Those ideas, like Medicare For All, a $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between "the top 1% and the 99%," have become popular talking points thanks to his campaigns (though the non-Bernie talking heads often leave out public funding of elections and overturning Citizens United), which made a bigger difference in American political knowledge and culture than any of the Democrats who campaigned against him, including the one who became president.
 
