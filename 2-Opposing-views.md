@@ -472,6 +472,8 @@ I went into a conscious yogic surrender of all muscle due to a command from <!--
 
 Then my sister arrived to the room I was in next, and she saw me, and touched my arm, aware I wasn't unconscious, in contrast to the doctor's or attendant's reassurance.
 
+She said she saw me smile. The doctor or attendant reassured her I was unconscious.
+
 A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
 
 ### Discharge from RGH
