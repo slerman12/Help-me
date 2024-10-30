@@ -1303,7 +1303,7 @@ And that must be understood as distinct from capitalistic drug-like fixes that p
 
 Intimacy healing is a step towards that, starting with medical institutions.
 
-Step 1: Get physical coercion, threatening, involuntary drugging, and unintelligent drugging out of the process. 
+Step 1: Get physical coercion, other kinds of coercion, threatening, involuntary drugging, and unintelligent drugging out of the process. 
 
 ## AI
   
