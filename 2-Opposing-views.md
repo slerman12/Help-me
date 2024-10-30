@@ -754,7 +754,7 @@ As it turns out, the disorder was with the psychiatrists all along. "Toto, we're
 
 While I was living in the House on May St., and still in the early stages of my work, Henry wrote to me, “Ideas are cheap. Execution is hard.” However, I have a pretty good track record of following through on my ideas. 
 
-The benzos had quite almost become an execution. 
+The benzos forced on me an idea that almost become too much of an "execution."
 
 The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
 
