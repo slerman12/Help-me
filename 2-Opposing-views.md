@@ -700,7 +700,7 @@ Henry, compared to other professors of similar rank and background, deserves cre
 
 The other faculty were probably mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that day to function, but that’s not how Henry meant it.
 
-[My slides for that area exam were quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
+[My slides for that area exam were also quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
 
 I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo torture-out that I had to take an irregular dose of benzos to do something, the other being [the poster presentation for the Med Center](#charles-venuto), since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
 
