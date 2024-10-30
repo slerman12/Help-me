@@ -756,7 +756,7 @@ While I was living in the House on May St., and still in the early stages of my 
 
 The benzos forced on me an idea that almost become too much of an "execution."
 
-The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk in long-term benzo usage of patients presenting symptoms similar to mine.
+The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk in long-term benzo usage of patients presenting symptoms that are and were similar to mine.
 
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
 
