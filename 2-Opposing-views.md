@@ -1284,6 +1284,8 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a [human struggle](https://www.tiktok.com/@mayte.lisbeth/video/7214069179610041642) that all of us share.
 
+Step 1: Get physical coercion, threatening, involuntary drugging, and unintelligent drugging out of the process. 
+
 ## The artificial and synthetic
 
 I'm all for [#SexycareForAll](#intimacy-healing), but that's not quite what I have to say.
