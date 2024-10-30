@@ -720,7 +720,7 @@ I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — 
 
 These symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year, and the trauma persists. <!-- I've read former cocaine and heroin addicts anecdotally report that long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. --> 
 
-I saw anecdotes in [this website](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports elsewhere, e.g., probably abundant [here](https://www.reddit.com/r/benzorecovery/)).<!-- I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
+I saw anecdotes [in this website](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports elsewhere, e.g., probably abundant [here](https://www.reddit.com/r/benzorecovery/)).<!-- I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
 
 ### Wizard behind the curtain
 
