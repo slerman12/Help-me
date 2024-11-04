@@ -2,19 +2,39 @@
 
 <p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> 
 
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+<picture>
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+</picture>
+</a>
+</p>
+
 # Part 1
 
-## Sam <!--and Marina--> of Samarkand<!--/Maracanda-->
+- **University-provided health insurance (Aetna)**
+- **University-hospital doctor**
+- **University-owned drug deliverer**
 
+## Sam <!--and Marina--> from<!--of--> Samarkand<!--/Maracanda-->
+
+<!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the war front. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
+-->
+Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob, my grandpa's father who'd been drafted to fight in the war front.
 
 When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d gone by the less Jewish name "Yury," or the nickname "Yura" during the war, and that name is what he went by after the war. Nevertheless, he kept his last name, "Lerman," which is a German Jewish Ashkenazi last name.
 
-My grandpa then went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952. 
+My grandpa then went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing <!--plant/-->factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952. 
 
-Samarkand, an ancient city in Uzbekistan, with [modest architecture](https://travelcocktail.org/samarkand/), is one of the oldest historical cities in Central Asia and ["one of the most ancient cities in the world,"](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures), during ancient and medieval times. During the Soviet era, Russian was the dominant language, although Uzbek was the official language on documents. Since the 8th century, since also sharing religion with the Middle East, it [is an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
+Samarkand, an ancient city in Uzbekistan, with [modest architecture](https://travelcocktail.org/samarkand/), is one of the oldest historical cities in Central Asia and ["one of the most ancient cities in the world,"](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures), during ancient and medieval times. During the Soviet era, Russian was the dominant language, although Uzbek was the official language on documents, [an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
 
-My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally<!--, when my mom was 33-->, my older sister Marina<!-- (Samarkand happens to be also named Maracanda, though my sister was named after Maná, but my mom wanted a name that felt somewhat different)-->, and<!--, when my mom was 38,--> I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam" of Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
+<!--
+. Since the 8th century, since also sharing religion with the Middle East, it [is an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
+-->
+
+My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally<!--, when my mom was 33-->, my older sister Marina<!-- (Samarkand happens to be also named Maracanda, though my sister was named after Maná, but my mom wanted a name that felt somewhat different)-->, and<!--, when my mom was 38,--> I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
 
 <!--
 Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the warfront. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
@@ -33,7 +53,7 @@ Put this in Synchronicities:
 My older sister, Marina, is named after my grandpa's sister Maná, but my mom wanted a somewhat different feeling name. My mom didn't know this, and I didn't know this either until I literally just clicked this link that used to reference the ["world's most ancient city"](https://whc.unesco.org/en/list/603/) thing earlier, but Samarkand also happens to be named Maracanda. Nice!
 -->
 
-## Eczema at infancy (*difficulty at the beginning*)
+## Eczema at infancy <!--(*difficulty at the beginning*)-->
 
 I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies' cloths to cover my hands, so I'd not scratch to blood.
 
@@ -47,16 +67,7 @@ The shaman somehow knew that we were immigrating. My mom didn't know how. She th
 
 <!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn't know how.-->
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-<picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-</picture>
-</a>
-</p>
-
-## Induced hair loss (*fellowship with man*)
+## Induced hair loss <!--(*fellowship with man*)-->
 
 In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
 
@@ -77,7 +88,7 @@ Eventually, she sorted out things with the university-provided health insurance,
 
 `The drug was delivered after I lost my hair.`
 
-## Premonitions
+<!--## Premonitions-->
 
 We finally got a delivery of the drug. I wasn't sure whether it'd be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
 
@@ -102,7 +113,7 @@ That can't be a coincidence, so I leave this story here both for medical utility
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
-
+<!--
 ## Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
 
 I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book shows, there are better uses of my spirit besides teaching what I know to lawyers.
@@ -112,25 +123,39 @@ Whether or not I'm ruling it out must, out of narrative necessity, be left a mys
 As that chapter will show, there's an even more appealing direction that all of this has made me crave! And hey, "suing" is still phonetically part of it (is "suiciding" a word though?).
 
 My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person.
-
+-->
 <!--My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person. Not that suing would subtract attraction, but in my case would my morale and time.-->
-
+<!--
 BUT, I'm no stranger to some material luck, as it turned out...
 
 My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [House on May St.](#house-on-may-st), which I leased a room in later, when Aetna had cut me off from the eczema drug.
 
-(Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and would subtract time). If I’m doing my PhD, or writing this book, or racing with other AI researchers, or have physics work that’s important for everybody, or have medical work that’s important for everybody, or have <!--politics/governing-->governance stuff that’s important for everybody, when would I have time to sue? As I'm doing. All of that. [AI](#henry-kautz-limitations-of-western-philosophy), physics (for now linking [this](Philosophy/Velocity-Addition-Formula.md)), [governance](https://github.com/slerman12/Governance/blob/main/Does-Nature-Endorse%3F.md).
+(Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and would subtract time). If I’m doing my PhD, or writing this book, or racing with other AI researchers, or have physics work that’s important for everybody, or have medical work that’s important for everybody, or have governance stuff that’s important for everybody, when would I have time to sue? As I'm doing. All of that. [AI](#henry-kautz-limitations-of-western-philosophy), physics (for now linking [this](Philosophy/Velocity-Addition-Formula.md)), [governance](https://github.com/slerman12/Governance/blob/main/Does-Nature-Endorse%3F.md).
+-->
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
+<picture>
+  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
+  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
+</picture></a>
+<!-- <br><i><b>Note:</b> I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was "Psycho Killer" which I'll interpret as psychiatric killer. Oh and then "Alabama  Song (Whisky Bar)." Not bad. Any song about alcohol is fitting for the topic of benzos, since they both work by GABA as the mechanism of action. In fact, I introduced a fellow hospital-inmate Sarah to Elliott Smith for the first time with the song "Between the Bars" (about alcohol... not about Xanax bars [Xanax is another benzo and "bars" is the colloquially and sometimes clinically used term for pills of them]) while we were in the hospital (between the bars of confinement). Since she was keeping a synchronicity list while we were there, I think she'll appreciate these observations in this caption when I show her, though it would unfortunately be a non-sequitor to make any claims to their nature or significance. Some of these however are just linguistic.</i> -->
+</a>
+</p>
 
 # Part 2
 
+- **University-hospital psychiatrists (two)**
+- **University outpatient doctor**
+<!--
 ## Electric razor (more premonitions)
 
-My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
-
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester--><!--, it was the only razor I ever used--><!--.-->
+<!--
 In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
 
 Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, and mostly while living in the House on May St...
-
+-->
 <!--
 ### Uncanny beard premonition
 
@@ -219,16 +244,6 @@ Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance
 Despite the similarities to alcohol, benzos are synthetic, achieve much the same effect without a person being able to notice the same short-term consequences like immediate hangover, and are often prescribed to be taken daily for long periods of time. [Studies haven't shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8629021/) that the long-term consequences are preferable to those of alcohol, many [quite the opposite](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and <!--(at least)--> my experience<!--, as well as that of [many others](https://www.reddit.com/r/benzorecovery/), taking only as prescribed, were--> was so severe that I <!--would--> strongly bet worse. 
 <!--Maybe add if the kind of alcohol matters, e.g., 100% agave blue resposado tequila-->
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
-<picture>
-  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
-  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
-</picture></a>
-<!-- <br><i><b>Note:</b> I finished making this diagram just as Pink Floyd's "Comfortably Numb" started playing on my Spotify, a song about a doctor taking a patient named "Pink"'s soul through "medicines" meant to help him. The next song was "Psycho Killer" which I'll interpret as psychiatric killer. Oh and then "Alabama  Song (Whisky Bar)." Not bad. Any song about alcohol is fitting for the topic of benzos, since they both work by GABA as the mechanism of action. In fact, I introduced a fellow hospital-inmate Sarah to Elliott Smith for the first time with the song "Between the Bars" (about alcohol... not about Xanax bars [Xanax is another benzo and "bars" is the colloquially and sometimes clinically used term for pills of them]) while we were in the hospital (between the bars of confinement). Since she was keeping a synchronicity list while we were there, I think she'll appreciate these observations in this caption when I show her, though it would unfortunately be a non-sequitor to make any claims to their nature or significance. Some of these however are just linguistic.</i> -->
-</a>
-</p>
-
 ## My trauma
 
 My trauma revolves around three psychiatrists.
@@ -290,6 +305,25 @@ Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to 
 A deeper summary of my benzo trauma can be found [here](#flying-colors). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+ <picture>
+   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+</picture>
+</a>
+</p>
+
+# Part 3
+
+- **University PhD advisors**
+- **University-hospital police officers**
+- **University-hospital nurses**
+- **University psychiatric ward janitor**
+- **University PhD committee members**
+- **University CS department Chair**
+- **University Deans**
 
 ## PhD program
 
@@ -382,7 +416,7 @@ Charles was very supportive as my advisor. He was left-handed. My grandpa was al
 </a>
 </p>
 
-## Henry Kautz (Limitations of Western philosophy)
+## Henry Kautz <!--(Limitations of Western philosophy)-->
   
 The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
 
@@ -443,7 +477,7 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
-### Psychosis crisis
+### <!--Psychosis c-->Crisis
 
 > [!NOTE]
 > This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
@@ -629,7 +663,7 @@ Our other companion was Hudson, who caught me as I was being discharged and hand
 <img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
 </p>
 
-I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
+It's great<!--I'm impressed--> he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
 
 Meanwhile, I was being brain damaged by benzos, but who could've known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
 
@@ -756,7 +790,7 @@ While I was living in the House on May St., and still in the early stages of my 
 
 The benzos forced on me an idea that almost become too much of an "execution."
 
-The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk in long-term benzo usage of patients presenting symptoms similar to mine.
+The risk of mortality was a foreseeable outcome <!--by my psychiatrists-->from benzos, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/), that suicide is a probable risk in long-term benzo usage of patients presenting symptoms similar to mine.
 
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
 
@@ -772,28 +806,17 @@ During this time, my mom found and my family took away the helium tank connected
 
 Sometime concurrently, I built the disease prognostication website. It was my idea that I had to argue for, build, and prove to convince them it was a good idea. Through brain damage, I built it, proved the concept to bosses and other researchers through hard work and an actual prototype, and presented it at a conference in DC where I had to take benzos to cognitively function. They took the idea after liking my version, they hired their own team, and they gave me no credit. <!--I believe, at this time though, Henry had aranged them as the source of my funding via the "Udall Center grant," "designed to support innovation and discovery in Parkinson's Disease."-->
 
-### B-
+### B-?
 
-The next semesters, my classes were okay or coercive. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. B- was from a different systems professor, for which the story is quite bad. A fraction of a point, separated me from a B, even after I came into his office and he was ready to bump it up, he probably wasn't satisfied with the lack of flying colors I had and didn't believe me that my work would involve systems, and at the end of the meeting, decided to leave my grade at a B- for Operating Systems, and because I got a B-, in Operating Systems, 0.1 of a point difference from B (since it would be rounded up), I had to retake a systems class, since PhD students are required to get a B or higher. A was Program Synthesis, the class I chose to meet the retake requirement, in which I educated Sree and the class about deep learning (AI) for program synthesis, now the state of the art in that field, got an A for his appreciation and my good teaching, and in all honesty, though I like Sree, didn't learn anything. Systems is my least favorite field, but in spite of that, his Parallel and Distributed Systems class, a different class, was the first and only systems class I ever liked. 
+The next semesters, my classes were okay or coercive. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. B- was from a different systems professor, for which the story is quite bad. A fraction of a point, separated me from a B, even after I came into his office and he was ready to bump it up, he probably wasn't satisfied with the lack of flying colors I had and didn't believe me that my work would involve systems, and at the end of the meeting, decided to leave my grade at a B- for Operating Systems, and because I got a B-, in Operating Systems, like 0.1 of a point difference from B (since it would be rounded up), I had to retake a grad-level systems class, since PhD students are required to get a B or higher. A was Program Synthesis, the class I chose to meet the retake requirement, in which I educated Sree and the class about deep learning (AI) for program synthesis, the state of the art in that field (though at the time wasn't), got an A for his appreciation and my good teaching, and in all honesty, though I like Sree, did did more teaching than learning in this class I had to take by my earlier professor's bad faith. Systems is my least favorite field, but Sree's Parallel and Distributed Systems class, a different class, was the first and only systems class I ever liked. 
 
-So in other words I coercively took a class that turned out okay because I "got to" teach it with a professor I liked from yet a different systems class, because a different systems professor fell on the fence of deciding I had to do a semester of more grad-level systems work due to that 0.1 fraction of a point and my own failed efforts to make the case that my own research would involve systems work, after our one meeting. I mention this though because it recurs again many semesters later in such a parallel fashion (see ["Chris Kanan"](#chris-kanan)), and I did.
+So in other words I was coerced to take a class that turned out okay because I "got to" teach it with a professor I liked from yet a different systems class, because a different systems professor fell on the fence of deciding I had to do a semester of more grad-level systems work due to that ~0.1 fraction of a point and not believing my efforts to make the case that my own research would involve systems work, after our meeting. I mention this though because it recurs again many semesters later with naother unreasonable systems demand that I did and went unappreciated (see ["Chris Kanan"](#chris-kanan)).
 
 Sree introduced me to [Piazza](#kids), which is a great educational tool.
 
 And in Spring, 2020, I worked in the office at the Med Center as my brain was just barely entering the first vestiges of recovery. I was [coming into the Med Center office regularly, working on the disease prognostication data and models on-site, and exercising more.](https://www.facebook.com/share/p/ShD9b4SeSA9Ebzbq/) 
 
 Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#red-light-at-clover-st-advisor-leaves), most likely would've been terminated for not having an advisor.
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
- <picture>
-   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
-   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
-</picture>
-</a>
-</p>
-
-# Part 3
 
 <!--
 <p align="center">
