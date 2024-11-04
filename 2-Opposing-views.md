@@ -759,7 +759,7 @@ These symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/cons
 
 I saw anecdotes [in this website](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports comparing the drugs elsewhere, e.g., probably abundant [here](https://www.reddit.com/r/benzorecovery/), though at the surface hard to believe).<!-- I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
 
-### Wizard behind the curtain
+### Machinery<!--Wizard--> behind the curtain
 
 - The drug empire was disguised as the University of Rochester.
 - The drug dealers were disguised as the University of Rochester's psychiatrists.
