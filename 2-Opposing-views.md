@@ -1,5 +1,5 @@
 # <p align='center'> Book 2. Opposing Views </p> 
-<p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> 
+<!--<p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> -->
 
 
 <p align="center">
