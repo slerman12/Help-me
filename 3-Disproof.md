@@ -1,9 +1,3 @@
-# <p align='center'> Book 3. Disproof </p> 
-
-<p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> 
-
-> In progress
-
 # Part 4
 
 ## Email: 10/27/2023
