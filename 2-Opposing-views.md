@@ -17,7 +17,7 @@
 - **University-hospital doctor**
 - **University-owned drug deliverer**
 
-## Sam and Marina from<!--of--> Samarkand/Maracanda
+## Sam and Marina from<!--of--> Samarkand and Maracanda
 
 <!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the war front. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
