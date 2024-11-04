@@ -1,3 +1,7 @@
+# <p align='center'> Book 2. Opposing Views </p> 
+<p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> 
+
+
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
 <picture>
