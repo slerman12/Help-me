@@ -873,6 +873,8 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 
 Until Henry's retirement in 2022, which he didn't warn me about and came to me as a surprise from Chenliang, he stayed on as my PhD committee member.
 
+To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018 — MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT — was something that goes to my credit in any way. In other words, he hasn’t said “hey, you were right!” or anything to that effect, despite the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
+
 > [!NOTE]
 > ### Buffy
 >
@@ -897,8 +899,6 @@ Until Henry's retirement in 2022, which he didn't warn me about and came to me a
 > Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to cancelled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
 >
 > Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I am adding this paragraph just to say that I am not cancelling Henry.
-
-To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018 — MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT — was something that goes to my credit in any way. In other words, he hasn’t said “hey, you were right!” or anything to that effect, despite the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
 
 ## Chenliang Xu 
 
