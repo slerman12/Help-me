@@ -44,9 +44,9 @@ My cousins, sister, and I were also all born in Samarkand, all of us also Ashken
 
 When my mom was 33, she had my older sister Marina. 
 
-When my mom was 38, she had me. My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family.
+When my mom was 38, she had me. 
 
-"Sam and Marina from Samarkand and Maracanda" is entirely chance, not designed by any one person, but resultant from my mom naming us after relatives (Maná and Siímyon), and the American [translations](#immigration), with respect to my name, that later caused it to become "Sam." My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, or at least was in the 4th century BCE, but my <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom just liked the name "Marina."
+"Sam and Marina from Samarkand and Maracanda" is entirely chance, not designed by any one person. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, or at least was in the 4th century BCE, but my <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom just liked the name "Marina." My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Later American [translations](#immigration) caused it to become "Sam." 
 
 
 <!--
