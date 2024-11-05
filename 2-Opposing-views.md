@@ -46,7 +46,7 @@ When my mom was 33, she had my older sister Marina.
 
 When my mom was 38, she had me. 
 
-"Sam and Marina from Samarkand and Maracanda" is entirely chance. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, or at least was in the 4th century BCE, but my <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom just liked the name "Marina." My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Later American [translations](#immigration) caused it to become "Sam." 
+"Sam and Marina from Samarkand and Maracanda" is entirely chance. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, or at least was in the 4th century BCE, but my <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom just liked the name "Marina." My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Later American [translations](#immigration) caused it to become "Sam." 
 
 
 <!--
