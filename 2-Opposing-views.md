@@ -30,7 +30,7 @@ My grandpa then went to a college in Kiev. My grandma, Asya, a "Rabinovich" (her
 
 Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing <!--plant/-->factory in Samarkand, Uzbekistan, where my grandpa had to work as a leather technology engineer. My grandma had emigrated with him and found a job there, too, teaching German. 
 
-So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952. 
+So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv, to Samarkand, in 1952. 
 
 Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](https://travelcocktail.org/samarkand/), is perhaps the oldest historical city in Central Asia and ["one of the most ancient cities in the world,"](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) having been a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures), during ancient and medieval times. During the Soviet era, Russian was the dominant language, Uzbek the official language on documents<!--, while Islam was the most common religion-->. Islam is the dominant religion. This city represents [a rich intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
 
