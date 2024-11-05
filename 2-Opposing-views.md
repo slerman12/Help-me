@@ -40,15 +40,15 @@ Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](h
 
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina.
 
+My cousins, sister, and I were also all born in Samarkand, all of us also Ashkenazi Jews. 
+
 When my mom was 33, she had my older sister Marina. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, but that naming wasn't on purpose or intended. My mom just liked the name "Marina."
 
 When my mom was 38, she had me. 
 
-My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
+My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family.
 
 "Sam and Marina from Samarkand and Maracanda" is entirely chance, not designed by any one person, but resultant from my mom naming us after relatives (Maná and Siímyon), and the American [translations](#immigration), with respect to my name, that later caused it to become "Sam."
-
-Like our parents, our generation of 4 (my sister, me, and cousins) were also all born in Samarkand, all of us also Ashkenazi Jews. 
 
 
 <!--
