@@ -154,7 +154,7 @@ My hair fell out while I rented a room in a *house on May St.*, a different plac
 
 My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had and the only one I'd ever used through high school and college.
 
-In that 2017 summer, before I started the Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
+In that 2017 summer, before I started the Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage, like a gentle omen of what was to come.
 
 Later that summer, after having started the Dupilumab, I started growing out my beard and mustache for the first time, in my life, entirely independently... while living in the House on May St...
 
