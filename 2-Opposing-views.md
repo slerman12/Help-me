@@ -24,7 +24,7 @@ Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied 
 -->
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob, my grandpa's and Rosá's father who'd been drafted to fight in the war front.
 
-When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d had to go by the less Jewish name, "Yury," or nickname "Yura." That is what he went by after the war, and kept his last name, "Lerman," a German Jewish Ashkenazi last name that translates approximately to "teacher."
+When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d had to go by the less Jewish name, "Yury," or nickname "Yura." That is what he went by after the war, and kept his last name, "Lerman," a German Jewish Ashkenazi last name, that translates approximately to "teacher."
 
 My grandpa then went to a college in Kiev; my grandma, Asya, a "Rabinovich" (translated meaning: "son of Rabbi), who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. 
 
