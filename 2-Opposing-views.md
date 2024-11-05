@@ -32,15 +32,9 @@ Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](h
 . Since the 8th century, since also sharing religion with the Middle East, it [is an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
 -->
 
-My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina.
+My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. 
 
-My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. 
-
-When my mom was 33, she had my older sister Marina. 
-
-When my mom was 38, she had me. 
-
-"Sam and Marina from Samarkand and Maracanda" is entirely chance. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. My <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom just liked the name "Marina." Maracanda, the ancient name of Samarkand, is a coincidence. My name, "Sam" from Samarkand, happened in America, by chance, too. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon, who'd died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Due to multiple [translations](#immigration), it became "Sam."
+Then, via my aunt Jenya, my older cousins Lena and Irina were born, respectively, Lena the older. My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. When my mom was 33, she had my older sister Marina. When my mom was 38, she had me. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. My <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom liked the name "Marina." Maracanda, the ancient name of Samarkand, is a coincidence. My name, "Sam" from Samarkand, happened in America, by chance, too. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon, who'd died several years before I was born. "Siímyon" is my full name; "Syoma" is what I go by with my family. Due to multiple [translations](#immigration), from Uzbek to American, it became "Sam."
 
 
 <!--
