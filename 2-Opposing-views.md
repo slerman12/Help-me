@@ -836,11 +836,30 @@ Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 
 -->
 
 ## Red light at Clover St. (advisor leaves)
-
 > [!NOTE]
-> ### Giles
+> ### Buffy
 >
-> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
+> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)-->. But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
+>
+> Almost nobody heard of Buffy in my high school, 2009 - 2013, Golden Age Peak TV era. I had a debate with my friend, another film buff, where I claimed TV shows were better than movies. He didn't believe me yet. In my high school, all those TV shows were getting missed<!--, at least by many of the people I talked to-->. Buffy had been out since the 90s/early 2000s, and was the most — maybe universally at my high school — unappreciated.
+>
+> The first person who took my recommendation got through multiple seasons, on my repeated insistence, and still didn't like it.
+>
+> It wasn't until my senior year I met somebody who liked Buffy the Vampire Slayer. I met him because he commented on a friend's Facebook post about a totally different shared interest, and I messaged him, he wanted to hang out to my surprise, and then he invited me to his birthday party. There, I met other kids who went to his school, including the other Buffy fan I met in high school, one of his friends who walked right up to me with a big smile and was so enthusiastic about my Buffy love. 
+>
+> Two of the first friends I made in college, by extreme coincidence, loved nerdy shows, especially Joss Whedon shows and Buffy, and were the <!-- girls--> people in my neighboring dorm. One of them later told me she didn't like Buffy that much. Her girlfriend however was such a big Buffy fan that she even made me feel guilty for not knowing some trivia about one of the episodes. The other one was one of the only people I ever watched Buffy together with. They both became my best friends that semester and I half-lived in their dorm. The other dorm near ours also housed <!--a girl--> someone who liked Buffy a lot, by chance. I was roomed near them by the university's random selection. Extreme Buffy fandom wasn't *that* common in college.
+>
+> Buffy appreciation, quite honestly, was how I measured intelligence then. Wealth and higher education, though, also seemed to increase likelihood of Buffy fandom, but not so as to without further Buffy-factor predict intelligence. It was a big surprise to me to meet those people in the private school, and then more people in college, with an appreciation for the shows I appreciated. It was literally surreal.
+>
+> I was so nervous with the first group, and regret missing the chance to bond more with them. The second group didn't make sense to me, but I was surrounded, and there was no escape from the universe giving me a good social life.
+>
+> From college to PhD, I didn't know Henry's favorite show was Buffy.
+> 
+> I was accepted as his PhD student not knowing that. I found out two semesters into the PhD program, and was kind of shocked. He said he was "obsessed with" Buffy, which he added is "kind of weird." I dropped off my "Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale" book, with a kind note, in his mailbox as a gift, re-gifting it from my best friend.
+>
+> Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to cancelled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
+>
+> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I am adding this paragraph just to say that I am not cancelling Henry.
 
 Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
@@ -884,29 +903,9 @@ Until Henry's retirement in 2022, which he didn't warn me about and came to me a
 To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018 — MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT — was something that goes to my credit in any way. In other words, he hasn’t said “hey, you were right!” or anything to that effect, despite the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
 
 > [!NOTE]
-> ### Buffy
+> ### Giles
 >
-> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)-->. But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
->
-> Almost nobody heard of Buffy in my high school, 2009 - 2013, Golden Age Peak TV era. I had a debate with my friend, another film buff, where I claimed TV shows were better than movies. He didn't believe me yet. In my high school, all those TV shows were getting missed<!--, at least by many of the people I talked to-->. Buffy had been out since the 90s/early 2000s, and was the most — maybe universally at my high school — unappreciated.
->
-> The first person who took my recommendation got through multiple seasons, on my repeated insistence, and still didn't like it.
->
-> It wasn't until my senior year I met somebody who liked Buffy the Vampire Slayer. I met him because he commented on a friend's Facebook post about a totally different shared interest, and I messaged him, he wanted to hang out to my surprise, and then he invited me to his birthday party. There, I met other kids who went to his school, including the other Buffy fan I met in high school, one of his friends who walked right up to me with a big smile and was so enthusiastic about my Buffy love. 
->
-> Two of the first friends I made in college, by extreme coincidence, loved nerdy shows, especially Joss Whedon shows and Buffy, and were the <!-- girls--> people in my neighboring dorm. One of them later told me she didn't like Buffy that much. Her girlfriend however was such a big Buffy fan that she even made me feel guilty for not knowing some trivia about one of the episodes. The other one was one of the only people I ever watched Buffy together with. They both became my best friends that semester and I half-lived in their dorm. The other dorm near ours also housed <!--a girl--> someone who liked Buffy a lot, by chance. I was roomed near them by the university's random selection. Extreme Buffy fandom wasn't *that* common in college.
->
-> Buffy appreciation, quite honestly, was how I measured intelligence then. Wealth and higher education, though, also seemed to increase likelihood of Buffy fandom, but not so as to without further Buffy-factor predict intelligence. It was a big surprise to me to meet those people in the private school, and then more people in college, with an appreciation for the shows I appreciated. It was literally surreal.
->
-> I was so nervous with the first group, and regret missing the chance to bond more with them. The second group didn't make sense to me, but I was surrounded, and there was no escape from the universe giving me a good social life.
->
-> From college to PhD, I didn't know Henry's favorite show was Buffy.
-> 
-> I was accepted as his PhD student not knowing that. I found out two semesters into the PhD program, and was kind of shocked. He said he was "obsessed with" Buffy, which he added is "kind of weird." I dropped off my "Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale" book, with a kind note, in his mailbox as a gift, re-gifting it from my best friend.
->
-> Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to cancelled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
->
-> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I am adding this paragraph just to say that I am not cancelling Henry.
+> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
 
 ## Chenliang Xu 
 
