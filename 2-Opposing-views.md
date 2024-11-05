@@ -26,7 +26,7 @@ Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied 
 
 When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d had to go by the less Jewish name, "Yury," or nickname "Yura." That is what he went by after the war, and kept his last name, "Lerman," a German Jewish Ashkenazi last name, that translates approximately to "teacher."
 
-My grandpa then went to a college in Kiev; my grandma, Asya, a "Rabinovich" (translated meaning: "son of Rabbi), who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. 
+My grandpa then went to a college in Kiev. My grandma, Asya, a "Rabinovich" (translated meaning: "son of Rabbi"), who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. 
 
 Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing <!--plant/-->factory in Samarkand, Uzbekistan, where my grandpa had to work as a leather technology engineer. My grandma had emigrated with him and found a job there, too, teaching German. 
 
