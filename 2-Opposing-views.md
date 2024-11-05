@@ -1314,7 +1314,7 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a [human struggle](https://www.tiktok.com/@mayte.lisbeth/video/7214069179610041642) that all of us share.
 
-The full elaboration on this involves socialization workers, relationship healers, and touch and sensuality therapists.
+> The full elaboration on this involves socialization workers, relationship healers, and, lastly, touch and sensuality therapists.
 
 ## The artificial and synthetic
 
