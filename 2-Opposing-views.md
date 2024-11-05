@@ -48,7 +48,7 @@ My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--
 
 "Sam and Marina from Samarkand and Maracanda" is entirely chance, not designed by any one person, but resultant from my mom naming us after relatives (Maná and Siímyon), and the American [translations](#immigration), with respect to my name, that later caused it to become "Sam."
 
-Our generation of 4 were also born in Samarkand, all of us also Ashkenazi Jews. 
+Like our parents, our generation of 4 were also all born in Samarkand, all of us also Ashkenazi Jews. 
 
 
 <!--
