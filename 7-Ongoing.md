@@ -1,7 +1,5 @@
 # Ongoing
 
-> This chapter will be way different
-
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/a7e77c0c-495b-477c-97f1-d90e0eb4af3c">
 <picture>
