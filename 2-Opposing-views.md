@@ -42,7 +42,7 @@ My uncle Slava was the first descendant of my grandparents, then my mom Nélya, 
 
 My cousins, sister, and I were also all born in Samarkand, all of us also Ashkenazi Jews. 
 
-When my mom was 33, she had my older sister Marina. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, but that naming wasn't on purpose or intended. My mom just liked the name "Marina."
+When my mom was 33, she had my older sister Marina. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, or at least was in the 4th century BCE, but my sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My mom just liked the name "Marina."
 
 When my mom was 38, she had me. 
 
