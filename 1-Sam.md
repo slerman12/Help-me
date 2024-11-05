@@ -28,27 +28,25 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
 
   - [Opposing views](2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
-      - Sam of Samarkand
-      - Eczema at infancy (*difficulty at the beginning*)
-      - Induced hair loss (*fellowship with man*)
-      - Premonitions
-      - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
-    - Part 2 (University-hospital psychiatrists (two), University outpatient doctor)
-      - Electric razor (more premonitions)
+      - Sam and Marina of Samarkand and Maracanda
+      - Eczema at infancy <!--(*difficulty at the beginning*)-->
+      - Induced hair loss <!--(*fellowship with man*)--><!-- - Premonitions--> <!-- - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)-->
+    - Part 2 (University-hospital psychiatrists (two), University outpatient doctor) <!-- - Electric razor (more premonitions)-->
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
       - My trauma
+    - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
       - PhD program
         - Embassy interview
         - Immigration
       - Charles Venuto
-      - Henry Kautz (Limitations of Western philosophy)
+      - Henry Kautz <!--(Limitations of Western philosophy)-->
         - Fall, 2018 semester, and the Dead Marshes
-        - Psychosis crisis
+        - C<!--Psychosis c-->risis
         - Rochester General Hospital (RGH)
           - Christmas Eve/Day, 2018
-          - Catatonia, or "swallowing my tongue"
+          - Catatonia, or swallowing my tongue sensation
           - Discharge from RGH
           - The unsampled world at Clover St.
         - University of Rochester's Strong Hospital
@@ -56,14 +54,13 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
           - Hudson
           - Jeremiah
         - Flying colors
-        - Area exam (and all As)
-        - Hell
-        - Wizard behind the curtain
-        - Suicide attempt
-        - B-
-    - Part 3 (University PhD advisors, University-hospital police officers, University-hospital nurses, University psychiatric ward janitor, University PhD committee members, University CS department Chair, University Deans)
+      - Area exam (and all As)
+      - Hell
+      - Machinery behind the curtain
+      - Suicide attempt
+      - Beginnings of recovery
       - Red light at Clover St. (advisor leaves)
-        - Giles
+        - Buffy
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang advising:
         - Psyche hospitalization
