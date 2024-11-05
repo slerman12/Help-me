@@ -71,11 +71,22 @@ The shaman somehow knew that we were immigrating. My mom didn't know how. She th
 
 In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
 
+`Aetna cut me off from Dupilumab about 8 months into my dependency without warning.`
+
+`The deliverer couldn't reach my doctor.`
+
 I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
 
 Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the summer (when her office had scheduled it: August 14), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
 
+`I wasn't given the appointment with my doctor until months after.`
+<!--`I wasn't given an appointment with my doctor until at least a month, maybe two months or more, after the missed injection.`-->
+
+`The cessation initially caused Alopecia Areata.`
+
 Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
+
+`The drug was delivered after I lost my hair.`
 
 <!--## Premonitions-->
 
@@ -84,6 +95,8 @@ We finally got a delivery of the drug. I wasn't sure whether it'd be safer at th
 Here's a personal story, since I was fixated with Taoism at the time:
 
 To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
+
+`The Alopecia Areata had developed into Alopecia Universalis.`
 
 The I Ching "answered" it didn't matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair will grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair can "sprout" out of the earth, my head, like blades of grass, again... which it did, temporarily but covering my entire head except for an unnoticeable tiny spot at the top of my scalp.
 
@@ -95,20 +108,11 @@ Another time I did the steak-only diet, a few eyelashes grew back for the first 
 
 That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
+`I now look like Gollum`, and `other Gollum-esque symptoms` (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
+<!--`I now look like Gollum`, and, though I didn't specify them yet here, there were `other "Gollum-esque" symptoms` as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).-->
+
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
-
-> ## Recap
-> 
-> 1. Aetna cut me off from Dupilumab about 8 months into my dependency without warning.
-> 2. The deliverer couldn't reach my doctor.
-> 3. I wasn't given the appointment with my doctor until months after. <!--`I wasn't given an appointment with my doctor until at least a month, maybe two months or more, after the missed injection.`-->
-> 4. The cessation initially caused Alopecia Areata.
-> 5. The drug was delivered after I lost my hair.
-> 6. The Alopecia Areata had developed into Alopecia Universalis.
-> 7. I now look like Gollum.
-
-Other symptoms as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
    
 <!--
 ## Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
