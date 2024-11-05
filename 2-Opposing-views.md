@@ -38,7 +38,15 @@ Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](h
 . Since the 8th century, since also sharing religion with the Middle East, it [is an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
 -->
 
-My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally<!--, when my mom was 33-->, my older sister Marina (Samarkand happens to be also named Maracanda, though my sister was named after Maná, but my mom wanted a name that felt somewhat different), and<!--, when my mom was 38,--> I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
+My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina.
+
+When my mom was 33, she had my older sister Marina. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, but that wasn't on purpose or intended.
+
+When my mom was 38, she had me. 
+
+Our generation of 4 were also born in Samarkand, all of us also Ashkenazi Jews. 
+
+My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
 
 <!--
 Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the warfront. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
@@ -54,7 +62,7 @@ My uncle Slava was the first one born of their line, then my mom Nélya, both in
 Put this in Synchronicities:
 ## Marina of Maracanda
 
-My older sister, Marina, is named after my grandpa's sister Maná, but my mom wanted a somewhat different feeling name. My mom didn't know this, and I didn't know this either until I literally just clicked this link that used to reference the ["world's most ancient city"](https://whc.unesco.org/en/list/603/) thing earlier, but Samarkand also happens to be named Maracanda. Nice!
+My older sister, Marina, is named after my grandpa's sister Maná, but my mom wanted a somewhat different feeling name. My mom didn't know this (no, she did), and I didn't know this either until I literally just clicked this link that used to reference the ["world's most ancient city"](https://whc.unesco.org/en/list/603/) thing earlier, but Samarkand also happens to be named Maracanda. Nice!
 -->
 
 ## Eczema at infancy <!--(*difficulty at the beginning*)-->
