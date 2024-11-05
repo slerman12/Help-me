@@ -97,6 +97,19 @@ That can't be a coincidence, so I leave this story here both for medical utility
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
+
+> ## Recap
+> 
+> 1. Aetna cut me off from Dupilumab about 8 months into my dependency without warning.
+> 2. The deliverer couldn't reach my doctor.
+> 3. I wasn't given the appointment with my doctor until months after. <!--`I wasn't given an appointment with my doctor until at least a month, maybe two months or more, after the missed injection.`-->
+> 4. The cessation initially caused Alopecia Areata.
+> 5. The drug was delivered after I lost my hair.
+> 6. The Alopecia Areata had developed into Alopecia Universalis.
+> 7. I now look like Gollum.
+> 
+> Other symptoms as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
+   
 <!--
 ## Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
 
@@ -131,17 +144,6 @@ My hair fell out while I rented a room in a *house on May St.*, a different plac
 
 - **University-hospital psychiatrists (two)**
 - **University outpatient doctor**
-
-## Recap
-
-1. Aetna cut me off from Dupilumab about 8 months into my dependency without warning.
-2. The deliverer couldn't reach my doctor.
-3. I wasn't given the appointment with my doctor until months after. <!--`I wasn't given an appointment with my doctor until at least a month, maybe two months or more, after the missed injection.`-->
-4. The cessation initially caused Alopecia Areata.
-5. The drug was delivered after I lost my hair.
-6. The Alopecia Areata had developed into Alopecia Universalis.
-7. I now look like Gollum, and other Gollum-esque symptoms (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
-<!--`I now look like Gollum`, and, though I didn't specify them yet here, there were `other "Gollum-esque" symptoms` as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).-->
 
 ## Electric razor 
 
