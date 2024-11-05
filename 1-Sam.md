@@ -30,7 +30,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
       - Sam and Marina of Samarkand and Maracanda
       - Eczema at infancy <!--(*difficulty at the beginning*)-->
-      - Induced hair loss <!--(*fellowship with man*)--><!-- - Premonitions--> <!-- - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)-->
+      - First induced hair loss <!--(*fellowship with man*)--><!-- - Premonitions--> <!-- - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)-->
     - Part 2 (University-hospital psychiatrists (two), University outpatient doctor) <!-- - Electric razor (more premonitions)-->
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
