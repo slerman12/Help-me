@@ -40,7 +40,7 @@ Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](h
 
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina.
 
-When my mom was 33, she had my older sister Marina. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, but that wasn't on purpose or intended.
+When my mom was 33, she had my older sister Marina. My sister was named after Maná, but my mom wanted a name that felt somewhat different. Samarkand happens to be also named Maracanda, but that naming wasn't on purpose or intended. My mom just liekd the name "Marina."
 
 When my mom was 38, she had me. 
 
