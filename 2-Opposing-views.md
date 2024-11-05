@@ -715,7 +715,7 @@ I saw him for about 4 or 5 months and don't remember his name, my cognition was 
 
 My cognition and perception deteriorated severely, and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), mouth dryness, and [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) added to the mounting evidence of damages happening not just to my psyche, but to my brain and body. I was in severe pain and agony. He responded with only authority, no reasoning, and no sensitivity. He didn't believe any of my arguments. He made no consideration to the possibility that I was right or he was wrong. His clinical authority meant more to him than my agony. His perpetuation and amplification of my suffering, attributed reasons (despite good arguments that I made, but which were too agitated for the foolish authority), and fears was afforded to him only by his disbelief and my drug-induced insecurity about weaning off by myself. The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. <!--I saw him for about 4 or 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.-->
 
-### Area exam (and all As)
+## Area exam (and all As)
 
 As I was working on my area exam, in the Spring 2019 semester, a big 60-ish page paper, amid the first months of the course of benzos, as my cognition was fading and world was gray, but not yet at my most severe, my uncle told me, "step by step." Each day I worked, a little at a time.
 
@@ -745,7 +745,7 @@ My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did.
 
 My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic and extremely hard to write (see the number of commits this book has, look through the commits to see how hard I struggled to express any of this, and other versions of this book in other repos and on my other GitHubs, maybe that I will make private, where some of this effort to describe and editing also took place), into writing.
 
-### Hell
+## Hell
 
 At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
 
@@ -759,7 +759,7 @@ These symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/cons
 
 I saw anecdotes [in this website](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports comparing the drugs elsewhere, e.g., probably abundant [here](https://www.reddit.com/r/benzorecovery/), though at the surface hard to believe).<!-- I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
 
-### Machinery<!--Wizard--> behind the curtain
+## Machinery<!--Wizard--> behind the curtain
 
 - The drug empire was disguised as the University of Rochester.
 - The drug dealers were disguised as the University of Rochester's psychiatrists.
@@ -779,7 +779,7 @@ Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-histor
 
 As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn from direct undeniable experience with them, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did, myself included), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
 
-### Suicide attempt
+## Suicide attempt
 
 <p align="center">
 <picture>
@@ -809,7 +809,7 @@ During this time, my mom found and my family took away the helium tank connected
 
 Sometime concurrently, I built the disease prognostication website. It was my idea that I had to argue for, build, and prove to convince them it was a good idea. Through brain damage, I built it, proved the concept to bosses and other researchers through hard work and an actual prototype, and presented it at a conference in DC where I had to take benzos to cognitively function. They took the idea after liking my version, they hired their own team, and they gave me no credit. <!--I believe, at this time though, Henry had aranged them as the source of my funding via the "Udall Center grant," "designed to support innovation and discovery in Parkinson's Disease."-->
 
-### <!--B-?-->Beginnings of recovery
+## <!--B-?-->Beginnings of recovery
 
 The next semesters, my classes were okay<!-- or coercive. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. B- was from a different systems professor, for which the story is quite bad. A fraction of a point, separated me from a B, even after I came into his office and he was ready to bump it up, he probably wasn't satisfied with the lack of flying colors I had and didn't believe me that my work would involve systems, and at the end of the meeting, decided to leave my grade at a B- for Operating Systems, and because I got a B-, in Operating Systems, like 0.1 of a point difference from B (since it would be rounded up), I had to retake a grad-level systems class, since PhD students are required to get a B or higher. A was Program Synthesis, the class I chose to meet the retake requirement, in which I educated Sree and the class about deep learning (AI) for program synthesis, the state of the art in that field (though at the time wasn't), got an A for his appreciation and my good teaching, and in all honesty, though I like Sree, did did more teaching than learning in this class I had to take by my earlier professor's bad faith. Systems is my least favorite field, but Sree's Parallel and Distributed Systems class, a different class, was the first and only systems class I ever liked-->. 
 
