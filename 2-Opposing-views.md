@@ -107,8 +107,8 @@ That can't be a coincidence, so I leave this story here both for medical utility
 > 5. The drug was delivered after I lost my hair.
 > 6. The Alopecia Areata had developed into Alopecia Universalis.
 > 7. I now look like Gollum.
-> 
-> Other symptoms as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
+
+Other symptoms as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
    
 <!--
 ## Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
