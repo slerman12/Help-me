@@ -391,7 +391,7 @@ We flew to NYC for one night, immigrating officially as Jewish refugees, half a 
 <!--Doesn’t look like it. Completely doesn’t look like it. Absolutely doesn’t look like it. My mom thinks Sin was mistaken. Maybe even a different street.-->
 <!--There are photos we have inside the yard behind the gate, and my mom drew a little schematic on a sticky note.-->
 
-7 semesters later, I [graduated](https://github.com/user-attachments/assets/2ea5fb2f-7c92-48e0-87aa-4df7d7eb168c) with two bachelors degrees, in [Computer Science and Mathematics](https://github.com/user-attachments/assets/1fe07066-f9ee-4e49-9016-60481d0d5e07). Thanks to work ethic and intelligence, that I inherited from my mom, and some luck, I got into a doctoral program.
+7 semesters later, I [graduated](https://github.com/user-attachments/assets/2ea5fb2f-7c92-48e0-87aa-4df7d7eb168c) with two bachelors degrees, in [Computer Science](https://github.com/user-attachments/assets/1fe07066-f9ee-4e49-9016-60481d0d5e07) [and Mathematics](https://github.com/user-attachments/assets/1fe07066-f9ee-4e49-9016-60481d0d5e07). Thanks to work ethic and intelligence, that I inherited from my mom, and some luck, I got into a doctoral program.
 
 Well, thanks also to my doctoral advisor, Henry.
 
