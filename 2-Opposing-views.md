@@ -34,7 +34,7 @@ Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](h
 
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina.
 
-My cousins, sister, and I were also all born in Samarkand, all of us also Ashkenazi Jews. 
+My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. 
 
 When my mom was 33, she had my older sister Marina. 
 
