@@ -1364,10 +1364,10 @@ Since being terminated, I came up with a diffraction model that is unified with 
 ## Niaz Abdolrahim (okay, some not-tragedy)
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/e4288579-4f0b-4ac3-a8f2-ddbbf728128d">
+<a href="https://github.com/user-attachments/assets/7ab614f6-9c42-49ce-8999-d97d117b61b8">
  <picture>
-   <source width="58%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9e2cf8f1-f20f-4506-9e53-c172dab68539">
-   <img width="58%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/e4288579-4f0b-4ac3-a8f2-ddbbf728128d">
+   <source width="58%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b33c2833-8213-4b8c-b8c3-6074f0f18489">
+   <img width="58%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/7ab614f6-9c42-49ce-8999-d97d117b61b8">
 </picture>
 </a>
 </p>
