@@ -48,7 +48,7 @@ Our generation of 4 were also born in Samarkand, all of us also Ashkenazi Jews.
 
 My name, "Sam" from Samarkand, happened in America, <!--accidentally, entirely--> by <!--coincidence, or--> chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
 
-"Sam and Marina from Samarkand and Maracanda" is entirely chance, not designed by any one person, but resultant from my mom naming us after relatives, and the American translations, with respect to my name, that later caused it to become "Sam."
+"Sam and Marina from Samarkand and Maracanda" is entirely chance, not designed by any one person, but resultant from my mom naming us after relatives (Maná and Siímyon), and the American translations, with respect to my name, that later caused it to become "Sam."
 
 <!--
 Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the warfront. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
