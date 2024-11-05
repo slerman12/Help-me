@@ -1244,7 +1244,7 @@ These traumas are inflicted on kids, in hospitals and schools alike. Schools, to
 
 YouTube, Quora, and Wikipedia are how I taught myself physics.
 
-Before that, I took an AP class in high school that I didn't score high enough on to get college credits for, and I took a community college class in the summer after my freshman year, that I got an A in, that my university, the University of Rochester, didn’t even matriculate, because it was a community college.
+Before that, I took an AP class in high school that I didn't score high enough on to get college credits for, and I took a community college class at MCC in the summer after my freshman year, that I got an A in, that my university, the University of Rochester, didn’t even matriculate, because it was a community college.
 
 ## Future hair regrowths
 
