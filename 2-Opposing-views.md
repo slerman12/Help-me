@@ -900,7 +900,7 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 
 Until Henry's retirement in 2022, which he didn't warn me about and came to me as a surprise from Chenliang, he stayed on as my PhD committee member.
 
-To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018 — MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT — was something that goes to my credit in any way. In other words, he hasn’t said “hey, you were right!” or anything to that effect, despite the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
+To this day, Henry hasn’t acknowledged that what I was arguing to him about, had implemented, and had innovated on in 2018 — MHDPA, the method that underpins transformers such as those used in AI models like ChatGPT — was worth crediting to me in any way. In other words, he hasn’t said “hey, you were right!” or anything to that effect, despite the huge foresight and work delivered to him by his own student before even 5 groups in the world had used the method, let alone every iPhone and AI research lab and AI foundation model, as has become the case now.
 
 > [!NOTE]
 > ### Giles
