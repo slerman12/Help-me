@@ -29,10 +29,10 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
   - [Opposing views](2-Opposing-views.md)
     - Part 1 (University-provided health insurance (Aetna), University-hospital doctor, University-owned drug deliverer)
       - Sam and Marina of Samarkand and Maracanda
-      - Eczema from infancy <!--(*difficulty at the beginning*)-->
+      - Eczema at infancy <!--(*difficulty at the beginning*)-->
       - Induced hair loss <!--(*fellowship with man*)--><!-- - Premonitions--> <!-- - Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)-->
+      - Foreboding electric razor
     - Part 2 (University-hospital psychiatrists (two), University outpatient doctor) <!-- - Electric razor (more premonitions)-->
-      - Electric razor
       - House on May St.
       - Psychiatry at the University of Rochester's Strong Hospital
       - Benzodiazepine mechanism of action
