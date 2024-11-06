@@ -152,6 +152,14 @@ My hair fell out while I rented a room in a *house on May St.*, a different plac
 (Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and would subtract time). If I’m doing my PhD, or writing this book, or racing with other AI researchers, or have physics work that’s important for everybody, or have medical work that’s important for everybody, or have governance stuff that’s important for everybody, when would I have time to sue? As I'm doing. All of that. [AI](#henry-kautz-limitations-of-western-philosophy), physics (for now linking [this](Philosophy/Velocity-Addition-Formula.md)), [governance](https://github.com/slerman12/Governance/blob/main/Does-Nature-Endorse%3F.md).
 -->
 
+## Foreboding electric razor 
+
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had and the only one I'd ever used through high school and college.
+
+In that 2017 summer, before I started the Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
+
+<!--Later that summer, after having started the Dupilumab, I started growing out my beard and mustache for the first time, in my life, entirely independently... while living in the House on May St...-->
+
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
 <picture>
@@ -166,14 +174,6 @@ My hair fell out while I rented a room in a *house on May St.*, a different plac
 
 - **University-hospital psychiatrists (two)**
 - **University outpatient doctor**
-
-## Electric razor 
-
-My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had and the only one I'd ever used through high school and college.
-
-In that 2017 summer, before I started the Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
-
-<!--Later that summer, after having started the Dupilumab, I started growing out my beard and mustache for the first time, in my life, entirely independently... while living in the House on May St...-->
 
 <!--
 ### Uncanny beard premonition
