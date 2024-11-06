@@ -17,7 +17,7 @@
 - **University-hospital doctor**
 - **University-owned drug deliverer**
 
-## Sam of<!--and Marina from of--> Samarkand <!--and Maracanda-->
+## Sam and Marina from <!--of--> Samarkand and Maracanda
 
 <!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the war front. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
@@ -46,7 +46,7 @@ When my grandpa turned 16, he officially became "Yury." He was originally named 
 <!--Her maiden name, from her dad, Leb, means, "son of Rabbi."-->
 <!--plant/factory-->
 
-Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](https://travelcocktail.org/samarkand/), is perhaps the oldest historical city in Central Asia and ["one of the most ancient cities in the world."](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) During ancient and medieval times, it was a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures). During the Soviet era, Russian was the dominant language, Uzbek the official language on documents. Islam is the dominant religion. Samarkand represents [a rich intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
+Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](https://travelcocktail.org/samarkand/), is perhaps the oldest historical city in Central Asia and ["one of the most ancient cities in the world."](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) During ancient and medieval times, it was a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures). During the Soviet era, Russian was the dominant language, Uzbek the official language on documents. Islam is the dominant religion. Samarkand represents [a rich intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city. Its ancient name, from the 4th centure BCE, is Maracanda.
 
 <!--
 . Since the 8th century, since also sharing religion with the Middle East, it [is an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
