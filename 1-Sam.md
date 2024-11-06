@@ -43,18 +43,18 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
         - Immigration
       - Charles Venuto
       - Henry Kautz <!--(Limitations of Western philosophy)-->
-      - Fall, 2018 semester, and the Dead Marshes
-      - C<!--Psychosis c-->risis
-      - Rochester General Hospital (RGH)
-        - Christmas Eve/Day, 2018
-        - Catatonia, or swallowing my tongue sensation
-        - Discharge from RGH
-        - The unsampled world at Clover St.
-      - University of Rochester's Strong Hospital
-        - Sarah
-        - Hudson
-        - Jeremiah
-      - Flying colors
+        - Fall, 2018 semester, and the Dead Marshes
+        - C<!--Psychosis c-->risis
+        - Rochester General Hospital (RGH)
+          - Christmas Eve/Day, 2018
+          - Catatonia, or swallowing my tongue sensation
+          - Discharge from RGH
+          - The unsampled world at Clover St.
+        - University of Rochester's Strong Hospital
+          - Sarah
+          - Hudson
+          - Jeremiah
+        - Flying colors
       - Area exam (and all As)
       - Hell
       - Machinery behind the curtain
