@@ -173,7 +173,7 @@ My grandpa gave me his electric razor when I was in high school. It was the firs
 
 In that 2017 summer, before I started the Dupilumab, my mom and I celebrated my graduation from college ("uni," in European-speak) by going to Europe, and my razor broke in the luggage.
 
-Later that summer, after having started the Dupilumab, I started growing out my beard and mustache for the first time, in my life, entirely independently... while living in the House on May St...
+<!--Later that summer, after having started the Dupilumab, I started growing out my beard and mustache for the first time, in my life, entirely independently... while living in the House on May St...-->
 
 <!--
 ### Uncanny beard premonition
