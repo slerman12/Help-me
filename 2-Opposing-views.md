@@ -447,7 +447,7 @@ Charles was very supportive as my advisor. He was left-handed. My grandpa was al
   
 The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
 
-## Fall, 2018 semester, and the Dead Marshes
+### Fall, 2018 semester, and the Dead Marshes
 
 - I first injected Dupilumab summer, 2017
 - My first semester in the PhD program began in Fall, 2017, with Henry as advisor
@@ -504,16 +504,16 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
-## <!--Psychosis c-->Crisis
+### <!--Psychosis c-->Crisis
 
 > [!NOTE]
 > This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
 
 An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
-## Rochester General Hospital (RGH)
+### Rochester General Hospital (RGH)
 
-### Christmas Eve/Day, 2018
+#### Christmas Eve/Day, 2018
 
 By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this, the unspecified <!--self-endangering--> ordeal, was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular. 
 
@@ -523,7 +523,7 @@ A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My
 
 The nurse remarked on some damages I had. 
 
-### Catatonia, or swallowing my tongue sensation
+#### Catatonia, or swallowing my tongue sensation
 
 <!--Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and i-->
 It was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen," although actually it was the physical inner sensation that moved through different parts of my body, that in the house on May St., through meditation, I had full control of, acutely — like look in a puppy's eyes — and that I actually brought down consciously, since I found, and still think was, that to be the ideal, more natural state of consciousness. 
@@ -536,7 +536,7 @@ She said she saw me smile. The doctor or attendant reassured her I was unconscio
 
 A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
 
-## Discharge from RGH
+### Discharge from RGH
 
 I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
 
@@ -550,7 +550,7 @@ Then RGH discharged me not much more than one week after admission.
 
 More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors at Strong Hospital didn't question the prior "mania" nor "catatonia" diagnoses, nor ask for any further details about that earlier hospitalization or the <!--preceding--> events.
 
-## The unsampled world at Clover St.
+### The unsampled world at Clover St.
 
 My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student.
 
@@ -578,9 +578,9 @@ My advisor, Henry Kautz, was the most successful man I knew, and his house, I <!
 
 As my sister must've thought, I'd be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
-## University of Rochester's Strong Hospital
+### University of Rochester's Strong Hospital
 
-### Sarah
+#### Sarah
 
 After the Christmas, 2018 trauma, I wasn't able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
 
@@ -683,7 +683,7 @@ I showed my MHDPA innovation paper to Sarah. She was amazed that she could read 
 
 Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
 
-### Hudson
+#### Hudson
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
@@ -712,7 +712,7 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > Jeremiah is a fellow hobbit, and brave.<!--He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he's cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.-->
 
-## Flying colors
+### Flying colors
 
 The first psychiatrist and I walked together in the hall and he thought I was bright. The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. Let's call this luminescence "flying colors," a term I'm borrowing from Henry. The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge. He reassured, I would be weaned off before discharge.
 
