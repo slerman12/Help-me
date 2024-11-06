@@ -17,7 +17,7 @@
 - **University-hospital doctor**
 - **University-owned drug deliverer**
 
-## Sam and Marina from<!--of--> Samarkand and Maracanda
+## Sam of<!--and Marina from of--> Samarkand <!--and Maracanda-->
 
 <!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the war front. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
@@ -54,8 +54,9 @@ Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](h
 
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. 
 
-Then, via my aunt Jenya, my older cousins Lena and Irina were born, respectively, Lena the older. My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. When my mom was 33, she had my older sister Marina. When my mom was 38, she had me. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. My mom liked the name "Marina." The ancient name of Samarkand, I recently learned, is "Maracanda." My name, "Sam" from Samarkand, happened in America, by chance, too. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon, who'd died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Due to multiple [translations](#immigration), from Uzbek to American, independent of any of us directly, I also go by, and my name is, "Sam."
+Then, via my aunt Jenya, my older cousins Lena and Irina were born, respectively, Lena the older. My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. When my mom was 33, she had my older sister Marina. When my mom was 38, she had me. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. My mom liked the name "Marina." My name, "Sam" of Samarkand, happened in America, by chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon, who'd died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. 
 
+<!--Due to multiple [translations](#immigration), from Uzbek to American, independent of any of us directly, I also go by, and my name is, "Sam."-->
 <!--Maracanda, the ancient name of Samarkand, is a coincidence.-->
 
 
