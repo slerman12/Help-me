@@ -55,13 +55,13 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
           - Hudson
           - Jeremiah
         - Flying colors
-      - Area exam (and all As)
-      - Hell
-      - Machinery behind the curtain
-      - Suicide attempt
-      - Beginnings of recovery
-      - Red light at Clover St. (advisor leaves)
-        - Buffy
+        - Area exam (and all As)
+        - Hell
+        - Machinery behind the curtain
+        - Suicide attempt
+        - Beginnings of recovery
+        - Red light at Clover St. (advisor leaves)
+          - Buffy
       - Chenliang Xu
       - Comedic Aside: Sexier moments during Chenliang advising:
         - Psyche hospitalization
