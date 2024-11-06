@@ -22,7 +22,7 @@
 <!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the war front. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
 -->
-<!--
+
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob, my grandpa's father who'd been drafted to fight in the war front.
 
 When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d gone by the less Jewish name "Yury," or the nickname "Yura" during the war, and that name is what he went by after the war. Nevertheless, he kept his last name, "Lerman," which is a German Jewish Ashkenazi last name.
@@ -32,25 +32,44 @@ My grandpa then went to a college in Kiev; my grandma, Asya, who my grandpa had 
 Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](https://travelcocktail.org/samarkand/), is one of the oldest historical cities in Central Asia and ["one of the most ancient cities in the world,"](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures), during ancient and medieval times. During the Soviet era, Russian was the dominant language, although Uzbek was the official language on documents. Islam is the dominant religion. This city represents [a rich intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
 
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally, my older sister Marina (Samarkand happens to be also named Maracanda, though my sister was named after Maná, but my mom wanted a name that felt somewhat different), and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam" from Samarkand, happened in America, by chance. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family.
--->
+
 <!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the war front. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
 -->
 <!--Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine.--> 
+<!--
 During the Nazi occupation of Ukraine, Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob, my grandpa's and Rosá's father who'd been drafted to fight in the war front.
+-->
 
-When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d had to go by the less Jewish name, "Yury," or nickname "Yura." That is what he went by after the war, and kept his last name, "Lerman," a German Jewish Ashkenazi last name<!--, that translates approximately to "teacher."-->. My grandpa then went to a college in Kiev. My grandma, Asya, a "Rabinovich," who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. <!--Her maiden name, from her dad, Leb, means, "son of Rabbi."--> They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing <!--plant/-->factory in Samarkand, Uzbekistan, where my grandpa had to work as a leather technology engineer. My grandma had emigrated with him and found a job there, too, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv, to Samarkand, in 1952.
+<!--
+When my grandpa turned 16, he officially became "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d had to go by the less Jewish name, "Yury," or nickname "Yura." That is what he went by after the war, and kept his last name, "Lerman," a German Jewish Ashkenazi last name
+-->
+<!--
+, that translates approximately to "teacher."
+-->
+<!--
+. My grandpa then went to a college in Kiev. My grandma, Asya, a "Rabinovich," who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. 
+-->
+<!--Her maiden name, from her dad, Leb, means, "son of Rabbi."--> 
+<!--They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing -->
+<!--plant/-->
+<!--
+factory in Samarkand, Uzbekistan, where my grandpa had to work as a leather technology engineer. My grandma had emigrated with him and found a job there, too, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv, to Samarkand, in 1952.
+-->
 
-Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](https://travelcocktail.org/samarkand/), is perhaps the oldest historical city in Central Asia and ["one of the most ancient cities in the world,"](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) having been a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures), during ancient and medieval times. During the Soviet era, Russian was the dominant language, Uzbek the official language on documents<!--, while Islam was the most common religion-->. Islam is the dominant religion. This city represents [a rich intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/).
+<!--
+Samarkand, an ancient city in Uzbekistan, with [modest/beautiful architecture](https://travelcocktail.org/samarkand/), is perhaps the oldest historical city in Central Asia and ["one of the most ancient cities in the world,"](https://www.advantour.com/uzbekistan/samarkand/history.htm#:~:text=Samarkand%20is%20one%20of%20the,goes%20back%20in%20remote%20days.) having been a significant junction of trade routes [between China and India](https://www.britannica.com/place/Samarkand-Uzbekistan), [as well as Europe](https://www.euronews.com/travel/2015/10/19/samarkand-s-silk-road-treasures), during ancient and medieval times. During the Soviet era, Russian was the dominant language, Uzbek the official language on documents. Islam is the dominant religion. This city represents [a rich intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/).
+-->
 
 <!--
 . Since the 8th century, since also sharing religion with the Middle East, it [is an intersection of history, trade, and culture](https://whc.unesco.org/en/list/603/) as a city.
 -->
 
+<!--
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. 
 
-Then, via my aunt Jenya, my older cousins Lena and Irina were born, respectively, Lena the older. My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. When my mom was 33, she had my older sister Marina. When my mom was 38, she had me. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. My <!--sister's naming with respect to "Maracanda" wasn't by my mom's purpose or intention. My -->mom liked the name "Marina." Maracanda, the ancient name of Samarkand, is a coincidence. My name, "Sam" from Samarkand, happened in America, by chance, too. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon, who'd died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Due to multiple [translations](#immigration), from Uzbek to American, independent of any of us directly, I also go by "Sam."
-
+Then, via my aunt Jenya, my older cousins Lena and Irina were born, respectively, Lena the older. My cousins, sister, and I were also all born in Samarkand, all Jewish Ashkenazi, also. When my mom was 33, she had my older sister Marina. When my mom was 38, she had me. My older sister was named after Maná, but my mom wanted a name that felt somewhat different. My mom liked the name "Marina." Maracanda, the ancient name of Samarkand, is a coincidence. My name, "Sam" from Samarkand, happened in America, by chance, too. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon, who'd died several years before I was born. "Siímyon" is my full name. "Syoma" is what I go by with my family. Due to multiple [translations](#immigration), from Uzbek to American, independent of any of us directly, I also go by "Sam."
+-->
 
 <!--
 Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the warfront. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
