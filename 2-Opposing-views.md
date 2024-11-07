@@ -1526,6 +1526,8 @@ The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of
 
 What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it is their responsibility to reply "no," or otherwise, no news is presumed good news, and missing that meeting, as I'd warned advance and had a more than good excuse, cannot be used as the sole termination reason. However, even if it is, that will later be addressed too, in accord with their own policy.
 
+Also, the meeting itself was based on a false premise.
+
 ## Charles Venuto
 
 <p align="center">
