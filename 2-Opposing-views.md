@@ -1537,7 +1537,7 @@ The truth is, these academics want to be seduced (e.g., "flying colors") or give
 ...especially on an inaction, employer "affirmative consent," given advance notice, isn't a thing.
 
 1. 3 week's advance notice from employee.
-2. With a *really* good provided excuse, due to one of the employers in the first place.
+2. With a *really* good provided excuse<!--, due to one of the employers in the first place-->.
 3. And as will be shown later, the employer violated the policy handbook that requires the action.
 4. And the action itself, in the employee's case, wasn't justified.
 
