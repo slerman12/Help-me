@@ -77,7 +77,7 @@ $$\mathcal{\text{a} \ Sam \ Lerman \ hobbit\text{'s} \ tale} \ \text{𖥸}$$
         - Harry
       - Future hair regrowths
           - Mobi
-      - Food
+      - Factory food
         - High quality food in the medical system
       - On the note of synchronicities
       - Intimacy healing
