@@ -1536,6 +1536,10 @@ The truth is, these academics want to be seduced (e.g., "flying colors"). They d
 
 ...especially on an inaction, employer "affirmative consent," given advance notice, isn't a thing.
 
+1. Advance notice.
+2. With a *really* good excuse.
+3. As will be shown later, they violated the same policy handbook.
+
 ## Charles Venuto
 
 <p align="center">
