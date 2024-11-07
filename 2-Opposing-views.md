@@ -1534,7 +1534,7 @@ For the most part, they ignored all of my emails where I explained everything to
 
 The truth is, these academics want to be seduced (e.g., "flying colors"). They don't care about research quality, and, as will be shown later, their own policy, by which they justify their employee mishandling.
 
-...especially on an inaction, employer "affirmative consent" isn't a thing.
+...especially on an inaction, employer "affirmative consent," given advance notice, isn't a thing.
 
 ## Charles Venuto
 
