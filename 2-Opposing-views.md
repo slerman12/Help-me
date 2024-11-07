@@ -1539,6 +1539,7 @@ The truth is, these academics want to be seduced (e.g., "flying colors"). They d
 1. Advance notice from employee.
 2. With a *really* good provided excuse.
 3. And as will be shown later, the employer violated the policy handbook that requires the action.
+4. And the action itself, in the employee's case, wasn't justified.
 
 ## Charles Venuto
 
