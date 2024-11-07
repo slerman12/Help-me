@@ -1524,11 +1524,15 @@ Tom Howard didn't make any tangible, explicit, or otherwise suggestions, nor did
 
 The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and Chenliang confirmed by email the desertion for the rest of the committee and Michael Scott on **August 10th, 2024**, the same day as my [early in-advance-of notice](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee and Michael Scott that, on account of that, I wouldn't attend the requirement (2), notified to them without their "no" prior to the **August 30, 2023** date, with Chenliang even specifying that I was ready to defend a thesis within the next few months.
 
+### Employer "Affirmative Consent" isn't a Thing
+
 What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it is their responsibility to reply "no," or otherwise, no news is presumed good news, and missing that meeting, as I'd warned advance and had a more than good excuse, cannot be used as the sole termination reason. However, even if it is, that will later be addressed too, in accord with their own policy.
 
 Also, the meeting itself was based on a false premise.
 
 For the most part, they ignored all of my emails where I explained everything to them, and want me to what—sit by their bedside and read everything word by word to them? 3 major emails, that all of them got. Others about my research specifically that my committee got. And, besides the occasional reply, e.g., Chris Kanan suggesting I implement an entire new RL systems algorithm before the next make-up (which I did), ignored, as if their employer relationship excuses them from having to have justification, or reveal that they consumed information that contradicted their judgements.
+
+The truth is, these employers want to be seduced<!-- (e.g., "flying colors")-->. They don't care about research quality.
 
 ## Charles Venuto
 
