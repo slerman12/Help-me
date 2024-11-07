@@ -902,7 +902,7 @@ Chenliang was younger than Henry, a good amount closer to my age than Henry's, a
 
 <!-- He got tenure in that time, and had his son in that time. -->
 
-Chenliang's real contribution was having GPUs, something I missed the deadline for while under Henry, as I had been given access to the NSF's for my honorable mention in the GRFP I applied to, but only if I made an account within a specified time window, right in the middle of my benzo withdrawal, that I missed.
+Chenliang's real contribution was having GPUs, something I missed the deadline for while under Henry, as I had been given access to the NSF's for my honorable mention in the GRFP I applied to, but only if I made an account within a specified time window, the deadline for which was right in the middle of my benzo withdrawal, that I missed.
 
 <!--
 Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, though he acquired it [a couple years after accepting me into his lab.]() -->
