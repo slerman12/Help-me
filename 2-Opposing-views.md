@@ -1524,6 +1524,8 @@ Tom Howard didn't make any tangible, explicit, or otherwise suggestions, nor did
 
 The actual six-month review was **May 5th, 2023**. Then Chenliang notified me of his desertion on **July 24th, 2023**, a day after I finished implementing the [novel reinforcement learning systems-based algorithm](https://github.com/AGI-init/UnifiedML/blob/ef14f7ff14b0b494d14bc8ee4bfe8925ad2a1fb3/ML/World/Replay.py#L566-L607) (and [here](https://github.com/slerman12/Builder/commit/e8b896c75bdeb388995af912a25108dfa16a92f9) is the specific commit), and Chenliang confirmed by email the desertion for the rest of the committee and Michael Scott on **August 10th, 2024**, the same day as my [early in-advance-of notice](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/Not-Enough-Carbs.md) to the committee and Michael Scott that, on account of that, I wouldn't attend the requirement (2), notified to them without their "no" prior to the **August 30, 2023** date, with Chenliang even specifying that I was ready to defend a thesis within the next few months.
 
+What do I mean by 'without their "no"'? I mean, I told them I wasn't going to make the make-up meeting, and gave them the reason why. They didn't reply affirmatively or negatively. As my employers, given one-month's advance notice, it is their responsibility to reply "no," or otherwise, no news is presumed good news.
+
 ## Charles Venuto
 
 <p align="center">
