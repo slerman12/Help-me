@@ -883,7 +883,7 @@ Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 
 >
 > Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I am adding this paragraph just to say that I am not cancelling Henry.
 
-Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
+Henry, who at the time was the Director for the Institute of Data Science at the University of Rochester, got an offer to be the Director of AI at the National Science Foundation, which is an extremely, extremely, extra-prestigious role. So he accepted, initially advised me while directing at the NSF in Washington, DC, after about half a year started planning to give up being my advisor, reassured me that his knowledge of deep learning specifically wasn't good enough anyway, and instructed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
 <!--
 Compared the threat of AI to thinking about “traffic regulation on Mars”
