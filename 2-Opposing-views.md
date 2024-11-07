@@ -1528,6 +1528,8 @@ What do I mean by 'without their "no"'? I mean, I told them I wasn't going to ma
 
 Also, the meeting itself was based on a false premise.
 
+For the most part, they ignored all of my emails where I explained everything to them, and want me to what—sit by their bedside and read everything word by word to them? 3 major emails, that all of them got. Others about my research specifically that my committee got. And, besides the occasional reply, e.g., Chris Kanan suggesting I implement an entire new RL systems algorithm before the next make-up (which I did), ignored, as if their employer relationship excuses them from having to have justification, or reveal that they consumed information that contradicted their judgements.
+
 ## Charles Venuto
 
 <p align="center">
