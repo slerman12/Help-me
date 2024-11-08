@@ -1554,6 +1554,10 @@ The truth is, these academics want to be seduced (e.g., "flying colors") or give
 3. And as will be shown later, the employer violated the policy handbook that requires the action.
 4. And the action itself, in the employee's case, wasn't justified. <!--(advisor writes in reply that student is ready to defend)-->
 
+### Real-Time RL Robotics
+
+In case the detail was missed, UnifiedML supported [real-time RL robotics](https://github.com/AGI-init/tributaries/blob/main/Examples/Sweeps/Bittle.py) before the idea gained popularity. Tom Howard, whose field is robotics, probably should've appreciated my six-month review even just for that.
+
 ## Charles Venuto
 
 <p align="center">
