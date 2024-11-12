@@ -23,6 +23,7 @@ Computer Science Department, University of Rochester</br>
 
 Subject line: **Re: [Grads] Supporting students**</br>
 To: **CS grad department students**</br>
+BCC: **Graduate Student Collective**, **Niaz Abdolrahim**, **Nick Vamivakas**, **Wendi Heinzelman**</br>
 From: **Sam Lerman**</br>
 
 Michael, can you clarify where in the PhD handbook it says that a student with two publications (one pending) may be dismissed, last-minute and without prior warning, for “not enough papers” in their 6th year? In the middle of a paper-review response, by the way. Pending, with positive reviews. And having had no begrudging or otherwise “tacit” negative relationship with their advisor. Purely on that reason: “not enough papers”.
