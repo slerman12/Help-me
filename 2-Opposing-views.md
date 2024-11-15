@@ -1282,7 +1282,15 @@ Before that, I took an AP class in high school that I didn't score high enough o
 
 Schools are coercive torture camps. They should exist to socialize kids, while humble themselves from the status of being educational to the status of being easily outdone by creators on the internet, whose educational material are more fun and uncoercive. This is a quiet truth that people may have a hard time realizing, as the tortures, on kids, continue.
 
+To do: Historical context, history of child labor. How practices today will be perceived in history.
+
 <!--I believe in autodidacticism via YouTube, Quora, and Wikipedia type apps and reconstructing schools as environments of peace and socialization.-->
+
+<!--
+I believe in autodidacticism via YouTube, Quora, and Wikipedia type apps and reconstructing schools as environments of peace and socialization. There is more than enough social incentive for kids to want to be more intelligent than other kids, or prepare themselves better for universities, which out of K-12 should not be grade-based or any metric, but that's where metrics can begin and universities for adults 21+ can exist that discriminate based on metrics.
+
+In the age of automation.
+-->
 
 ## Future hair regrowths
 
