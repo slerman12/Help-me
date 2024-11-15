@@ -1280,6 +1280,10 @@ YouTube, Quora, and Wikipedia are how I taught myself physics.
 
 Before that, I took an AP class in high school that I didn't score high enough on to get college credits for, and I took a community college class at Monroe Community College in the summer after my freshman year, that I got an A in, that my university, the University of Rochester, didn’t even matriculate, because it was a community college.
 
+I believe in autodidacticism via YouTube, Quora, and Wikipedia type apps and reconstructing schools as environments of peace and socialization.
+
+Schools are coercive torture camps. They should exist to socialize kids, while humble themselves from the status of being educational to the status of being easily outdone by creators on the internet, whose educational material are more fun and uncoercive. This is a quiet truth that people may have a hard time realizing, as the tortures, on kids, continue.
+
 ## Future hair regrowths
 
 My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually, as the "Paleo" component of my diet, by the modern less-strict "certified" standard, had more intensely included  high-carb "Paleo" snacks, such as those with dark cocoa, coconut, honey, and nut butter type ingredients, nor was my social life exactly resuscitated. 
