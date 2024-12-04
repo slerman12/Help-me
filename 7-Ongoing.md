@@ -239,3 +239,19 @@ The Alderman strikes his gavel against the ivory surface of his desk, but the ma
 In a thunder, the Alder Tree says:  $\mathfrak{\color{green}\text{\color{green}``Y}o{\color{green}u}'r{\color{green}e} \ \text{\color{green}w}r{\color{green}o}n{\color{green}g.}}\text{\color{green}''}$
 
 <p align='center'>𖥸</p>
+
+## Epilogue (Continued)
+
+Their alleged reason for terminating my status as an employee was that I violated <!--a policy in--> the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating <!--a policy in--> the PhD student handbook. Of course, whether I did, is still a question, since I notified the faculty in advance with good cause that I wouldn't attend the make-up review.
+
+#
+
+As of 12/04/2024, I have found page 15 removed from [their copy of the PhD student handbook](https://www.cs.rochester.edu/graduate/csgraduate-student-handbookrevformatoct24.pdf), and suspiciously page 12 is modified. I've [attached the copy of the PhD student handbook from before](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/2023-v2_4-25-23_phd-handbook.pdf) in this repo (one has to press the download button in order to open it), as well as saved the current version that skips page 15, from page 14 to page 16, that I'll [attach](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/csgraduate-student-handbookrevformatoct24-12-04-2024.pdf) in this repo as well. It's very odd, and almost extremely on the nose, that page 15 is ripped out, with even the numbering going from 14 to 16.
+
+(GitHub doesn't always display long PDFs. I have to press the download button to open).
+
+#### (3) PhD student handbook.
+
+“When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - [PhD student handbook, page 15](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/2023-v2_4-25-23_phd-handbook.pdf).
+
+I wasn't going to call for their termination, but if they have fabricated their own policy, then I call for their termination.
