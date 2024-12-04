@@ -240,9 +240,10 @@ In a thunder, the Alder Tree says:  $\mathfrak{\color{green}\text{\color{green}`
 
 <p align='center'>𖥸</p>
 
+<!--
 ## Epilogue (Continued)
 
-Their alleged reason for terminating my status as an employee was that I violated <!--a policy in--> the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating <!--a policy in--> the PhD student handbook. Of course, whether I did, is still a question, since I notified the faculty in advance with good cause that I wouldn't attend the make-up review.
+Their alleged reason for terminating my status as an employee was that I violated the PhD student handbook. Here is a proof, derived mathematically, that they have violated and are currently violating the PhD student handbook. Of course, whether I did, is still a question, since I notified the faculty in advance with good cause that I wouldn't attend the make-up review.
 
 #
 
@@ -255,3 +256,4 @@ As of 12/04/2024, I have found page 15 removed from [their copy of the PhD stude
 “When withdrawing support, the faculty will indicate to the student, in writing, what is necessary for reinstatement of support.” - [PhD student handbook, page 15](https://github.com/slerman12/BrokenWisdoms/blob/Ancillary/2023-v2_4-25-23_phd-handbook.pdf).
 
 I wasn't going to call for their termination, but if they have fabricated their own policy, then I call for their termination.
+-->
