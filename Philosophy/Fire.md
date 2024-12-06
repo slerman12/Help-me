@@ -43,3 +43,12 @@ It still reads like tragedy.
 Note: This is already independent from the conclusion that "Fire is usually water, especially in the majority of human existence and in particular on Earth."
 
 > Yes, but the Garden of Eden wants its fire back.
+
+"Yes, and I'm Saruman, building my Urak-hai army with 'false' fires," Webster dictionary says snobbishly.
+
+[All the armies of Rohan and the Ents rally to defeat isengard].
+
+"Wait, but why would Ents care about respecting fires as burning hydrocarbons, if they're made of hydrocarbons?" asks Merry about the Ents, the ancient living trees that walk and talk.
+
+"Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests."
+
