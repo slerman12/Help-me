@@ -39,5 +39,3 @@ Well, there are other kinds of fires, e.g., magnesium fires, that don't need wat
 In prehistoric times, fire on Earth was only observed from hydrocarbons, but yes.
 
 The manufactured fires, the industrial fires, the Urak-hai army fires are all part of the definition now, too.
-
-"Everything was one" sounds less catchy.
