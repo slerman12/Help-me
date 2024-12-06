@@ -56,4 +56,4 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 [Does anyone else hear candle "flame" as sounding more natural than candle "fire?"](https://www.google.com/search?client=safari&rls=en&q=difference+between+flame+and+fire&ie=UTF-8&oe=UTF-8)
 
-[^1]: No Ent bark were harmed in the making of this hydrogen ("pure-water, no CO2") fire, a clean, [renewable](https://energy.ec.europa.eu/topics/energy-systems-integration/hydrogen/renewable-hydrogen_en#:~:text=Renewable%20hydrogen%20is%20produced%20through,biological%20origin'%20(RFNBO).) energy source.
+[^1]: No Ent bark were harmed in the making of this hydrogen ("pure-water, no CO2") combustion, a clean, [renewable](https://energy.ec.europa.eu/topics/energy-systems-integration/hydrogen/renewable-hydrogen_en#:~:text=Renewable%20hydrogen%20is%20produced%20through,biological%20origin'%20(RFNBO).) energy source.
