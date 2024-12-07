@@ -52,7 +52,7 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the Ents, rarely chose Ent over tree for their fire. Those trees that they burned left carbon for Ents to breathe, not from Ent bark. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent. He burns all."
 
-> "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^3][^6]
+> "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
 
 [^2]: Magnesium fire produces a lot of pollution.
 [^3]: [the garden of eden](https://github.com/slerman12/BrokenWisdoms/blob/1a40b9eeba475368712def76444c3317418c318d/Philosophy/Fire.md), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds.”), emblazed
