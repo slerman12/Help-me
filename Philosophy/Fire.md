@@ -28,6 +28,10 @@ So fire is water? Yes, reconfigured-electron (let's call it "electriquey") water
 
 If water with a neutron added is called ["heavy water,"](https://en.wikipedia.org/wiki/Heavy_water) why isn't gaseous water with some reconfiguring electrons (the excess energy of which causes light to be emitted) a kind of water, with [or without](https://www.osha.gov/green-jobs/hydrogen/fire-explosion#:~:text=Hydrogen%20used%20in%20the%20fuel,a%20leak%20can%20be%20detected.) CO2 in the mix?[^5]
 
+Unlike fission, fusion<!-- (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water)-->, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. 
+
+That's, often, fire!
+<!--
 That’s fire! Or maybe the whole sum is fire, and "heavy water" should be renamed something else and only something else.
 
 Disclaimer: this is meant to be educational comedy.
@@ -53,9 +57,14 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the Ents, rarely chose Ent over tree for their fire. Those trees that they burned left carbon for Ents to breathe, not from Ent bark. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent. He burns all."
 
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
-
+-->
+<!--
 [^2]: Magnesium fire produces a lot of pollution.
 [^3]: [the garden of eden](https://github.com/slerman12/BrokenWisdoms/blob/1a40b9eeba475368712def76444c3317418c318d/Philosophy/Fire.md), [now grown to](https://translate.google.com/?sl=sa&tl=en&text=कालोऽस्मि%20लोकक्षयकृत्प्रवृद्धो&op=translate) the modern [time, the destroyer of worlds](https://scroll.in/article/1053670/now-i-am-become-death-the-destroyer-of-worlds-truth-and-lies-in-oppenheimers-gita-moment#:~:text=Verse%2011.32%20of%20the%20Gita,here%20to%20annihilate%20the%20worlds.”), emblazed
 [^4]: Unlike fission, fusion (the sun's fire, undergoing fusion rather than combustion, is quite often heavy water), and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. 
-[^5]: And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. <!--We are all flame.--><!-- And depending on the reference frame, those adjectives may widely vary.-->
+[^5]: And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. 
+-->
+<!--We are all flame.--><!-- And depending on the reference frame, those adjectives may widely vary.-->
+<!--
 [^6]: This is a reflection of how you start with an interesting premise, educate people a lot with it, and then at the end they forget to attribute the person and premise who and that taught and showed them all of those things, and only notice the original premise. But technically, the original premise is accurate. "The idea of saying 'everything is one' is counterintuitive to most people." and I think I just showed that pretty well, as well as following through on my "Therefore." Once all of the material is burned through, the teacher is just cooked meat.
+-->
