@@ -42,7 +42,7 @@ Disclaimer: this is meant to be educational comedy.
 It still reads like tragedy.
 -->
 
-If the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water, vis a vis its supply of hydrogen and oxygen, can break apart and <!--actually--> fuel the magnesium with more oxygen. 
+If the fire is hot enough, as in magnesium fires, then you need something really dry, that isn't water or CO2, like copper, to separate the reactants from the oxygen frenzying it. In that case, water, vis a vis its supply of hydrogen and oxygen, can break apart and <!--actually--> fuel the magnesium with more <!--that stolen--> oxygen. 
 
 Those work by igniting the magnesium with some other heat source, and the magnesium molecules breaking apart the way hydrocarbon molecules would, bonding with oxygen, and releasing a hailstorm of energy in the same way as that primal fire would.
 
@@ -79,6 +79,7 @@ That [heavy water cares](https://en.wikipedia.org/wiki/CANDU_reactor)! Smashing 
 Though in the creation of helium-4, it (<!--the neutron / stabilization-->caring hydrogen with its extra neutron stabilizing and participating in the reaction of reconfigured electrons, and maybe protons, that emit sunlight, photons, like flame) comes in handy in the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.), where instead of hydrocarbons splitting to produce water, hydrogen conjoin to produce helium and heavy hydrogen!
 
 Short of some oxygen, the sun is almost water!
+<!--With a make up of <1.5% oxygen, the sun is possibly sometimes water.-->
 
 combo-reconfiguration-of-bonding<sup>TM</sup>
 
