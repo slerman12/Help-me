@@ -435,10 +435,10 @@ Charles was very supportive as my advisor. He was left-handed. My grandpa was al
 <!-- > To do: Different image -->
 
 <p align="center">
-<a href="https://github.com/user-attachments/assets/200ee09c-9378-43d0-9673-e77238340d05">
+<a href="https://github.com/user-attachments/assets/89b39b2b-14d4-4a85-a0ae-3e9a3b11eeda">
  <picture>
-   <source width="77%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dde0bfec-52c1-464e-90ed-90274e910890">
-   <img width="77%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/200ee09c-9378-43d0-9673-e77238340d05">
+   <source width="77%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2c833150-a64d-40ce-827e-4d3b8d9413a3">
+   <img width="77%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/89b39b2b-14d4-4a85-a0ae-3e9a3b11eeda">
 </picture>
 </a>
 </p>
