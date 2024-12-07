@@ -72,6 +72,8 @@ And there is an argument to be made that we are all just adjectives on a finite 
 
 Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_reactor)![^3]
 
+Though in the creation of helium-4, it comes in handy as the [reconfiguration engine for our sun](https://energyeducation.ca/encyclopedia/Nuclear_fusion_in_the_Sun#:~:text=This%20resulting%20proton%2Dneutron%20pair,and%20are%20released%20as%20sunlight.)!
+
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
 -->
@@ -85,3 +87,4 @@ Careful with that [heavy water though](https://en.wikipedia.org/wiki/CANDU_react
 <!--"Candle wick fire" sounds perfectly fine though, because the wick is burning, the candle is lit with flame.-->
 
 [^6]: This is a reflection of how you start with an interesting premise, educate people a lot with it, and then at the end they forget to attribute the person and premise who and that taught and showed them all of those things, and only notice the original premise. But technically, the original premise is accurate. "The idea of saying 'everything is one' is counterintuitive to most people." and I think I just showed that pretty well, as well as following through on my "Therefore." Once all of the material is burned through, the teacher is just cooked meat.
+
