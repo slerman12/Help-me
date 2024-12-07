@@ -52,7 +52,7 @@ Note: This is already independent from the conclusion that "Fire is usually wate
 
 "Because," the Ent begins, slowly. "It was the ancients who took our branches, sometimes our bodies, yes. But Saruman has destroyed all the forests. The ancients held sacred the Ents, rarely chose Ent over tree for their fire. Those trees that they burned left carbon for Ents to breathe, not from Ent bark. But Saruman, has forsaken the Ents. He doesn't see hydrocarbon from Ent. He burns all."
 
-> "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning[^4][^3].
+> "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning[^3][^4].
 
 Unlike fission, fusion, and unrenewable energy sources, "fire" in the primitive sense of our ancestor-paleolithic days in nature, is, vaporized regular H20, with no-neutrons, water (enchanted) by the power of electrons. With residue and sustainable levels of CO2 that the trees can breathe. The sun's fire, undergoing fusion rather than combustion, is quite often heavy water.
 
