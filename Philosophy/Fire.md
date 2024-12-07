@@ -60,7 +60,7 @@ Yes, but the Garden of Eden wants its fire back.
 > "Got it," Saruman says. "Hydrocarbon is not Ent." And he proceeds with his burning.[^6]
 -->
 
-And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon. 
+And there is an argument to be made that we are all just adjectives on a finite number of elementary particles, or even just one ubiquitous one, e.g., photon, or flame. 
 
 <!--
 [^2]: Magnesium fire produces a lot of pollution.
