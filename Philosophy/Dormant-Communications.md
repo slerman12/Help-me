@@ -79,4 +79,4 @@ In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-m
 > But assuming everything gives us a path forward.
 > ### $\Huge &#8221;$
 
-I described that path with more specifics [here](Consciousness.md#cosmogenesis-myth).
+I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
