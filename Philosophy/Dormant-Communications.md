@@ -80,3 +80,13 @@ In logic, definitely no. [More elaboration here](Consciousness.md#cosmogenesis-m
 > ### $\Huge &#8221;$
 
 I described that path with some more specifics [here](Consciousness.md#cosmogenesis-myth).
+
+<!--
+### Logic
+
+In logic, one can’t assume “no assumption.” “No assumption” would also be an assumption. One can only assume the axioms that incur the least loss in generality. “Nothing” is not the lack of an axiom, but an axiom. “Everything” is not the lack of an axiom, but an axiom. Both are defined only in relation to each other, as opposites. One cannot exist without the other, no more than the backward direction can if there’s no forward direction. “Nothing” is distinct from empty space—it’s undefinable without an “everything” in reference to it.
+
+In fact, an assumption/axiom can be defined as "a loss in generality."
+-->
+
+> To do: Add something like this: I was an argumentative atheist, without two experiences atheists are most right, the first being an explanation for how it’s possible—but that’s not enough because billions of miles away there could be an alien planet of Amazon warriors; that doesn’t mean it’s true—and the experience of telepathy and synchronicities, the consciousness depth, no anxiety, transcendence I was experiencing in the House on May St. when I also realized, through my studies of artificial intelligence, not any religious person’s reasoning, how it’s possible. Religious people, like Job’s friends who argued with him and thought he was blaspheming, are more wrong because their justifications for their views are wrong. They bring injustice to just conclusions. Atheists have decisions based on all of physics to contend with and the observed consistency of that physics, gravity and electromagnetism not being really up for rational debate. A skeptic is useful for their ability to answer specifics, and justly
